@@ -1,0 +1,193 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-chno="1",ADN	
+
+https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="2",AE RADIO
+
+https://tls.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="3",ALEGRIA TV
+
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="4",ALTERNATIVO TV	
+
+https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="5",AM CANAL
+	
+https://v2.tustreaming.cl/amtv/live1/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="6",AMERICA TV
+
+https://stmv1.zcastbr.com/americatvchile/americatvchile/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="7",ANTOFAGASTA TV
+
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="8",ARAB TV
+
+https://5e36c064a2f6a.streamlock.net:1936/8614/8614/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="9",ARCATEL
+
+https://unlimited10-cl.dps.live/arcatel/arcatel.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="10",ATACAMA NOTICIAS TV
+
+https://stmv1.zcastbr.com/atacamanoticias/atacamanoticias/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="11",ATACAMA TV
+
+https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="12",BAJO CERO TV
+
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="13",BIOBIO TV
+
+https://unlimited1-cl-movistar.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="14",BUIN SOMOS TODOS
+
+https://bst.buin.cl/0.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="15",CAMARA DIPUTADOS
+
+https://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="16",CAMPO ABIERTO
+
+https://v2.tustreaming.cl/campoabierto/live1/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="17",CAMPUS TV
+
+https://unlimited6-cl.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="19",CANAL 2 DE SAN ANTONIO
+
+http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="19",CANAL 2 QUELLON
+
+https://unlimited1-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="20",CANAL 5 PTO MONTT
+
+https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="21",CANAL 57 MELIPILLA
+
+https://593b04c4c5670.streamlock.net:443/8148/8148/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: -1 tvg-chno="22",CANAL 74 TEVE
+
+https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="23",CANAL 9 BIOBIO TV
+
+https://unlimited10-cl.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="24",CANAL COSTA TV
+
+https://stmv1.zcastbr.com/dvjvonsho/dvjvonsho/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="25",CANAL ISB
+
+http://unlimited10-cl.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="26",CANAL LATINO 54
+
+http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="27",CANAL SUR PATOGONIA
+
+https://v2.tustreaming.cl/canalsurpatagonia/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="28",CANAL SURVISION ALERCE
+
+http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="29",CAPPISSIMA MULTIMEDIAL TV
+
+http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="30",30CAROLINA TV
+
+http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="31",CCP RADIO
+
+https://tls.cdnz.cl:443/ccpradio/ccpradio/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="32",CEAC TV
+
+https://videostreaming.cloudserverlatam.com:443/ceactv/ceactv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="33",CHIC MAGAZINE
+
+https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="34",CHILE CHANNEL
+
+https://v2.tustreaming.cl/chilechannel/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="35",CHILOE RED 25
+
+https://v2.tustreaming.cl/chiloered/live1/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="36",CHOCOLATE FM
+
+https://paneltv.online:1936/8106/8106/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="37",CLOUD SERVER KIDS
+
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: -1 tvg-chno="38",CLUB TV
+
+https://paneltv.online:1936/8030/8030/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF: -1 tvg-chno="39",CNN CHILE
+
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
