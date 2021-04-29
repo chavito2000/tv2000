@@ -3711,7 +3711,6 @@ https://blackghost.live/play/teleclub-426.php?c=la-universal-channel&f=.m3u8
 #EXTINF:-1   group-title="Lista 01",Warner
 https://blackghost.live/play/teleclub-426.php?c=la-warner-hd&f=.m3u8
 
-#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="XXX.m3u"
 #EXTINF:-1 tvg-id="90644" tvg-name="Miami TV" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="90645" tvg-name="Miami TV Jenny Live" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Miami TV Jenny Live
