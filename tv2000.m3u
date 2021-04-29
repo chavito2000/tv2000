@@ -3711,3 +3711,64 @@ https://blackghost.live/play/teleclub-426.php?c=la-universal-channel&f=.m3u8
 #EXTINF:-1   group-title="Lista 01",Warner
 https://blackghost.live/play/teleclub-426.php?c=la-warner-hd&f=.m3u8
 
+#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="XXX.m3u"
+#EXTINF:-1 tvg-id="90644" tvg-name="Miami TV" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="90645" tvg-name="Miami TV Jenny Live" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="93552" tvg-name="Jasmin TV" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="134787" tvg-name="Sex TV" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Sex TV
+https://59537faa0729a.streamlock.net/sextv/sextv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89227" tvg-name="Pornstar" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89096" tvg-name="Milf" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Milf
+http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89576" tvg-name="Teen" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Teen
+http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89556" tvg-name="Big Ass" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Big Ass
+http://cdn.adultiptv.net/bigass.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89553" tvg-name="Big Tits" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89552" tvg-name="Big Dick" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89573" tvg-name="Latina" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Latina
+http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89560" tvg-name="Russian" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Russian
+http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89581" tvg-name="Blonde" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Blonde
+http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89582" tvg-name="Brunette" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Brunette
+http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89572" tvg-name="Interracial" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Interracial
+http://cdn.adultiptv.net/interracial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89574" tvg-name="POV" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", POV
+http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89575" tvg-name="Blowjob" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89578" tvg-name="Threesome" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Threesome
+http://cdn.adultiptv.net/threesome.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89557" tvg-name="Hardcore" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89558" tvg-name="Anal" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Anal
+http://cdn.adultiptv.net/anal.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89585" tvg-name="Rough" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Rough
+http://cdn.adultiptv.net/rough.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89583" tvg-name="Gangbang" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89580" tvg-name="Live Cams" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Live Cams
+http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89559" tvg-name="Compilation" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Compilation
+http://cdn.adultiptv.net/compilation.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89554" tvg-name="Fetish" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Fetish
+http://cdn.adultiptv.net/fetish.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89577" tvg-name="Cuckold" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89579" tvg-name="Lesbian" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89584" tvg-name="Gay" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Gay
+http://cdn.adultiptv.net/gay.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="90640" tvg-name="Babestation24" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Babestation24
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="90656" tvg-name="Visit-X TV" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8?PlaylistM3UCL
