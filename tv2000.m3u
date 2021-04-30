@@ -1192,12 +1192,6 @@ http://201.182.242.194:8000/play/a04c/index.m3u8
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/6f/Lared.png" group-title = "NOTICIAS INTERNACIONALES", CHILE | LA ROJA
 http://201.182.242.194:8000/play/a049/index.m3u8
  
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title = "NOTICIAS INTERNACIONALES", CHILE | MEGA
-http://201.182.242.194:8000/play/a04b/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/c/c9/TVN_Chile_2020.png/revision/latest/scale-to-width-down/340?cb= 20201001122001 & path-prefix = es " group-title ="NOTICIAS INTERNACIONALES", CHILE | TVN
-http://201.182.242.194:8000/play/a04a/index.m3u8
- 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title = "NOTICIAS INTERNACIONALES", ES | 24H
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
  
@@ -2161,14 +2155,8 @@ http://201.182.242.194:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="NOTICIAS INTERNACIONALES", CHILE | 24 HORAS
 http://201.182.242.194:8000/play/a04p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="NOTICIAS INTERNACIONALES", CHILE | CHILEVISIÓN
-http://201.182.242.194:8000/play/a04c/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Lared.png" group-title="NOTICIAS INTERNACIONALES", CHILE | LA RED
 http://201.182.242.194:8000/play/a049/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="NOTICIAS INTERNACIONALES", CHILE | MEGA
-http://201.182.242.194:8000/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/TVN_Chile_2020.png/revision/latest/scale-to-width-down/340?cb=20201001122001&path-prefix=es" group-title="NOTICIAS INTERNACIONALES", CHILE | TVN
 http://201.182.242.194:8000/play/a04a/index.m3u8
