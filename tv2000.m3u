@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png" group-title = "Chile", Rewind TV * | CL
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="838" tvg-name="DBox Radio" tvg-logo="https://www.m3u.cl/logo/838_DBox_Radio.png" group-title = "Chile", DBox Radio * | CL
+#EXTINF:-1 tvg-id="838" tvg-name="DBox Radio" tvg-logo="https://www.m3u.cl/logo/838_DBox_Radio.png" group-title = "Radios", DBox Radio * | CL
 https://stmv1.voxtvhd.com.br/dbox/dbox/playlist.m3u8
 
 #EXTINF:-1 tvg-id="810" tvg-name="Club TV" tvg-logo="https://www.m3u.cl/logo/810_Club_TV.png" group-title = "Chile", Club TV * | CL
@@ -18,7 +18,7 @@ https://5eae379fb77bb.streamlock.net:443/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png" group-title = "Chile", Euro Indie Music * | GB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="764" tvg-name="Radio Under" tvg-logo="https://www.m3u.cl/logo/764_Radio_Under.png" group-title = "Chile", Radio Under * | CL
+#EXTINF:-1 tvg-id="764" tvg-name="Radio Under" tvg-logo="https://www.m3u.cl/logo/764_Radio_Under.png" group-title = "Radios", Radio Under * | CL
 https://visual.shoutca.st:1936/RadioUnder/RadioUnder/playlist.m3u8
 
 #EXTINF:-1 tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://www.m3u.cl/logo/13_Ruidos_TV.png" group-title = "Chile", Ruidos TV * | CL
@@ -487,7 +487,7 @@ http://v2.tustreaming.cl/clicktv/index.m3u8
 #EXTINF:-1 tvg-id="352" tvg-name="Belevision" tvg-logo="https://www.m3u.cl/logo/352_Belevision.png" group-title = "Chile", Belevision  | CL
 http://v2.tustreaming.cl/belevision/index.m3u8
 
-#EXTINF:-1 tvg-id="353" tvg-name="Canal 9 Bío Bí­o TV" tvg-logo="https://www.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png" group-title = "Chile", Canal 9 Bío Bí­o TV  | CL
+#EXTINF:-1 tvg-id="353" tvg-name="Canal 9 Bío Bí­o TV" tvg-logo="https://www.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png" group-title = "Chile", Canal 9 Bío Bío TV  | CL
 https://unlimited10-cl.dps.live/c9/c9.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="354" tvg-name="TV8" tvg-logo="https://www.m3u.cl/logo/354_TV8.png" group-title = "Chile", TV8  | CL
@@ -1318,16 +1318,16 @@ http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title = "CINES PREMIUM", HBO FAMILY
 http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
  
-#EXTINF: -1 tvg-logo = "https://images.mediotiempo.com/sCBrGhpGD0WoHv0OpqGNQjo_9i8=/958x596/uploads/media/2021/01/29/star-channel-mantendra-programacion-habitual.jpg" group-title = "CINES PREMIUM", ACCIÓN ESTRELLA
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title = "CINES PREMIUM", STAR ACTION
 http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
  
-#EXTINF: -1 tvg-logo = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a6a31bc-5276-4bd1-b25c-5d229990651c/deeo62i-b1f99547-1b3a-40d1-a504a-6e886? token = eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvN2E2YTMxYmMtNTI3Ni00YmQxLWIyNWMtNWQyMjk5OTA2NTFjXC9kZWVvNjJpLWIxZjk5NTQ3LTFiM2EtNDBkMS1hNTBhLTZlODZjNGY2MmE4Zi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.0tLCJvb0Bl5fs8YcyGPO1M3hxXHyJAUuMfvPAKbmZf0" grupo-title = "CINES PREMIUM", estrella de la serie
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/5/5d/Star_Series_2020.svg" grupo-title = "CINES PREMIUM", STAR SERIES
 http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
  
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title = "CINES PREMIUM" , DIVERSIÓN ESTRELLA
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title = "CINES PREMIUM" , STAR FUN
 http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
  
-#EXTINF: -1 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/340?cb= 20201202010915 & path-prefix = es "group-title ="CINES PREMIUM", PREMIER DE ORO
+#EXTINF: -1 tvg-logo = "https://www.skycostarica.com/Code/templates/images/channels-to/SKY-golden.png " group-title ="CINES PREMIUM", GOLD PREMIER
 http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
  
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title = "DOCUMENTALES", HGTV
@@ -1423,7 +1423,7 @@ http://45.170.40.2:8000/play/a00v
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title = "DEPORTES LATINOS", AR | PREMIUM DEPORTIVO FOX
 http://45.170.40.2:8000/play/a03g
  
-#EXTINF: -1 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/340?cb= 20160412195331 "group-title ="DEPORTES LATINOS", AR | FOX SPORTS 3 SUR
+#EXTINF: -1 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/340?cb= 20160412195331 " group-title ="DEPORTES LATINOS", AR | FOX SPORTS 3 SUR
 http://45.170.40.2:8000/play/a04u
  
 #EXTINF: -1 tvg-logo = "https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title = "DEPORTES LATINOS", AR | FOX SPORTS 2 SUR
@@ -1483,7 +1483,7 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w172622627.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="ARGENTINA", TELEMAX
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1811294487_b864000_sleng.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES", CINEAR 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES", CINE AR 
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
  
 #EXTINF:-1 tvg-logo="http://ems-media-prod.s3.amazonaws.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png" group-title="CINES PREMIUM", SYFY
@@ -1585,7 +1585,7 @@ https://panel.dattalive.com/8204/8204/chunklist_w2116861350.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w165756078.m3u8?WebM3UCL
  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3 CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LnXLukJpoCw/maxresdefault.jpg" group-title="CINE Y SERIES", MI TV TELEVISION CLASICA
@@ -2200,7 +2200,7 @@ https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w165695631
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="CINES PREMIUM", STAR LIFE
 http://balancer1.ottmex.com:8081/tecno/Foxlife.TecnoByte/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="CINES PREMIUM", CLARO CINEMA
+#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/claro-sa/claro-cinema-86830508.jpg" group-title="CINES PREMIUM", CLARO CINEMA
 http://201.182.242.194:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/1200px-Cinemax_new.png" group-title="CINES PREMIUM", CINEMAX
@@ -2209,7 +2209,7 @@ http://201.182.242.194:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINES PREMIUM", CINECANAL
 http://201.182.242.194:8000/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CINES PREMIUM", A3SERIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CINES PREMIUM", A3 SERIES
 http://23.237.29.98:2095/230Atres/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=nA1LBaqyKKIK3zIIjFbhPQ&expires=1616010609
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CINES PREMIUM", AXN
@@ -3041,8 +3041,8 @@ https://blackghost.live/play/teleclub-426.php?c=bitme&f=.m3u8
 #EXTINF:-1   group-title="Lista 01",Bloomberg
 https://blackghost.live/play/teleclub-426.php?c=bloomberg&f=.m3u8
 
-#EXTINF:-1   group-title="Lista 01",Boomerang
-https://blackghost.live/play/teleclub-426.php?c=la-boomerang-hd&f=.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" group-title="INFANTILES",Boomerang
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/hmnf8ejk.m3u8?s=p-FWy3DxAvNjD_LcNO2udA&e=1620101493
 
 #EXTINF:-1   group-title="Lista 01",Canal 5
 https://blackghost.live/play/teleclub-426.php?c=CANAL-5&f=.m3u8
@@ -3050,8 +3050,8 @@ https://blackghost.live/play/teleclub-426.php?c=CANAL-5&f=.m3u8
 #EXTINF:-1   group-title="Lista 01",Canal De Las Estrellas Hd
 https://blackghost.live/play/teleclub-426.php?c=Canal-de-las-Estrellas-HD&f=.m3u8
 
-#EXTINF:-1   group-title="Lista 01",Cartoon-Network
-https://blackghost.live/play/teleclub-426.php?c=la-cartoon-network-hd&f=.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="INFANTILES",Cartoon-Network
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/1feji.m3u8?s=9JkExUtK2k0LUV3tEVQaCA&e=1620102337
 
 #EXTINF:-1   group-title="Lista 01",Cinemax
 https://blackghost.live/play/teleclub-426.php?c=la-cinemax&f=.m3u8
@@ -3086,20 +3086,20 @@ https://blackghost.live/play/teleclub-426.php?c=la-discovery-tlc&f=.m3u8
 #EXTINF:-1   group-title="Lista 01",Discovery-World
 https://blackghost.live/play/teleclub-426.php?c=DISCOVERY-WORLD-HD&f=.m3u8
 
-#EXTINF:-1   group-title="Lista 01",Disney-Channel
-https://blackghost.live/play/teleclub-426.php?c=la-disney-channel-hd&f=.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES",Disney-Channel
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/96859.m3u8?s=OzIRYrIRiDa0jc-vQd1MVg&e=1620101970
 
-#EXTINF:-1   group-title="Lista 01",Disney-Junior
-https://blackghost.live/play/teleclub-426.php?c=la-disney-junior&f=.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="INFANTILES",Disney-Junior
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/inkizfn6wve8oc.m3u8?s=JUqL-u8VBxSYWl0pEnCHbw&e=1620101699
 
-#EXTINF:-1   group-title="Lista 01",Disney-Xd
-https://blackghost.live/play/teleclub-426.php?c=la-disney-xd&f=.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="INFANTILES",Disney-Xd
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/12dyavowb6wnxh3.m3u8?s=3mcg--GGbKTXIETZZ_sWKA&e=1620102119
 
 #EXTINF:-1   group-title="Lista 01",E-Entertainment
 https://blackghost.live/play/teleclub-426.php?c=la-e-entertainment-hd&f=.m3u8
 
-#EXTINF:-1   group-title="Lista 01",El-Gourmet
-https://blackghost.live/play/teleclub-426.php?c=la-el-gourmet&f=.m3u8
+#EXTINF:-1   tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="CANALES PREMIUM",El-Gourmet
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/o040wr8q.m3u8?s=EMUYF-6N4USzMdJt2ZloOg&e=1620101163
 
 #EXTINF:-1   group-title="Lista 01",Food-Network
 https://blackghost.live/play/teleclub-426.php?c=la-food-network-hd&f=.m3u8
