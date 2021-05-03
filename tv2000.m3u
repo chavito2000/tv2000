@@ -1372,7 +1372,8 @@ http://209.91.213.10:8099/play/a02h
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title = "DEPORTES LATINOS" , MX | TUDN
 http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
  
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title = "DEPORTES LATINOS" , MX | TUDN http://38.18.238.42:2095/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title = "DEPORTES LATINOS" , MX | TUDN 
+http://38.18.238.42:2095/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
  
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title = "DEPORTES LATINOS", CO | ESPN 3 SUR ANDINA
 http://200.54.19.131:8500/play/a0gi/index.m3u8
@@ -2468,16 +2469,16 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/20-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Golden_Edge_LA_%282020%29.png" group-title="CINES PREMIUM", GOLDEN EDGE
-http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/32637.ts
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/lnxn10nmtnl5.m3u8?s=PMCoWgMN2F4c548i9s5iig&e=1620089025
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="CINES PREMIUM", GOLDEN PLUS
-http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/16548.ts
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/daw8b.m3u8?s=CsoqdqcPFERIU95IejZZmQ&e=1620089376
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png" group-title="CINES PREMIUM", FXM
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FXM/20-hls/live-media.m3u8
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/jpizlg1osqocv.m3u8?s=in7XjQ1jMl_-IqGJsTHgWw&e=1620089652
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="CINES PREMIUM", FX
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/20-hls/live-media.m3u8
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/3cuvpp5n.m3u8?s=RMyjcHbbEuIzdctAYoTJXg&e=1620089738
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="DOCUMENTALES", TEC TV
 https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
