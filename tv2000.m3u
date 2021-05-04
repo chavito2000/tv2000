@@ -3042,7 +3042,7 @@ https://blackghost.live/play/teleclub-426.php?c=bitme&f=.m3u8
 https://blackghost.live/play/teleclub-426.php?c=bloomberg&f=.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" group-title="INFANTILES",Boomerang
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/hmnf8ejk.m3u8?s=p-FWy3DxAvNjD_LcNO2udA&e=1620101493
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/175271.m3u8
 
 #EXTINF:-1   group-title="Lista 01",Canal 5
 https://blackghost.live/play/teleclub-426.php?c=CANAL-5&f=.m3u8
@@ -3051,7 +3051,7 @@ https://blackghost.live/play/teleclub-426.php?c=CANAL-5&f=.m3u8
 https://blackghost.live/play/teleclub-426.php?c=Canal-de-las-Estrellas-HD&f=.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="INFANTILES",Cartoon-Network
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/1feji.m3u8?s=9JkExUtK2k0LUV3tEVQaCA&e=1620102337
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/175285.m3u8
 
 #EXTINF:-1   group-title="Lista 01",Cinemax
 https://blackghost.live/play/teleclub-426.php?c=la-cinemax&f=.m3u8
@@ -3087,19 +3087,19 @@ https://blackghost.live/play/teleclub-426.php?c=la-discovery-tlc&f=.m3u8
 https://blackghost.live/play/teleclub-426.php?c=DISCOVERY-WORLD-HD&f=.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES",Disney-Channel
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/96859.m3u8?s=OzIRYrIRiDa0jc-vQd1MVg&e=1620101970
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/176456.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="INFANTILES",Disney-Junior
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/inkizfn6wve8oc.m3u8?s=JUqL-u8VBxSYWl0pEnCHbw&e=1620101699
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/176458.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="INFANTILES",Disney-Xd
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/12dyavowb6wnxh3.m3u8?s=3mcg--GGbKTXIETZZ_sWKA&e=1620102119
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/176460.m3u8
 
 #EXTINF:-1   group-title="Lista 01",E-Entertainment
 https://blackghost.live/play/teleclub-426.php?c=la-e-entertainment-hd&f=.m3u8
 
-#EXTINF:-1   tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="CANALES PREMIUM",El-Gourmet
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/o040wr8q.m3u8?s=EMUYF-6N4USzMdJt2ZloOg&e=1620101163
+#EXTINF:-1   tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="CANALES PREMIUM", El Gourmet Hd
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164928.m3u8
 
 #EXTINF:-1   group-title="Lista 01",Food-Network
 https://blackghost.live/play/teleclub-426.php?c=la-food-network-hd&f=.m3u8
@@ -3197,77 +3197,197 @@ https://blackghost.live/play/teleclub-426.php?c=la-universal-channel&f=.m3u8
 #EXTINF:-1   group-title="Lista 01",Warner
 https://blackghost.live/play/teleclub-426.php?c=la-warner-hd&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1,XXX: Alba XXX 1
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156857.m3u8
+#EXTINF:-1,XXX: Alba XXX 2
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156858.m3u8
+#EXTINF:-1,XXX: Alba XXX 3
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156859.m3u8
+#EXTINF:-1,XXX: Alba XXX 4
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156860.m3u8
+#EXTINF:-1,XXX: Alba XXX 5
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156861.m3u8
+#EXTINF:-1,XXX: Alba XXX 6
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156862.m3u8
+#EXTINF:-1,XXX: babestv
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156863.m3u8
+#EXTINF:-1,XXX: BALKAN EROTIC
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156864.m3u8
+#EXTINF:-1,XXX: BARELY LEGAL
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156865.m3u8
+#EXTINF:-1,XXX: BEATE UHSE TV
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156866.m3u8
+#EXTINF:-1,XXX: BLUE HUSTLER
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156867.m3u8
+#EXTINF:-1,XXX: BRAZZERS TV EUROPE
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156868.m3u8
+#EXTINF:-1,XXX: DORCEL FHD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156871.m3u8
+#EXTINF:-1,XXX: DORCEL XXX FHD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156872.m3u8
+#EXTINF:-1,XXX: DUSK!
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156873.m3u8
+#EXTINF:-1,XXX: ERO X FHD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156874.m3u8
+#EXTINF:-1,XXX: ERO XXX FHD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156875.m3u8
+#EXTINF:-1,XXX: EROTIC
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156876.m3u8
+#EXTINF:-1,XXX: erotic 2
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156877.m3u8
+#EXTINF:-1,XXX: erotic 3
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156878.m3u8
+#EXTINF:-1,XXX: erotic 4
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156879.m3u8
+#EXTINF:-1,XXX: erotic 5
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156880.m3u8
+#EXTINF:-1,XXX: erotic 6
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156881.m3u8
+#EXTINF:-1,XXX: erotic 7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156882.m3u8
+#EXTINF:-1,XXX: erotic 8
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156883.m3u8
+#EXTINF:-1,XXX: HOT
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156885.m3u8
+#EXTINF:-1,XXX: HUSTLER HD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156886.m3u8
+#EXTINF:-1,XXX: JASMIN.TV
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156887.m3u8
+#EXTINF:-1,XXX: MIAMI TV
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156890.m3u8
+#EXTINF:-1,XXX: MIAMI TV LATINO
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156891.m3u8
+#EXTINF:-1,XXX: NUART TV
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156893.m3u8
+#EXTINF:-1,XXX: PASSIE XXX HD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156895.m3u8
+#EXTINF:-1,XXX: PASSION XXX HD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156896.m3u8
+#EXTINF:-1,XXX: PENTHOUSE GOLD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156897.m3u8
+#EXTINF:-1,XXX: PENTHOUSE QUICKIES
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156898.m3u8
+#EXTINF:-1,XXX: PINKOCLUB
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156899.m3u8
+#EXTINF:-1,XXX: PLAYBOY EUROPE
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156900.m3u8
+#EXTINF:-1,XXX: PLAYBOY HD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156901.m3u8
+#EXTINF:-1,XXX: PRIVATE
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156902.m3u8
+#EXTINF:-1,XXX: REDLIGHT FHD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156904.m3u8
+#EXTINF:-1,XXX: SEXTREME
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156906.m3u8
+#EXTINF:-1,XXX: SHALUN TV
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156908.m3u8
+#EXTINF:-1,XXX: SIRINA
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156909.m3u8
+#EXTINF:-1,XXX: SUPERONE HD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156910.m3u8
+#EXTINF:-1,XXX: VIVID RED HD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156911.m3u8
+#EXTINF:-1,XXX: VIVID TV
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156912.m3u8
+#EXTINF:-1,XXX: XY MAX
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156913.m3u8
+#EXTINF:-1,XXX: XY MIX
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/156914.m3u8
+#EXTINF:-1,-DOUBLE STUFFED- - GIRLS GETTING DOUBLE PENETRATED & CUM HARD COMPILATION - ALL GIRLS LABELED! - XNXX.COM
+http://feliz2021.serveftp.net:8000/movie/EDUARDO_PATRI/LIBRE/234092.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",MILF
-http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1,LA: Dora la Exploradora 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164906.m3u8
+#EXTINF:-1,LA: Dora y sus Amigos en la Ciudad 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164907.m3u8
+#EXTINF:-1,LA: Dragon Ball (Vers Extendida) 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164908.m3u8
+#EXTINF:-1,LA: Dragon Ball GT 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164909.m3u8
+#EXTINF:-1,LA: Dragon Ball Z Cell 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164910.m3u8
+#EXTINF:-1,LA: Dragon Ball Z Freezer 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164911.m3u8
+#EXTINF:-1,LA: Dragon Ball Z Los Saiyajin 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164912.m3u8
+#EXTINF:-1,LA: Dragon Ball Z Majin Boo 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164913.m3u8
+#EXTINF:-1,LA: Dragones de Berck 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164914.m3u8
+#EXTINF:-1,LA: E! HD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164915.m3u8
+#EXTINF:-1,LA E! HD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164916.m3u8
+#EXTINF:-1,LA: EC DIRECTV SPORT
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164917.m3u8
+#EXTINF:-1,LA: El Agente Oso 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164918.m3u8
+#EXTINF:-1,LA: El Auto Fantastico (2008) 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164919.m3u8
+#EXTINF:-1,LA: El Auto Fantastico 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164920.m3u8
+#EXTINF:-1,LA: El Bebe Jefazo Vuelta al Curro 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164921.m3u8
+#EXTINF:-1,LA: El Chapulin Colorado 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164922.m3u8
+#EXTINF:-1,LA: EL CHAVO DEL 8 24/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164923.m3u8
+#EXTINF:-1,LA: El Chavo del 8 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164924.m3u8
+#EXTINF:-1,LA: El Chavo del 8 Serie Animada 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164925.m3u8
+#EXTINF:-1,LA: El Gallo Claudio 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/164926.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Big Dick" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1,LA: Inspector Gadget 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165079.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Big Tits" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Big Tits
-http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1,LA: La Pantera Rosa 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165092.m3u8
+#EXTINF:-1,LA: La Pequeña Lulu 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165093.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Fetish" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Pornstar" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Big Ass" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Interracial" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Latina
-http://cdn.adultiptv.net/latina.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="POV" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",POV
-http://cdn.adultiptv.net/pov.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Teen
-http://cdn.adultiptv.net/teen.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Hardcore" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Cuckold" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Threesome" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Russian" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Russian
-http://cdn.adultiptv.net/russian.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Rough" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Rough
-http://cdn.adultiptv.net/rough.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Gangbang" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Anal
-http://cdn.adultiptv.net/anal.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Compilation" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Brunette" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Blonde" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Gay" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Gay
-http://cdn.adultiptv.net/gay.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2013/10/tv2000.png" group-title="XXX",Asian
-http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1,LA: Lo Que Callamos Las Mujeres 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165110.m3u8
+#EXTINF:-1,LA: Los 3 Chiflados 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165111.m3u8
+#EXTINF:-1,LA: Los 7 Pecados Capitales 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165112.m3u8
+#EXTINF:-1,LA: Los Años Maravillosos 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165113.m3u8
+#EXTINF:-1,LA: Los Castores Cascarrabias 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165114.m3u8
+#EXTINF:-1,LA: Los Gatos Samurai 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165115.m3u8
+#EXTINF:-1,LA: Los Magnificos Temp 1 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165116.m3u8
+#EXTINF:-1,LA: Los Magnificos Temp 2 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165117.m3u8
+#EXTINF:-1,LA: Los Muppet Babys 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165118.m3u8
+#EXTINF:-1,LA: Los Osos Gummi 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165119.m3u8
+#EXTINF:-1,LA: Los Padrinos Magicos 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165120.m3u8
+#EXTINF:-1,LA: Los Picapiedras (Pequeños) 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165121.m3u8
+#EXTINF:-1,LA: Los Picapiedras 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165122.m3u8
+#EXTINF:-1,LA: Los Pitufos 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165123.m3u8
+#EXTINF:-1,LA: Los Simpsons FHD 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165124.m3u8
+#EXTINF:-1,LA: Los Simpsons Noche de Brujas 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165125.m3u8
+#EXTINF:-1,LA: Los Simpsons Temp 1-5 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165126.m3u8
+#EXTINF:-1,LA: Los Supersonicos 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165127.m3u8
+#EXTINF:-1,LA: Los Vengadores (Unidos) 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165128.m3u8
+#EXTINF:-1,LA: Love Nature HD
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165129.m3u8
+#EXTINF:-1,LA: MacGiver (2016) Temp 1 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165130.m3u8
+#EXTINF:-1,LA: MacGiver (2016) Temp 2 27/7
+http://feliz2021.serveftp.net:8000/live/EDUARDO_PATRI/LIBRE/165131.m3u8
