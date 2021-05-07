@@ -430,16 +430,16 @@ https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
 #EXTINF:-1 tvg-id="337" tvg-name="Buin Somos Todos" tvg-logo="https://www.m3u.cl/logo/337_Buin_Somos_Todos.png" group-title = "Chile", Buin Somos Todos  | CL
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="338" tvg-name="Canal 57 Melipilla" tvg-logo="https://www.m3u.cl/logo/338_Canal_57_Melipilla.png", Canal 57 Melipilla  | CL
+#EXTINF:-1 tvg-id="338" tvg-name="Canal 57 Melipilla" tvg-logo="https://www.m3u.cl/logo/338_Canal_57_Melipilla.png" group-title = "Chile", Canal 57 Melipilla  | CL
 https://593b04c4c5670.streamlock.net:443/8148/8148/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="339" tvg-name="GTV" tvg-logo="https://www.m3u.cl/logo/339_GTV.png", GTV  | CL
+#EXTINF:-1 tvg-id="339" tvg-name="GTV" tvg-logo="https://www.m3u.cl/logo/339_GTV.png" group-title = "Chile", GTV  | CL
 http://play.streaminghd.cl/fabian591/fabian591/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="340" tvg-name="TVO San Vicente" tvg-logo="https://www.m3u.cl/logo/340_TVO_San_Vicente.png", TVO San Vicente  | CL
+#EXTINF:-1 tvg-id="340" tvg-name="TVO San Vicente" tvg-logo="https://www.m3u.cl/logo/340_TVO_San_Vicente.png" group-title = "Chile", TVO San Vicente  | CL
 http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="341" tvg-name="Sextavision" tvg-logo="https://www.m3u.cl/logo/341_Sextavision.png", Sextavision  | CL
+#EXTINF:-1 tvg-id="341" tvg-name="Sextavision" tvg-logo="https://www.m3u.cl/logo/341_Sextavision.png" group-title = "Chile", Sextavision  | CL
 https://5eae379fb77bb.streamlock.net:443/8042/8042/playlist.m3u8
 
 #EXTINF:-1 tvg-id="463" tvg-name="Ekiz TV" tvg-logo="https://www.m3u.cl/logo/463_Ekiz_TV.jpg" group-title = "Chile", Ekiz TV  | CL
@@ -978,62 +978,10 @@ http://200.54.19.131:8500/play/a0jm/index.m3u8
 #EXTINF: -1 tvg-logo = "https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title = "NOTICIAS INTERNACIONALES", CO | SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
  
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title = "NOTICIAS INTERNACIONALES" , BR | CNN BRASIL
-https://origin-02.nxplay.com.br/CNN_Brazil_HD_NX/tracks-v1a1a2m2/mono.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyXKjAAImaBfiJJKnyka3KpWWeNLBISqmIag&usqp=CAU" group-title = "NOTICIAS INTERNACIONALES", BR | NOTICIAS DE BANDA
-https://nxplay-srv1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
- 
-#EXTINF: -1 tvg-logo = "https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title = "DEPORTES LATINOS", ECU | EL CANAL DEL FUTBOL
-http://200.54.19.131:8500/play/a0dm/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title = "DEPORTES LATINOS" , ECU | GOLTV ECUADOR
-http://200.54.19.131:8500/play/a0kr/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/d/da/TNT_Sports_3_2021.png/revision/latest/scale-to-width-down/340?cb= 20210117183604 & path-prefix = es "group-title ="DEPORTES LATINOS", CHILE | DEPORTES TNT 3
-http://tv5full.xyz:25461/vitoko/Vitoking/24358
- 
-#EXTINF: -1 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest/scale-to-width-down/340?cb= 20210117042357 "group-title ="DEPORTES LATINOS", CHILE | DEPORTES TNT 2
-http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/41589
- 
-#EXTINF: -1 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest/scale-to-width-down/340?cb= 20210117042357 "group-title ="DEPORTES LATINOS", CHILE | DEPORTES TNT
-http://200.95.184.42:8000/play/cdfhd
- 
-#EXTINF: -1 tvg-logo = "http://tv.wurtlitzer.info/imagenes/canales/deportes/cdopremium.png" group-title = "DEPORTES LATINOS", CHILE | CDO PREMIUM
-http://200.54.19.131:8500/play/a0gh/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg/245px-2013-09-04_JJDDNN_en_directo_a_travesjpg_de_CDO title = "DEPORTES LATINOS", CHILE | CDO BÁSICO
-http://200.54.19.131:8500/play/a0gg/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://yt3.ggpht.com/ytc/AAUvwnh4Xoyskq-XbqzphvBrsEpkoscRnlOq-CDUiz5inw=s900-ck-c0x00ffffff-no-rj" group-title = "DEPORTES LATINOS" DEPORTES TNT
-http://45.170.40.2:8000/play/a02d
- 
-#EXTINF: -1 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/ 340? Cb = 20200417023402 & path-prefix = es "group-title ="DEPORTES LATINOS", PERÚ | GOLPERÚ
-http://200.54.19.131:8500/play/a0k9
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title = "DEPORTES LATINOS" , PERÚ | DEPORTES MOVISTAR
-http://200.54.19.131:8500/play/a0ee/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/0/09/Logotipo_da_TV_Globo_Internacional.png" group-title = "DEPORTES LATINOS", BR | GLOBO RS
-http://177.53.64.15:8000/play/a002/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/0/09/Logotipo_da_TV_Globo_Internacional.png" group-title = "DEPORTES LATINOS", BR | GLOBO RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-gith restream / iptv-channels
- 
+  
 #EXTINF: -1 tvg-logo = "https://i.pinimg.com/originals/6e/c3/a3/6ec3a3727705163c9ea59099c7062695.png" group-title = "DEPORTES LATINOS", BR | TODOS LOS DEPORTES HD
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
  
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title = "DEPORTES LATINOS", BR | BANDA DEPORTIVA HD
-http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title = "DEPORTES LATINOS" , GOLTV LATINOAMÉRICA
-http://201.182.242.194:8000/play/a050/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title = "DEPORTES LATINOS", Estados Unidos | BEIN SPORTS Ñ HD
-http://208.88.246.11:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title = "DEPORTES LATINOS", Estados Unidos | BEIN SPORTS Ñ SD
-http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
  
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title = "DEPORTES LATINOS", BR | DEPORTES TNT 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -1071,35 +1019,6 @@ http://187.95.149.94:8000/play/a018/index.m3u8
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title = "DEPORTES LATINOS", BR | CLUBES DE ESTRENO
 http://stream20gbps.ml/CFSPLAY/lhSoXwXt9O/167
  
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title = "DEPORTES LATINOS", BR | ESTRENO 2
-http://stream20gbps.ml/CFSPLAY/lhSoXwXt9O/168
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title = "DEPORTES LATINOS", BR | ESTRENO 3
-http://stream20gbps.ml/CFSPLAY/lhSoXwXt9O/169
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title = "DEPORTES LATINOS", BR | ESTRENO 4
-http://stream20gbps.ml/CFSPLAY/lhSoXwXt9O/170
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title = "DEPORTES LATINOS", BR | ESTRENO 5
-http://stream20gbps.ml/CFSPLAY/lhSoXwXt9O/171
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title = "DEPORTES LATINOS", BR | ESTRENO 6
-http://stream20gbps.ml/CFSPLAY/lhSoXwXt9O/172
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title = "DEPORTES LATINOS", BR | ESTRENO 7
-http://stream20gbps.ml/CFSPLAY/lhSoXwXt9O/173
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1280px-SporTV_3_2017_logo.svg.png" group-title = "DEPORTES LATINOS" , BR | SPORTV 3
-http://187.32.214.221:8001/play/a0ej/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/1200px-SporTV_2017_logo.svg.png" group-title = "DEPORTES LATINOS" , BR | SPORTV 1
-http://stream20gbps.ml/CFSPLAY/lhSoXwXt9O/155
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1280px-SporTV_2_2017_logo.svg.png" group-title = "DEPORTES LATINOS" , BR | SPORTV 2
-http://stream20gbps.ml/CFSPLAY/lhSoXwXt9O/156
- 
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlq0Q22abvyOgtiyDxBOujnTH0PSWnmBQjvoMWhuqJmHilbi-T&s" group-title = "DEPORTES LATINOS", BR COMBATE
-http://187.32.214.221:8001/play/a0em/index.m3u8
  
 #EXTINF: -1 tvg-logo = "https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title = "DEPORTES LATINOS", AR | DEPORTES TyC (EVENTOS)
 https://d3awnlgqz0szay.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
@@ -1119,29 +1038,13 @@ http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/21861
 #EXTINF: -1 tvg-logo = "https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title = "ARGENTINA", GARAJE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
  
-#EXTINF: -1 tvg-logo = "https://yt3.ggpht.com/ytc/AAUvwnjuyKxNUpk4T89IX5S4u63LH83aez_jEYLmRxh-2g=s900-ck-c0x00ffffff-no-rj" group-title = "ARGENTINA",
+#EXTINF: -1 tvg-logo = "https://yt3.ggpht.com/ytc/AAUvwnjuyKxNUpk4T89IX5S4u63LH83aez_jEYLmRxh-2g=s900-ck-c0x00ffffff-no-rj" group-title = "ARGENTINA", TELEDIARIO
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
  
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9qsRBdPGuDweClYBziHhbbKTGmqvIcHM0tZJqBY3neCnxGB70&s" group-title = "ARGENTINA", TV
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
- 
+
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title = "DEPORTES LATINOS" , MX | DEPORTES CLARO 
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
  
-#EXTINF: -1 tvg-logo = "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title = "DEPORTES LATINOS", MX | ESPN DEPORTES
-http://38.18.238.42:2095/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title = "DEPORTES LATINOS", MX | DEPORTES DE FOX
-http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
- 
-#EXTINF: -1 tvg-logo = "https://www.uestv.cl//wp-content/uploads/2018/07/uestvlogo.png" group-title = "DOCUMENTALES", CHILE | UESTV HD
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8?iptvgratis?chile.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://appnew.megainfoapp.com/files/1/1-9-13max_HD.png" group-title = "ARGENTINA REGIONALES", 13 MAX HD CORRIENTES
-http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_400x400.png" group-title = "ARGENTINA", AMÉRICA
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
  
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title = "ARGENTINA", CANAL 26
 https://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -1155,7 +1058,7 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://vecinosfamosos.com/wp-content/uploads/2019/05/Net-TV.png" group-title = "ARGENTINA", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
  
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbhNMy0X6X-Yxu4qWSXOUeTMubLS0oKYlb1w&usqp=CAU" group-title = "ARGENTINA REGIONALES"
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbhNMy0X6X-Yxu4qWSXOUeTMubLS0oKYlb1w&usqp=CAU" group-title = "ARGENTINA REGIONALES", TVCINCO
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
  
 #EXTINF: -1 TVG-logo = "https://lh3.googleusercontent.com/proxy/uQ1_csGNNuv4TVXqFz2hWDZ5WSqu16TI8X_J09hRpkabRyUKN6HvTNwy_YR0cmyB-kFhvmxXljo8hQiH63IsXOzkeb_cgYmgMyod9fdnvz5CtB_HC-InyP9-f8wwCQA" grupo-title = "ARGENTINA REGIONALES", CHACO TV
@@ -1164,8 +1067,6 @@ https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1504807357.m3u8
 #EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1062355905377910784/DVCprdPS.jpg" group-title = "ARGENTINA REGIONALES", RTN NEUQUEN
 http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
  
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/902px-A24-logo.svg.png" group-title = "ARGENTINA", A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
  
 #EXTINF: -1 tvg-logo = "https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title = "ARGENTINA ", IP Información Periodística
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
@@ -1173,8 +1074,6 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title = "NOTICIAS INTERNACIONALES", CRICA | TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
  
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png" group-title = "NOTICIAS INTERNACIONALES" , Estados Unidos | NASA TV EN VIVO
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/playlist.m3u8
  
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png" group-title = "NOTICIAS INTERNACIONALES" , Estados Unidos | NASA TV EN VIVO
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -1182,17 +1081,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/Dd9PMar.png" group-title = "NOTICIAS INTERNACIONALES", CHILE | CNN CHILE
 http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
  
-EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title = "NOTICIAS INTERNACIONALES", USA | CNN ESPAÑOL
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title = "NOTICIAS INTERNACIONALES", USA | CNN ESPAÑOL
 http://201.182.242.194:8000/play/a00n/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title = "NOTICIAS INTERNACIONALES", CHILE | 24 HORAS
-http://201.182.242.194:8000/play/a04p/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title = "NOTICIAS INTERNACIONALES", CHILE | CHILEVISIÓN
-http://201.182.242.194:8000/play/a04c/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/6f/Lared.png" group-title = "NOTICIAS INTERNACIONALES", CHILE | LA ROJA
-http://201.182.242.194:8000/play/a049/index.m3u8
  
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title = "NOTICIAS INTERNACIONALES", ES | 24H
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
@@ -1215,12 +1105,6 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title = "MUSICALES", RETRO TV
 http://stream.mediawork.cz/retrotv/retrotv2.smil/chunklist.m3u8
  
-#EXTINF: -1 tvg-logo = "https://www.inthemixstyle.com/wp-content/uploads/2019/11/Music-Top-Argentina.jpg" group-title = "MUSICALES", TOP DE MÚSICA
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-  
-#EXTINF: -1 tvg-logo = "https://alloforfait.fr/wp-content/uploads/2019/05/trace-latina.jpg" group-title = "MUSICALES", TRACE LATINA
-https://mj1b2xsspj.singularcdn.net.br/trace/latina/6/prog_index.m3u8
- 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1280px-Logo_The_Simpsons.svg.png" group-title = "INFANTILES", LOS SIMPSONS
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
  
@@ -1233,26 +1117,9 @@ http://balancer1.ottmex.com:8081/tecno/Foxlife.TecnoByte/chunks.m3u8
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title = "CINES PREMIUM" , CINE CLARO
 http://201.182.242.194:8000/play/a06s/index.m3u8
  
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/1200px-Cinemax_new.png" group-title = "CINES PREMIUM", CINEMAX
-http://201.182.242.194:8000/play/a02w/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title = "CINES PREMIUM", CINECANAL
-http://201.182.242.194:8000/play/a005/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title = "CINES PREMIUM" , A3SERIES
-http://23.237.29.98:2095/230Atres/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=nA1LPZQIIyK10Kb?token=nA1LPZQIIyXKD9
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title = "CINES PREMIUM", AXN
-http://201.182.242.194:8000/play/a06j/index.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title = "CINES PREMIUM" , AMC
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/20-hls/live-media.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://i.pinimg.com/originals/ce/0c/88/ce0c882b9098175684ea06e28604072d.png" group-title = "CINES PREMIUM", A&E
-http://38.18.238.35:2095/andromeda/AE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=bWbGlCw_3b10fresd1erj
  
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title = "CINES PREMIUM" , ESTUDIO UNIVERSAL
-http: //balancer1.ottmex.com: 8081 / tecno / StudioUniversal.TecnoByte / chunks.m3u8
+http: //balancer1.ottmex.com: 8081 / tecno / StudioUniversal.TecnoByte/chunks.m3u8
  
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title = "NOTICIAS INTERNACIONALES" , MX | TELEMUNDO INTERNACIONAL
 http://balancer1.ottmex.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
@@ -3158,7 +3025,7 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://canalprovincial.com.ar/wp-content/themes/canalprovincia/images/logo.jpg" group-title="ARGENTINA" , Canal Provincial | SD  ar
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8 
 
-#EXTINF:-1  tvg-logo="https://tvelcentral.cl/wp-content/uploads/2019/08/centraltv-logotipo-web2.png" group-title="CINE PREMIUM" , Central TV | SD
+#EXTINF:-1  tvg-logo="https://tvelcentral.cl/wp-content/uploads/2019/08/centraltv-logotipo-web2.png" group-title="CINES PREMIUM" , Central TV | SD
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8 
 
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/proxy/H7gh9WHP6p9WFnEVr3v0u-72apwody3P-Ywpg_TxQmVkU-THsfd-D4h_O6mLE68cqvq5v1IR5hjmwDx1pDfY8Y37Q3eVfdQavEL5fhI8H6GtSwBOvoUg5LBlYnXPfB6AhlrkjT7P3OTZjqH9_UI1Nw " group-title="DOCUMENTALES" , Extrema TV
