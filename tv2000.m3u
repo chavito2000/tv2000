@@ -6927,3 +6927,206 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9081-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c9000f4-d30c-416a-8bcb-5aa42bc26c6b&userId=&serverSideAds=true
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL DE LAS ESTRELLAS 
+http://45.71.202.210:50000/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |ES| 24 HORAS FHD
+http://45.71.202.210:50000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |ES| A&E FHD
+http://45.71.202.210:50000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CARTOON NETWORK 
+http://45.71.202.210:50000/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINECANAL
+http://45.71.202.210:50000/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINEMAX
+http://45.71.202.210:50000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CLARO CINEMA
+http://45.71.202.210:50000/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CLARO SPORTS
+http://45.71.202.210:50000/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY CHANNEL 
+http://45.71.202.210:50000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY ID
+http://45.71.202.210:50000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY KIDS 
+http://45.71.202.210:50000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY TURBO
+http://45.71.202.210:50000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISNEY CHANNEL 
+http://45.71.202.210:50000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISNEY JR
+http://45.71.202.210:50000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |ES| ESPN
+http://45.71.202.210:50000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 2
+http://45.71.202.210:50000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |ES| ESPN COL
+http://45.71.202.210:50000/play/a07u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |ES| ESPN 3
+http://45.71.202.210:50000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES ECUADOR TV
+http://45.71.202.210:50000/play/a02i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ECUAVISA
+http://45.71.202.210:50000/play/a08p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FX
+http://45.71.202.210:50000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESNE TV
+http://45.71.202.210:50000/play/a031/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FX MOVIES
+http://45.71.202.210:50000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX CHANNEL 
+http://45.71.202.210:50000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX LIFE
+http://45.71.202.210:50000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORT PY
+http://45.71.202.210:50000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORTS 2
+http://45.71.202.210:50000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORTS 3
+http://45.71.202.210:50000/play/a01d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOL TV
+http://45.71.202.210:50000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GAMA TV
+http://45.71.202.210:50000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO
+http://45.71.202.210:50000/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO FAMILY
+http://45.71.202.210:50000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO PLUS
+http://45.71.202.210:50000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HISTORY CHANNEL 
+http://45.71.202.210:50000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HOME AND HEALTH
+http://45.71.202.210:50000/play/a026/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MAX PRIME
+http://45.71.202.210:50000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NAT GEO
+http://45.71.202.210:50000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NATGEO KIDS
+http://45.71.202.210:50000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NICK JR
+http://45.71.202.210:50000/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NICKELODEO
+http://45.71.202.210:50000/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY
+http://45.71.202.210:50000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPACE
+http://45.71.202.210:50000/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TBS
+http://45.71.202.210:50000/play/a025/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT
+http://45.71.202.210:50000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TELEMUNDO 
+http://45.71.202.210:50000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TYC SPORTS
+http://45.71.202.210:50000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNIVERSAL 
+http://45.71.202.210:50000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WARNER
+http://45.71.202.210:50000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PELICULA LOS NUEVOS MUTANTES
+http://player.flumx.mx/Moviesmp4/los-nuevos-mutantes.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PELÍCULA FUGA DE PRETORIA
+http://player.flumx.mx/Moviesmp4/Fuga+de+Pretoria+-+Escape+From+Pretoria+(2020)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  PELÍCULA GODZILLA
+http://player.flumx.mx/Moviesmp4/Godzilla-1998.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BATMAN VS SUPERMAN
+http://flumx.mx/Moviesmp4/batman-v-superman-el-amanecer-de-la-justicia.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AMOR DE CALENDARIO 
+http://player.flumx.mx/Moviesmp4/Amor+de+calendario+-+Holidate+(2020)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUPER CARTOON
+https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", THE SIMPSON 
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EL CHAVO
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINE CABLE TV
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GODZILLA VS KONG
+https://ia601403.us.archive.org/27/items/godzilla-vskong/godzilla
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WIN SPORTS MAS
+http://saypopular.com:25461/oscar/20gar/52853
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PELEAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PLUTO  TV DEPORTES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ES TCM FHD
+http://pulsestreamstv.uk:8080/tyler12345/tyler12345/148113
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |ES| TELEDEPORTE FHD
+http://pulsestreamstv.uk:8080/tyler12345/tyler12345/148142
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS XTRA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MLB CHANNEL 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV FOTBOL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PRO WRESTLING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
