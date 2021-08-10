@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/334_Canal_74_TeVe.png" group-title="CANALES NACIONALES", Canal 74 TeVe  | CL
 https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/374_TV_Turf_Movil.png" group-title="CANALES NACIONALES", TV Turf Movil  | CL
@@ -14,6 +13,191 @@ https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://tvelcentral.cl/wp-content/uploads/2019/08/centraltv-logotipo-web2.png" group-title="CINES PREMIUM" , Central TV | SD
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8 
 
+
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 01.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2001.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 02.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2002.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 03.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2003.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 04.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2004.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 05.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2005.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 06.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2006.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 07.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2007.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 08.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2008.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 09.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2009.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 10.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2010.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 11.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2011.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 12.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2012.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 13.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2013.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 14.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2014.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 15.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2015.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 16.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2016.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 17.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2017.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 18.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2018.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 19.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2019.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 20.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2020.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 21.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2021.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 22.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2022.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 23.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2023.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 24.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2024.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 25.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2025.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 26.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2026.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 27.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2027.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 28.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2028.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 29.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2029.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 30.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2030.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 31.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2031.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 32.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2032.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 33.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2033.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 34.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2034.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 35.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2035.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 36.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2036.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 37.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2037.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 38.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2038.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 39.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2039.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 40.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2040.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 41.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2041.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 42.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2042.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 43.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2043.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 44.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2044.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 45.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2045.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 46.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2046.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 47.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2047.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 48.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2048.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 49.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2049.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 50.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2050.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 51.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2051.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 52.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2052.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 53.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2053.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 54.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2054.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 55.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2055.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 56.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2056.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 57.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2057.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 58.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2058.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 59.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2059.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 60.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2060.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 61.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2061.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 62.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2062.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 63.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2063.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 64.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2064.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 65.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2065.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 66.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2066.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 67.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2067.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 68.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2068.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 69.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2069.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 70.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2070.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 71.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2071.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 72.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2072.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 73.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2073.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 74.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2074.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 75.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2075.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 76.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2076.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 77.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2077.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 78.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2078.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 79.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2079.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 80.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2080.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 81.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2081.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 82.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2082.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 83.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2083.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 84.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2084.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 85.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2085.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 86.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2086.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 87.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2087.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 88.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2088.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 89.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2089.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 90.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2090.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 91.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2091.mp4
+#EXTINF:-1 group-title="MAZINGER Z",Mazinger Z 92.mp4
+https://rudyservices.com.es/alex/Mazinger%20Z/Mazinger%20Z%2092.m
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", SUPER CARTOON
@@ -1205,6 +1389,9 @@ http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
 
 
 
+#EXTINF:0 tvg-name="Radio 2000 Chile" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2012/08/cropped-corporativa_blanca-2.png" group-title = "Radios", Radio 2000 Chile  | CL
+http://streamus207.indax.cl:9998/stream
+
 #EXTINF:-1 tvg-id="838" tvg-name="DBox Radio" tvg-logo="https://www.m3u.cl/logo/838_DBox_Radio.png" group-title = "Radios", DBox Radio * | CL
 https://stmv1.voxtvhd.com.br/dbox/dbox/playlist.m3u8
 
@@ -1363,8 +1550,7 @@ http://v2.tustreaming.cl/radiovidacurico/live1/rewind-999999.m3u8
 #EXTINF:-1 tvg-id="805" tvg-name="Radio Unido Al Cielo" tvg-logo="https://www.m3u.cl/logo/805_Radio_Unido_Al_Cielo.webp" group-title = "Radios", Radio Unido Al Cielo  | CL
 https://stmv.panel.mivideo.pro/unidoalcielo/unidoalcielo/playlist.m3u8
 
-#EXTINF:0 tvg-name="Radio 2000 Chile" tvg-logo="http://radio2000chile.com/wp/wp-content/uploads/2012/08/cropped-corporativa_blanca-2.png" group-title = "Radios", Radio 2000 Chile  | CL
-http://streamus207.indax.cl:9998/stream
+
 
 
 
@@ -10386,4 +10572,3 @@ http://gigaplay-pro.club:2095/Jhon4243/Jhon12/96932
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/cl/CNNChile.cl.png" group-title="CANALES NACIONALES", CL: CNN Chile (MOVIL)
 http://gigaplay-pro.club:2095/Jhon4243/Jhon12/96933
-
