@@ -3681,4 +3681,6 @@ http://archive.org/download/0_20200417/1.mp4
 #EXTINF:-1 group-title="PELICULAS", ZOMBIES 2
 http://archive.org/download/0_20200418/1.mp4
 #EXTINF:-1 group-title="PELICULAS", ZOMBIES NAZIS
-http://archive.org/download/ch-1-q-1-t-0-p-3-r-0-p-3-l-1-gr-0-s-0/Z0MB1N4Z1.mp4
+
+#EXTINF:-1 group-title="PELICULAS 2022", PINOCHO
+https://ia801504.us.archive.org/0/items/pin-0-ch-0-hd-1080-p/PIN0CH0HD1080P.mp4
