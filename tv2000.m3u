@@ -3637,8 +3637,6 @@ http://45.5.119.202:8000/play/a02u/index.m3u8
 http://45.5.119.202:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="PROMO",Baby First
 http://45.5.119.202:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="PROMO",CINECANAL HD
-http://45.5.119.202:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="PROMO",CNNE
 http://45.5.119.202:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="PROMO",Cartoon Network
@@ -3649,14 +3647,6 @@ http://45.5.119.202:8000/play/a02f/index.m3u8
 http://45.5.119.202:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="PROMO",CineMax
 http://45.5.119.202:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="PROMO",Claro Cinema
-http://45.5.119.202:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="PROMO",Claro Musica
-http://45.5.119.202:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="PROMO",Claro Sports SD
-http://45.5.119.202:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="PROMO",Concert Channel
-http://45.5.119.202:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="PROMO",Discovery Channel
 http://45.5.119.202:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="PROMO",Discovery Kids
@@ -3679,8 +3669,6 @@ http://45.5.119.202:8000/play/a00h/index.m3u8
 http://45.5.119.202:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="PROMO",ESPN 4 HD
 http://45.5.119.202:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="PROMO",EURO Channel
-http://45.5.119.202:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="PROMO",EWTN
 http://45.5.119.202:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="PROMO",El Gourmet
@@ -3739,8 +3727,6 @@ http://45.5.119.202:8000/play/a028/index.m3u8
 http://45.5.119.202:8000/play/a02i/index.m3u8
 #EXTINF:-1 group-title="PROMO",SONY
 http://45.5.119.202:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="PROMO",SONY HD
-http://45.5.119.202:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="PROMO",SPACE
 http://45.5.119.202:8000/play/a02m/index.m3u8
 #EXTINF:-1 group-title="PROMO",STAR CHANNEL HD
@@ -3751,8 +3737,6 @@ http://45.5.119.202:8000/play/a00s/index.m3u8
 http://45.5.119.202:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="PROMO",Sun Channel
 http://45.5.119.202:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="PROMO",SyFy
-http://45.5.119.202:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="PROMO",TBN Enlace
 http://45.5.119.202:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="PROMO",TBS
@@ -3779,7 +3763,5 @@ http://45.5.119.202:8000/play/a027/index.m3u8
 http://45.5.119.202:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="PROMO",Universal
 http://45.5.119.202:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="PROMO",WARNER HD
-http://45.5.119.202:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="PROMO",Warner
 http://45.5.119.202:8000/play/a012/index.m3u8
