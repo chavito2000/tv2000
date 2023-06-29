@@ -3522,147 +3522,148 @@ https://ia804607.us.archive.org/0/items/video-4058-masacre-en-el-rio-tula-1985-d
 https://ia802501.us.archive.org/2/items/30-segundos-para-morir-1981-1080p/30%20Segundos%20Para%20Morir%20%281981%29%201080p.mp4
 #EXTINF:-1 group-title="PELÍCULAS MEXICANAS", La banda del carro rojo (1978)
 https://ia904605.us.archive.org/7/items/la-banda-del-carro-rojo-1978-fullscreen/la%20banda%20del%20carro%20rojo%201978%20fullscreen.mp4
-#EXTINF:-1 type="stream" tvg-id="" tvg-name=".DISNEY BLUESKY" tvg-logo="https://i.imgur.com/ErOPV8a.png" group-title=". Canales 24/7 niños". DISNEY BLUESKY
+
+#EXTINF:-1 type="stream" tvg-id="" tvg-name=".DISNEY BLUESKY" tvg-logo="https://i.imgur.com/ErOPV8a.png" group-title="Canales 24/7 niños", DISNEY BLUESKY
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9135.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name=".DISNEY CLASSIC " tvg-logo="https://i.imgur.com/ErOPV8a.png" group-title=". Canales 24/7 niños". DISNEY CLASSIC
+#EXTINF:-1 type="stream" tvg-id="" tvg-name=".DISNEY CLASSIC " tvg-logo="https://i.imgur.com/ErOPV8a.png" group-title="Canales 24/7 niños", DISNEY CLASSIC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7865.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name=".DISNEY LIVE ACTION" tvg-logo="https://i.imgur.com/ErOPV8a.png" group-title=" .Canales 24/7 niños",.DISNEY LIVE ACTION
+#EXTINF:-1 type="stream" tvg-id="" tvg-name=".DISNEY LIVE ACTION" tvg-logo="https://i.imgur.com/ErOPV8a.png" group-title="Canales 24/7 niños", DISNEY LIVE ACTION
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7491.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name=".DISNEY PIXAR " tvg-logo="https://i.imgur.com/ErOPV8a.png" group-title=". Canales 24/7 niños, DISNEY PIXAR
+#EXTINF:-1 type="stream" tvg-id="" tvg-name=".DISNEY PIXAR " tvg-logo="https://i.imgur.com/ErOPV8a.png" group-title="Canales 24/7 niños", DISNEY PIXAR
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8050.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name=".DREAMWORKS" tvg-logo="https://i.imgur.com/ErOPV8a.png" group-title=".Canales Niños 24/7",.DREAMWORKS
+#EXTINF:-1 type="stream" tvg-id="" tvg-name=".DREAMWORKS" tvg-logo="https://i.imgur.com/ErOPV8a.png" group-title="Canales 24/7 niños", DREAMWORKS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7649.m3u8
-#EXTINF:-1 type="stream" tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-name=".YOUNG SHELDON" tvg-logo="https://i.imgur.com/ErOPV8a.png" group-title=" .Canales x24-7",.EL JOVEN SHELDON
+#EXTINF:-1 type="stream" tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-name=".YOUNG SHELDON" tvg-logo="https://i.imgur.com/ErOPV8a.png" group-title="Canales x24-7",.EL JOVEN SHELDON
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7425.m3u8
-#EXTINF:-1 type="stream" tvg-id="AMCLatinAmerica.us" tvg-name="0001.AMC" tvg-logo="https://i.imgur.com/bb9FakF.png" título-grupo =".Cine",0001.AMC
+#EXTINF:-1 type="stream" tvg-id="AMCLatinAmerica.us" tvg-name="0001.AMC" tvg-logo="https://i.imgur.com/bb9FakF.png" group-title="Cine",0001.AMC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7029.m3u8
-#EXTINF:-1 type="stream" tvg-id="I19.90852.schedulesdirect.org" tvg-name="0002.AMC Full HD (1080p)" tvg-logo="https://i.imgur. com/bb9FakF.png" group-title=".Cine",0002.AMC Full HD (1080p)
+#EXTINF:-1 type="stream" tvg-id="I19.90852.schedulesdirect.org" tvg-name="0002.AMC Full HD (1080p)" tvg-logo="https://i.imgur. com/bb9FakF.png" group-title="Cine",0002.AMC Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7236.m3u8
-#EXTINF:-1 type="stream" tvg-id="AzCinema.mx" tvg-name="0003.AZ CINEMA INOLVIDABLE" tvg-logo="https://i.imgur.com/oQbafOe.png" grupo -title=".Cine",0003.AZ CINE INOLVIDABLE
+#EXTINF:-1 type="stream" tvg-id="AzCinema.mx" tvg-name="0003.AZ CINEMA INOLVIDABLE" tvg-logo="https://i.imgur.com/oQbafOe.png" group-title="Cine",0003.AZ CINE INOLVIDABLE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7034.m3u8
-#EXTINF:-1 type="stream" tvg-id="AzCinema.mx" tvg-name="0004.AZ CINEMA INOLVIDABLE HD (1080P)" tvg-logo="https://i.imgur.com/oQbafOe .png" group-title=".Cine",0004.AZ CINE INOLVIDABLE HD (1080P)
+#EXTINF:-1 type="stream" tvg-id="AzCinema.mx" tvg-name="0004.AZ CINEMA INOLVIDABLE HD (1080P)" tvg-logo="https://i.imgur.com/oQbafOe .png" group-title="Cine",0004.AZ CINE INOLVIDABLE HD (1080P)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8412.m3u8
-#EXTINF:-1 type="stream" tvg-id="CinecanalWest.us" tvg-name="0005.CINECANAL SD (4:3)" tvg-logo="https://i.imgur.com/wg8NOuR .png" group-title=".Cine",0005.CINECANAL SD (4:3)
+#EXTINF:-1 type="stream" tvg-id="CinecanalWest.us" tvg-name="0005.CINECANAL SD (4:3)" tvg-logo="https://i.imgur.com/wg8NOuR .png" group-title="Cine",0005.CINECANAL SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7357.m3u8
-#EXTINF:-1 type="stream" tvg-id="cinecanal.mx" tvg-name="0006.CINECANAL" tvg-logo="https://i.imgur.com/wg8NOuR.png" group-title =".Cine",0006.CINECANAL
+#EXTINF:-1 type="stream" tvg-id="cinecanal.mx" tvg-name="0006.CINECANAL" tvg-logo="https://i.imgur.com/wg8NOuR.png" group-title="Cine",0006.CINECANAL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7090.m3u8
-#EXTINF:-1 type="stream" tvg-id="cinecanal.mx" tvg-name="0007.CINECANAL Full HD (1080)" tvg-logo="https://i.imgur.com/wg8NOuR. png" group-title=".Cine",0007.CINECANAL Full HD (1080)
+#EXTINF:-1 type="stream" tvg-id="cinecanal.mx" tvg-name="0007.CINECANAL Full HD (1080)" tvg-logo="https://i.imgur.com/wg8NOuR. png" group-title="Cine",0007.CINECANAL Full HD (1080)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7219.m3u8
-#EXTINF:-1 type="stream" tvg-id="cinemax.mx" tvg-name="0008.CINEMAX SD (4:3)" tvg-logo="https://i.imgur.com/GDEVS6F .png" group-title=".Cine",0008.CINEMAX SD (4:3)
+#EXTINF:-1 type="stream" tvg-id="cinemax.mx" tvg-name="0008.CINEMAX SD (4:3)" tvg-logo="https://i.imgur.com/GDEVS6F .png" group-title="Cine",0008.CINEMAX SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7337.m3u8
-#EXTINF:-1 type="stream" tvg-id="cinemax.mx" tvg-name="0009.CINEMAX" tvg-logo="https://i.imgur.com/GDEVS6F.png" título-grupo =".Cine",0009.CINEMAX
+#EXTINF:-1 type="stream" tvg-id="cinemax.mx" tvg-name="0009.CINEMAX" tvg-logo="https://i.imgur.com/GDEVS6F.png" group-title="Cine",0009.CINEMAX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7091.m3u8
-#EXTINF:-1 type="stream" tvg-id="cinemax.mx" tvg-name="0010.CINEMAX Full HD (1080p)" tvg-logo="https://i.imgur.com/GDEVS6F. png" group-title=".Cine",0010.CINEMAX Full HD (1080p)
+#EXTINF:-1 type="stream" tvg-id="cinemax.mx" tvg-name="0010.CINEMAX Full HD (1080p)" tvg-logo="https://i.imgur.com/GDEVS6F. png" group-title="Cine",0010.CINEMAX Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7220.m3u8
-#EXTINF:-1 type="stream" tvg-id="cinelatino.mx" tvg-name="0011.CINE LATINO SD (4:3)" tvg-logo="https://i.imgur.com/ RtZn7QU.png" group-title=".Cine",0011.CINE LATINO SD (4:3)
+#EXTINF:-1 type="stream" tvg-id="cinelatino.mx" tvg-name="0011.CINE LATINO SD (4:3)" tvg-logo="https://i.imgur.com/ RtZn7QU.png" group-title="Cine",0011.CINE LATINO SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7356.m3u8
-#EXTINF:-1 type="stream" tvg-id="cinelatino.us" tvg-name="0012.CINE LATINO" tvg-logo="https://i.imgur.com/RtZn7QU.png" group- title=".Cine",0012.CINE LATINO
+#EXTINF:-1 type="stream" tvg-id="cinelatino.us" tvg-name="0012.CINE LATINO" tvg-logo="https://i.imgur.com/RtZn7QU.png" group-title="Cine",0012.CINE LATINO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9263.m3u8
-#EXTINF:-1 type="stream" tvg-id="CinemaDinamita.mx" tvg-name="0013.CINE DINAMITA " tvg-logo="https://i.imgur.com/OvuI3xZ.png" grupo- title=".Cine",0013.CINE DINAMITA
+#EXTINF:-1 type="stream" tvg-id="CinemaDinamita.mx" tvg-name="0013.CINE DINAMITA " tvg-logo="https://i.imgur.com/OvuI3xZ.png" group-title="Cine",,0013.CINE DINAMITA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7460.m3u8
-#EXTINF:-1 type="stream" tvg-id="cinesony.us" tvg-name="0014.CINE SONY HD " tvg-logo="https://i.imgur.com/aenUEax.png" grupo -title=".Cine",0014.CINE SONY HD
+#EXTINF:-1 type="stream" tvg-id="cinesony.us" tvg-name="0014.CINE SONY HD " tvg-logo="https://i.imgur.com/aenUEax.png" group-title="Cine",0014.CINE SONY HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7474.m3u8
-#EXTINF:-1 type="stream" tvg-id="depelicula.mx" tvg-name="0015.DE PELICULA" tvg-logo="https://i.imgur.com/57C4a5A.png" group- title=".Cine",0015.DE PELICULA
+#EXTINF:-1 type="stream" tvg-id="depelicula.mx" tvg-name="0015.DE PELICULA" tvg-logo="https://i.imgur.com/57C4a5A.png" group-title="Cine",0015.DE PELICULA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7194.m3u8
-#EXTINF:-1 type="stream" tvg-id="depelicula.mx" tvg-name="0016.DE PELICULA Full HD (1080p)" tvg-logo="https://i.imgur.com/TIYoipA .png" group-title=".Cine",0016.DE PELICULA Full HD (1080p)
+#EXTINF:-1 type="stream" tvg-id="depelicula.mx" tvg-name="0016.DE PELICULA Full HD (1080p)" tvg-logo="https://i.imgur.com/TIYoipA .png" group-title="Cine",0016.DE PELICULA Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7278.m3u8
-#EXTINF:-1 type="stream" tvg-id="depeliculahd.mx" tvg-name="0017.DE PELICULA PLUS" tvg-logo="https://i.imgur.com/TIYoipA.png" grupo -title=".Cine",0017.DE PELICULA PLUS
+#EXTINF:-1 type="stream" tvg-id="depeliculahd.mx" tvg-name="0017.DE PELICULA PLUS" tvg-logo="https://i.imgur.com/TIYoipA.png" group-title="Cine",0017.DE PELICULA PLUS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7099.m3u8
-#EXTINF:-1 type="stream" tvg-id="depeliculahd.mx" tvg-name="0018. DE PELICULA PLUS Full HD (1080p)" tvg-logo="https://i.imgur.com/ TIYoipA.png" group-title=".Cine",0018. DE PELÍCULA PLUS Full HD (1080p)
+#EXTINF:-1 type="stream" tvg-id="depeliculahd.mx" tvg-name="0018. DE PELICULA PLUS Full HD (1080p)" tvg-logo="https://i.imgur.com/ TIYoipA.png" group-title="Cine",0018. DE PELÍCULA PLUS Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7279.m3u8
-#EXTINF:-1 type="stream" tvg-id="dhehd.co" tvg-name="0019.DHE " tvg-logo="https://i.imgur.com/Ifjwls1.png" título de grupo =".Cine",0019.DHE
+#EXTINF:-1 type="stream" tvg-id="dhehd.co" tvg-name="0019.DHE " tvg-logo="https://i.imgur.com/Ifjwls1.png" group-title="Cine",0019.DHE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7477.m3u8
-#EXTINF:-1 type="stream" tvg-id="europaeuropa.mx" tvg-name="0020.EUROPA EUROPA" tvg-logo="https://i.imgur.com/rHe9vSp.png" grupo- title=".Cine",0020.EUROPA EUROPA
+#EXTINF:-1 type="stream" tvg-id="europaeuropa.mx" tvg-name="0020.EUROPA EUROPA" tvg-logo="https://i.imgur.com/rHe9vSp.png" group-title="Cine",0020.EUROPA EUROPA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7190.m3u8
-#EXTINF:-1 type="stream" tvg-id="epix.us" tvg-name="0021.EPIX LATINO" tvg-logo="https://i.imgur.com/7mA6IeC.png" grupo- title=".Cine",0021.EPIX LATINO
+#EXTINF:-1 type="stream" tvg-id="epix.us" tvg-name="0021.EPIX LATINO" tvg-logo="https://i.imgur.com/7mA6IeC.png" group-title="Cine",0021.EPIX LATINO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8517.m3u8
-#EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0022.FX SD (4:3)" tvg-logo="https://i.imgur .com/9ygHsCJ.png" group-title=".Cine",0022.FX SD (4:3)
+#EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0022.FX SD (4:3)" tvg-logo="https://i.imgur .com/9ygHsCJ.png" group-title="Cine",0022.FX SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7332.m3u8
-#EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0023.FX " tvg-logo="https://i.imgur.com/9ygHsCJ.png " título-grupo=".Cine",0023.FX
+#EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0023.FX " tvg-logo="https://i.imgur.com/9ygHsCJ.png " group-title="Cine",0023.FX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7119.m3u8
-#EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0024.FX Full HD (1080p)" tvg-logo="https://i.imgur. com/9ygHsCJ.png" group-title=".Cine",0024.FX Full HD (1080p)
+#EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0024.FX Full HD (1080p)" tvg-logo="https://i.imgur. com/9ygHsCJ.png" group-title="Cine",0024.FX Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7223.m3u8
-#EXTINF:-1 type="stream" tvg-id="filmandarts.mx" tvg-name="0025.CINE Y ARTES" tvg-logo="https://i.imgur.com/zOC1khw.png" grupo -title=".Cine",0025.CINE Y ARTES
+#EXTINF:-1 type="stream" tvg-id="filmandarts.mx" tvg-name="0025.CINE Y ARTES" tvg-logo="https://i.imgur.com/zOC1khw.png" group-title="Cine",0025.CINE Y ARTES
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7191.m3u8
-#EXTINF:-1 type="stream" tvg-id="golden.mx" tvg-name="0026.GOLDEN " tvg-logo="https://i.imgur.com/UwLghNk.png" título-grupo =".Cine",0026.GOLDEN
+#EXTINF:-1 type="stream" tvg-id="golden.mx" tvg-name="0026.GOLDEN " tvg-logo="https://i.imgur.com/UwLghNk.png" group-title="Cine",0026.GOLDEN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7174.m3u8
-#EXTINF:-1 type="stream" tvg-id="golden.mx" tvg-name="0027.GOLDEN FULL HD (1080P)" tvg-logo="https://i.imgur.com/UwLghNk. png" group-title=".Cine",0027.GOLDEN FULL HD (1080P)
+#EXTINF:-1 type="stream" tvg-id="golden.mx" tvg-name="0027.GOLDEN FULL HD (1080P)" tvg-logo="https://i.imgur.com/UwLghNk. png" group-title="Cine",0027.GOLDEN FULL HD (1080P)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8452.m3u8
-#EXTINF:-1 type="stream" tvg-id="goldenedge.mx" tvg-name="0028.GOLDEN EDGE " tvg-logo="https://i.imgur.com/7MxVVL2.png" group- title=".Cine",0028.BORDE DE ORO
+#EXTINF:-1 type="stream" tvg-id="goldenedge.mx" tvg-name="0028.GOLDEN EDGE " tvg-logo="https://i.imgur.com/7MxVVL2.png" group-title="Cine",0028.BORDE DE ORO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7123.m3u8
-#EXTINF:-1 type="stream" tvg-id="goldenedge.mx" tvg-name="0029.GOLDEN EDGE FULL HD (1080P)" tvg-logo="https://i.imgur.com/UwLghNk .png" group-title=".Cine",0029.BORDE DE ORO FULL HD (1080P)
+#EXTINF:-1 type="stream" tvg-id="goldenedge.mx" tvg-name="0029.GOLDEN EDGE FULL HD (1080P)" tvg-logo="https://i.imgur.com/UwLghNk .png" group-title="Cine",0029.BORDE DE ORO FULL HD (1080P)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8464.m3u8
-#EXTINF:-1 type="stream" tvg-id="GoldenPlus.mx" tvg-name="0030.GOLDEN PLUS" tvg-logo="https://i.imgur.com/UwLghNk.png" grupo- title=".Cine",0030.GOLDEN PLUS
+#EXTINF:-1 type="stream" tvg-id="GoldenPlus.mx" tvg-name="0030.GOLDEN PLUS" tvg-logo="https://i.imgur.com/UwLghNk.png" group-title="Cine",0030.GOLDEN PLUS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7124.m3u8
-#EXTINF:-1 type="stream" tvg-id="GoldenPlus.mx" tvg-name="0032.GOLDEN PLUS Full HD (1080p)" tvg-logo="https://i.imgur.com/UwLghNk .png" group-title=".Cine",0032.GOLDEN PLUS Full HD (1080p)
+#EXTINF:-1 type="stream" tvg-id="GoldenPlus.mx" tvg-name="0032.GOLDEN PLUS Full HD (1080p)" tvg-logo="https://i.imgur.com/UwLghNk .png" group-title="Cine",0032.GOLDEN PLUS Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7224.m3u8
-#EXTINF:-1 type="stream" tvg-id="multipremier.mx" ​​tvg-name="0034.MULTIPREMIER " tvg-logo="https://i.imgur.com/NySKInm.png" group-title =".Cine",0034.MULTIPREMIER
+#EXTINF:-1 type="stream" tvg-id="multipremier.mx" ​​tvg-name="0034.MULTIPREMIER " tvg-logo="https://i.imgur.com/NySKInm.png" group-title="Cine",0034.MULTIPREMIER
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7359.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0035.MORBIDO " tvg-logo="https://i.imgur.com/iWALlHW.png" group-title=". Cine",0035.MORBIDO
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0035.MORBIDO " tvg-logo="https://i.imgur.com/iWALlHW.png" group-title="Cine",0035.MORBIDO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7187.m3u8
-#EXTINF:-1 type="stream" tvg-id="paramountchannel.mx" tvg-name="0036.PARAMOUNT CHANNEL SD (4:3)" tvg-logo="https://i.imgur.com/ pc2qHP2.png" group-title=".Cine",0036.PARAMOUNT CHANNEL SD (4:3)
+#EXTINF:-1 type="stream" tvg-id="paramountchannel.mx" tvg-name="0036.PARAMOUNT CHANNEL SD (4:3)" tvg-logo="https://i.imgur.com/ pc2qHP2.png" group-title="Cine",0036.PARAMOUNT CHANNEL SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7360.m3u8
-#EXTINF:-1 type="stream" tvg-id="paramountchannel.mx" tvg-name="0037.PARAMOUNT CHANNEL " tvg-logo="https://i.imgur.com/pc2qHP2.png" group- title=".Cine",0037.CANAL PARAMOUNT
+#EXTINF:-1 type="stream" tvg-id="paramountchannel.mx" tvg-name="0037.PARAMOUNT CHANNEL " tvg-logo="https://i.imgur.com/pc2qHP2.png" group-title="Cine",0037.CANAL PARAMOUNT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7180.m3u8
-#EXTINF:-1 type="stream" tvg-id="paramountchannel.mx" tvg-name="0038.PARAMOUNT Full HD (1080p)" tvg-logo="https://i.imgur.com/pc2qHP2. png" group-title=".Cine",0038.PARAMOUNT Full HD (1080p)
+#EXTINF:-1 type="stream" tvg-id="paramountchannel.mx" tvg-name="0038.PARAMOUNT Full HD (1080p)" tvg-logo="https://i.imgur.com/pc2qHP2. png" group-title="Cine",0038.PARAMOUNT Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7238.m3u8
-#EXTINF:-1 type="stream" tvg-id="Panico.mx" tvg-name="0039.PANICO " tvg-logo="https://i.imgur.com/lDKGR10.png" group-title =".Cine",0039.PANICO
+#EXTINF:-1 type="stream" tvg-id="Panico.mx" tvg-name="0039.PANICO " tvg-logo="https://i.imgur.com/lDKGR10.png" group-title="Cine",,0039.PANICO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7478.m3u8
-#EXTINF:-1 type="stream" tvg-id="sonyentertainmenttv.mx" tvg-name="0040.SONY SD (4:3)" tvg-logo="https://i.imgur.com/aenUEax .png" group-title=".Cine",0040.SONY SD (4:3)
+#EXTINF:-1 type="stream" tvg-id="sonyentertainmenttv.mx" tvg-name="0040.SONY SD (4:3)" tvg-logo="https://i.imgur.com/aenUEax .png" group-title="Cine",0040.SONY SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7377.m3u8
-#EXTINF:-1 type="stream" tvg-id="sonyentertainmenttv.mx" tvg-name="0041.SONY" tvg-logo="https://i.imgur.com/aenUEax.png" group-title =".Cine",0041.SONY
+#EXTINF:-1 type="stream" tvg-id="sonyentertainmenttv.mx" tvg-name="0041.SONY" tvg-logo="https://i.imgur.com/aenUEax.png" group-title="Cine",0041.SONY
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7150.m3u8
-#EXTINF:-1 type="stream" tvg-id="sonyentertainmenttv.mx" tvg-name="0042.SONY Full HD (1080p)" tvg-logo="https://i.imgur.com/aenUEax. png" group-title=".Cine",0042.SONY Full HD (1080p)
+#EXTINF:-1 type="stream" tvg-id="sonyentertainmenttv.mx" tvg-name="0042.SONY Full HD (1080p)" tvg-logo="https://i.imgur.com/aenUEax. png" group-title="Cine",0042.SONY Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7240.m3u8
-#EXTINF:-1 type="stream" tvg-id="cinesony.us" tvg-name="0043.SONY MOVIE CHANNEL HD (720p)" tvg-logo="https://i.imgur.com/aenUEax .png" group-title=".Cine",0043.SONY MOVIE CHANNEL HD (720p)
+#EXTINF:-1 type="stream" tvg-id="cinesony.us" tvg-name="0043.SONY MOVIE CHANNEL HD (720p)" tvg-logo="https://i.imgur.com/aenUEax .png" group-title="Cine",0043.SONY MOVIE CHANNEL HD (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7449.m3u8
-#EXTINF:-1 type="stream" tvg-id="space.mx" tvg-name="0044.SPACE SD (4:3)" tvg-logo="https://i.imgur.com/lTa10Sc .png" group-title=".Cine",0044.ESPACIO SD (4:3)
+#EXTINF:-1 type="stream" tvg-id="space.mx" tvg-name="0044.SPACE SD (4:3)" tvg-logo="https://i.imgur.com/lTa10Sc .png" group-title="Cine",0044.ESPACIO SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7336.m3u8
-#EXTINF:-1 type="stream" tvg-id="space.mx" tvg-name="0045.SPACE" tvg-logo="https://i.imgur.com/lTa10Sc.png" group-title =".Cine",0045.ESPACIO
+#EXTINF:-1 type="stream" tvg-id="space.mx" tvg-name="0045.SPACE" tvg-logo="https://i.imgur.com/lTa10Sc.png" group-title="Cine",0045.ESPACIO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7151.m3u8
-#EXTINF:-1 type="stream" tvg-id="space.mx" tvg-name="0046.SPACE Full HD (1080p)" tvg-logo="https://i.imgur.com/lTa10Sc. png" group-title=".Cine",0046.ESPACIO Full HD (1080p)
+#EXTINF:-1 type="stream" tvg-id="space.mx" tvg-name="0046.SPACE Full HD (1080p)" tvg-logo="https://i.imgur.com/lTa10Sc. png" group-title="Cine",0046.ESPACIO Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7226.m3u8
-#EXTINF:-1 type="stream" tvg-id="syfy.mx" tvg-name="0047.SYFY SD (4:3)" tvg-logo="https://i.imgur.com/AAVXk3k .png" group-title=".Cine",0047.SYFY SD (4:3)
+#EXTINF:-1 type="stream" tvg-id="syfy.mx" tvg-name="0047.SYFY SD (4:3)" tvg-logo="https://i.imgur.com/AAVXk3k .png" group-title="Cine",0047.SYFY SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7346.m3u8
-#EXTINF:-1 type="stream" tvg-id="syfy.mx" tvg-name="0048.SYFY" tvg-logo="https://i.imgur.com/AAVXk3k.png" título-grupo =".Cine",0048.SYFY
+#EXTINF:-1 type="stream" tvg-id="syfy.mx" tvg-name="0048.SYFY" tvg-logo="https://i.imgur.com/AAVXk3k.png" group-title="Cine",0048.SYFY
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7152.m3u8
-#EXTINF:-1 type="stream" tvg-id="syfy.mx" tvg-name="0049.SYFY Full HD (1080p)" tvg-logo="https://i.imgur.com/AAVXk3k. png" group-title=".Cine",0049.SYFY Full HD (1080p)
+#EXTINF:-1 type="stream" tvg-id="syfy.mx" tvg-name="0049.SYFY Full HD (1080p)" tvg-logo="https://i.imgur.com/AAVXk3k. png" group-title="Cine",0049.SYFY Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7227.m3u8
-#EXTINF:-1 type="stream" tvg-id="studiouniversal.mx" tvg-name="0050.STUDIO UNIVERSAL SD (4:3)" tvg-logo="https://i.imgur.com/ 6i1thjh.png" group-title=".Cine",0050.STUDIO UNIVERSAL SD (4:3)
+#EXTINF:-1 type="stream" tvg-id="studiouniversal.mx" tvg-name="0050.STUDIO UNIVERSAL SD (4:3)" tvg-logo="https://i.imgur.com/ 6i1thjh.png" group-title="Cine",0050.STUDIO UNIVERSAL SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7343.m3u8
-#EXTINF:-1 type="stream" tvg-id="studiouniversal.mx" tvg-name="0051.STUDIO UNIVERSAL " tvg-logo="https://i.imgur.com/6i1thjh.png" grupo- title=".Cine",0051.ESTUDIO UNIVERSAL
+#EXTINF:-1 type="stream" tvg-id="studiouniversal.mx" tvg-name="0051.STUDIO UNIVERSAL " tvg-logo="https://i.imgur.com/6i1thjh.png" group-title="Cine",0051.ESTUDIO UNIVERSAL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7217.m3u8
-#EXTINF:-1 type="stream" tvg-id="studiouniversal.mx" tvg-name="0052.STUDIO UNIVERSAL Full HD (1080p)" tvg-logo="https://i.imgur.com/6i1thjh .png" group-title=".Cine",0052.ESTUDIO UNIVERSAL Full HD (1080p)
+#EXTINF:-1 type="stream" tvg-id="studiouniversal.mx" tvg-name="0052.STUDIO UNIVERSAL Full HD (1080p)" tvg-logo="https://i.imgur.com/6i1thjh .png" group-title="Cine",0052.ESTUDIO UNIVERSAL Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7243.m3u8
-#EXTINF:-1 type="stream" tvg-id="starz.us" tvg-name="0053.STARZ LATINO" tvg-logo="https://i.imgur.com/dFFze6x.png" grupo- title=".Cine",0053.STARZ LATINO
+#EXTINF:-1 type="stream" tvg-id="starz.us" tvg-name="0053.STARZ LATINO" tvg-logo="https://i.imgur.com/dFFze6x.png" group-title="Cine",0053.STARZ LATINO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8518.m3u8
-#EXTINF:-1 type="stream" tvg-id="tnt.mx" tvg-name="0054.TNT SD (4:3)" tvg-logo="https://i.imgur.com/8le85xc .png" group-title=".Cine",0054.TNT SD (4:3)
+#EXTINF:-1 type="stream" tvg-id="tnt.mx" tvg-name="0054.TNT SD (4:3)" tvg-logo="https://i.imgur.com/8le85xc .png" group-title="Cine",0054.TNT SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7371.m3u8
-#EXTINF:-1 type="stream" tvg-id="tnt.mx" tvg-name="0055.TNT" tvg-logo="https://i.imgur.com/8le85xc.png" título-grupo =".Cine",0055.TNT
+#EXTINF:-1 type="stream" tvg-id="tnt.mx" tvg-name="0055.TNT" tvg-logo="https://i.imgur.com/8le85xc.png" group-title="Cine",0055.TNT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7158.m3u8
-#EXTINF:-1 type="stream" tvg-id="tnt.mx" tvg-name="0056.TNT Full HD (1080p)" tvg-logo="https://i.imgur.com/8le85xc. png" group-title=".Cine",0056.TNT Full HD (1080p)
+#EXTINF:-1 type="stream" tvg-id="tnt.mx" tvg-name="0056.TNT Full HD (1080p)" tvg-logo="https://i.imgur.com/8le85xc. png" group-title="Cine",0056.TNT Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7235.m3u8
-#EXTINF:-1 type="stream" tvg-id="tbs.mx" tvg-name="0057.TBS" tvg-logo="https://i.imgur.com/a7fWotj.png" título-grupo =".Cine",0057.TBS
+#EXTINF:-1 type="stream" tvg-id="tbs.mx" tvg-name="0057.TBS" tvg-logo="https://i.imgur.com/a7fWotj.png" group-title="Cine",0057.TBS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7153.m3u8
-#EXTINF:-1 type="stream" tvg-id="I619.19246.schedulesdirect.org" tvg-name="0058.TCM" tvg-logo="https://i.imgur.com/kJoAJd7.png " título-grupo=".Cine",0058.TCM
+#EXTINF:-1 type="stream" tvg-id="I619.19246.schedulesdirect.org" tvg-name="0058.TCM" tvg-logo="https://i.imgur.com/kJoAJd7.png " group-title="Cine",0058.TCM
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7154.m3u8
 #EXTINF:-1 type="stream" tvg-id="animalplanet.mx" tvg-name="0100.ANIMAL PLANET SD (4:3)" tvg-logo="https://i.imgur.com/ D0RJ1Kv.png" group-title=".Cultura",0100.ANIMAL PLANET SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7368.m3u8
-#EXTINF:-1 type="stream" tvg-id="animalplanet.mx" tvg-name="0101.ANIMAL PLANET" tvg-logo="https://i.imgur.com/D0RJ1Kv.png" group- title=".Cultura",0101.PLANETA ANIMAL
+#EXTINF:-1 type="stream" tvg-id="animalplanet.mx" tvg-name="0101.ANIMAL PLANET" tvg-logo="https://i.imgur.com/D0RJ1Kv.png" group-title=".Cultura",0101.PLANETA ANIMAL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7030.m3u8
 #EXTINF:-1 type="stream" tvg-id="animalplanet.mx" tvg-name="0102.ANIMAL PLANET Full HD (1080p)" tvg-logo="https://i.imgur.com/D0RJ1Kv .png" group-title=".Cultura",0102. PLANETA ANIMAL Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7257.m3u8
-#EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0103.DW" tvg-logo="https://i.imgur.com/agFZnGZ.png " título-grupo=".Cultura",0103.DW
+#EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0103.DW" tvg-logo="https://i.imgur.com/agFZnGZ.png " group-title=".Cultura",0103.DW
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7615.m3u8
 #EXTINF:-1 type="stream" tvg-id="discoverychannel.mx" tvg-name="0104.DISCOVERY CHANNEL SD (4:3)" tvg-logo="https://i.imgur.com/ Q9EeqUf.png" group-title=".Cultura",0104.DISCOVERY CHANNEL SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7367.m3u8
-#EXTINF:-1 type="stream" tvg-id="discoverychannel.mx" tvg-name="0105.DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Q9EeqUf.png" grupo- title=".Cultura",0105.CANAL DE DESCUBRIMIENTO
+#EXTINF:-1 type="stream" tvg-id="discoverychannel.mx" tvg-name="0105.DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Q9EeqUf.png" grupo-title=".Cultura",0105.CANAL DE DESCUBRIMIENTO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7092.m3u8
 #EXTINF:-1 type="stream" tvg-id="discoverychannel.mx" tvg-name="0106.DISCOVERY CHANNEL Full HD (1080p)" tvg-logo="https://i.imgur.com/Q9EeqUf .png" group-title=".Cultura",0106.DISCOVERY CHANNEL Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7222.m3u8
 #EXTINF:-1 type="stream" tvg-id="discoveryhomeandhealth.mx" tvg-name="0107.DISCOVERY H&H SD (4:3)" tvg-logo="https://i.imgur.com/ UI7KSYh.png" group-title=".Cultura",0107.DISCOVERY H&H SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7342.m3u8
-#EXTINF:-1 type="stream" tvg-id="discoveryhomeandhealth.mx" tvg-name="0108.DISCOVERY HYH" tvg-logo="https://i.imgur.com/UI7KSYh.png" group- title=".Cultura",0108.DISCOVERY HYH
+#EXTINF:-1 type="stream" tvg-id="discoveryhomeandhealth.mx" tvg-name="0108.DISCOVERY HYH" tvg-logo="https://i.imgur.com/UI7KSYh.png" group-title=".Cultura",0108.DISCOVERY HYH
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7093.m3u8
 #EXTINF:-1 type="stream" tvg-id="discoveryhomeandhealth.mx" tvg-name="0109.DISCOVERY H&H HD (720p)" tvg-logo="https://i.imgur.com/UI7KSYh. png" group-title=".Cultura",0109.DISCOVERY H&H HD (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7450.m3u8
@@ -3670,13 +3671,13 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7450.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7251.m3u8
 #EXTINF:-1 type="stream" tvg-id="investigationdiscovery.mx" tvg-name="0111.DISCOVERY INVESTIGATION SD (4:3)" tvg-logo="https://i.imgur.com/ MknTbFx.png" group-title=".Cultura",0111.DISCOVERY INVESTIGATION SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7340.m3u8
-#EXTINF:-1 type="stream" tvg-id="investigationdiscovery.mx" tvg-name="0112.DISCOVERY INVESTIGATION" tvg-logo="https://i.imgur.com/MknTbFx.png" group- title=".Cultura",0112.INVESTIGACIÓN DE DESCUBRIMIENTO
+#EXTINF:-1 type="stream" tvg-id="investigationdiscovery.mx" tvg-name="0112.DISCOVERY INVESTIGATION" tvg-logo="https://i.imgur.com/MknTbFx.png" group-title=".Cultura",0112.INVESTIGACIÓN DE DESCUBRIMIENTO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7128.m3u8
 #EXTINF:-1 type="stream" tvg-id="investigationdiscovery.mx" tvg-name="0113.DISCOVERY INVESTIGATION Full HD (1080P)" tvg-logo="https://i.imgur.com/MknTbFx .png" group-title=".Cultura",0113.INVESTIGACIÓN DE DESCUBRIMIENTO Full HD (1080P)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7258.m3u8
 #EXTINF:-1 type="stream" tvg-id="discoveryturbo.mx" tvg-name="0114.DISCOVERY TURBO SD (4:3)" tvg-logo="https://i.imgur.com/ L2VKd3R.png" group-title=".Cultura",0114.DISCOVERY TURBO SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7381.m3u8
-#EXTINF:-1 type="stream" tvg-id="discoveryturbo.mx" tvg-name="0115.DISCOVERY TURBO" tvg-logo="https://i.imgur.com/L2VKd3R.png" grupo- title=".Cultura",0115.DISCOVERY TURBO
+#EXTINF:-1 type="stream" tvg-id="discoveryturbo.mx" tvg-name="0115.DISCOVERY TURBO" tvg-logo="https://i.imgur.com/L2VKd3R.png" grupo-title=".Cultura",0115.DISCOVERY TURBO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7103.m3u8
 #EXTINF:-1 type="stream" tvg-id="discoveryturbo.mx" tvg-name="0116.DISCOVERY TURBO (720p)" tvg-logo="https://i.imgur.com/L2VKd3R.png " group-title=".Cultura",0116.DISCOVERY TURBO (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7445.m3u8
@@ -3690,33 +3691,33 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7102.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7320.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0121.DISCOVERY TLC HD (1080p)" tvg-logo="https://i.imgur. com/EF5dyEP.png" group-title=".Cultura",0121.DISCOVERY TLC HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7254.m3u8
-#EXTINF:-1 type="stream" tvg-id="discoveryhdtheater.mx" ​​tvg-name="0122.DISCOVERY TEATHER" tvg-logo="https://i.imgur.com/FdVsGKy.png" group- title=".Cultura",0122.DISCOVERY TEATRO
+#EXTINF:-1 type="stream" tvg-id="discoveryhdtheater.mx" ​​tvg-name="0122.DISCOVERY TEATHER" tvg-logo="https://i.imgur.com/FdVsGKy.png" group-title=".Cultura",0122.DISCOVERY TEATRO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7101.m3u8
 #EXTINF:-1 type="stream" tvg-id="discoveryhdtheater.mx" ​​tvg-name="0123.DISCOVERY THEATER HD (720p)" tvg-logo="https://i.imgur.com/FdVsGKy. png" group-title=".Cultura",0123.DISCOVERY THEATER HD (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7468.m3u8
-#EXTINF:-1 type="stream" tvg-id="discoveryworld.mx" tvg-name="0124.DISCOVERY WORLD" tvg-logo="https://i.imgur.com/ByZLB81.png" group- title=".Cultura",0124.DISCOVERY WORLD
+#EXTINF:-1 type="stream" tvg-id="discoveryworld.mx" tvg-name="0124.DISCOVERY WORLD" tvg-logo="https://i.imgur.com/ByZLB81.png" group-title=".Cultura",0124.DISCOVERY WORLD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7104.m3u8
 #EXTINF:-1 type="stream" tvg-id="discoveryworld.mx" tvg-name="0125.DISCOVERY WORLD HD (720p)" tvg-logo="https://i.imgur.com/ByZLB81. png" group-title=".Cultura",0125.DISCOVERY WORLD HD (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7469.m3u8
-#EXTINF:-1 type="stream" tvg-id="discoveryscience.mx" tvg-name="0126.DISCOVERY SCIENCE" tvg-logo="https://i.imgur.com/jtPJF5W.png" group- title=".Cultura",0126.CIENCIA DE DESCUBRIMIENTO
+#EXTINF:-1 type="stream" tvg-id="discoveryscience.mx" tvg-name="0126.DISCOVERY SCIENCE" tvg-logo="https://i.imgur.com/jtPJF5W.png" group-title=".Cultura",0126.CIENCIA DE DESCUBRIMIENTO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7100.m3u8
-#EXTINF:-1 type="stream" tvg-id="discoveryespanol.us" tvg-name="0127.DISCOVERY ESPAÑOL" tvg-logo="https://i.imgur.com/mynDaUL.png" group- title=".Cultura",0127.DISCOVERY ESPAÑOL
+#EXTINF:-1 type="stream" tvg-id="discoveryespanol.us" tvg-name="0127.DISCOVERY ESPAÑOL" tvg-logo="https://i.imgur.com/mynDaUL.png" group-title=".Cultura",0127.DISCOVERY ESPAÑOL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7613.m3u8
-#EXTINF:-1 type="stream" tvg-id="discoveryfamilia.us" tvg-name="0128.DISCOVERY FAMILIA" tvg-logo="https://i.imgur.com/L7YQukQ.png" grupo- title=".Cultura",0128.DISCOVERY FAMILIA
+#EXTINF:-1 type="stream" tvg-id="discoveryfamilia.us" tvg-name="0128.DISCOVERY FAMILIA" tvg-logo="https://i.imgur.com/L7YQukQ.png" grupo-title=".Cultura",0128.DISCOVERY FAMILIA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7614.m3u8
 #EXTINF:-1 type="stream" tvg-id="eentertainment.mx" tvg-name="0129.E! ENTRETENIMIENTO SD (4:3)" tvg-logo="https://i.imgur.com /WO9yX0O.png" group-title=".Cultura",0129.E! ENTRETENIMIENTO SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7375.m3u8
-#EXTINF:-1 type="stream" tvg-id="eentertainment.mx" tvg-name="0130.E! ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/WO9yX0O.png" grupo -title=".Cultura",0130.E! ENTRETENIMIENTO
+#EXTINF:-1 type="stream" tvg-id="eentertainment.mx" tvg-name="0130.E! ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/WO9yX0O.png" grupo-title=".Cultura",0130.E! ENTRETENIMIENTO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7043.m3u8
 #EXTINF:-1 type="stream" tvg-id="eentertainment.mx" tvg-name="0131.E! ENTRETENIMIENTO Full HD (1080p)" tvg-logo="https://i.imgur.com/ WO9yX0O.png" group-title=".Cultura",0131.E! ENTRETENIMIENTO Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7250.m3u8
-#EXTINF:-1 type="stream" tvg-id="elgourmet.mx" tvg-name="0132.EL GOURMET" tvg-logo="https://i.imgur.com/B4veGoq.png" grupo- title=".Cultura",0132.EL GOURMET
+#EXTINF:-1 type="stream" tvg-id="elgourmet.mx" tvg-name="0132.EL GOURMET" tvg-logo="https://i.imgur.com/B4veGoq.png" grupo-title=".Cultura",0132.EL GOURMET
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7125.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0133.EL GOURMET HD (720P)" tvg-logo="https://i.imgur. com/B4veGoq.png" group-title=".Cultura",0133.EL GOURMET HD (720P)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8405.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0134.FOOD NETWORK" tvg-logo="https://i.imgur.com/IoO0GWd. png" group-title=".Cultura",0134.RED ALIMENTARIA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7172.m3u8
-#EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0135.HGTV" tvg-logo="https://i.imgur.com/dVEqBqh.png " título-grupo=".Cultura",0135.HGTV
+#EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0135.HGTV" tvg-logo="https://i.imgur.com/dVEqBqh.png " group-title=".Cultura",0135.HGTV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7204.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0136.HGTV HD (720p)" tvg-logo="https://i.imgur.com /dVEqBqh.png" group-title=".Cultura",0136.HGTV HD (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7443.m3u8
@@ -3730,19 +3731,19 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7225.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7353.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0141.HISTORY 2 HD (720p) " tvg-logo="https://i.imgur. com/PG1RFdq.png" group-title=".Cultura",0141.HISTORIA 2 HD (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7476.m3u8
-#EXTINF:-1 type="stream" tvg-id="maschictv.mx" tvg-name="0142.MAS CHIC" tvg-logo="https://i.imgur.com/RSBq3k8.png" grupo- title=".Cultura",0142.MAS CHIC
+#EXTINF:-1 type="stream" tvg-id="maschictv.mx" tvg-name="0142.MAS CHIC" tvg-logo="https://i.imgur.com/RSBq3k8.png" grupo-title=".Cultura",0142.MAS CHIC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7130.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0143.MAS CHIC HD (720p)" tvg-logo="https://i.imgur. com/RSBq3k8.png" group-title=".Cultura",0143.MAS CHIC HD (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8407.m3u8
 #EXTINF:-1 type="stream" tvg-id="natgeo.mx" tvg-name="0144.NAT GEO SD (4:3)" tvg-logo="https://i.imgur.com/ gvISSEE.png" group-title=".Cultura",0144.NAT GEO SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7379.m3u8
-#EXTINF:-1 type="stream" tvg-id="natgeo.mx" tvg-name="0145.NAT GEO " tvg-logo="https://i.imgur.com/gvISSEE.png" grupo- title=".Cultura",0145.NAT GEO
+#EXTINF:-1 type="stream" tvg-id="natgeo.mx" tvg-name="0145.NAT GEO " tvg-logo="https://i.imgur.com/gvISSEE.png" grupo-title=".Cultura",0145.NAT GEO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7134.m3u8
 #EXTINF:-1 type="stream" tvg-id="natgeo.mx" tvg-name="0146.NAT GEO Full HD (1080p)" tvg-logo="https://i.imgur.com/gvISSEE .png" group-title=".Cultura",0146.NAT GEO Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7253.m3u8
 #EXTINF:-1 type="stream" tvg-id="worldofbusinessideas.mx" tvg-name="0147.WOBI" tvg-logo="https://i.imgur.com/pfFbogV.png" group-title =".Cultura",0147.WOBI
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7168.m3u8
-#EXTINF:-1 type="stream" tvg-id="aymsports.mx" tvg-name="0200.AYM SPORTS" tvg-logo="https://i.imgur.com/cBavzVT.png" grupo- title=".Deportes",0200.AYM DEPORTES
+#EXTINF:-1 type="stream" tvg-id="aymsports.mx" tvg-name="0200.AYM SPORTS" tvg-logo="https://i.imgur.com/cBavzVT.png" grupo-title=".Deportes",0200.AYM DEPORTES
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7033.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0201.ADRENALINA SPORTS" tvg-logo="https://i.imgur.com/F6PHiKi. png" group-title=".Deportes",0201.DEPORTES ADRENALINA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7201.m3u8
@@ -3754,9 +3755,9 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7822.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8425.m3u8
 #EXTINF:-1 type="stream" tvg-id="I41.11054.zap2it.com" tvg-name="0205.AT&T SPORTS NET " tvg-logo="https://i.imgur.com/LT8yEx5 .png" group-title=".Deportes",0205.AT&T SPORTS NET
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7859.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0206.ACCN ESPN" tvg-logo="https://i.imgur.com/i1QvB2I.png" group-title=" .Deportes",0206.ACCN ESPN
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0206.ACCN ESPN" tvg-logo="https://i.imgur.com/i1QvB2I.png" group-title=".Deportes",0206.ACCN ESPN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9336.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0207.BT SPORT " tvg-logo="https://i.imgur.com/Ssck6Wr.png" group-title=" .Deportes",0207.BT SPORT
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0207.BT SPORT " tvg-logo="https://i.imgur.com/Ssck6Wr.png" group-title=".Deportes",0207.BT SPORT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9337.m3u8
 #EXTINF:-1 type="stream" tvg-id="I692.11054.zap2it.com" tvg-name="0209.BALLY SPORT WEST" tvg-logo="https://i.imgur.com/tnZ3McZ .png" group-title=".Deportes",0209.BALLY SPORT OESTE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9318.m3u8
@@ -3770,23 +3771,23 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9316.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9314.m3u8
 #EXTINF:-1 type="stream" tvg-id="I668.10977.zap2it.com" tvg-name="0214.BALLY NORTH" tvg-logo="https://i.imgur.com/tnZ3McZ. png" group-title=".Deportes",0214.BALLY NORTE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9313.m3u8
-#EXTINF:-1 type="stream" tvg-id="beinsportespanol.us" tvg-name="0215.BEIN SPORT N" tvg-logo="https://i.imgur.com/GangbAH.png" grupo -title=".Deportes",0215.BEIN SPORT N
+#EXTINF:-1 type="stream" tvg-id="beinsportespanol.us" tvg-name="0215.BEIN SPORT N" tvg-logo="https://i.imgur.com/GangbAH.png" group-title=".Deportes",0215.BEIN SPORT N
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7769.m3u8
 #EXTINF:-1 type="stream" tvg-id="beinsportsxtraes.us" tvg-name="0216.BEIN SPORTS XTRA Ñ" tvg-logo="https://i.imgur.com/h0A4jI0.png" group-title=".Deportes",0216.BEIN SPORTS XTRA Ñ
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7776.m3u8
 #EXTINF:-1 type="stream" tvg-id="beinsportsxtra.us" tvg-name="0217.BEIN SPORTS LA LIGA " tvg-logo="https://i.imgur.com/h0A4jI0.png" group-title=".Deportes",0217.BEIN SPORTS LA LIGA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7777.m3u8
-#EXTINF:-1 type="stream" tvg-id="beinsports.us" tvg-name="0218.BEIN SPORT " tvg-logo="https://i.imgur.com/h0A4jI0.png" grupo- title=".Deportes",0218.BEIN SPORT
+#EXTINF:-1 type="stream" tvg-id="beinsports.us" tvg-name="0218.BEIN SPORT " tvg-logo="https://i.imgur.com/h0A4jI0.png" group-title=".Deportes",0218.BEIN SPORT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7770.m3u8
-#EXTINF:-1 type="stream" tvg-id="beinsports4.us" tvg-name="0219.BEIN SPORT 4" tvg-logo="https://i.imgur.com/h0A4jI0.png" grupo -title=".Deportes",0219.BEIN DEPORTE 4
+#EXTINF:-1 type="stream" tvg-id="beinsports4.us" tvg-name="0219.BEIN SPORT 4" tvg-logo="https://i.imgur.com/h0A4jI0.png" group-title=".Deportes",0219.BEIN DEPORTE 4
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7771.m3u8
-#EXTINF:-1 type="stream" tvg-id="beinsports5.us" tvg-name="0220.BEINSPORT 5" tvg-logo="https://i.imgur.com/h0A4jI0.png" grupo- title=".Deportes",0220.BEINSPORT 5
+#EXTINF:-1 type="stream" tvg-id="beinsports5.us" tvg-name="0220.BEINSPORT 5" tvg-logo="https://i.imgur.com/h0A4jI0.png" group-title=".Deportes",0220.BEINSPORT 5
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7772.m3u8
-#EXTINF:-1 type="stream" tvg-id="beinsports6.us" tvg-name="0221.BEIN SPORT 6" tvg-logo="https://i.imgur.com/h0A4jI0.png" grupo -title=".Deportes",0221.BEIN DEPORTE 6
+#EXTINF:-1 type="stream" tvg-id="beinsports6.us" tvg-name="0221.BEIN SPORT 6" tvg-logo="https://i.imgur.com/h0A4jI0.png" group-title=".Deportes",0221.BEIN DEPORTE 6
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7773.m3u8
-#EXTINF:-1 type="stream" tvg-id="beinsports7.us" tvg-name="0222.BEIN SPORT 7" tvg-logo="https://i.imgur.com/h0A4jI0.png" grupo -title=".Deportes",0222.BEIN DEPORTE 7
+#EXTINF:-1 type="stream" tvg-id="beinsports7.us" tvg-name="0222.BEIN SPORT 7" tvg-logo="https://i.imgur.com/h0A4jI0.png" group-title=".Deportes",0222.BEIN DEPORTE 7
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7774.m3u8
-#EXTINF:-1 type="stream" tvg-id="beinsports8.us" tvg-name="0223.BEIN SPORT 8" tvg-logo="https://i.imgur.com/h0A4jI0.png" grupo -title=".Deportes",0223.BEIN DEPORTE 8
+#EXTINF:-1 type="stream" tvg-id="beinsports8.us" tvg-name="0223.BEIN SPORT 8" tvg-logo="https://i.imgur.com/h0A4jI0.png" group-title=".Deportes",0223.BEIN DEPORTE 8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7775.m3u8
 #EXTINF:-1 type="stream" tvg-id="I141.72291.schedulesdirect.org" tvg-name="0224.CLARO SPORTS SD (4:3)" tvg-logo="https://i. imgur.com/cSRPemp.png" group-title=".Deportes",0224.CLARO SPORTS SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7378.m3u8
@@ -3794,31 +3795,31 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7378.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7858.m3u8
 #EXTINF:-1 type="stream" tvg-id="I603.10188.zap2it.com" tvg-name="0226.COWBOY " tvg-logo="https://i.imgur.com/R7eX2sA.png " group-title=".Deportes",0226.COWBOY
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7556.m3u8
-#EXTINF:-1 type="stream" tvg-id="dazn1.es" tvg-name="0227.DAZN 1" tvg-logo="https://i.imgur.com/5eLkJco.png" grupo- title=".Deportes",0227.DAZN 1
+#EXTINF:-1 type="stream" tvg-id="dazn1.es" tvg-name="0227.DAZN 1" tvg-logo="https://i.imgur.com/5eLkJco.png" group-title=".Deportes",0227.DAZN 1
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7797.m3u8
-#EXTINF:-1 type="stream" tvg-id="dazn2.es" tvg-name="0228.DAZN 2 " tvg-logo="https://i.imgur.com/5eLkJco.png" grupo- title=".Deportes",0228.DAZN 2
+#EXTINF:-1 type="stream" tvg-id="dazn2.es" tvg-name="0228.DAZN 2 " tvg-logo="https://i.imgur.com/5eLkJco.png" group-title=".Deportes",0228.DAZN 2
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7798.m3u8
-#EXTINF:-1 type="stream" tvg-id="dazn3.es" tvg-name="0229.DAZN 3" tvg-logo="https://i.imgur.com/5eLkJco.png" grupo- title=".Deportes",0229.DAZN 3
+#EXTINF:-1 type="stream" tvg-id="dazn3.es" tvg-name="0229.DAZN 3" tvg-logo="https://i.imgur.com/5eLkJco.png" group-title=".Deportes",0229.DAZN 3
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7799.m3u8
-#EXTINF:-1 type="stream" tvg-id="dazn4.es" tvg-name="0230.DAZN 4" tvg-logo="https://i.imgur.com/5eLkJco.png" grupo- title=".Deportes",0230.DAZN 4
+#EXTINF:-1 type="stream" tvg-id="dazn4.es" tvg-name="0230.DAZN 4" tvg-logo="https://i.imgur.com/5eLkJco.png" group-title=".Deportes",0230.DAZN 4
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7800.m3u8
-#EXTINF:-1 type="stream" tvg-id="daznf1.es" tvg-name="0231.DAZN F1" tvg-logo="https://i.imgur.com/go6Tj3G.png" grupo- title=".Deportes",0231.DAZN F1
+#EXTINF:-1 type="stream" tvg-id="daznf1.es" tvg-name="0231.DAZN F1" tvg-logo="https://i.imgur.com/go6Tj3G.png" group-title=".Deportes",0231.DAZN F1
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7801.m3u8
-#EXTINF:-1 type="stream" tvg-id="laligatvbar.es" tvg-name="0232.DAZN LA LIGA" tvg-logo="https://i.imgur.com/5eLkJco.png" grupo -title=".Deportes",0232.DAZN LA LIGA
+#EXTINF:-1 type="stream" tvg-id="laligatvbar.es" tvg-name="0232.DAZN LA LIGA" tvg-logo="https://i.imgur.com/5eLkJco.png" group-title=".Deportes",0232.DAZN LA LIGA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7806.m3u8
-#EXTINF:-1 type="stream" tvg-id="cartoonnetwork.mx" tvg-name="0233.DIRECTV SPORTS FIGHT " tvg-logo="https://i.imgur.com/KU5ozeU.png" grupo -title=".Deportes",0233.LUCHA DEPORTIVA DIRECTV
+#EXTINF:-1 type="stream" tvg-id="cartoonnetwork.mx" tvg-name="0233.DIRECTV SPORTS FIGHT " tvg-logo="https://i.imgur.com/KU5ozeU.png" group-title=".Deportes",0233.LUCHA DEPORTIVA DIRECTV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7446.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0234.DIRECTV SPORTS 1 ARG" tvg-logo="https://i.imgur.com/KU5ozeU.png" group-title =".Deportes",0234.DIRECTV DEPORTES 1 ARG
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0234.DIRECTV SPORTS 1 ARG" tvg-logo="https://i.imgur.com/KU5ozeU.png" group-title=".Deportes",0234.DIRECTV DEPORTES 1 ARG
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7810.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0235.DIRECTV SPORTS 2 ARG" tvg-logo="https://i.imgur.com/KU5ozeU.png" group-title =".Deportes",0235.DIRECTV SPORTS 2 ARG
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0235.DIRECTV SPORTS 2 ARG" tvg-logo="https://i.imgur.com/KU5ozeU.png" group-title=".Deportes",0235.DIRECTV SPORTS 2 ARG
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7811.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0236.DIRECTV SPORTS PLUS ARG" tvg-logo="https://i.imgur.com/KU5ozeU.png" group-title =".Deportes",0236.DIRECTV SPORTS PLUS ARG
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0236.DIRECTV SPORTS PLUS ARG" tvg-logo="https://i.imgur.com/KU5ozeU.png" group-title=".Deportes",0236.DIRECTV SPORTS PLUS ARG
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7812.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0238.DIRECTV SPORTS UY" tvg-logo="https://i.imgur.com/KU5ozeU.png" group-title= ".Deportes",0238.DIRECTV SPORTS UY
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0238.DIRECTV SPORTS UY" tvg-logo="https://i.imgur.com/KU5ozeU.png" group-title=".Deportes",0238.DIRECTV SPORTS UY
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7815.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0239.DEPORTV" tvg-logo="https://i.imgur.com/EX8Ve1k.png" group-title=". Deportes", 0239. DEPORTV
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0239.DEPORTV" tvg-logo="https://i.imgur.com/EX8Ve1k.png" group-title=".Deportes", 0239. DEPORTV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9311.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0240.EL CANAL DEL FUTBOL" tvg-logo="https://i.imgur.com/sbjhAP0.png" group-title =".Deportes",0240.EL CANAL DEL FÚTBOL
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0240.EL CANAL DEL FUTBOL" tvg-logo="https://i.imgur.com/sbjhAP0.png" group-title=".Deportes",0240.EL CANAL DEL FÚTBOL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9319.m3u8
 #EXTINF:-1 type="stream" tvg-id="I410.1434.tvguide.co.uk" tvg-name="0241.EUROSPORTS 1 " tvg-logo="https://i.imgur.com/ wZtla9H.png" group-title=".Deportes",0241.EUROSPORTS 1
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7828.m3u8
@@ -3828,35 +3829,35 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7829.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7796.m3u8
 #EXTINF:-1 type="stream" tvg-id="espn.mx" tvg-name="0245.ESPN 1 MEX SD (4:3)" tvg-logo="https://i.imgur.com /i1QvB2I.png" group-title=".Deportes",0245.ESPN 1 MEX SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7365.m3u8
-#EXTINF:-1 type="stream" tvg-id="espn.mx" tvg-name="0246.ESPN MEX" tvg-logo="https://i.imgur.com/iy0EMz3.png" grupo- title=".Deportes",0246.ESPN MEX
+#EXTINF:-1 type="stream" tvg-id="espn.mx" tvg-name="0246.ESPN MEX" tvg-logo="https://i.imgur.com/iy0EMz3.png" grupo-title=".Deportes",0246.ESPN MEX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7105.m3u8
 #EXTINF:-1 type="stream" tvg-id="espn.mx" tvg-name="0247.ESPN 1 MEX Full HD (1080p)" tvg-logo="https://i.imgur.com/ iy0EMz3.png" group-title=".Deportes",0247.ESPN 1 MEX Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7275.m3u8
 #EXTINF:-1 type="stream" tvg-id="espn2.mx" tvg-name="0248.ESPN 2 MEX SD (4:3)" tvg-logo="https://i.imgur.com /iy0EMz3.png" group-title=".Deportes",0248.ESPN 2 MEX SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7364.m3u8
-#EXTINF:-1 type="stream" tvg-id="espn2.mx" tvg-name="0249.ESPN 2 MEX" tvg-logo="https://i.imgur.com/i1QvB2I.png" grupo -title=".Deportes",0249.ESPN 2 MEX
+#EXTINF:-1 type="stream" tvg-id="espn2.mx" tvg-name="0249.ESPN 2 MEX" tvg-logo="https://i.imgur.com/i1QvB2I.png" group-title=".Deportes",0249.ESPN 2 MEX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7107.m3u8
 #EXTINF:-1 type="stream" tvg-id="espn.mx" tvg-name="0250.ESPN 2 MEX FULL HD (1080p) " tvg-logo="https://i.imgur.com/ i1QvB2I.png" group-title=".Deportes",0250.ESPN 2 MEX FULL HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7237.m3u8
-#EXTINF:-1 type="stream" tvg-id="espn.ar" tvg-name="0254.ESPN 1 ARG " tvg-logo="https://i.imgur.com/i1QvB2I.png" grupo -title=".Deportes",0254.ESPN 1 ARG
+#EXTINF:-1 type="stream" tvg-id="espn.ar" tvg-name="0254.ESPN 1 ARG " tvg-logo="https://i.imgur.com/i1QvB2I.png" group-title=".Deportes",0254.ESPN 1 ARG
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7790.m3u8
-#EXTINF:-1 type="stream" tvg-id="espn2.ar" tvg-name="0255.ESPN 2 ARG " tvg-logo="https://i.imgur.com/iy0EMz3.png" grupo -title=".Deportes",0255.ESPN 2 ARG
+#EXTINF:-1 type="stream" tvg-id="espn2.ar" tvg-name="0255.ESPN 2 ARG " tvg-logo="https://i.imgur.com/iy0EMz3.png" group-title=".Deportes",0255.ESPN 2 ARG
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7791.m3u8
-#EXTINF:-1 type="stream" tvg-id="espn3.ar" tvg-name="0256.ESPN 3 ARG " tvg-logo="https://i.imgur.com/nTPywZ4.png" grupo -title=".Deportes",0256.ESPN 3 ARG
+#EXTINF:-1 type="stream" tvg-id="espn3.ar" tvg-name="0256.ESPN 3 ARG " tvg-logo="https://i.imgur.com/nTPywZ4.png" group-title=".Deportes",0256.ESPN 3 ARG
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7792.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0257.ESPN 4 ARG " tvg-logo="https://i.imgur.com/iy0EMz3 .png" group-title=".Deportes",0257.ESPN 4 ARG
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7789.m3u8
-#EXTINF:-1 type="stream" tvg-id="espnxtra.ar" tvg-name="0258.ESPN EXTRA SUR" tvg-logo="https://i.imgur.com/i1QvB2I.png" grupo -title=".Deportes",0258.ESPN EXTRA SUR
+#EXTINF:-1 type="stream" tvg-id="espnxtra.ar" tvg-name="0258.ESPN EXTRA SUR" tvg-logo="https://i.imgur.com/i1QvB2I.png" group-title=".Deportes",0258.ESPN EXTRA SUR
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7793.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0259.ESPN PREMIUM" tvg-logo="https://i.imgur.com/rdUMGIc.png" group-title=" .Deportes",0259.ESPN PREMIUM
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0259.ESPN PREMIUM" tvg-logo="https://i.imgur.com/rdUMGIc.png" group-title=".Deportes",0259.ESPN PREMIUM
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9320.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0260.ESPN 1 CHILE " tvg-logo="https://i.imgur.com/iy0EMz3.png" group-title= ".Deportes",0260.ESPN 1 CHILE
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0260.ESPN 1 CHILE " tvg-logo="https://i.imgur.com/iy0EMz3.png" group-title=".Deportes",0260.ESPN 1 CHILE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9334.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0261.ESPN 2 CHILE " tvg-logo="https://i.imgur.com/iy0EMz3.png" group-title= ".Deportes",0261.ESPN 2 CHILE
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0261.ESPN 2 CHILE " tvg-logo="https://i.imgur.com/iy0EMz3.png" group-title=".Deportes",0261.ESPN 2 CHILE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9335.m3u8
-#EXTINF:-1 type="stream" tvg-id="espn.us" tvg-name="0262.ESPN 1 USA " tvg-logo="https://i.imgur.com/i1QvB2I.png" grupo -title=".Deportes",0262.ESPN 1 EE.UU.
+#EXTINF:-1 type="stream" tvg-id="espn.us" tvg-name="0262.ESPN 1 USA " tvg-logo="https://i.imgur.com/i1QvB2I.png" group-title=".Deportes",0262.ESPN 1 EE.UU.
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7794.m3u8
-#EXTINF:-1 type="stream" tvg-id="espn2.us" tvg-name="0263.ESPN 2 USA" tvg-logo="https://i.imgur.com/iy0EMz3.png" grupo -title=".Deportes",0263.ESPN 2 EE.UU.
+#EXTINF:-1 type="stream" tvg-id="espn2.us" tvg-name="0263.ESPN 2 USA" tvg-logo="https://i.imgur.com/iy0EMz3.png" group-title=".Deportes",0263.ESPN 2 EE.UU.
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7795.m3u8
 #EXTINF:-1 type="stream" tvg-id="I219.82541.zap2it.com" tvg-name="0264.FOX SPORTS 1 USA " tvg-logo="https://i.imgur.com/ cYDOS84.png" group-title=".Deportes",0264.FOX SPORTS 1 USA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7785.m3u8
@@ -3882,31 +3883,31 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7117.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7247.m3u8
 #EXTINF:-1 type="stream" tvg-id="foxsports3.mx" tvg-name="0276.FOX SPORTS 3 SD (4:3)" tvg-logo="https://i.imgur.com /PiCIalq.png" group-title=".Deportes",0276.FOX SPORTS 3 SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7363.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0279.FOX SPORTS PREMIUM MEX " tvg-logo="https://i.imgur.com/TGS1ijh.png" group-title =".Deportes",0279.FOX SPORTS PREMIUM MEX  
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0279.FOX SPORTS PREMIUM MEX " tvg-logo="https://i.imgur.com/TGS1ijh.png" group-title=".Deportes",0279.FOX SPORTS PREMIUM MEX  
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7171.m3u8
 #EXTINF:-1 type="stream" tvg-id="foxsports.ar" tvg-name="0281.FOX SPORTS ARG 1 " tvg-logo="https://i.imgur.com/cYDOS84.png" group-title=".Deportes",0281.FOX SPORTS ARG 1
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7780.m3u8
 #EXTINF:-1 type="stream" tvg-id="foxsportspremium.ar" tvg-name="0283.FOX SPORTS PREMIUM ARG " tvg-logo="https://i.imgur.com/TGS1ijh.png" group-title=".Deportes",0283.FOX SPORTS PREMIUM ARG
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7782.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0284.FOX SPORTS 1 CHILE" tvg-logo="https://i.imgur.com/cYDOS84.png" group-title =".Deportes",0284.FOX SPORTS 1 CHILE
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0284.FOX SPORTS 1 CHILE" tvg-logo="https://i.imgur.com/cYDOS84.png" group-title=".Deportes",0284.FOX SPORTS 1 CHILE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7783.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0285.FOX SPORTS 2 CHILE" tvg-logo="https://i.imgur.com/Gndgtlc.png" group-title =".Deportes",0285.FOX SPORTS 2 CHILE
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0285.FOX SPORTS 2 CHILE" tvg-logo="https://i.imgur.com/Gndgtlc.png" group-title=".Deportes",0285.FOX SPORTS 2 CHILE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7784.m3u8
-#EXTINF:-1 type="stream" tvg-id="gol.es" tvg-name="0286.GOL TV ESPAÑA " tvg-logo="https://i.imgur.com/uSnIf2f.png" grupo -title=".Deportes",0286.GOL TV ESPAÑA
+#EXTINF:-1 type="stream" tvg-id="gol.es" tvg-name="0286.GOL TV ESPAÑA " tvg-logo="https://i.imgur.com/uSnIf2f.png" group-title=".Deportes",0286.GOL TV ESPAÑA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7805.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0289.GOLF FOOTBALL" tvg-logo="https://i.imgur.com/8pwVSxr. png" group-title=".Deportes",0289.GOLF FÚTBOL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8406.m3u8
-#EXTINF:-1 type="stream" tvg-id="golfchannel.mx" tvg-name="0290.GOLF CHANNEL " tvg-logo="https://i.imgur.com/Pylaq7o.png" group- title=".Deportes",0290.CANAL GOLF
+#EXTINF:-1 type="stream" tvg-id="golfchannel.mx" tvg-name="0290.GOLF CHANNEL " tvg-logo="https://i.imgur.com/Pylaq7o.png" group-title=".Deportes",0290.CANAL GOLF
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7177.m3u8
-#EXTINF:-1 type="stream" tvg-id="movistargolf.es" tvg-name="0291.MOVISTAR GOLF " tvg-logo="https://i.imgur.com/9ndI1cB.png" grupo- title=".Deportes",0291.MOVISTAR GOLF
+#EXTINF:-1 type="stream" tvg-id="movistargolf.es" tvg-name="0291.MOVISTAR GOLF " tvg-logo="https://i.imgur.com/9ndI1cB.png" group-title=".Deportes",,0291.MOVISTAR GOLF
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7803.m3u8
-#EXTINF:-1 type="stream" tvg-id="movistardeportes.es" tvg-name="0292.MOVISTAR DEPORTES " tvg-logo="https://i.imgur.com/2wJwQrY.png" grupo- title=".Deportes",0292.MOVISTAR DEPORTES
+#EXTINF:-1 type="stream" tvg-id="movistardeportes.es" tvg-name="0292.MOVISTAR DEPORTES " tvg-logo="https://i.imgur.com/2wJwQrY.png" grupo-title=".Deportes",0292.MOVISTAR DEPORTES
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7802.m3u8
 #EXTINF:-1 type="stream" tvg-id="mligadecampeones.es" tvg-name="0293.MOVISTAR LIGA DE CAMPEONES " tvg-logo="https://i.imgur.com/FwOOYxk.png" group-title=".Deportes",0293.MOVISTAR LIGA DE CAMPEONES
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7807.m3u8
-#EXTINF:-1 type="stream" tvg-id="mlaliga.es" tvg-name="0294.MOVISTAR LA LIGA " tvg-logo="https://i.imgur.com/o6w4ugF.png" grupo -title=".Deportes",0294.MOVISTAR LA LIGA
+#EXTINF:-1 type="stream" tvg-id="mlaliga.es" tvg-name="0294.MOVISTAR LA LIGA " tvg-logo="https://i.imgur.com/o6w4ugF.png" group-title=".Deportes",0294.MOVISTAR LA LIGA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7804.m3u8
-#EXTINF:-1 type="stream" tvg-id="600728952b1776000776526d" tvg-name="0294.MOVISTAR LA LIGA 2" tvg-logo="https://i.imgur.com/o6w4ugF.png" group- title=".Deportes",0294.MOVISTAR LA LIGA 2
+#EXTINF:-1 type="stream" tvg-id="600728952b1776000776526d" tvg-name="0294.MOVISTAR LA LIGA 2" tvg-logo="https://i.imgur.com/o6w4ugF.png" group-title=".Deportes",0294.MOVISTAR LA LIGA 2
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7397.m3u8
 #EXTINF:-1 type="stream" tvg-id="I213.62081.zap2it.com" tvg-name="0295.MLB NET " tvg-logo="https://i.imgur.com/hQIf6Rc. png" group-title=".Deportes",0295.MLB NET
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7818.m3u8
@@ -3914,7 +3915,7 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7818.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7817.m3u8
 #EXTINF:-1 type="stream" tvg-id="I212.45399.zap2it.com" tvg-name="0297.NFL NET " tvg-logo="https://i.imgur.com/SIaM56n. png" group-title=".Deportes",0297.NFL NET
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7819.m3u8
-#EXTINF:-1 type="stream" tvg-id="nbcsportsnetwork.us" tvg-name="0298.NBC SPORT NET " tvg-logo="https://i.imgur.com/Q77EcFg.png" grupo -title=".Deportes",0298.NBC SPORT NET
+#EXTINF:-1 type="stream" tvg-id="nbcsportsnetwork.us" tvg-name="0298.NBC SPORT NET " tvg-logo="https://i.imgur.com/Q77EcFg.png" group-title=".Deportes",0298.NBC SPORT NET
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7854.m3u8
 #EXTINF:-1 type="stream" tvg-id="I630.49198.zap2it.com" tvg-name="0299.NBC SPORT NET BOSTON" tvg-logo="https://i.imgur.com/ Q77EcFg.png" group-title=".Deportes",0299.NBC SPORT NET BOSTON
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7855.m3u8
@@ -3922,11 +3923,11 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7855.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7856.m3u8
 #EXTINF:-1 type="stream" tvg-id="I665.44905.zap2it.com" tvg-name="0301.NBC SPORT NET CHICAGO" tvg-logo="https://i.imgur.com/ Q77EcFg.png" group-title=".Deportes",0301.NBC SPORT NET CHICAGO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7857.m3u8
-#EXTINF:-1 type="stream" tvg-id="outdoorchannel.us" tvg-name="0302.OUTDOOR CHANNEL " tvg-logo="https://i.imgur.com/zB80hKu.png" group- title=".Deportes",0302.CANAL EXTERIOR
+#EXTINF:-1 type="stream" tvg-id="outdoorchannel.us" tvg-name="0302.OUTDOOR CHANNEL " tvg-logo="https://i.imgur.com/zB80hKu.png" group-title=".Deportes",0302.CANAL EXTERIOR
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7823.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0303.PX SPORT" tvg-logo="https://i.imgur.com/9xddW0E. png" group-title=".Deportes",0303.PX DEPORTE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7148.m3u8
-#EXTINF:-1 type="stream" tvg-id="natgeowild.es" tvg-name="0304.EVENTO PRINCIPAL DEPORTIVO" tvg-logo="https://i.imgur.com/8pwVSxr.png" grupo -title=".Deportes",0304.EVENTO PRINCIPAL DEPORTIVO
+#EXTINF:-1 type="stream" tvg-id="natgeowild.es" tvg-name="0304.EVENTO PRINCIPAL DEPORTIVO" tvg-logo="https://i.imgur.com/8pwVSxr.png" group-title=".Deportes",0304.EVENTO PRINCIPAL DEPORTIVO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8467.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0304.SPORTV ARENA" tvg-logo="https://i.imgur.com/8pwVSxr. png" group-title=".Deportes",0304.SPORTV ARENA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9312.m3u8
@@ -3936,15 +3937,15 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7830.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9333.m3u8
 #EXTINF:-1 type="stream" tvg-id="I410.20203.schedulesdirect.org" tvg-name="0307.SPORTNET 360" tvg-logo="https://i.imgur.com/3Z6nKTA. png" group-title=".Deportes",0307.SPORTNET 360
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9332.m3u8
-#EXTINF:-1 type="stream" tvg-id="ufcnetwork.mx" tvg-name="0308.FÚTBOL DEPORTIVO" tvg-logo="https://i.imgur.com/8pwVSxr.png" grupo- title=".Deportes",0308.DEPORTE FÚTBOL
+#EXTINF:-1 type="stream" tvg-id="ufcnetwork.mx" tvg-name="0308.FÚTBOL DEPORTIVO" tvg-logo="https://i.imgur.com/8pwVSxr.png" group-title=".Deportes",0308.DEPORTE FÚTBOL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7322.m3u8
 #EXTINF:-1 type="stream" tvg-id="I402.1890.tvguide.co.uk" tvg-name="0308.SPORT PREMIER LEAGUE" tvg-logo="https://i.imgur.com /8pwVSxr.png" group-title=".Deportes",0308.SPORT PREMIER LEAGUE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9324.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0309.MEZCLA DE DEPORTES" tvg-logo="https://i.imgur.com/8pwVSxr.png" group-title=" .Deportes",0309.MEZCLA DEPORTIVA
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0309.MEZCLA DE DEPORTES" tvg-logo="https://i.imgur.com/8pwVSxr.png" group-title=".Deportes",0309.MEZCLA DEPORTIVA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9326.m3u8
 #EXTINF:-1 type="stream" tvg-id="I406.1671.tvguide.co.uk" tvg-name="0310.SPORTS F1" tvg-logo="https://i.imgur.com/ TrRkL0p.png" group-title=".Deportes",0310.DEPORTES F1
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7864.m3u8
-#EXTINF:-1 type="stream" tvg-id="tudn.mx" tvg-name="0311.TUDN MEX" tvg-logo="https://i.imgur.com/wqWlkI9.png" grupo- title=".Deportes",0311.TUDN MEX
+#EXTINF:-1 type="stream" tvg-id="tudn.mx" tvg-name="0311.TUDN MEX" tvg-logo="https://i.imgur.com/wqWlkI9.png" group-title=".Deportes",0311.TUDN MEX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7202.m3u8
 #EXTINF:-1 type="stream" tvg-id="tudn.mx" tvg-name="0312.TUDN MEX (720p)" tvg-logo="https://i.imgur.com/wqWlkI9.png " group-title=".Deportes",0312.TUDN MEX (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7764.m3u8
@@ -3952,51 +3953,51 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7764.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7276.m3u8
 #EXTINF:-1 type="stream" tvg-id="I464.75176.zap2it.com" tvg-name="0314.TUDN USA " tvg-logo="https://i.imgur.com/wqWlkI9. png" group-title=".Deportes",0314.TUDN USA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7765.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0315.TUDN XTRA 1" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title= ".Deportes",0315.TUDN XTRA 1
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0315.TUDN XTRA 1" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title=".Deportes",0315.TUDN XTRA 1
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7754.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0316.TUDN XTRA 2" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title= ".Deportes",0316.TUDN XTRA 2
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0316.TUDN XTRA 2" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title=".Deportes",0316.TUDN XTRA 2
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7755.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0317.TUDN XTRA 3" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title= ".Deportes",0317.TUDN XTRA 3
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0317.TUDN XTRA 3" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title=".Deportes",0317.TUDN XTRA 3
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7756.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0318.TUDN XTRA 4" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title= ".Deportes",0318.TUDN XTRA 4
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0318.TUDN XTRA 4" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title=".Deportes",0318.TUDN XTRA 4
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7757.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0319.TUDN XTRA 5" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title= ".Deportes",0319.TUDN XTRA 5
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0319.TUDN XTRA 5" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title=".Deportes",0319.TUDN XTRA 5
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7758.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0320.TUDN XTRA 6 " tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title= ".Deportes",0320.TUDN XTRA 6
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0320.TUDN XTRA 6 " tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title=".Deportes",0320.TUDN XTRA 6
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7759.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0321.TUDN XTRA 7" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title= ".Deportes",0321.TUDN XTRA 7
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0321.TUDN XTRA 7" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title=".Deportes",0321.TUDN XTRA 7
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7760.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0322.TUDN XTRA 8" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title= ".Deportes",0322.TUDN XTRA 8
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0322.TUDN XTRA 8" tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title=".Deportes",0322.TUDN XTRA 8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7761.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0323.TUDN XTRA 9 " tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title= ".Deportes",0323.TUDN XTRA 9
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0323.TUDN XTRA 9 " tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title=".Deportes",0323.TUDN XTRA 9
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7762.m3u8
 #EXTINF:-1 type="stream" tvg-id="I217.33395.zap2it.com" tvg-name="0324.TENNIS CHANNEL" tvg-logo="https://i.imgur.com/rwyih65. png" group-title=".Deportes",0324.CANAL TENIS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7820.m3u8
-#EXTINF:-1 type="stream" tvg-id="tycsports.ar" tvg-name="0325.TYC SPORT " tvg-logo="https://i.imgur.com/pNaN2NP.png" group- title=".Deportes",0325.TYC SPORT
+#EXTINF:-1 type="stream" tvg-id="tycsports.ar" tvg-name="0325.TYC SPORT " tvg-logo="https://i.imgur.com/pNaN2NP.png" group-title=".Deportes",0325.TYC SPORT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7821.m3u8
-#EXTINF:-1 type="stream" tvg-id="toros.es" tvg-name="0326.MUNDOTORO HD " tvg-logo="https://i.imgur.com/qjE9JN8.png" grupo- title=".Deportes",0326.MUNDOTORO HD
+#EXTINF:-1 type="stream" tvg-id="toros.es" tvg-name="0326.MUNDOTORO HD " tvg-logo="https://i.imgur.com/qjE9JN8.png" grupo-title=".Deportes",0326.MUNDOTORO HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7824.m3u8
-#EXTINF:-1 type="stream" tvg-id="teledeporte.es" tvg-name="0327.TELEDEPORTES" tvg-logo="https://i.imgur.com/QvqsEZs.png" group-title =".Deportes",0327.TELEDEPORTES
+#EXTINF:-1 type="stream" tvg-id="teledeporte.es" tvg-name="0327.TELEDEPORTES" tvg-logo="https://i.imgur.com/QvqsEZs.png" group-title=".Deportes",0327.TELEDEPORTES
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7853.m3u8
-#EXTINF:-1 type="stream" tvg-id="tvcdeportes.mx" tvg-name="0328.TVC DEPORTES " tvg-logo="https://i.imgur.com/rzy37DH.png" grupo- title=".Deportes",0328.TVC DEPORTES
+#EXTINF:-1 type="stream" tvg-id="tvcdeportes.mx" tvg-name="0328.TVC DEPORTES " tvg-logo="https://i.imgur.com/rzy37DH.png" group-title=".Deportes",0328.TVC DEPORTES
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7170.m3u8
 #EXTINF:-1 type="stream" tvg-id="tvcdeportes.mx" tvg-name="0329.TVC DEPORTES Full HD (1080p)" tvg-logo="https://i.imgur.com/rzy37DH .png" group-title=".Deportes",0329.TVC DEPORTES Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7249.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0330.TNT SPORT ARG" tvg-logo="https://i.imgur.com/oII3vFn.png" group-title= ".Deportes",0330.TNT SPORT ARG
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0330.TNT SPORT ARG" tvg-logo="https://i.imgur.com/oII3vFn.png" group-title=".Deportes",0330.TNT SPORT ARG
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7832.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0331.TNT SPORTS CHILE" tvg-logo="https://i.imgur.com/oII3vFn.png" group-title= ".Deportes",0331.TNT SPORTS CHILE
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0331.TNT SPORTS CHILE" tvg-logo="https://i.imgur.com/oII3vFn.png" group-title=".Deportes",0331.TNT SPORTS CHILE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7833.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0332.TNT SPORTS 2 CHILE" tvg-logo="https://i.imgur.com/oII3vFn.png" group-title =".Deportes",0332.TNT SPORTS 2 CHILE
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0332.TNT SPORTS 2 CHILE" tvg-logo="https://i.imgur.com/oII3vFn.png" group-title=".Deportes",0332.TNT SPORTS 2 CHILE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7834.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0333.TNT SPORT 3 CHILE " tvg-logo="https://i.imgur.com/oII3vFn.png" group-title =".Deportes",0333.TNT SPORT 3 CHILE
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0333.TNT SPORT 3 CHILE " tvg-logo="https://i.imgur.com/oII3vFn.png" group-title=".Deportes",0333.TNT SPORT 3 CHILE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7848.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0334.TIGOSPORTS HON" tvg-logo="https://i.imgur.com/OSQ9JyW.png" group-title=" .Deportes",0334.TIGOSPORTS HON
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0334.TIGOSPORTS HON" tvg-logo="https://i.imgur.com/OSQ9JyW.png" group-title=".Deportes",0334.TIGOSPORTS HON
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7849.m3u8
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="0335.TIGO SPORTS COSTA RICA" tvg-logo="https://i.imgur.com/OSQ9JyW.png" group-title =".Deportes",0335.TIGO DEPORTES COSTA RICA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7850.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0336.TIGO SPORTS BOLIVIA " tvg-logo="https://i.imgur.com/OSQ9JyW.png" group-title= ".Deportes",0336.TIGO DEPORTES BOLIVIA
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0336.TIGO SPORTS BOLIVIA " tvg-logo="https://i.imgur.com/OSQ9JyW.png" group-title=".Deportes",0336.TIGO DEPORTES BOLIVIA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7851.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0337.TIGO SPORTS BOL " tvg-logo="https://i.imgur.com/OSQ9JyW.png" group-title= ".Deportes",0337.TIGO DEPORTES BOL
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0337.TIGO SPORTS BOL " tvg-logo="https://i.imgur.com/OSQ9JyW.png" group-title=".Deportes",0337.TIGO DEPORTES BOL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7852.m3u8
 #EXTINF:-1 type="stream" tvg-id="I400.11182.schedulesdirect.org" tvg-name="0338.TSN 1" tvg-logo="https://i.imgur.com/5g1JVsa. png" group-title=".Deportes",0338.TSN 1
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9327.m3u8
@@ -4008,19 +4009,19 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9329.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9330.m3u8
 #EXTINF:-1 type="stream" tvg-id="I404.90124.schedulesdirect.org" tvg-name="0342.TSN 5" tvg-logo="https://i.imgur.com/5g1JVsa. png" group-title=".Deportes",0342.TSN 5
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9331.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0343.UFC FIGHT PASS" tvg-logo="https://i.imgur.com/2OZv8ok.png" group-title= ".Deportes",0343.UFC FIGHT PASS
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0343.UFC FIGHT PASS" tvg-logo="https://i.imgur.com/2OZv8ok.png" group-title=".Deportes",0343.UFC FIGHT PASS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7825.m3u8
-#EXTINF:-1 type="stream" tvg-id="winsports.co" tvg-name="0344.WIN SPORTS" tvg-logo="https://i.imgur.com/qMf0D5d.png" grupo- title=".Deportes",0344.GANAR DEPORTES
+#EXTINF:-1 type="stream" tvg-id="winsports.co" tvg-name="0344.WIN SPORTS" tvg-logo="https://i.imgur.com/qMf0D5d.png" grupo-title=".Deportes",0344.GANAR DEPORTES
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7826.m3u8
-#EXTINF:-1 type="stream" tvg-id="winsportsplus.co" tvg-name="0345.WIN SPORTS PLUS" tvg-logo="https://i.imgur.com/xyWKZZk.png" grupo -title=".Deportes",0345.GANA DEPORTES PLUS
+#EXTINF:-1 type="stream" tvg-id="winsportsplus.co" tvg-name="0345.WIN SPORTS PLUS" tvg-logo="https://i.imgur.com/xyWKZZk.png" group-title=".Deportes",0345.GANA DEPORTES PLUS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7827.m3u8
 #EXTINF:-1 type="stream" tvg-id="I1446.91306.schedulesdirect.org" tvg-name="0346.WWE NETWORK" tvg-logo="https://i.imgur.com/ybEsgz6. png" group-title=".Deportes",0346.RED WWE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7831.m3u8
-#EXTINF:-1 type="stream" tvg-id="natgeo.es" tvg-name="0347.YES NET" tvg-logo="https://i.imgur.com/hQIf6Rc.png" group- title=".Deportes",0347.SI NET
+#EXTINF:-1 type="stream" tvg-id="natgeo.es" tvg-name="0347.YES NET" tvg-logo="https://i.imgur.com/hQIf6Rc.png" group-title=".Deportes",0347.SI NET
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8468.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0349.ZONA TUDN " tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title=" .Deportes",0349.ZONA TUDN
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0349.ZONA TUDN " tvg-logo="https://i.imgur.com/zcyTQuO.png" group-title=".Deportes",0349.ZONA TUDN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9027.m3u8
-#EXTINF:-1 type="stream" tvg-id="vamos.es" tvg-name="0350.#VAMOS " tvg-logo="https://i.imgur.com/lhAldRq.png" grupo- title=".Deportes",0350.#VAMOS
+#EXTINF:-1 type="stream" tvg-id="vamos.es" tvg-name="0350.#VAMOS " tvg-logo="https://i.imgur.com/lhAldRq.png" group-title=".Deportes",0350.#VAMOS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7518.m3u8
 #EXTINF:-1 type="stream" tvg-id="aandemundo.mx" tvg-name="0400.A&E SD (4:3)" tvg-logo="https://i.imgur.com/FlQcK03 .png" group-title=".Entretenimiento",0400.A&E SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7339.m3u8
@@ -4030,19 +4031,19 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7032.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7285.m3u8
 #EXTINF:-1 type="stream" tvg-id="axn.mx" tvg-name="0403.AXN SD (4:3)" tvg-logo="https://i.imgur.com/P1kQ7QY .png" group-title=".Entretenimiento",0403.AXN SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7344.m3u8
-#EXTINF:-1 type="stream" tvg-id="axn.mx" tvg-name="0404.AXN" tvg-logo="https://i.imgur.com/P1kQ7QY.png" título-grupo =".Entretenimiento",0404.AXN
+#EXTINF:-1 type="stream" tvg-id="axn.mx" tvg-name="0404.AXN" tvg-logo="https://i.imgur.com/P1kQ7QY.png" group-title=".Entretenimiento",0404.AXN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7031.m3u8
 #EXTINF:-1 type="stream" tvg-id="axn.mx" tvg-name="0405.AXN (16:3)" tvg-logo="https://i.imgur.com/P1kQ7QY. png" group-title=".Entretenimiento",0405.AXN (16:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7321.m3u8
 #EXTINF:-1 type="stream" tvg-id="axn.mx" tvg-name="0406.AXN Full HD (1080p)" tvg-logo="https://i.imgur.com/P1kQ7QY. png" group-title=".Entretenimiento",0406.AXN Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7218.m3u8
-#EXTINF:-1 type="stream" tvg-id="bitme.mx" tvg-name="0407.BITME" tvg-logo="https://i.imgur.com/tplXzmM.png" título-grupo =".Entretenimiento",0407.BITME
+#EXTINF:-1 type="stream" tvg-id="bitme.mx" tvg-name="0407.BITME" tvg-logo="https://i.imgur.com/tplXzmM.png" group-title=".Entretenimiento",0407.BITME
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7200.m3u8
 #EXTINF:-1 type="stream" tvg-id="bitme.mx" tvg-name="0408.BITME HD (720)" tvg-logo="https://i.imgur.com/tplXzmM.png " group-title=".Entretenimiento",0408.BITME HD (720)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7114.m3u8
 #EXTINF:-1 type="stream" tvg-id="comedycentral.mx" tvg-name="0409.COMEDY CENTRAL SD (4:3)" tvg-logo="https://i.imgur.com/ ooMeofv.png" group-title=".Entretenimiento",0409.COMEDY CENTRAL SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7345.m3u8
-#EXTINF:-1 type="stream" tvg-id="comedycentral.mx" tvg-name="0410.COMEDY CENTRAL" tvg-logo="https://i.imgur.com/ooMeofv.png" grupo- title=".Entretenimiento",0410.COMEDY CENTRAL
+#EXTINF:-1 type="stream" tvg-id="comedycentral.mx" tvg-name="0410.COMEDY CENTRAL" tvg-logo="https://i.imgur.com/ooMeofv.png" group-title=".Entretenimiento",0410.COMEDY CENTRAL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7089.m3u8
 #EXTINF:-1 type="stream" tvg-id="comedycentral.mx" tvg-name="0411.COMEDY CENTRAL Full HD (1080p)" tvg-logo="https://i.imgur.com/ooMeofv .png" group-title=".Entretenimiento",0411.COMEDY CENTRAL Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7221.m3u8
@@ -4050,51 +4051,51 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7221.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7097.m3u8
 #EXTINF:-1 type="stream" tvg-id="I196.55980.schedulesdirect.org" tvg-name="0413.DISTRITO COMEDIA Full HD (1080p)" tvg-logo="https://i.imgur .com/rcaw5zq.png" group-title=".Entretenimiento",0413.DISTRITO COMEDIA Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7277.m3u8
-#EXTINF:-1 type="stream" tvg-id="glitz.mx" tvg-name="0414.GLITZ" tvg-logo="https://i.imgur.com/DK5EDwC.png" título-grupo =".Entretenimiento",0414.GLITZ
+#EXTINF:-1 type="stream" tvg-id="glitz.mx" tvg-name="0414.GLITZ" tvg-logo="https://i.imgur.com/DK5EDwC.png" group-title=".Entretenimiento",0414.GLITZ
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7122.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0415.GARAGE TV" tvg-logo="https://i.imgur.com/LloA0V4.png" group-title=" .Entretenimiento",0415.GARAJE TV
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0415.GARAGE TV" tvg-logo="https://i.imgur.com/LloA0V4.png" group-title=".Entretenimiento",0415.GARAJE TV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7121.m3u8
 #EXTINF:-1 type="stream" tvg-id="I364.62161.schedulesdirect.org" tvg-name="0416.HOLA TV" tvg-logo="https://i.imgur.com/uXF5bUA. png" group-title=".Entretenimiento",0416.HOLA TV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7127.m3u8
-#EXTINF:-1 type="stream" tvg-id="lifetime.mx" tvg-name="0417.LIFETIME" tvg-logo="https://i.imgur.com/cSCg8zp.png" título-grupo =".Entretenimiento",0417.VIDA
+#EXTINF:-1 type="stream" tvg-id="lifetime.mx" tvg-name="0417.LIFETIME" tvg-logo="https://i.imgur.com/cSCg8zp.png" group-title=".Entretenimiento",0417.VIDA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7129.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0418.LIFETIME HD (1080p)" tvg-logo="https://i.imgur.com /cSCg8zp.png" group-title=".Entretenimiento",0418.VIDA HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7242.m3u8
 #EXTINF:-1 type="stream" tvg-id="I209.15688.schedulesdirect.org" tvg-name="0420.STAR CHANNEL SD (4:3)" tvg-logo="https://i. imgur.com/wlsth0d.png" group-title=".Entretenimiento",0420.STAR CHANNEL SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7328.m3u8
-#EXTINF:-1 type="stream" tvg-id="fox.mx" tvg-name="0421.STAR CHANNEL " tvg-logo="https://i.imgur.com/wlsth0d.png" group- title=".Entretenimiento",0421.CANAL ESTRELLA
+#EXTINF:-1 type="stream" tvg-id="fox.mx" tvg-name="0421.STAR CHANNEL " tvg-logo="https://i.imgur.com/wlsth0d.png" group-title=".Entretenimiento",0421.CANAL ESTRELLA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7115.m3u8
 #EXTINF:-1 type="stream" tvg-id="fox.mx" tvg-name="0422.STAR CHANNEL Full HD (1080p)" tvg-logo="https://i.imgur.com/wlsth0d .png" group-title=".Entretenimiento",0422.CANAL ESTRELLA Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7252.m3u8
 #EXTINF:-1 type="stream" tvg-id="fox.mx" tvg-name="0423.STAR CHANNEL HD (OPC2)" tvg-logo="https://i.imgur.com/wlsth0d. png" group-title=".Entretenimiento",0423.CANAL ESTRELLA HD (OPC2)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7461.m3u8
-#EXTINF:-1 type="stream" tvg-id="trutv.mx" tvg-name="0424.TRU TV " tvg-logo="https://i.imgur.com/AMciePM.png" grupo- title=".Entretenimiento",0424.TRU TV
+#EXTINF:-1 type="stream" tvg-id="trutv.mx" tvg-name="0424.TRU TV " tvg-logo="https://i.imgur.com/AMciePM.png" group-title=".Entretenimiento",0424.TRU TV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7161.m3u8
 #EXTINF:-1 type="stream" tvg-id="tntseries.mx" tvg-name="0425.TNT SERIES SD (4:3)" tvg-logo="https://i.imgur.com/ K5glLWU.png" group-title=".Entretenimiento",0425.TNT SERIE SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7372.m3u8
-#EXTINF:-1 type="stream" tvg-id="tntseries.mx" tvg-name="0426.TNT SERIES " tvg-logo="https://i.imgur.com/K5glLWU.png" group- title=".Entretenimiento",0426.SERIE TNT
+#EXTINF:-1 type="stream" tvg-id="tntseries.mx" tvg-name="0426.TNT SERIES " tvg-logo="https://i.imgur.com/K5glLWU.png" group-title=".Entretenimiento",0426.SERIE TNT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7159.m3u8
 #EXTINF:-1 type="stream" tvg-id="tntseries.mx" tvg-name="0427.TNT SERIES Full HD (1080P)" tvg-logo="https://i.imgur.com/K5glLWU .png" group-title=".Entretenimiento",0427.SERIE TNT Full HD (1080P)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7228.m3u8
-#EXTINF:-1 type="stream" tvg-id="telenovelas.mx" tvg-name="0428.TL NOVELA" tvg-logo="https://i.imgur.com/EVntrXZ.png" grupo- title=".Entretenimiento",0428.TL NOVELA
+#EXTINF:-1 type="stream" tvg-id="telenovelas.mx" tvg-name="0428.TL NOVELA" tvg-logo="https://i.imgur.com/EVntrXZ.png" group-title=".Entretenimiento",0428.TL NOVELA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7146.m3u8
 #EXTINF:-1 type="stream" tvg-id="telenovelas.mx" tvg-name="0429.TL NOVELA FHD (1080P)" tvg-logo="https://i.imgur.com/EVntrXZ. png" group-title=".Entretenimiento",0429.TL NOVELA FHD (1080P)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8451.m3u8
 #EXTINF:-1 type="stream" tvg-id="warnerchannel.mx" tvg-name="0430.WARNER SD (4:3)" tvg-logo="https://i.imgur.com/CcdKQbM .png" group-title=".Entretenimiento",0430.WARNER SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7373.m3u8
-#EXTINF:-1 type="stream" tvg-id="warnerchannel.mx" tvg-name="0431.WARNER" tvg-logo="https://i.imgur.com/CcdKQbM.png" título-grupo =".Entretenimiento",0431.WARNER
+#EXTINF:-1 type="stream" tvg-id="warnerchannel.mx" tvg-name="0431.WARNER" tvg-logo="https://i.imgur.com/CcdKQbM.png" group-title=".Entretenimiento",,0431.WARNER
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7167.m3u8
 #EXTINF:-1 type="stream" tvg-id="warnerchannel.mx" tvg-name="0432.WARNER Full HD (1080p)" tvg-logo="https://i.imgur.com/CcdKQbM. png" group-title=".Entretenimiento",0432.WARNER Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7230.m3u8
-#EXTINF:-1 type="stream" tvg-id="goldenpremier.mx" ​​tvg-name="0500.GOLDEN PREMIER HD" tvg-logo="https://i.imgur.com/rhxTlDq.png" grupo -title=".HBO ",0500.GOLDEN PREMIER HD
+#EXTINF:-1 type="stream" tvg-id="goldenpremier.mx" ​​tvg-name="0500.GOLDEN PREMIER HD" tvg-logo="https://i.imgur.com/rhxTlDq.png" group-title=".HBO ",0500.GOLDEN PREMIER HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7308.m3u8
 #EXTINF:-1 type="stream" tvg-id="GoldenPremier2.mx" tvg-name="0501.GOLDEN PREMIER FULL HD " tvg-logo="https://i.imgur.com/rhxTlDq.png" group-title=".HBO ",0501.GOLDEN PREMIER FULL HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7309.m3u8
-#EXTINF:-1 type="stream" tvg-id="hbo.mx" tvg-name="0502.HBO 1 MEX SD" tvg-logo="https://i.imgur.com/UzJ9UIb.png" título-grupo=".HBO ",0502.HBO 1 MEX SD
+#EXTINF:-1 type="stream" tvg-id="hbo.mx" tvg-name="0502.HBO 1 MEX SD" tvg-logo="https://i.imgur.com/UzJ9UIb.png" group-title=".HBO ",0502.HBO 1 MEX SD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7323.m3u8
-#EXTINF:-1 type="stream" tvg-id="hbo.mx" tvg-name="0503.HBO 1 MEX HD " tvg-logo="https://i.imgur.com/UzJ9UIb.png" título-grupo=".HBO ",0503.HBO 1 MEX HD
+#EXTINF:-1 type="stream" tvg-id="hbo.mx" tvg-name="0503.HBO 1 MEX HD " tvg-logo="https://i.imgur.com/UzJ9UIb.png" group-title=".HBO ",0503.HBO 1 MEX HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7431.m3u8
-#EXTINF:-1 type="stream" tvg-id="hbo2.mx" tvg-name="0504.HBO 2 MEX SD " tvg-logo="https://i.imgur.com/UyROz9r.png" título-grupo=".HBO ",0504.HBO 2 MEX SD
+#EXTINF:-1 type="stream" tvg-id="hbo2.mx" tvg-name="0504.HBO 2 MEX SD " tvg-logo="https://i.imgur.com/UyROz9r.png" group-title=".HBO ",0504.HBO 2 MEX SD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7325.m3u8
 #EXTINF:-1 type="stream" tvg-id="hbo2.mx" tvg-name="0505.HBO 2 MEX HD " tvg-logo="https://i.imgur.com/UyROz9r.png" group-title=".HBO ",0505.HBO 2 MEX HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7432.m3u8
@@ -4106,7 +4107,7 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7434.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7326.m3u8
 #EXTINF:-1 type="stream" tvg-id="hbofamily.mx" tvg-name="0509.HBO FAMILY MEX HD " tvg-logo="https://i.imgur.com/6dV45hP.png" group-title=".HBO ",0509.HBO FAMILIA MEX HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7433.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0510.HBO SIGNATURE MEX SD" tvg-logo="https://i.imgur.com/Hdgby6x.png" group-title =".HBO ",0510.HBO FIRMA MEX SD
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0510.HBO SIGNATURE MEX SD" tvg-logo="https://i.imgur.com/Hdgby6x.png" group-title=".HBO ",0510.HBO FIRMA MEX SD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9167.m3u8
 #EXTINF:-1 type="stream" tvg-id="hbosignature.mx" tvg-name="0511.HBO SIGNATURE MEX HD " tvg-logo="https://i.imgur.com/Hdgby6x.png" group-title=".HBO ",0511.HBO FIRMA MEX HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7435.m3u8
@@ -4122,21 +4123,21 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7438.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7304.m3u8
 #EXTINF:-1 type="stream" tvg-id="hbomundi.mx" tvg-name="0517.HBO MUNDI MEX HD " tvg-logo="https://i.imgur.com/o3B8YxG.png" group-title=".HBO ",0517.HBO MUNDI MEX HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7436.m3u8
-#EXTINF:-1 type="stream" tvg-id="hbohd.co" tvg-name="0518.HBO 1 HD " tvg-logo="https://i.imgur.com/UzJ9UIb.png" grupo -título=".HBO ",0518.HBO 1HD
+#EXTINF:-1 type="stream" tvg-id="hbohd.co" tvg-name="0518.HBO 1 HD " tvg-logo="https://i.imgur.com/UzJ9UIb.png" group-title=".HBO ",0518.HBO 1HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8474.m3u8
-#EXTINF:-1 type="stream" tvg-id="hbo2.co" tvg-name="0519.HBO 2 HD " tvg-logo="https://i.imgur.com/UzJ9UIb.png" grupo -título=".HBO ",0519.HBO 2 HD
+#EXTINF:-1 type="stream" tvg-id="hbo2.co" tvg-name="0519.HBO 2 HD " tvg-logo="https://i.imgur.com/UzJ9UIb.png" group-title=".HBO ",0519.HBO 2 HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8513.m3u8
-#EXTINF:-1 type="stream" tvg-id="hbosignaturehd.co" tvg-name="0520.HBO SIGNATURE HD " tvg-logo="https://i.imgur.com/UyROz9r.png" grupo -title=".HBO ",0520.HBO FIRMA HD
+#EXTINF:-1 type="stream" tvg-id="hbosignaturehd.co" tvg-name="0520.HBO SIGNATURE HD " tvg-logo="https://i.imgur.com/UyROz9r.png" group-title=".HBO ",0520.HBO FIRMA HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8511.m3u8
-#EXTINF:-1 type="stream" tvg-id="hbofamily.co" tvg-name="0521.HBO FAMILY HD" tvg-logo="https://i.imgur.com/UzJ9UIb.png" grupo -title=".HBO ",0521.HD FAMILIAR HBO
+#EXTINF:-1 type="stream" tvg-id="hbofamily.co" tvg-name="0521.HBO FAMILY HD" tvg-logo="https://i.imgur.com/UzJ9UIb.png" group-title=".HBO ",0521.HD FAMILIAR HBO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8514.m3u8
-#EXTINF:-1 type="stream" tvg-id="hboplus.co" tvg-name="0522.HBO PLUS HD" tvg-logo="https://i.imgur.com/6dV45hP.png" grupo -title=".HBO ",0522.HBO MÁS HD
+#EXTINF:-1 type="stream" tvg-id="hboplus.co" tvg-name="0522.HBO PLUS HD" tvg-logo="https://i.imgur.com/6dV45hP.png" group-title=".HBO ",0522.HBO MÁS HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8516.m3u8
-#EXTINF:-1 type="stream" tvg-id="hbolatinopacific.us" tvg-name="0523.HBO LATINO HD" tvg-logo="https://i.imgur.com/UzJ9UIb.png" grupo -title=".HBO ",0523.HBO LATINO HD
+#EXTINF:-1 type="stream" tvg-id="hbolatinopacific.us" tvg-name="0523.HBO LATINO HD" tvg-logo="https://i.imgur.com/UzJ9UIb.png" group-title=".HBO ",0523.HBO LATINO HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8515.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0524.HBO USA LAT" tvg-logo="https://i.imgur.com/UzJ9UIb.png" group-title= ".HBO ",0524.HBO EE. UU. LAT
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0524.HBO USA LAT" tvg-logo="https://i.imgur.com/UzJ9UIb.png" group-title=".HBO ",0524.HBO EE. UU. LAT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9264.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0525.HBO COMEDIA USA LAT" tvg-logo="https://i.imgur.com/UzJ9UIb.png" título de grupo =".HBO ",0525.HBO COMEDIA EE. UU. LAT
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0525.HBO COMEDIA USA LAT" tvg-logo="https://i.imgur.com/UzJ9UIb.png" group-title=".HBO ",0525.HBO COMEDIA EE. UU. LAT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8276.m3u8
 #EXTINF:-1 type="stream" tvg-id="quiero.mx" tvg-name="0526.HBO FAMILY USA LAT" tvg-logo="https://i.imgur.com/UzJ9UIb.png" group-title=".HBO ",0526.HBO FAMILIA EE.UU. LAT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9293.m3u8
@@ -4144,91 +4145,91 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9293.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7472.m3u8
 #EXTINF:-1 type="stream" tvg-id="5ebac49ce4dc8b00078b23bc" tvg-name="0600.BABY FIRST" tvg-logo="https://i.imgur.com/LednUme.png" group-title= ".Infantil",0600.BEBE PRIMERO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7181.m3u8
-#EXTINF:-1 type="stream" tvg-id="babytv.mx" tvg-name="0602.BABY TV" tvg-logo="https://i.imgur.com/NXkIQYI.png" grupo- title=".Infantil",0602.BEBE TV
+#EXTINF:-1 type="stream" tvg-id="babytv.mx" tvg-name="0602.BABY TV" tvg-logo="https://i.imgur.com/NXkIQYI.png" grupo-title=".Infantil",0602.BEBE TV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7189.m3u8
-#EXTINF:-1 type="stream" tvg-id="boomerang.mx" tvg-name="0603.CARTOONITO SD " tvg-logo="https://i.imgur.com/XGWafZg.png" group- title=".Infantil",0603.CARTOONITO SD
+#EXTINF:-1 type="stream" tvg-id="boomerang.mx" tvg-name="0603.CARTOONITO SD " tvg-logo="https://i.imgur.com/XGWafZg.png" group-title=".Infantil",0603.CARTOONITO SD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7384.m3u8
-#EXTINF:-1 type="stream" tvg-id="boomerang.mx" tvg-name="0604.CARTOONITO" tvg-logo="https://i.imgur.com/XGWafZg.png" group-title =".Infantil",0604.CARTOONITO
+#EXTINF:-1 type="stream" tvg-id="boomerang.mx" tvg-name="0604.CARTOONITO" tvg-logo="https://i.imgur.com/XGWafZg.png" group-title=".Infantil",0604.CARTOONITO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7041.m3u8
 #EXTINF:-1 type="stream" tvg-id="boomerang.mx" tvg-name="0605.CARTOONITO Full HD (1080p)" tvg-logo="https://i.imgur.com/XGWafZg. png" group-title=".Infantil",0605.CARTOONITO Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7246.m3u8
 #EXTINF:-1 type="stream" tvg-id="cartoonnetwork.mx" tvg-name="0606.CARTOON NETWORK SD (4:3)" tvg-logo="https://i.imgur.com/ WpuRPTm.png" group-title=".Infantil",0606.CARTOON NETWORK SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7341.m3u8
-#EXTINF:-1 type="stream" tvg-id="cartoonnetwork.mx" tvg-name="0607.CARTOON NET" tvg-logo="https://i.imgur.com/WpuRPTm.png" grupo- title=".Infantil",0607.CARTOON NET
+#EXTINF:-1 type="stream" tvg-id="cartoonnetwork.mx" tvg-name="0607.CARTOON NET" tvg-logo="https://i.imgur.com/WpuRPTm.png" grupo-title=".Infantil",0607.CARTOON NET
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7088.m3u8
 #EXTINF:-1 type="stream" tvg-id="cartoonnetwork.mx" tvg-name="0608.CARTOON NETWORK Full HD (1080p)" tvg-logo="https://i.imgur.com/WpuRPTm .png" group-title=".Infantil",0608.CARTOON NETWORK Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7234.m3u8
 #EXTINF:-1 type="stream" tvg-id="discoverykids.mx" tvg-name="0609.DISCOVERY KIDS SD (4:3)" tvg-logo="https://i.imgur.com/ DZFG2mB.png" group-title=".Infantil",0609.DISCOVERY KIDS SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7369.m3u8
-#EXTINF:-1 type="stream" tvg-id="discoverykids.mx" tvg-name="0610.DISCOVERY KIDS" tvg-logo="https://i.imgur.com/DZFG2mB.png" grupo- title=".Infantil",0610.DISCOVERY KIDS
+#EXTINF:-1 type="stream" tvg-id="discoverykids.mx" tvg-name="0610.DISCOVERY KIDS" tvg-logo="https://i.imgur.com/DZFG2mB.png" group-title=".Infantil",0610.DISCOVERY KIDS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7098.m3u8
 #EXTINF:-1 type="stream" tvg-id="discoverykids.mx" tvg-name="0611.DISCOVERY KIDS Full HD (1080p)" tvg-logo="https://i.imgur.com/DZFG2mB .png" group-title=".Infantil",0611.DISCOVERY KIDS Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7274.m3u8
-#EXTINF:-1 type="stream" tvg-id="discoverykids.mx" tvg-name="0612.DREAMWORKS CHANNEL " tvg-logo="https://i.imgur.com/gPPJKkB.png" group- title=".Infantil",0612.CANAL DE DREAMWORKS
+#EXTINF:-1 type="stream" tvg-id="discoverykids.mx" tvg-name="0612.DREAMWORKS CHANNEL " tvg-logo="https://i.imgur.com/gPPJKkB.png" group-title=".Infantil",0612.CANAL DE DREAMWORKS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7470.m3u8
-#EXTINF:-1 type="stream" tvg-id="disneychannel.mx" tvg-name="0613.DISNEY CHANNEL SD " tvg-logo="https://i.imgur.com/v3TIlcq.png" grupo -title=".Infantil",0613.DISNEY CHANNEL SD
+#EXTINF:-1 type="stream" tvg-id="disneychannel.mx" tvg-name="0613.DISNEY CHANNEL SD " tvg-logo="https://i.imgur.com/v3TIlcq.png" group-title=".Infantil",0613.DISNEY CHANNEL SD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7374.m3u8
-#EXTINF:-1 type="stream" tvg-id="disneychannel.mx" tvg-name="0614.DISNEY CHANNEL" tvg-logo="https://i.imgur.com/v3TIlcq.png" group- title=".Infantil",0614.DISNEY CHANNEL
+#EXTINF:-1 type="stream" tvg-id="disneychannel.mx" tvg-name="0614.DISNEY CHANNEL" tvg-logo="https://i.imgur.com/v3TIlcq.png" group-title=".Infantil",0614.DISNEY CHANNEL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7095.m3u8
 #EXTINF:-1 type="stream" tvg-id="disneychannel.mx" tvg-name="0615.DISNEY CHANNEL HD (720p)" tvg-logo="https://i.imgur.com/v3TIlcq. png" group-title=".Infantil",0615.DISNEY CHANNEL HD (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7473.m3u8
-#EXTINF:-1 type="stream" tvg-id="disneyjunior.mx" ​​tvg-name="0616.DISNEY JUNIOR" tvg-logo="https://i.imgur.com/GK2j3qv.png" grupo- title=".Infantil",0616.DISNEY JUNIOR
+#EXTINF:-1 type="stream" tvg-id="disneyjunior.mx" ​​tvg-name="0616.DISNEY JUNIOR" tvg-logo="https://i.imgur.com/GK2j3qv.png" group-title=".Infantil",0616.DISNEY JUNIOR
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7094.m3u8
 #EXTINF:-1 type="stream" tvg-id="disneyjunior.mx" ​​tvg-name="0617.DISNEY JUNIOR HD (720P)" tvg-logo="https://i.imgur.com/GK2j3qv. png" group-title=".Infantil",0617.DISNEY JUNIOR HD (720P)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8404.m3u8
 #EXTINF:-1 type="stream" tvg-id="nickelodeon.mx" tvg-name="0618.NICK SD (4:3)" tvg-logo="https://i.imgur.com/4wv1aHj .png" group-title=".Infantil",0618.NICK SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7386.m3u8
-#EXTINF:-1 type="stream" tvg-id="nickelodeon.mx" tvg-name="0619.NICK" tvg-logo="https://i.imgur.com/4wv1aHj.png" group-title =".Infantil",0619.NICK
+#EXTINF:-1 type="stream" tvg-id="nickelodeon.mx" tvg-name="0619.NICK" tvg-logo="https://i.imgur.com/4wv1aHj.png" group-title=".Infantil",0619.NICK
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7142.m3u8
 #EXTINF:-1 type="stream" tvg-id="nickelodeon.mx" tvg-name="0620.NICK Full HD (1080p)" tvg-logo="https://i.imgur.com/4wv1aHj. png" group-title=".Infantil",0620.NICK Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7255.m3u8
-#EXTINF:-1 type="stream" tvg-id="nickjr.mx" ​​tvg-name="0621.NICK JUNIOR " tvg-logo="https://i.imgur.com/G1Vc4Yk.png" grupo- title=".Infantil",0621.NICK JUNIOR
+#EXTINF:-1 type="stream" tvg-id="nickjr.mx" ​​tvg-name="0621.NICK JUNIOR " tvg-logo="https://i.imgur.com/G1Vc4Yk.png" group-title=".Infantil",0621.NICK JUNIOR
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7143.m3u8
-#EXTINF:-1 type="stream" tvg-id="nick2.mx" tvg-name="0622.NICK JUNIOR HD" tvg-logo="https://i.imgur.com/G1Vc4Yk.png" grupo -title=".Infantil",0622.NICK JUNIOR HD
+#EXTINF:-1 type="stream" tvg-id="nick2.mx" tvg-name="0622.NICK JUNIOR HD" tvg-logo="https://i.imgur.com/G1Vc4Yk.png" group-title=".Infantil",0622.NICK JUNIOR HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7318.m3u8
-#EXTINF:-1 type="stream" tvg-id="nick2.mx" tvg-name="0626.TEEN NICK" tvg-logo="https://i.imgur.com/4BE3XqH.png" grupo- title=".Infantil",0626.TEEN NICK
+#EXTINF:-1 type="stream" tvg-id="nick2.mx" tvg-name="0626.TEEN NICK" tvg-logo="https://i.imgur.com/4BE3XqH.png" group-title=".Infantil",0626.TEEN NICK
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7144.m3u8
 #EXTINF:-1 type="stream" tvg-id="canalonceninos.mx" tvg-name="0628.ONCE NIÑOS SD (4:3)" tvg-logo="https://i.imgur.com/ LP9qwL3.png" group-title=".Infantil",0628.ONCE NIÑOS SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7347.m3u8
-#EXTINF:-1 type="stream" tvg-id="tooncast.mx" tvg-name="0629.TOONCAST" tvg-logo="https://i.imgur.com/juE19Zx.png" título-grupo =".Infantil",0629.TOONCAST
+#EXTINF:-1 type="stream" tvg-id="tooncast.mx" tvg-name="0629.TOONCAST" tvg-logo="https://i.imgur.com/juE19Zx.png" group-title=".Infantil",0629.TOONCAST
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7160.m3u8
-#EXTINF:-1 type="stream" tvg-id="bandamax.mx" tvg-name="0700.BANDAMAX" tvg-logo="https://i.imgur.com/LfGJsOB.png" título-grupo =".Música",0700.BANDAMAX
+#EXTINF:-1 type="stream" tvg-id="bandamax.mx" tvg-name="0700.BANDAMAX" tvg-logo="https://i.imgur.com/LfGJsOB.png" group-title=".Musica",0700.BANDAMAX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7040.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0701.CANAL DE CONCIERTOS" tvg-logo="https://i.imgur.com/ekQlgjr.png" group-title=" .Musica",0701.CANAL DE CONCIERTOS
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0701.CANAL DE CONCIERTOS" tvg-logo="https://i.imgur.com/ekQlgjr.png" group-title=".Musica",0701.CANAL DE CONCIERTOS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9297.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0702.DANCE TV " tvg-logo="https://i.imgur.com/8pXYTo4.png" group-title=" .Música",0702.DANCE TV
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0702.DANCE TV " tvg-logo="https://i.imgur.com/8pXYTo4.png" group-title=".Musica",0702.DANCE TV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9299.m3u8
-#EXTINF:-1 type="stream" tvg-id="afizzionados.mx" tvg-name="0703.EXA TV " tvg-logo="https://i.imgur.com/TXuEX9E.png" group- title=".Música",0703.EXA TV
+#EXTINF:-1 type="stream" tvg-id="afizzionados.mx" tvg-name="0703.EXA TV " tvg-logo="https://i.imgur.com/TXuEX9E.png" group-title=".Musica",0703.EXA TV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7349.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0704.HTV " tvg-logo="https://i.imgur.com/xD4nffk.png " group-title=".Musica",0704.HTV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7484.m3u8
-#EXTINF:-1 type="stream" tvg-id="vh1.mx" tvg-name="0705.LA MEJOR " tvg-logo="https://i.imgur.com/kJlISsz.png" group- title=".Musica",0705.LA MEJOR
+#EXTINF:-1 type="stream" tvg-id="vh1.mx" tvg-name="0705.LA MEJOR " tvg-logo="https://i.imgur.com/kJlISsz.png" group-title=".Musica",0705.LA MEJOR
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7166.m3u8
 #EXTINF:-1 type="stream" tvg-id="I415.66419.schedulesdirect.org" tvg-name="0706.MTV LIVE" tvg-logo="https://i.imgur.com/uaSrpZ0. png" group-title=".Musica",0706.MTV EN VIVO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7132.m3u8
-#EXTINF:-1 type="stream" tvg-id="mtv.mx" tvg-name="0708.MTV" tvg-logo="https://i.imgur.com/uaSrpZ0.png" título-grupo =".Música",0708.MTV
+#EXTINF:-1 type="stream" tvg-id="mtv.mx" tvg-name="0708.MTV" tvg-logo="https://i.imgur.com/uaSrpZ0.png" group-title=".Musica",0708.MTV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7133.m3u8
 #EXTINF:-1 type="stream" tvg-id="mtv.mx" tvg-name="0709.MTV HD (720p)" tvg-logo="https://i.imgur.com/uaSrpZ0.png " group-title=".Musica",0709.MTV HD (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7485.m3u8
-#EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0710.MTV 00s" tvg-logo="https://i.imgur.com/uaSrpZ0. png" group-title=".Música",0710.MTV 00s
+#EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0710.MTV 00s" tvg-logo="https://i.imgur.com/uaSrpZ0. png" group-title=".Musica",0710.MTV 00s
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7131.m3u8
-#EXTINF:-1 type="stream" tvg-id="vh1.mx" tvg-name="0711.MTV 80s" tvg-logo="https://i.imgur.com/uaSrpZ0.png" grupo- title=".Música",0711.MTV 80s
+#EXTINF:-1 type="stream" tvg-id="vh1.mx" tvg-name="0711.MTV 80s" tvg-logo="https://i.imgur.com/uaSrpZ0.png" group-title=".Musica",0711.MTV 80s
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7165.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0712.NICK MUSIC" tvg-logo="https://i.imgur.com/k0khd6W. png" group-title=".Musica",0712.NICK MUSIC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7145.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0713.TELERITMO" tvg-logo="https://i.imgur.com/efGabSX.png " group-title=".Musica",0713.TELÉRITMO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7196.m3u8
-#EXTINF:-1 type="stream" tvg-id="ritmoson.mx" tvg-name="0714.TELEHIT" tvg-logo="https://i.imgur.com/oKY1kSa.png" group-title =".Musica",0714.TELEHIT
+#EXTINF:-1 type="stream" tvg-id="ritmoson.mx" tvg-name="0714.TELEHIT" tvg-logo="https://i.imgur.com/oKY1kSa.png" group-title=".Musica",0714.TELEHIT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7149.m3u8
-#EXTINF:-1 type="stream" tvg-id="telehit.mx" tvg-name="0715.TELEHIT" tvg-logo="https://i.imgur.com/oKY1kSa.png" título-grupo =".Música",0715.TELEHIT
+#EXTINF:-1 type="stream" tvg-id="telehit.mx" tvg-name="0715.TELEHIT" tvg-logo="https://i.imgur.com/oKY1kSa.png" group-title=".Musica",0715.TELEHIT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7156.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0718.VEVO 80's" tvg-logo="https://i.imgur.com/fNR3lVV.png" group-title=" .Musica",0718.VEVO 80's
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0718.VEVO 80's" tvg-logo="https://i.imgur.com/fNR3lVV.png" group-title=".Musica",0718.VEVO 80's
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9295.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0719.VEVO 90'S" tvg-logo="https://i.imgur.com/fNR3lVV.png" group-title=" .Musica",0719.VEVO 90'S
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0719.VEVO 90'S" tvg-logo="https://i.imgur.com/fNR3lVV.png" group-title=".Musica",0719.VEVO 90'S
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9296.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0720.VEVO POP " tvg-logo="https://i.imgur.com/fNR3lVV.png" group-title=" .Musica",0720.VEVO POP
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0720.VEVO POP " tvg-logo="https://i.imgur.com/fNR3lVV.png" group-title=".Musica",0720.VEVO POP
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7490.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0721.VEVO LATINO " tvg-logo="https://i.imgur.com/fNR3lVV.png" group-title=" .Musica",0721.VEVO LATINO
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0721.VEVO LATINO " tvg-logo="https://i.imgur.com/fNR3lVV.png" group-title=".Musica",0721.VEVO LATINO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9298.m3u8
 #EXTINF:-1 type="stream" tvg-id="I9.15384.schedulesdirect.org" tvg-name="0800.ADN 40" tvg-logo="https://i.imgur.com/C7smdxG. png" group-title=".Noticias",0800.ADN 40
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7147.m3u8
@@ -4236,39 +4237,39 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7147.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8409.m3u8
 #EXTINF:-1 type="stream" tvg-id="I353.14755.zap2it.com" tvg-name="0802.BLOOMBERG" tvg-logo="https://i.imgur.com/HMwsFW1.png " group-title=".Noticias",0802.BLOOMBERG
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8478.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="0803.CBSN" tvg-logo="https://i.imgur.com/nIU0eLi.png" group-title=". Noticias",0803.CBSN
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="0803.CBSN" tvg-logo="https://i.imgur.com/nIU0eLi.png" group-title=".Noticias",0803.CBSN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7549.m3u8
 #EXTINF:-1 type="stream" tvg-id="I355.10139.zap2it.com" tvg-name="0804.CNBC" tvg-logo="https://i.imgur.com/iFA4U7f.png " group-title=".Noticias",0804.CNBC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7550.m3u8
-#EXTINF:-1 type="stream" tvg-id="cnn.mx" tvg-name="0805.CNN USA" tvg-logo="https://i.imgur.com/09PwMB6.png" grupo- title=".Noticias",0805.CNN EE.UU.
+#EXTINF:-1 type="stream" tvg-id="cnn.mx" tvg-name="0805.CNN USA" tvg-logo="https://i.imgur.com/09PwMB6.png" group-title=".Noticias",0805.CNN EE.UU.
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7178.m3u8
 #EXTINF:-1 type="stream" tvg-id="cnnenespanol.mx" tvg-name="0806.CNN ESPAÑOL SD (4:3)" tvg-logo="https://i.imgur.com/ 09PwMB6.png" group-title=".Noticias",0806.CNN ESPAÑOL SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7382.m3u8
-#EXTINF:-1 type="stream" tvg-id="cnnenespanol.mx" tvg-name="0807.CNN ESPAÑOL" tvg-logo="https://i.imgur.com/09PwMB6.png" grupo- title=".Noticias",0807.CNN ESPAÑOL
+#EXTINF:-1 type="stream" tvg-id="cnnenespanol.mx" tvg-name="0807.CNN ESPAÑOL" tvg-logo="https://i.imgur.com/09PwMB6.png" group-title=".Noticias",0807.CNN ESPAÑOL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7179.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0808.CNN ESPAÑOL (1080P)" tvg-logo="https://i.imgur.com /09PwMB6.png" group-title=".Noticias",0808.CNN ESPAÑOL (1080P)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7444.m3u8
 #EXTINF:-1 type="stream" tvg-id="I360.60179.zap2it.com" tvg-name="0810.FOX NEWS" tvg-logo="https://i.imgur.com/dgS2pcn. png" group-title=".Noticias",0810.FOX NEWS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7192.m3u8
-#EXTINF:-1 type="stream" tvg-id="bloombergtv.mx" tvg-name="0811.EL FINANCIERO" tvg-logo="https://i.imgur.com/wFf3F2C.png" grupo- title=".Noticias",0811.EL FINANCIERO
+#EXTINF:-1 type="stream" tvg-id="bloombergtv.mx" tvg-name="0811.EL FINANCIERO" tvg-logo="https://i.imgur.com/wFf3F2C.png" group-title=".Noticias",0811.EL FINANCIERO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7109.m3u8
-#EXTINF:-1 type="stream" tvg-id="forotv.mx" tvg-name="0812.FORO TV" tvg-logo="https://i.imgur.com/es9hfto.png" grupo- title=".Noticias",0812.FORO TV
+#EXTINF:-1 type="stream" tvg-id="forotv.mx" tvg-name="0812.FORO TV" tvg-logo="https://i.imgur.com/es9hfto.png" group-title=".Noticias",0812.FORO TV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7110.m3u8
 #EXTINF:-1 type="stream" tvg-id="forotv.mx" tvg-name="0813.FORO TV HD (720p)" tvg-logo="https://i.imgur.com/es9hfto. png" group-title=".Noticias",0813.FORO TV HD (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7459.m3u8
 #EXTINF:-1 type="stream" tvg-id="mileniotelevision.mx" tvg-name="0814.MILENIO HD (1080p)" tvg-logo="https://i.imgur.com/xY0aFoe.png " group-title=".Noticias",0814.MILENIO HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7455.m3u8
-#EXTINF:-1 type="stream" tvg-id="Meganoticias.mx" tvg-name="0815.MEGANOTICIAS" tvg-logo="https://i.imgur.com/0D7jmvq.png" group-title =".Noticias",0815.MEGANOTICIAS
+#EXTINF:-1 type="stream" tvg-id="Meganoticias.mx" tvg-name="0815.MEGANOTICIAS" tvg-logo="https://i.imgur.com/0D7jmvq.png" group-title=".Noticias",0815.MEGANOTICIAS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7169.m3u8
 #EXTINF:-1 type="stream" tvg-id="I356.64241.zap2it.com" tvg-name="0816.MSNBC" tvg-logo="https://i.imgur.com/V2fDT9i.png " group-title=".Noticias",0816.MSNBC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7551.m3u8
 #EXTINF:-1 type="stream" tvg-id="I490.69367.schedulesdirect.org" tvg-name="0818.RT NOTICIAS" tvg-logo="https://i.imgur.com/CC7znej. png" group-title=".Noticias",0818.RT NOTICIAS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7616.m3u8
-#EXTINF:-1 type="stream" tvg-id="teleformula.mx" tvg-name="0819.TELEFORMULA" tvg-logo="https://i.imgur.com/B6VtEhj.png" group-title =".Noticias",0819.TELEFORMULA
+#EXTINF:-1 type="stream" tvg-id="teleformula.mx" tvg-name="0819.TELEFORMULA" tvg-logo="https://i.imgur.com/B6VtEhj.png" group-title=".Noticias",0819.TELEFORMULA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7155.m3u8
 #EXTINF:-1 type="stream" tvg-id="universalchannel.mx" tvg-name="0900.UNIVERSAL SD (4:3)" tvg-logo="https://i.imgur.com/b1jfE15 .png" group-title=".Universal Plus",0900.SD UNIVERSAL (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7338.m3u8
-#EXTINF:-1 type="stream" tvg-id="universalchannel.mx" tvg-name="0901.UNIVERSAL " tvg-logo="https://i.imgur.com/b1jfE15.png" group-title =".Universal Plus",0901.UNIVERSAL
+#EXTINF:-1 type="stream" tvg-id="universalchannel.mx" tvg-name="0901.UNIVERSAL " tvg-logo="https://i.imgur.com/b1jfE15.png" group-title=".Universal Plus",0901.UNIVERSAL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7164.m3u8
 #EXTINF:-1 type="stream" tvg-id="universalchannel.mx" tvg-name="0902.UNIVERSAL Full HD (1080p)" tvg-logo="https://i.imgur.com/b1jfE15. png" group-title=".Universal Plus",0902.UNIVERSAL Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7229.m3u8
@@ -4292,257 +4293,257 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7466.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7307.m3u8
 #EXTINF:-1 type="stream" tvg-id="I122.11097.schedulesdirect.org" tvg-name="0912.UNIVERSAL REALITY HD (1080p)" tvg-logo="https://i.imgur. com/b1jfE15.png" group-title=".Universal Plus",0912.UNIVERSAL REALITY HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7463.m3u8
-#EXTINF:-1 type="stream" tvg-id="cosmo.es" tvg-name="1000.#0" tvg-logo="https://i.imgur.com/rKeOjjx.png" grupo- title="Canales de Europa",1000.#0
+#EXTINF:-1 type="stream" tvg-id="cosmo.es" tvg-name="1000.#0" tvg-logo="https://i.imgur.com/rKeOjjx.png" group-title="Canales de Europa",1000.#0
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7538.m3u8
-#EXTINF:-1 type="stream" tvg-id="atreseries.es" tvg-name="1001.A3 SERIES " tvg-logo="https://i.imgur.com/YZu1biZ.png" group- title="Canales de Europa",1001.SERIE A3
+#EXTINF:-1 type="stream" tvg-id="atreseries.es" tvg-name="1001.A3 SERIES " tvg-logo="https://i.imgur.com/YZu1biZ.png" group-title="Canales de Europa",1001.SERIE A3
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7530.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1002.A3 CINE " tvg-logo="https://i.imgur.com/8byr4kD.png" group-title=" Canales de Europa",1002.A3 CINE
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1002.A3 CINE " tvg-logo="https://i.imgur.com/8byr4kD.png" group-title="Canales de Europa",1002.A3 CINE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7531.m3u8
-#EXTINF:-1 type="stream" tvg-id="axn.es" tvg-name="1003.AXN" tvg-logo="https://i.imgur.com/P1kQ7QY.png" título-grupo ="Canales de Europa",1003.AXN
+#EXTINF:-1 type="stream" tvg-id="axn.es" tvg-name="1003.AXN" tvg-logo="https://i.imgur.com/P1kQ7QY.png" group-title="Canales de Europa",1003.AXN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8456.m3u8
-#EXTINF:-1 type="stream" tvg-id="axnwhite.es" tvg-name="1004.AXN WHITE " tvg-logo="https://i.imgur.com/P1kQ7QY.png" group- title="Canales de Europa",1004.AXN BLANCO
+#EXTINF:-1 type="stream" tvg-id="axnwhite.es" tvg-name="1004.AXN WHITE " tvg-logo="https://i.imgur.com/P1kQ7QY.png" group-title="Canales de Europa",1004.AXN BLANCO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7543.m3u8
-#EXTINF:-1 type="stream" tvg-id="antena3.es" tvg-name="1006.ANTENA 3" tvg-logo="https://i.imgur.com/q6Hv3U9.png" grupo- title="Canales de Europa",1006.ANTENA 3
+#EXTINF:-1 type="stream" tvg-id="antena3.es" tvg-name="1006.ANTENA 3" tvg-logo="https://i.imgur.com/q6Hv3U9.png" group-title="Canales de Europa",1006.ANTENA 3
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7513.m3u8
-#EXTINF:-1 type="stream" tvg-id="bemad.es" tvg-name="1007.BE MAD " tvg-logo="https://i.imgur.com/WS9Ss8N.png" group- title="Canales de Europa",1007.BE MAD
+#EXTINF:-1 type="stream" tvg-id="bemad.es" tvg-name="1007.BE MAD " tvg-logo="https://i.imgur.com/WS9Ss8N.png" group-title="Canales de Europa",1007.BE MAD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7529.m3u8
-#EXTINF:-1 type="stream" tvg-id="boing.es" tvg-name="1008.BOING" tvg-logo="https://i.imgur.com/xL3Hmtm.png" título-grupo ="Canales de Europa",1008.BOING
+#EXTINF:-1 type="stream" tvg-id="boing.es" tvg-name="1008.BOING" tvg-logo="https://i.imgur.com/xL3Hmtm.png" group-title="Canales de Europa",1008.BOING
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8454.m3u8
-#EXTINF:-1 type="stream" tvg-id="24horas.es" tvg-name="1010.CANAL 24 " tvg-logo="https://i.imgur.com/yl8e3t9.png" grupo- title="Canales de Europa",1010.CANAL 24
+#EXTINF:-1 type="stream" tvg-id="24horas.es" tvg-name="1010.CANAL 24 " tvg-logo="https://i.imgur.com/yl8e3t9.png" group-title="Canales de Europa",1010.CANAL 24
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8453.m3u8
-#EXTINF:-1 type="stream" tvg-id="canalcocina.es" tvg-name="1011.CANAL COCINA" tvg-logo="https://i.imgur.com/Vs5TLqV.png" grupo- title="Canales de Europa",1011.CANAL COCINA
+#EXTINF:-1 type="stream" tvg-id="canalcocina.es" tvg-name="1011.CANAL COCINA" tvg-logo="https://i.imgur.com/Vs5TLqV.png" group-title="Canales de Europa",1011.CANAL COCINA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7544.m3u8
-#EXTINF:-1 type="stream" tvg-id="cuatro.es" tvg-name="1012.CUATRO " tvg-logo="https://i.imgur.com/Tt7Vkxk.png" group-title ="Canales de Europa",1012.CUATRO
+#EXTINF:-1 type="stream" tvg-id="cuatro.es" tvg-name="1012.CUATRO " tvg-logo="https://i.imgur.com/Tt7Vkxk.png" group-title="Canales de Europa",1012.CUATRO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7514.m3u8
-#EXTINF:-1 type="stream" tvg-id="canalextremadura.es" tvg-name="1013.CANAL EXTREMADURA" tvg-logo="https://i.imgur.com/24qc5uO.png" grupo- title="Canales de Europa",1013.CANAL EXTREMADURA
+#EXTINF:-1 type="stream" tvg-id="canalextremadura.es" tvg-name="1013.CANAL EXTREMADURA" tvg-logo="https://i.imgur.com/24qc5uO.png" group-title="Canales de Europa",1013.CANAL EXTREMADURA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8463.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1014.CASTILLA LA MANCHA " tvg-logo="https://i.imgur.com/xcWZUw2.png" group-title= "Canales de Europa", 1014. CASTILLA LA MANCHA
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1014.CASTILLA LA MANCHA " tvg-logo="https://i.imgur.com/xcWZUw2.png" group-title="Canales de Europa", 1014. CASTILLA LA MANCHA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8465.m3u8
-#EXTINF:-1 type="stream" tvg-id="clantve.es" tvg-name="1015.CLAN" tvg-logo="https://i.imgur.com/22ldp0l.png" group-title ="Canales de Europa",1015.CLAN
+#EXTINF:-1 type="stream" tvg-id="clantve.es" tvg-name="1015.CLAN" tvg-logo="https://i.imgur.com/22ldp0l.png" group-title="Canales de Europa",1015.CLAN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8455.m3u8
-#EXTINF:-1 type="stream" tvg-id="cazapesca.es" tvg-name="1016.CAZA Y PESCA" tvg-logo="https://i.imgur.com/3FZ5HgZ.png" grupo -title="Canales de Europa",1016.CAZA Y PESCA
+#EXTINF:-1 type="stream" tvg-id="cazapesca.es" tvg-name="1016.CAZA Y PESCA" tvg-logo="https://i.imgur.com/3FZ5HgZ.png" group-title="Canales de Europa",1016.CAZA Y PESCA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8466.m3u8
-#EXTINF:-1 type="stream" tvg-id="discoverychannel.es" tvg-name="1017.DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Q9EeqUf.png" grupo- title="Canales de Europa",1017.DISCOVERY CHANNEL
+#EXTINF:-1 type="stream" tvg-id="discoverychannel.es" tvg-name="1017.DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Q9EeqUf.png" group-title="Canales de Europa",1017.DISCOVERY CHANNEL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8459.m3u8
-#EXTINF:-1 type="stream" tvg-id="dmax.es" tvg-name="1018.DMAX" tvg-logo="https://i.imgur.com/6RHvEAv.png" título-grupo ="Canales de Europa",1018.DMAX
+#EXTINF:-1 type="stream" tvg-id="dmax.es" tvg-name="1018.DMAX" tvg-logo="https://i.imgur.com/6RHvEAv.png" group-title="Canales de Europa",1018.DMAX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7537.m3u8
-#EXTINF:-1 type="stream" tvg-id="divinity.es" tvg-name="1019.DIVINITY " tvg-logo="https://i.imgur.com/3uGqMW8.png" group-title ="Canales de Europa",1019.DIVINIDAD
+#EXTINF:-1 type="stream" tvg-id="divinity.es" tvg-name="1019.DIVINITY " tvg-logo="https://i.imgur.com/3uGqMW8.png" group-title="Canales de Europa",1019.DIVINIDAD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7539.m3u8
-#EXTINF:-1 type="stream" tvg-id="disneychannel.es" tvg-name="1020.DISNEY CHANNEL " tvg-logo="https://i.imgur.com/v3TIlcq.png" group- title="Canales de Europa",1020.DISNEY CHANNEL
+#EXTINF:-1 type="stream" tvg-id="disneychannel.es" tvg-name="1020.DISNEY CHANNEL " tvg-logo="https://i.imgur.com/v3TIlcq.png" group-title="Canales de Europa",1020.DISNEY CHANNEL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8458.m3u8
-#EXTINF:-1 type="stream" tvg-id="disneyjunior.es" tvg-name="1021.DISNEY JUNIOR" tvg-logo="https://i.imgur.com/GK2j3qv.png" grupo- title="Canales de Europa",1021.DISNEY JUNIOR
+#EXTINF:-1 type="stream" tvg-id="disneyjunior.es" tvg-name="1021.DISNEY JUNIOR" tvg-logo="https://i.imgur.com/GK2j3qv.png" group-title="Canales de Europa",1021.DISNEY JUNIOR
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8471.m3u8
-#EXTINF:-1 type="stream" tvg-id="energy.es" tvg-name="1022.ENERGY " tvg-logo="https://i.imgur.com/yLLITVD.png" group-title ="Canales de Europa",1022.ENERGÍA
+#EXTINF:-1 type="stream" tvg-id="energy.es" tvg-name="1022.ENERGY " tvg-logo="https://i.imgur.com/yLLITVD.png" group-title="Canales de Europa",1022.ENERGÍA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7536.m3u8
-#EXTINF:-1 type="stream" tvg-id="FactoriadeFiccion.es" tvg-name="1023.FDF" tvg-logo="https://i.imgur.com/OYNHPqH.png" group-title ="Canales de Europa",1023.FDF
+#EXTINF:-1 type="stream" tvg-id="FactoriadeFiccion.es" tvg-name="1023.FDF" tvg-logo="https://i.imgur.com/OYNHPqH.png" group-title="Canales de Europa",1023.FDF
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7540.m3u8
-#EXTINF:-1 type="stream" tvg-id="fox.es" tvg-name="1024.FOX ESPAÑA" tvg-logo="https://i.imgur.com/Gn547Ld.png" grupo- title="Canales de Europa",1024.FOX ESPAÑA
+#EXTINF:-1 type="stream" tvg-id="fox.es" tvg-name="1024.FOX ESPAÑA" tvg-logo="https://i.imgur.com/Gn547Ld.png" group-title="Canales de Europa",1024.FOX ESPAÑA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7541.m3u8
-#EXTINF:-1 type="stream" tvg-id="tvgalicia.es" tvg-name="1025.GALICIA TV" tvg-logo="https://i.imgur.com/DznurZs.png" grupo- title="Canales de Europa",1025.GALICIA TV
+#EXTINF:-1 type="stream" tvg-id="tvgalicia.es" tvg-name="1025.GALICIA TV" tvg-logo="https://i.imgur.com/DznurZs.png" group-title="Canales de Europa",1025.GALICIA TV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7534.m3u8
-#EXTINF:-1 type="stream" tvg-id="historia.es" tvg-name="1026.HISTORIA" tvg-logo="https://i.imgur.com/1fDqn7O.png" group-title ="Canales de Europa",1026.HISTORIA
+#EXTINF:-1 type="stream" tvg-id="historia.es" tvg-name="1026.HISTORIA" tvg-logo="https://i.imgur.com/1fDqn7O.png" group-title="Canales de Europa",1026.HISTORIA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7545.m3u8
-#EXTINF:-1 type="stream" tvg-id="discoverychannel.mx" tvg-name="1027.HOLLYWOOD" tvg-logo="https://i.imgur.com/Msloxtq.png" group-title ="Canales de Europa",1027.HOLLYWOOD
+#EXTINF:-1 type="stream" tvg-id="discoverychannel.mx" tvg-name="1027.HOLLYWOOD" tvg-logo="https://i.imgur.com/Msloxtq.png" group-title="Canales de Europa",1027.HOLLYWOOD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7448.m3u8
-#EXTINF:-1 type="stream" tvg-id="la1.es" tvg-name="1028.LA 1" tvg-logo="https://i.imgur.com/w79jVnZ.png" grupo- title="Canales de Europa",1028.LA 1
+#EXTINF:-1 type="stream" tvg-id="la1.es" tvg-name="1028.LA 1" tvg-logo="https://i.imgur.com/w79jVnZ.png" group-title="Canales de Europa",1028.LA 1
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7511.m3u8
-#EXTINF:-1 type="stream" tvg-id="la2.es" tvg-name="1029.LA 2" tvg-logo="https://i.imgur.com/0nAv9ez.png" grupo- title="Canales de Europa",1029.LA 2
+#EXTINF:-1 type="stream" tvg-id="la2.es" tvg-name="1029.LA 2" tvg-logo="https://i.imgur.com/0nAv9ez.png" group-title="Canales de Europa",1029.LA 2
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7512.m3u8
-#EXTINF:-1 type="stream" tvg-id="lasexta.es" tvg-name="1030.LA SEXTA " tvg-logo="https://i.imgur.com/IZnXyNt.png" grupo- title="Canales de Europa",1030.LA SEXTA
+#EXTINF:-1 type="stream" tvg-id="lasexta.es" tvg-name="1030.LA SEXTA " tvg-logo="https://i.imgur.com/IZnXyNt.png" group-title="Canales de Europa",1030.LA SEXTA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7516.m3u8
-#EXTINF:-1 type="stream" tvg-id="movistarseries.es" tvg-name="1032.MOVISTAR SERIES 2" tvg-logo="https://i.imgur.com/jsV9PVv.png" grupo -title="Canales de Europa",1032.MOVISTAR SERIE 2
+#EXTINF:-1 type="stream" tvg-id="movistarseries.es" tvg-name="1032.MOVISTAR SERIES 2" tvg-logo="https://i.imgur.com/jsV9PVv.png" group-title="Canales de Europa",1032.MOVISTAR SERIE 2
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7519.m3u8
-#EXTINF:-1 type="stream" tvg-id="13tv.es" tvg-name="1033.MOVISTAR SERIES 1" tvg-logo="https://i.imgur.com/jsV9PVv.png" grupo -title="Canales de Europa",1033.MOVISTAR SERIE 1
+#EXTINF:-1 type="stream" tvg-id="13tv.es" tvg-name="1033.MOVISTAR SERIES 1" tvg-logo="https://i.imgur.com/jsV9PVv.png" group-title="Canales de Europa",1033.MOVISTAR SERIE 1
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7520.m3u8
-#EXTINF:-1 type="stream" tvg-id="movistaraccion.es" tvg-name="1034.MOVISTAR ACCION " tvg-logo="https://i.imgur.com/BDvsIVV.png" grupo- title="Canales de Europa",1034.MOVISTAR ACCIÓN
+#EXTINF:-1 type="stream" tvg-id="movistaraccion.es" tvg-name="1034.MOVISTAR ACCION " tvg-logo="https://i.imgur.com/BDvsIVV.png" group-title="Canales de Europa",1034.MOVISTAR ACCIÓN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7521.m3u8
-#EXTINF:-1 type="stream" tvg-id="movistarcomedia.es" tvg-name="1035.MOVISTAR COMEDIA " tvg-logo="https://i.imgur.com/Q4uFcEa.png" grupo- title="Canales de Europa",1035.MOVISTAR COMEDIA
+#EXTINF:-1 type="stream" tvg-id="movistarcomedia.es" tvg-name="1035.MOVISTAR COMEDIA " tvg-logo="https://i.imgur.com/Q4uFcEa.png" group-title="Canales de Europa",1035.MOVISTAR COMEDIA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7522.m3u8
-#EXTINF:-1 type="stream" tvg-id="movistarcine.es" tvg-name="1036.MOVISTAR DRAMA" tvg-logo="https://i.imgur.com/bIEnB6W.png" grupo- title="Canales de Europa",1036.MOVISTAR DRAMA
+#EXTINF:-1 type="stream" tvg-id="movistarcine.es" tvg-name="1036.MOVISTAR DRAMA" tvg-logo="https://i.imgur.com/bIEnB6W.png" group-title="Canales de Europa",1036.MOVISTAR DRAMA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7523.m3u8
-#EXTINF:-1 type="stream" tvg-id="movistarestrenos.es" tvg-name="1037.MOVISTAR ESTRENOS" tvg-logo="https://i.imgur.com/NgvaPgO.png" grupo- title="Canales de Europa",1037.MOVISTAR ESTRENOS
+#EXTINF:-1 type="stream" tvg-id="movistarestrenos.es" tvg-name="1037.MOVISTAR ESTRENOS" tvg-logo="https://i.imgur.com/NgvaPgO.png" group-title="Canales de Europa",1037.MOVISTAR ESTRENOS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7524.m3u8
-#EXTINF:-1 type="stream" tvg-id="moviestardrama.es" tvg-name="1038.MOVISTAR BBC DRAMA " tvg-logo="https://i.imgur.com/bIEnB6W.png" grupo -title="Canales de Europa",1038.MOVISTAR BBC DRAMA
+#EXTINF:-1 type="stream" tvg-id="moviestardrama.es" tvg-name="1038.MOVISTAR BBC DRAMA " tvg-logo="https://i.imgur.com/bIEnB6W.png" group-title="Canales de Europa",1038.MOVISTAR BBC DRAMA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7525.m3u8
-#EXTINF:-1 type="stream" tvg-id="neox.es" tvg-name="1039.NEOX " tvg-logo="https://i.imgur.com/RTrUW8B.png" group-title ="Canales de Europa",1039.NEOX
+#EXTINF:-1 type="stream" tvg-id="neox.es" tvg-name="1039.NEOX " tvg-logo="https://i.imgur.com/RTrUW8B.png" group-title="Canales de Europa",1039.NEOX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7526.m3u8
-#EXTINF:-1 type="stream" tvg-id="nova.es" tvg-name="1040.NOVA " tvg-logo="https://i.imgur.com/8byFe1a.png" group-title ="Canales de Europa",1040.NOVA
+#EXTINF:-1 type="stream" tvg-id="nova.es" tvg-name="1040.NOVA " tvg-logo="https://i.imgur.com/8byFe1a.png" group-title="Canales de Europa",1040.NOVA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7527.m3u8
-#EXTINF:-1 type="stream" tvg-id="nickelodeon.es" tvg-name="1041.NICKELODEON" tvg-logo="https://i.imgur.com/4wv1aHj.png" group-title ="Canales de Europa",1041.NICKELODEON
+#EXTINF:-1 type="stream" tvg-id="nickelodeon.es" tvg-name="1041.NICKELODEON" tvg-logo="https://i.imgur.com/4wv1aHj.png" group-title="Canales de Europa",1041.NICKELODEON
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8469.m3u8
-#EXTINF:-1 type="stream" tvg-id="odisea.es" tvg-name="1042.ODISEA" tvg-logo="https://i.imgur.com/w71Z3AK.png" group-title ="Canales de Europa",1042.ODISEA
+#EXTINF:-1 type="stream" tvg-id="odisea.es" tvg-name="1042.ODISEA" tvg-logo="https://i.imgur.com/w71Z3AK.png" group-title="Canales de Europa",1042.ODISEA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8461.m3u8
-#EXTINF:-1 type="stream" tvg-id="ten.es" tvg-name="1043.PARAMOUNT" tvg-logo="https://i.imgur.com/pc2qHP2.png" group-title ="Canales de Europa",1043.PARAMONTE
+#EXTINF:-1 type="stream" tvg-id="ten.es" tvg-name="1043.PARAMOUNT" tvg-logo="https://i.imgur.com/pc2qHP2.png" group-title="Canales de Europa",1043.PARAMONTE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7535.m3u8
-#EXTINF:-1 type="stream" tvg-id="natgeowild.mx" tvg-name="1044.STAR TVE" tvg-logo="https://i.imgur.com/PKddiEJ.png" group- title="Canales de Europa",1044.STAR TVE
+#EXTINF:-1 type="stream" tvg-id="natgeowild.mx" tvg-name="1044.STAR TVE" tvg-logo="https://i.imgur.com/PKddiEJ.png" group-title="Canales de Europa",1044.STAR TVE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7135.m3u8
-#EXTINF:-1 type="stream" tvg-id="syfy.es" tvg-name="1045.SYFY" tvg-logo="https://i.imgur.com/AAVXk3k.png" título-grupo ="Canales de Europa",1045.SYFY
+#EXTINF:-1 type="stream" tvg-id="syfy.es" tvg-name="1045.SYFY" tvg-logo="https://i.imgur.com/AAVXk3k.png" group-title="Canales de Europa",1045.SYFY
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8460.m3u8
-#EXTINF:-1 type="stream" tvg-id="tcm.es" tvg-name="1046.TCM" tvg-logo="https://i.imgur.com/kJoAJd7.png" título-grupo ="Canales de Europa",1046.TCM
+#EXTINF:-1 type="stream" tvg-id="tcm.es" tvg-name="1046.TCM" tvg-logo="https://i.imgur.com/kJoAJd7.png" group-title="Canales de Europa",1046.TCM
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8457.m3u8
-#EXTINF:-1 type="stream" tvg-id="telecinco.es" tvg-name="1047.TELECINCO " tvg-logo="https://i.imgur.com/fCyntns.png" group-title ="Canales de Europa",1047.TELECINCO
+#EXTINF:-1 type="stream" tvg-id="telecinco.es" tvg-name="1047.TELECINCO " tvg-logo="https://i.imgur.com/fCyntns.png" group-title="Canales de Europa",1047.TELECINCO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7515.m3u8
-#EXTINF:-1 type="stream" tvg-id="amc.us" tvg-name="1102.AMC" tvg-logo="https://i.imgur.com/bb9FakF.png" título del grupo ="Canales de USA",1102.AMC
+#EXTINF:-1 type="stream" tvg-id="amc.us" tvg-name="1102.AMC" tvg-logo="https://i.imgur.com/bb9FakF.png"  group-title="Canales de USA",1102.AMC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7552.m3u8
-#EXTINF:-1 type="stream" tvg-id="animalplanet.us" tvg-name="1103.ANIMAL PLANET " tvg-logo="https://i.imgur.com/D0RJ1Kv.png" group- title="Canales de USA",1103. PLANETA ANIMAL
+#EXTINF:-1 type="stream" tvg-id="animalplanet.us" tvg-name="1103.ANIMAL PLANET " tvg-logo="https://i.imgur.com/D0RJ1Kv.png" group-title="Canales de USA",1103. PLANETA ANIMAL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7546.m3u8
-#EXTINF:-1 type="stream" tvg-id="abc7kvia.us" tvg-name="1104.ABC " tvg-logo="https://i.imgur.com/YuTAKSE.png" título del grupo ="Canales de USA",1104.ABC
+#EXTINF:-1 type="stream" tvg-id="abc7kvia.us" tvg-name="1104.ABC " tvg-logo="https://i.imgur.com/YuTAKSE.png" group-title="Canales de USA",1104.ABC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7557.m3u8
-#EXTINF:-1 type="stream" tvg-id="abc13wham.us" tvg-name="1105.ABC" tvg-logo="https://i.imgur.com/YuTAKSE.png" título del grupo ="Canales de USA",1105.ABC
+#EXTINF:-1 type="stream" tvg-id="abc13wham.us" tvg-name="1105.ABC" tvg-logo="https://i.imgur.com/YuTAKSE.png" group-title="Canales de USA",1105.ABC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7558.m3u8
-#EXTINF:-1 type="stream" tvg-id="aande.us" tvg-name="1106.A&E " tvg-logo="https://i.imgur.com/FlQcK03.png" título-grupo ="Canales de USA",1106.A&E
+#EXTINF:-1 type="stream" tvg-id="aande.us" tvg-name="1106.A&E " tvg-logo="https://i.imgur.com/FlQcK03.png" group-title="Canales de USA",1106.A&E
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7564.m3u8
-#EXTINF:-1 type="stream" tvg-id="bbcamerica.us" tvg-name="1107.BBC AMERICA" tvg-logo="https://i.imgur.com/oUhWmge.png" group- title="Canales de USA",1107.BBC AMÉRICA
+#EXTINF:-1 type="stream" tvg-id="bbcamerica.us" tvg-name="1107.BBC AMERICA" tvg-logo="https://i.imgur.com/oUhWmge.png" group-title="Canales de USA",1107.BBC AMÉRICA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7582.m3u8
-#EXTINF:-1 type="stream" tvg-id="boomerang.us" tvg-name="1108.BOOMERANG " tvg-logo="https://i.imgur.com/kPILLMC.png" título de grupo ="Canales de USA",1108.BOOMERANG
+#EXTINF:-1 type="stream" tvg-id="boomerang.us" tvg-name="1108.BOOMERANG " tvg-logo="https://i.imgur.com/kPILLMC.png" group-title="Canales de USA",1108.BOOMERANG
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7453.m3u8
-#EXTINF:-1 type="stream" tvg-id="bloombergtv.us" tvg-name="1109.BLOOMBERG PLUS US" tvg-logo="https://i.imgur.com/HMwsFW1.png" grupo -title="Canales de USA",1109.BLOOMBERG PLUS EE.UU.
+#EXTINF:-1 type="stream" tvg-id="bloombergtv.us" tvg-name="1109.BLOOMBERG PLUS US" tvg-logo="https://i.imgur.com/HMwsFW1.png" group-title="Canales de USA",1109.BLOOMBERG PLUS EE.UU.
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8479.m3u8
-#EXTINF:-1 type="stream" tvg-id="bravo.us" tvg-name="1110.BRAVO" tvg-logo="https://i.imgur.com/TK1JwlJ.png" título del grupo ="Canales de USA",1110.BRAVO
+#EXTINF:-1 type="stream" tvg-id="bravo.us" tvg-name="1110.BRAVO" tvg-logo="https://i.imgur.com/TK1JwlJ.png" group-title="Canales de USA",1110.BRAVO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7568.m3u8
-#EXTINF:-1 type="stream" tvg-id="bet.us" tvg-name="1111.DRAMA" tvg-logo="https://i.imgur.com/oUhWmge.png" título del grupo ="Canales de USA",1111.DRAMA
+#EXTINF:-1 type="stream" tvg-id="bet.us" tvg-name="1111.DRAMA" tvg-logo="https://i.imgur.com/oUhWmge.png" group-title="Canales de USA",1111.DRAMA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9338.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1114.CINE LIFE" tvg-logo="https://i.imgur.com/n70SC6G.png" group-title=" Canales de USA", 1114. VIDA DE CINE
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1114.CINE LIFE" tvg-logo="https://i.imgur.com/n70SC6G.png" group-title="Canales de USA", 1114. VIDA DE CINE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8497.m3u8
-#EXTINF:-1 type="stream" tvg-id="cbs2wbbm.us" tvg-name="1115.CBS" tvg-logo="https://i.imgur.com/PG6e5Vg.png" título del grupo ="Canales de USA",1115.CBS
+#EXTINF:-1 type="stream" tvg-id="cbs2wbbm.us" tvg-name="1115.CBS" tvg-logo="https://i.imgur.com/PG6e5Vg.png" group-title="Canales de USA",1115.CBS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7554.m3u8
-#EXTINF:-1 type="stream" tvg-id="cbs42keye.us" tvg-name="1116.CBS 2" tvg-logo="https://i.imgur.com/PG6e5Vg.png" group- title="Canales de USA",1116.CBS 2
+#EXTINF:-1 type="stream" tvg-id="cbs42keye.us" tvg-name="1116.CBS 2" tvg-logo="https://i.imgur.com/PG6e5Vg.png" group-title="Canales de USA",1116.CBS 2
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7553.m3u8
-#EXTINF:-1 type="stream" tvg-id="comet.us" tvg-name="1118.CINE LIFE" tvg-logo="https://i.imgur.com/G8t6FdW.png" group- title="Canales de USA",1118.VIDA DE CINE
+#EXTINF:-1 type="stream" tvg-id="comet.us" tvg-name="1118.CINE LIFE" tvg-logo="https://i.imgur.com/G8t6FdW.png" group-title="Canales de USA",1118.VIDA DE CINE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7570.m3u8
-#EXTINF:-1 type="stream" tvg-id="comedycentral.us" tvg-name="1119.COMEDY CENTRAL" tvg-logo="https://i.imgur.com/ooMeofv.png" grupo- title="Canales de USA",1119.COMEDY CENTRAL
+#EXTINF:-1 type="stream" tvg-id="comedycentral.us" tvg-name="1119.COMEDY CENTRAL" tvg-logo="https://i.imgur.com/ooMeofv.png" group-title="Canales de USA",1119.COMEDY CENTRAL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7566.m3u8
-#EXTINF:-1 type="stream" tvg-id="tlc.us" tvg-name="1121.DISCOVERY TLC" tvg-logo="https://i.imgur.com/EF5dyEP.png" group- title="Canales de USA",1121.DISCOVERY TLC
+#EXTINF:-1 type="stream" tvg-id="tlc.us" tvg-name="1121.DISCOVERY TLC" tvg-logo="https://i.imgur.com/EF5dyEP.png" group-title="Canales de USA",1121.DISCOVERY TLC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8477.m3u8
-#EXTINF:-1 type="stream" tvg-id="disneychannel.us" tvg-name="1122.DISNEY CHANNEL" tvg-logo="https://i.imgur.com/v3TIlcq.png" group- title="Canales de USA",1122.DISNEY CHANNEL
+#EXTINF:-1 type="stream" tvg-id="disneychannel.us" tvg-name="1122.DISNEY CHANNEL" tvg-logo="https://i.imgur.com/v3TIlcq.png" group-title="Canales de USA",1122.DISNEY CHANNEL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7475.m3u8
-#EXTINF:-1 type="stream" tvg-id="epix.us" tvg-name="1125.EPIX" tvg-logo="https://i.imgur.com/7mA6IeC.png" título del grupo ="Canales de USA",1125.EPIX
+#EXTINF:-1 type="stream" tvg-id="epix.us" tvg-name="1125.EPIX" tvg-logo="https://i.imgur.com/7mA6IeC.png" group-title="Canales de USA",1125.EPIX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8499.m3u8
-#EXTINF:-1 type="stream" tvg-id="epix2.us" tvg-name="1126.EPIX 2" tvg-logo="https://i.imgur.com/7mA6IeC.png" group- title="Canales de USA",1126.EPIX 2
+#EXTINF:-1 type="stream" tvg-id="epix2.us" tvg-name="1126.EPIX 2" tvg-logo="https://i.imgur.com/7mA6IeC.png" group-title="Canales de USA",1126.EPIX 2
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8500.m3u8
-#EXTINF:-1 type="stream" tvg-id="fox9kecy.us" tvg-name="1127.PARAMOUNT US" tvg-logo="https://i.imgur.com/Gn547Ld.png" grupo- title="Canales de USA",1127.PARAMOUNT NOSOTROS
+#EXTINF:-1 type="stream" tvg-id="fox9kecy.us" tvg-name="1127.PARAMOUNT US" tvg-logo="https://i.imgur.com/Gn547Ld.png" group-title="Canales de USA",1127.PARAMOUNT NOSOTROS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7586.m3u8
-#EXTINF:-1 type="stream" tvg-id="fx.us" tvg-name="1128.FX" tvg-logo="https://i.imgur.com/9ygHsCJ.png" título del grupo ="Canales de USA",1128.FX
+#EXTINF:-1 type="stream" tvg-id="fx.us" tvg-name="1128.FX" tvg-logo="https://i.imgur.com/9ygHsCJ.png" group-title="Canales de USA",1128.FX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7587.m3u8
-#EXTINF:-1 type="stream" tvg-id="fxm.us" tvg-name="1129.FXM" tvg-logo="https://i.imgur.com/9ygHsCJ.png" título del grupo ="Canales de USA",1129.FXM
+#EXTINF:-1 type="stream" tvg-id="fxm.us" tvg-name="1129.FXM" tvg-logo="https://i.imgur.com/9ygHsCJ.png" group-title="Canales de USA",1129.FXM
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7559.m3u8
-#EXTINF:-1 type="stream" tvg-id="freeform.us" tvg-name="1130.FREEFORM" tvg-logo="https://i.imgur.com/wnzeKfR.png" título de grupo ="Canales de USA",1130.FORMA LIBRE
+#EXTINF:-1 type="stream" tvg-id="freeform.us" tvg-name="1130.FREEFORM" tvg-logo="https://i.imgur.com/wnzeKfR.png" group-title="Canales de USA",1130.FORMA LIBRE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7579.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1131.CINCO ESTRELLAS MAX" tvg-logo="https://i.imgur.com/oUhWmge.png" group-title= "Canales de USA",1131.CINCO ESTRELLAS MAX
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1131.CINCO ESTRELLAS MAX" tvg-logo="https://i.imgur.com/oUhWmge.png" group-title="Canales de USA",1131.CINCO ESTRELLAS MAX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9340.m3u8
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="1132.GRIT" tvg-logo="https://i.imgur.com/oUhWmge.png" group-title="Canales de EE.UU.",1132.GRIT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9343.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1134.CANAL ONCE" tvg-logo="https://i.imgur.com/oUhWmge.png" group-title=" Canales Locales Mex", 1134. CANAL ONCE
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1134.CANAL ONCE" tvg-logo="https://i.imgur.com/oUhWmge.png" group-title="Canales Locales Mex", 1134. CANAL ONCE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9339.m3u8
-#EXTINF:-1 type="stream" tvg-id="hbo.us" tvg-name="1135.HBO" tvg-logo="https://i.imgur.com/41zS1Hs.png" título del grupo ="Canales de USA",1135.HBO
+#EXTINF:-1 type="stream" tvg-id="hbo.us" tvg-name="1135.HBO" tvg-logo="https://i.imgur.com/41zS1Hs.png" group-title="Canales de USA",1135.HBO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8503.m3u8
-#EXTINF:-1 type="stream" tvg-id="hbocomedy.us" tvg-name="1136.HBO COMEDIA" tvg-logo="https://i.imgur.com/41zS1Hs.png" grupo- title="Canales de USA",1136.HBO COMEDIA
+#EXTINF:-1 type="stream" tvg-id="hbocomedy.us" tvg-name="1136.HBO COMEDIA" tvg-logo="https://i.imgur.com/41zS1Hs.png" group-title="Canales de USA",1136.HBO COMEDIA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8504.m3u8
-#EXTINF:-1 type="stream" tvg-id="hbozone.us" tvg-name="1137.HBO ZONE" tvg-logo="https://i.imgur.com/41zS1Hs.png" group- title="Canales de USA",1137.ZONA HBO
+#EXTINF:-1 type="stream" tvg-id="hbozone.us" tvg-name="1137.HBO ZONE" tvg-logo="https://i.imgur.com/41zS1Hs.png" group-title="Canales de USA",1137.ZONA HBO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8505.m3u8
 #EXTINF:-1 type="stream" tvg-id="hallmark.us" tvg-name="1138.MOVIESPHERE (1080P)" tvg-logo="https://i.imgur.com/TnqD1NO.png" group-title="Canales de USA",1138.MOVIESPHERE (1080P)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7585.m3u8
-#EXTINF:-1 type="stream" tvg-id="historychannel.us" tvg-name="1139.HISTORY" tvg-logo="https://i.imgur.com/1fDqn7O.png" título del grupo ="Canales de USA",1139.HISTORIA
+#EXTINF:-1 type="stream" tvg-id="historychannel.us" tvg-name="1139.HISTORY" tvg-logo="https://i.imgur.com/1fDqn7O.png" group-title="Canales de USA",1139.HISTORIA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8475.m3u8
-#EXTINF:-1 type="stream" tvg-id="investigationdiscovery.us" tvg-name="1140.ID" tvg-logo="https://i.imgur.com/Q9EeqUf.png" título del grupo ="Canales de USA",1140.ID
+#EXTINF:-1 type="stream" tvg-id="investigationdiscovery.us" tvg-name="1140.ID" tvg-logo="https://i.imgur.com/Q9EeqUf.png" group-title="Canales de USA",1140.ID
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9342.m3u8
-#EXTINF:-1 type="stream" tvg-id="ion.us" tvg-name="1142.ION" tvg-logo="https://i.imgur.com/RKDSudM.png" título del grupo ="Canales de USA",1142.ION
+#EXTINF:-1 type="stream" tvg-id="ion.us" tvg-name="1142.ION" tvg-logo="https://i.imgur.com/RKDSudM.png" group-title="Canales de USA",1142.ION
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9345.m3u8
-#EXTINF:-1 type="stream" tvg-id="ionplus.us" tvg-name="1143.ION PLUS" tvg-logo="https://i.imgur.com/RKDSudM.png" grupo- title="Canales de USA",1143.ION PLUS
+#EXTINF:-1 type="stream" tvg-id="ionplus.us" tvg-name="1143.ION PLUS" tvg-logo="https://i.imgur.com/RKDSudM.png" grupo-title="Canales de USA",1143.ION PLUS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9346.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1144.ION MYSTERY" tvg-logo="https://i.imgur.com/RKDSudM.png" group-title=" Canales de USA", 1144. ION MYSTERY
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1144.ION MYSTERY" tvg-logo="https://i.imgur.com/RKDSudM.png" group-title="Canales de USA", 1144. ION MYSTERY
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9344.m3u8
-#EXTINF:-1 type="stream" tvg-id="independentfilmchannel.us" tvg-name="1145.IFC" tvg-logo="https://i.imgur.com/vCNZ8B2.png" título de grupo ="Canales de USA",1145.IFC
+#EXTINF:-1 type="stream" tvg-id="independentfilmchannel.us" tvg-name="1145.IFC" tvg-logo="https://i.imgur.com/vCNZ8B2.png" group-title="Canales de USA",1145.IFC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8502.m3u8
-#EXTINF:-1 type="stream" tvg-id="lifetimenetwork.us" tvg-name="1146.LIFETIME" tvg-logo="https://i.imgur.com/cSCg8zp.png" título del grupo ="Canales de USA",1146.VIDA ÚTIL
+#EXTINF:-1 type="stream" tvg-id="lifetimenetwork.us" tvg-name="1146.LIFETIME" tvg-logo="https://i.imgur.com/cSCg8zp.png" group-title="Canales de USA",,1146.VIDA ÚTIL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7583.m3u8
-#EXTINF:-1 type="stream" tvg-id="moremax.us" tvg-name="1147.MOREMAX" tvg-logo="https://i.imgur.com/krSTCaY.png" título del grupo ="Canales de USA",1147.MOREMAX
+#EXTINF:-1 type="stream" tvg-id="moremax.us" tvg-name="1147.MOREMAX" tvg-logo="https://i.imgur.com/krSTCaY.png" group-title="Canales de USA",1147.MOREMAX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7560.m3u8
-#EXTINF:-1 type="stream" tvg-id="moviemax.us" tvg-name="1148.MOVIE MAX" tvg-logo="https://i.imgur.com/xFzbntt.png" group- title="Canales de USA",1148.MOVIE MAX
+#EXTINF:-1 type="stream" tvg-id="moviemax.us" tvg-name="1148.MOVIE MAX" tvg-logo="https://i.imgur.com/xFzbntt.png" group-title="Canales de USA",1148.MOVIE MAX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7561.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1149.MY TIME MOVIE NETWORK" tvg-logo="https://i.imgur.com/Hi8aADv.png" group-title ="Canales de USA",1149.MY TIME MOVIE NETWORK
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1149.MY TIME MOVIE NETWORK" tvg-logo="https://i.imgur.com/Hi8aADv.png" group-title="Canales de USA",1149.MY TIME MOVIE NETWORK
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8501.m3u8
-#EXTINF:-1 type="stream" tvg-id="nbc4knbc.us" tvg-name="1150.NBC " tvg-logo="https://i.imgur.com/ktz4SEO.png" título de grupo ="Canales de USA",1150.NBC
+#EXTINF:-1 type="stream" tvg-id="nbc4knbc.us" tvg-name="1150.NBC " tvg-logo="https://i.imgur.com/ktz4SEO.png" group-title="Canales de USA",1150.NBC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7565.m3u8
-#EXTINF:-1 type="stream" tvg-id="natgeo.us" tvg-name="1151.NAT GEO" tvg-logo="https://i.imgur.com/gvISSEE.png" grupo- title="Canales de USA",1151.NAT GEO
+#EXTINF:-1 type="stream" tvg-id="natgeo.us" tvg-name="1151.NAT GEO" tvg-logo="https://i.imgur.com/gvISSEE.png" group-title="Canales de USA",1151.NAT GEO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8476.m3u8
-#EXTINF:-1 type="stream" tvg-id="smithsonianchannel.us" tvg-name="1153.SMITHSONIAN CHANNEL" tvg-logo="https://i.imgur.com/LyHlH7e.png" group- title="Canales de USA",1153.CANAL SMITHSONIAN
+#EXTINF:-1 type="stream" tvg-id="smithsonianchannel.us" tvg-name="1153.SMITHSONIAN CHANNEL" tvg-logo="https://i.imgur.com/LyHlH7e.png" group-title="Canales de USA",1153.CANAL SMITHSONIAN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7548.m3u8
-#EXTINF:-1 type="stream" tvg-id="showtime.us" tvg-name="1154.SHOWTIME" tvg-logo="https://i.imgur.com/jarfoOy.png" título del grupo ="Canales de USA",1154.SHOWTIME
+#EXTINF:-1 type="stream" tvg-id="showtime.us" tvg-name="1154.SHOWTIME" tvg-logo="https://i.imgur.com/jarfoOy.png" group-title="Canales de USA",1154.SHOWTIME
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7563.m3u8
-#EXTINF:-1 type="stream" tvg-id="showtime2.us" tvg-name="1155.SHOWTIME 2" tvg-logo="https://i.imgur.com/jarfoOy.png" grupo- title="Canales de USA",1155.SHOWTIME 2
+#EXTINF:-1 type="stream" tvg-id="showtime2.us" tvg-name="1155.SHOWTIME 2" tvg-logo="https://i.imgur.com/jarfoOy.png" group-title="Canales de USA",1155.SHOWTIME 2
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8507.m3u8
-#EXTINF:-1 type="stream" tvg-id="showtimeextreme.us" tvg-name="1156.SHOWTIME EXTREME" tvg-logo="https://i.imgur.com/jarfoOy.png" grupo- title="Canales de USA",1156.SHOWTIME EXTREME
+#EXTINF:-1 type="stream" tvg-id="showtimeextreme.us" tvg-name="1156.SHOWTIME EXTREME" tvg-logo="https://i.imgur.com/jarfoOy.png" group-title="Canales de USA",1156.SHOWTIME EXTREME
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8508.m3u8
-#EXTINF:-1 type="stream" tvg-id="showtimenext.us" tvg-name="1157.SHOWTIME NEXT" tvg-logo="https://i.imgur.com/jarfoOy.png" grupo- title="Canales de USA",1157.SHOWTIME SIGUIENTE
+#EXTINF:-1 type="stream" tvg-id="showtimenext.us" tvg-name="1157.SHOWTIME NEXT" tvg-logo="https://i.imgur.com/jarfoOy.png" group-title="Canales de USA",1157.SHOWTIME SIGUIENTE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8509.m3u8
 #EXTINF:-1 type="stream" tvg-id="I541.14871.zap2it.com" tvg-name="1158.STARZ ACTION" tvg-logo="https://i.imgur.com/dFFze6x. png" group-title="Canales de USA",1158.ACCIÓN STARZ
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7589.m3u8
-#EXTINF:-1 type="stream" tvg-id="starzcinema.us" tvg-name="1160.STARZ CINEMA" tvg-logo="https://i.imgur.com/dFFze6x.png" grupo- title="Canales de USA",1160.STARZ CINEMA
+#EXTINF:-1 type="stream" tvg-id="starzcinema.us" tvg-name="1160.STARZ CINEMA" tvg-logo="https://i.imgur.com/dFFze6x.png" group-title="Canales de USA",1160.STARZ CINEMA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7592.m3u8
-#EXTINF:-1 type="stream" tvg-id="starzedge.us" tvg-name="1161.STARZ EDGE" tvg-logo="https://i.imgur.com/dFFze6x.png" grupo- title="Canales de USA",1161.STARZ EDGE
+#EXTINF:-1 type="stream" tvg-id="starzedge.us" tvg-name="1161.STARZ EDGE" tvg-logo="https://i.imgur.com/dFFze6x.png" group-title="Canales de USA",1161.STARZ EDGE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7590.m3u8
-#EXTINF:-1 type="stream" tvg-id="thrillermax.us" tvg-name="1162.THRILLERMAX" tvg-logo="https://i.imgur.com/Gyfsb8J.png" título del grupo ="Canales de USA",1162.THRILLERMAX
+#EXTINF:-1 type="stream" tvg-id="thrillermax.us" tvg-name="1162.THRILLERMAX" tvg-logo="https://i.imgur.com/Gyfsb8J.png" group-title="Canales de USA",1162.THRILLERMAX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7562.m3u8
-#EXTINF:-1 type="stream" tvg-id="tnt.us" tvg-name="1163.TNT" tvg-logo="https://i.imgur.com/8le85xc.png" título del grupo ="Canales de USA",1163.TNT
+#EXTINF:-1 type="stream" tvg-id="tnt.us" tvg-name="1163.TNT" tvg-logo="https://i.imgur.com/8le85xc.png" group-title="Canales de USA",1163.TNT
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7569.m3u8
-#EXTINF:-1 type="stream" tvg-id="americatv.ar" tvg-name="1201.AMERICA TV " tvg-logo="https://i.imgur.com/UsCv7Mn.png" group- title="Canales del Sur de América",1201.AMERICA TV
+#EXTINF:-1 type="stream" tvg-id="americatv.ar" tvg-name="1201.AMERICA TV " tvg-logo="https://i.imgur.com/UsCv7Mn.png" group-title="Canales del Sur de América",1201.AMERICA TV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7621.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1202.ATV PLUS " tvg-logo="https://i.imgur.com/Atl1Qaa.png" group-title=" Canales del Sur de América",1202.ATV PLUS
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1202.ATV PLUS " tvg-logo="https://i.imgur.com/Atl1Qaa.png" group-title="Canales del Sur de América",1202.ATV PLUS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7634.m3u8
-#EXTINF:-1 type="stream" tvg-id="caracol.co" tvg-name="1203.CARACOL" tvg-logo="https://i.imgur.com/5mERcwL.png" título-grupo ="Canales del Sur de América",1203.CARACOL
+#EXTINF:-1 type="stream" tvg-id="caracol.co" tvg-name="1203.CARACOL" tvg-logo="https://i.imgur.com/5mERcwL.png" group-title="Canales del Sur de América",1203.CARACOL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7643.m3u8
-#EXTINF:-1 type="stream" tvg-id="caracolinternacional.co" tvg-name="1204.CARACOL" tvg-logo="https://i.imgur.com/5mERcwL.png" group-title ="Canales del Sur de América",1204.CARACOL
+#EXTINF:-1 type="stream" tvg-id="caracolinternacional.co" tvg-name="1204.CARACOL" tvg-logo="https://i.imgur.com/5mERcwL.png" group-title="Canales del Sur de América",1204.CARACOL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7640.m3u8
-#EXTINF:-1 type="stream" tvg-id="citytv.co" tvg-name="1205.CITY TV" tvg-logo="https://i.imgur.com/3nhCKKt.png" grupo- title="Canales del Sur de América",1205.CITY TV
+#EXTINF:-1 type="stream" tvg-id="citytv.co" tvg-name="1205.CITY TV" tvg-logo="https://i.imgur.com/3nhCKKt.png" group-title="Canales del Sur de América",1205.CITY TV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7641.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1206.CANAL 4 uy" tvg-logo="https://i.imgur.com/IJ9InxE.png" group-title= "Canales del Sur de América",1206.CANAL 4 uy
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1206.CANAL 4 uy" tvg-logo="https://i.imgur.com/IJ9InxE.png" group-title="Canales del Sur de América",1206.CANAL 4 uy
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7631.m3u8
-#EXTINF:-1 type="stream" tvg-id="cine.ar" tvg-name="1207.CINE AR" tvg-logo="https://i.imgur.com/IAqUFTY.png" grupo- title="Canales del Sur de América",1207.CINE AR
+#EXTINF:-1 type="stream" tvg-id="cine.ar" tvg-name="1207.CINE AR" tvg-logo="https://i.imgur.com/IAqUFTY.png" group-title="Canales del Sur de América",1207.CINE AR
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7642.m3u8
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="1208.CHILEVISION " tvg-logo="https://i.imgur.com/GPfBFSh.png" group-title="Canales del Sur de América”, 1208. CHILEVISIÓN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7638.m3u8
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="1209.CANAL 4 " tvg-logo="https://i.imgur.com/jnVnrAi.png" group-title=" Canales del Sur de América", 1209. CANAL 4
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7635.m3u8
-#EXTINF:-1 type="stream" tvg-id="canal10cordoba.ar" tvg-name="1210.CANAL 10" tvg-logo="https://i.imgur.com/ovoHd2q.png" grupo- title="Canales del Sur de América",1210.CANAL 10
+#EXTINF:-1 type="stream" tvg-id="canal10cordoba.ar" tvg-name="1210.CANAL 10" tvg-logo="https://i.imgur.com/ovoHd2q.png" group-title="Canales del Sur de América",1210.CANAL 10
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7636.m3u8
-#EXTINF:-1 type="stream" tvg-id="el13.ar" tvg-name="1212.EL TRECE " tvg-logo="https://i.imgur.com/07czzqO.png" grupo- title="Canales del Sur de América",1212.EL TRECE
+#EXTINF:-1 type="stream" tvg-id="el13.ar" tvg-name="1212.EL TRECE " tvg-logo="https://i.imgur.com/07czzqO.png" group-title="Canales del Sur de América",1212.EL TRECE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7622.m3u8
-#EXTINF:-1 type="stream" tvg-id="canal9.ar" tvg-name="1213.EL NUEVE " tvg-logo="https://i.imgur.com/94NqUFu.png" group- title="Canales del Sur de América",1213.EL NUEVE
+#EXTINF:-1 type="stream" tvg-id="canal9.ar" tvg-name="1213.EL NUEVE " tvg-logo="https://i.imgur.com/94NqUFu.png" group-title="Canales del Sur de América",1213.EL NUEVE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7627.m3u8
-#EXTINF:-1 type="stream" tvg-id="encuentro.ar" tvg-name="1214.ENCUENTRO" tvg-logo="https://i.imgur.com/cIKr6Xs.png" group-title ="Canales del Sur de América",1214.ENCUENTRO
+#EXTINF:-1 type="stream" tvg-id="encuentro.ar" tvg-name="1214.ENCUENTRO" tvg-logo="https://i.imgur.com/cIKr6Xs.png" group-title="Canales del Sur de América",1214.ENCUENTRO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7624.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1215.LA RED" tvg-logo="https://i.imgur.com/2OjTCKD.png" group-title=" Canales del Sur de América", 1215.LA RED
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1215.LA RED" tvg-logo="https://i.imgur.com/2OjTCKD.png" group-title="Canales del Sur de América", 1215.LA RED
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7628.m3u8
-#EXTINF:-1 type="stream" tvg-id="magazine.ar" tvg-name="1216.MAGAZINE" tvg-logo="https://i.imgur.com/Sn1fqXW.png" group-title ="Canales del Sur de América",1216.REVISTA
+#EXTINF:-1 type="stream" tvg-id="magazine.ar" tvg-name="1216.MAGAZINE" tvg-logo="https://i.imgur.com/Sn1fqXW.png" group-title="Canales del Sur de América",1216.REVISTA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7625.m3u8
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="1217.MEGA " tvg-logo="https://i.imgur.com/torKBGb.png" group-title="Canales del Sur de América",1217.MEGA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7629.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1218.MULTIMEDIOS COSTA RICA" tvg-logo="https://i.imgur.com/BxU69it.png" group-title= "Canales del Sur de América",1218.MULTIMEDIOS COSTA RICA
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1218.MULTIMEDIOS COSTA RICA" tvg-logo="https://i.imgur.com/BxU69it.png" group-title="Canales del Sur de América",1218.MULTIMEDIOS COSTA RICA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7651.m3u8
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="1220.PANAMERICANA " tvg-logo="https://i.imgur.com/o7gpS8X.png" group-title="Canales del Sur de América", 1220. PANAMERICANA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7632.m3u8
-#EXTINF:-1 type="stream" tvg-id="rcn.co" tvg-name="1221.RCN INTERNACIONAL" tvg-logo="https://i.imgur.com/QMXJnft.png" grupo- title="Canales del Sur de América",1221.RCN INTERNACIONAL
+#EXTINF:-1 type="stream" tvg-id="rcn.co" tvg-name="1221.RCN INTERNACIONAL" tvg-logo="https://i.imgur.com/QMXJnft.png" group-title="Canales del Sur de América",1221.RCN INTERNACIONAL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7646.m3u8
-#EXTINF:-1 type="stream" tvg-id="rcnnuestratele.co" tvg-name="1222.RCN COL" tvg-logo="https://i.imgur.com/QMXJnft.png" group- title="Canales del Sur de América",1222.RCN COL
+#EXTINF:-1 type="stream" tvg-id="rcnnuestratele.co" tvg-name="1222.RCN COL" tvg-logo="https://i.imgur.com/QMXJnft.png" group-title="Canales del Sur de América",1222.RCN COL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7647.m3u8
-#EXTINF:-1 type="stream" tvg-id="rcnnovelas.co" tvg-name="1223.RCN NOVELAS " tvg-logo="https://i.imgur.com/khmq8wY.png" group- title="Canales del Sur de América",1223.RCN NOVELAS
+#EXTINF:-1 type="stream" tvg-id="rcnnovelas.co" tvg-name="1223.RCN NOVELAS " tvg-logo="https://i.imgur.com/khmq8wY.png" group-title="Canales del Sur de América",1223.RCN NOVELAS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7639.m3u8
-#EXTINF:-1 type="stream" tvg-id="telefe.ar" tvg-name="1225.TELEFE" tvg-logo="https://i.imgur.com/q6ZBXZn.png" group-title ="Canales del Sur de América",1225.TELEFE
+#EXTINF:-1 type="stream" tvg-id="telefe.ar" tvg-name="1225.TELEFE" tvg-logo="https://i.imgur.com/q6ZBXZn.png" group-title="Canales del Sur de América",1225.TELEFE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7630.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1227.TV PERU " tvg-logo="https://i.imgur.com/CqapSPh.png" group-title=" Canales del Sur de América", 1227.TV PERÚ
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1227.TV PERU " tvg-logo="https://i.imgur.com/CqapSPh.png" group-title="Canales del Sur de América", 1227.TV PERÚ
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7637.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1228.TELE ANTOQUIA" tvg-logo="https://i.imgur.com/DYa1y9I.png" group-title=" Canales del Sur de América", 1228.TELE ANTOQUIA
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1228.TELE ANTOQUIA" tvg-logo="https://i.imgur.com/DYa1y9I.png" group-title="Canales del Sur de América", 1228.TELE ANTOQUIA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7645.m3u8
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="1229.TICAVISION" tvg-logo="https://i.imgur.com/rzhk0q2.png" group-title="Canales del Sur de América", 1229. TICAVISION
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7648.m3u8
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="1230.TELETICA" tvg-logo="https://i.imgur.com/OGSJ5ZA.png" group-title="Canales del Sur de América", 1230. TELETICA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7650.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1232.VTV CHILE" tvg-logo="https://i.imgur.com/CF4QROF.png" group-title=" Canales del Sur de América", 1232.VTV CHILE
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1232.VTV CHILE" tvg-logo="https://i.imgur.com/CF4QROF.png" group-title="Canales del Sur de América", 1232.VTV CHILE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7623.m3u8
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="1233.VTV " tvg-logo="https://i.imgur.com/qW7JMBd.png" group-title="Canales del Sur de América”, 1233.VTV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7618.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1234.VTV PLUS" tvg-logo="https://i.imgur.com/qW7JMBd.png" group-title=" Canales del Sur de América", 1234. VTV PLUS
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1234.VTV PLUS" tvg-logo="https://i.imgur.com/qW7JMBd.png" group-title="Canales del Sur de América", 1234. VTV PLUS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7619.m3u8
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="1235.VOLVER " tvg-logo="https://i.imgur.com/08c3ONy.png" group-title="Canales del Sur de América",1235.VOLVER
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7626.m3u8
@@ -4550,103 +4551,103 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7626.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7633.m3u8
 #EXTINF:-1 type="stream" tvg-id="I442.65064.zap2it.com" tvg-name="1300.ESTRELLA TV" tvg-logo="https://i.imgur.com/GXE0hRm. png" group-title="Canales Latinos de USA",1300.ESTRELLA TV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7607.m3u8
-#EXTINF:-1 type="stream" tvg-id="galavision.us" tvg-name="1301.GALAVISION" tvg-logo="https://i.imgur.com/vLqLolK.png" título del grupo ="Canales Latinos de USA",1301.GALAVISION
+#EXTINF:-1 type="stream" tvg-id="galavision.us" tvg-name="1301.GALAVISION" tvg-logo="https://i.imgur.com/vLqLolK.png" group-title="Canales Latinos de USA",1301.GALAVISION
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7605.m3u8
-#EXTINF:-1 type="stream" tvg-id="nbcuniverso.us" tvg-name="1302.NBC UNIVERSO" tvg-logo="https://i.imgur.com/7W8iQ7a.png" group- title="Canales Latinos de USA",1302.NBC UNIVERSO
+#EXTINF:-1 type="stream" tvg-id="nbcuniverso.us" tvg-name="1302.NBC UNIVERSO" tvg-logo="https://i.imgur.com/7W8iQ7a.png" group-title="Canales Latinos de USA",1302.NBC UNIVERSO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7606.m3u8
-#EXTINF:-1 type="stream" tvg-id="telemundo.mx" tvg-name="1303.TELEMUNDO INTERNACIONAL " tvg-logo="https://i.imgur.com/YxYcI03.png" group- title="Canales Latinos de USA",1303.TELEMUNDO INTERNACIONAL
+#EXTINF:-1 type="stream" tvg-id="telemundo.mx" tvg-name="1303.TELEMUNDO INTERNACIONAL " tvg-logo="https://i.imgur.com/YxYcI03.png" group-title="Canales Latinos de USA",1303.TELEMUNDO INTERNACIONAL
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7593.m3u8
 #EXTINF:-1 type="stream" tvg-id="telemundo.us" tvg-name="1304.TELEMUNDO 47 HQ (16:9)" tvg-logo="https://i.imgur.com/ YxYcI03.png" group-title="Canales Latinos de USA",1304.TELEMUNDO 47 SEDE (16:9)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7317.m3u8
-#EXTINF:-1 type="stream" tvg-id="telemundo.us" tvg-name="1305.TELEMUNDO 47" tvg-logo="https://i.imgur.com/YxYcI03.png" grupo- title="Canales Latinos de USA",1305.TELEMUNDO 47
+#EXTINF:-1 type="stream" tvg-id="telemundo.us" tvg-name="1305.TELEMUNDO 47" tvg-logo="https://i.imgur.com/YxYcI03.png" group-title="Canales Latinos de USA",1305.TELEMUNDO 47
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7595.m3u8
-#EXTINF:-1 type="stream" tvg-id="telemundoktmd.us" tvg-name="1306.TELEMUNDO HOUSTON" tvg-logo="https://i.imgur.com/YxYcI03.png" grupo- title="Canales Latinos de USA",1306.TELEMUNDO HOUSTON
+#EXTINF:-1 type="stream" tvg-id="telemundoktmd.us" tvg-name="1306.TELEMUNDO HOUSTON" tvg-logo="https://i.imgur.com/YxYcI03.png" group-title="Canales Latinos de USA",1306.TELEMUNDO HOUSTON
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7451.m3u8
-#EXTINF:-1 type="stream" tvg-id="telemundokcso.us" tvg-name="1308.TELEMUNDO 48" tvg-logo="https://i.imgur.com/YxYcI03.png" grupo- title="Canales Latinos de USA",1308.TELEMUNDO 48
+#EXTINF:-1 type="stream" tvg-id="telemundokcso.us" tvg-name="1308.TELEMUNDO 48" tvg-logo="https://i.imgur.com/YxYcI03.png" group-title="Canales Latinos de USA",1308.TELEMUNDO 48
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7596.m3u8
-#EXTINF:-1 type="stream" tvg-id="telemundowsns.us" tvg-name="1309.TELEMUNDO CHICAGO" tvg-logo="https://i.imgur.com/YxYcI03.png" group- title="Canales Latinos de USA",1309.TELEMUNDO CHICAGO
+#EXTINF:-1 type="stream" tvg-id="telemundowsns.us" tvg-name="1309.TELEMUNDO CHICAGO" tvg-logo="https://i.imgur.com/YxYcI03.png" group-title="Canales Latinos de USA",1309.TELEMUNDO CHICAGO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7597.m3u8
-#EXTINF:-1 type="stream" tvg-id="telemundokmasld.us" tvg-name="1310.TELEMUNDO DENVER" tvg-logo="https://i.imgur.com/YxYcI03.png" group- title="Canales Latinos de USA",1310.TELEMUNDO DENVER
+#EXTINF:-1 type="stream" tvg-id="telemundokmasld.us" tvg-name="1310.TELEMUNDO DENVER" tvg-logo="https://i.imgur.com/YxYcI03.png" group-title="Canales Latinos de USA",1310.TELEMUNDO DENVER
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7603.m3u8
-#EXTINF:-1 type="stream" tvg-id="telemundokxtx.us" tvg-name="1311.TELEMUNDO TEXAS" tvg-logo="https://i.imgur.com/YxYcI03.png" group- title="Canales Latinos de USA",1311.TELEMUNDO TEXAS
+#EXTINF:-1 type="stream" tvg-id="telemundokxtx.us" tvg-name="1311.TELEMUNDO TEXAS" tvg-logo="https://i.imgur.com/YxYcI03.png" group-title="Canales Latinos de USA",1311.TELEMUNDO TEXAS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7604.m3u8
-#EXTINF:-1 type="stream" tvg-id="telemundokvea.us" tvg-name="1312.TELEMUNDO LOS ANGELES" tvg-logo="https://i.imgur.com/YxYcI03.png" grupo -title="Canales Latinos de USA",1312.TELEMUNDO LOS ÁNGELES
+#EXTINF:-1 type="stream" tvg-id="telemundokvea.us" tvg-name="1312.TELEMUNDO LOS ANGELES" tvg-logo="https://i.imgur.com/YxYcI03.png" group-title="Canales Latinos de USA",1312.TELEMUNDO LOS ÁNGELES
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9308.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1313.TELEMUNDO NOVELAS" tvg-logo="https://i.imgur.com/YxYcI03.png" group-title=" Canales Latinos de USA", 1313.TELEMUNDO NOVELAS
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1313.TELEMUNDO NOVELAS" tvg-logo="https://i.imgur.com/YxYcI03.png" group-title="Canales Latinos de USA", 1313.TELEMUNDO NOVELAS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9307.m3u8
-#EXTINF:-1 type="stream" tvg-id="univision41kwex.us" tvg-name="1314.UNIVISION TEXAS" tvg-logo="https://i.imgur.com/exI1iAd.png" grupo- title="Canales Latinos de USA",1314.UNIVISION TEXAS
+#EXTINF:-1 type="stream" tvg-id="univision41kwex.us" tvg-name="1314.UNIVISION TEXAS" tvg-logo="https://i.imgur.com/exI1iAd.png" group-title="Canales Latinos de USA",1314.UNIVISION TEXAS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7611.m3u8
-#EXTINF:-1 type="stream" tvg-id="univision23wltv.us" tvg-name="1315.UNIVISION MIAMI" tvg-logo="https://i.imgur.com/exI1iAd.png" grupo- title="Canales Latinos de USA",1315.UNIVISIÓN MIAMI
+#EXTINF:-1 type="stream" tvg-id="univision23wltv.us" tvg-name="1315.UNIVISION MIAMI" tvg-logo="https://i.imgur.com/exI1iAd.png" group-title="Canales Latinos de USA",1315.UNIVISIÓN MIAMI
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7612.m3u8
-#EXTINF:-1 type="stream" tvg-id="univision66wgbo.us" tvg-name="1316.UNIVISION CHICAGO" tvg-logo="https://i.imgur.com/exI1iAd.png" grupo- title="Canales Latinos de USA",1316.UNIVISION CHICAGO
+#EXTINF:-1 type="stream" tvg-id="univision66wgbo.us" tvg-name="1316.UNIVISION CHICAGO" tvg-logo="https://i.imgur.com/exI1iAd.png" group-title="Canales Latinos de USA",1316.UNIVISION CHICAGO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7778.m3u8
-#EXTINF:-1 type="stream" tvg-id="univision45kxln.us" tvg-name="1317.UNIVISION HOUSTON" tvg-logo="https://i.imgur.com/exI1iAd.png" grupo- title="Canales Latinos de USA",1317.UNIVISION HOUSTON
+#EXTINF:-1 type="stream" tvg-id="univision45kxln.us" tvg-name="1317.UNIVISION HOUSTON" tvg-logo="https://i.imgur.com/exI1iAd.png" group-title="Canales Latinos de USA",1317.UNIVISION HOUSTON
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7779.m3u8
-#EXTINF:-1 type="stream" tvg-id="univision14kdtv.us" tvg-name="1318.UNIVISION SAN FRANCISCO " tvg-logo="https://i.imgur.com/exI1iAd.png" grupo -title="Canales Latinos de USA",1318.UNIVISIÓN SAN FRANCISCO
+#EXTINF:-1 type="stream" tvg-id="univision14kdtv.us" tvg-name="1318.UNIVISION SAN FRANCISCO " tvg-logo="https://i.imgur.com/exI1iAd.png" group-title="Canales Latinos de USA",1318.UNIVISIÓN SAN FRANCISCO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7610.m3u8
 #EXTINF:-1 type="stream" tvg-id="univision34kmex.us" tvg-name="1319.UNIVISION LOS ANGELES HD" tvg-logo="https://i.imgur.com/exI1iAd.png" group-title="Canales Latinos de USA",1319.UNIVISION LOS ANGELES HD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7609.m3u8
-#EXTINF:-1 type="stream" tvg-id="univisiontlnovelas.us" tvg-name="1320.UNIVISION TL NOVELAS" tvg-logo="https://i.imgur.com/exI1iAd.png" grupo -title="Canales Latinos de USA",1320.UNIVISION TL NOVELAS
+#EXTINF:-1 type="stream" tvg-id="univisiontlnovelas.us" tvg-name="1320.UNIVISION TL NOVELAS" tvg-logo="https://i.imgur.com/exI1iAd.png" group-title="Canales Latinos de USA",1320.UNIVISION TL NOVELAS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7452.m3u8
-#EXTINF:-1 type="stream" tvg-id="unimas68wfut.us" tvg-name="1321.UNIMAS" tvg-logo="https://i.imgur.com/iOj6gup.png" título del grupo ="Canales Latinos de USA",1321.UNIMAS
+#EXTINF:-1 type="stream" tvg-id="unimas68wfut.us" tvg-name="1321.UNIMAS" tvg-logo="https://i.imgur.com/iOj6gup.png" group-title="Canales Latinos de USA",1321.UNIMAS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7608.m3u8
-#EXTINF:-1 type="stream" tvg-id="unimas69wami.us" tvg-name="1322.UNIMAS MIAMI" tvg-logo="https://i.imgur.com/iOj6gup.png" grupo- title="Canales Latinos de USA",1322.UNIMAS MIAMI
+#EXTINF:-1 type="stream" tvg-id="unimas69wami.us" tvg-name="1322.UNIMAS MIAMI" tvg-logo="https://i.imgur.com/iOj6gup.png" group-title="Canales Latinos de USA",1322.UNIMAS MIAMI
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8510.m3u8
-#EXTINF:-1 type="stream" tvg-id="unimas68wfut.us" tvg-name="1323.UNIMAS NY" tvg-logo="https://i.imgur.com/iOj6gup.png" grupo- title="Canales Latinos de USA",1323.UNIMAS NY
+#EXTINF:-1 type="stream" tvg-id="unimas68wfut.us" tvg-name="1323.UNIMAS NY" tvg-logo="https://i.imgur.com/iOj6gup.png" group-title="Canales Latinos de USA",1323.UNIMAS NY
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9309.m3u8
 #EXTINF:-1 type="stream" tvg-id="I152.92197.schedulesdirect.org" tvg-name="1400.AZ CLIC " tvg-logo="https://i.imgur.com/ii9CaBI. png" group-title="Canales Locales Mex",1400.AZ CLIC
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7035.m3u8
 #EXTINF:-1 type="stream" tvg-id="I152.92197.schedulesdirect.org" tvg-name="1402.AZ CLIC FHD (1080P)" tvg-l ogo="https://i.imgur .com/ii9CaBI.png" group-title="Canales Locales Mex",1402.AZ CLIC FHD (1080P)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8473.m3u8
-#EXTINF:-1 type="stream" tvg-id="azcorazon.mx" tvg-name="1403.AZ CORAZON" tvg-logo="https://i.imgur.com/BSw9c7Z.png" group- title="Canales Locales Mex",1403.AZ CORAZÓN
+#EXTINF:-1 type="stream" tvg-id="azcorazon.mx" tvg-name="1403.AZ CORAZON" tvg-logo="https://i.imgur.com/BSw9c7Z.png" group-title="Canales Locales Mex",1403.AZ CORAZÓN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7036.m3u8
 #EXTINF:-1 type="stream" tvg-id="azcorazon.mx" tvg-name="1404.AZ CORAZON FHD (1080P)" tvg-logo="https://i.imgur.com/BSw9c7Z. png" group-title="Canales Locales Mex",1404.AZ CORAZON FHD (1080P)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/8472.m3u8
-#EXTINF:-1 type="stream" tvg-id="aztecamundo.mx" tvg-name="1405.AZ MUNDO" tvg-logo="https://i.imgur.com/wBm93II.png" group- title="Canales Locales Mex",1405.AZ MUNDO
+#EXTINF:-1 type="stream" tvg-id="aztecamundo.mx" tvg-name="1405.AZ MUNDO" tvg-logo="https://i.imgur.com/wBm93II.png" group-title="Canales Locales Mex",1405.AZ MUNDO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7037.m3u8
-#EXTINF:-1 type="stream" tvg-id="amastv.mx" tvg-name="1406.A+" tvg-logo="https://i.imgur.com/PgNeQwc.png" título-grupo ="Canales Locales Mex",1406.A+
+#EXTINF:-1 type="stream" tvg-id="amastv.mx" tvg-name="1406.A+" tvg-logo="https://i.imgur.com/PgNeQwc.png" group-title="Canales Locales Mex",1406.A+
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7617.m3u8
 #EXTINF:-1 type="stream" tvg-id="aztecauno.mx" tvg-name="1407.AZTECA UNO SD (4:3)" tvg-logo="https://i.imgur.com/ itmiuW8.png" group-title="Canales Locales Mex",1407.AZTECA UNO SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7335.m3u8
-#EXTINF:-1 type="stream" tvg-id="aztecauno.mx" tvg-name="1408.AZTECA UNO" tvg-logo="https://i.imgur.com/itmiuW8.png" group- title="Canales Locales Mex",1408.AZTECA UNO
+#EXTINF:-1 type="stream" tvg-id="aztecauno.mx" tvg-name="1408.AZTECA UNO" tvg-logo="https://i.imgur.com/itmiuW8.png" group-title="Canales Locales Mex",1408.AZTECA UNO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7039.m3u8
 #EXTINF:-1 type="stream" tvg-id="aztecauno.mx" tvg-name="1409.AZTECA UNO Full HD (1080p)" tvg-logo="https://i.imgur.com/itmiuW8 .png" group-title="Canales Locales Mex",1409.AZTECA UNO Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7232.m3u8
 #EXTINF:-1 type="stream" tvg-id="aztecanoticias.mx" tvg-name="1410.AZTECA UNO -2 HRS" tvg-logo="https://i.imgur.com/itmiuW8.png " group-title="Canales Locales Mex",1410.AZTECA UNO -2 HRS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7447.m3u8
-#EXTINF:-1 type="stream" tvg-id="azteca7.mx" tvg-name="1412.AZTECA 7" tvg-logo="https://i.imgur.com/IQWBhSg.png" grupo- title="Canales Locales Mex",1412.AZTECA 7
+#EXTINF:-1 type="stream" tvg-id="azteca7.mx" tvg-name="1412.AZTECA 7" tvg-logo="https://i.imgur.com/IQWBhSg.png" grupo-title="Canales Locales Mex",1412.AZTECA 7
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7038.m3u8
 #EXTINF:-1 type="stream" tvg-id="azteca7.mx" tvg-name="1413.AZTECA 7 HD (720p)" tvg-logo="https://i.imgur.com/IQWBhSg. png" group-title="Canales Locales Mex",1413.AZTECA 7 HD (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7441.m3u8
 #EXTINF:-1 type="stream" tvg-id="azteca7.mx" tvg-name="1414.AZTECA 7 Full HD (1080p)" tvg-logo="https://i.imgur.com/IQWBhSg .png" group-title="Canales Locales Mex",1414.AZTECA 7 Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7233.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1415.AZTECA 7 NORESTE" tvg-logo="https://i.imgur.com/IQWBhSg.png" group-title= "Canales Locales Mex", 1415. AZTECA 7 NORESTE
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1415.AZTECA 7 NORESTE" tvg-logo="https://i.imgur.com/IQWBhSg.png" group-title="Canales Locales Mex", 1415. AZTECA 7 NORESTE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7198.m3u8
-#EXTINF:-1 type="stream" tvg-id="multimedios.mx" tvg-name="1416.CANAL 6 MTY " tvg-logo="https://i.imgur.com/97hFk3l.png" grupo -title="Canales Locales Mex",1416.CANAL 6 MTY
+#EXTINF:-1 type="stream" tvg-id="multimedios.mx" tvg-name="1416.CANAL 6 MTY " tvg-logo="https://i.imgur.com/97hFk3l.png" group-title="Canales Locales Mex",1416.CANAL 6 MTY
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7480.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1417.CANAL 6 CD.MEX" tvg-logo="https://i.imgur.com/97hFk3l.png" group- title="Canales Locales Mex",1417.CANAL 6 CD.MEX
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1417.CANAL 6 CD.MEX" tvg-logo="https://i.imgur.com/97hFk3l.png" group-title="Canales Locales Mex",1417.CANAL 6 CD.MEX
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7481.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1418. CANAL 6 LAGUNA " tvg-logo="https://i.imgur.com/97hFk3l.png" group-title= "Canales Locales Mex", 1418. CANAL 6 LAGUNA
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1418. CANAL 6 LAGUNA " tvg-logo="https://i.imgur.com/97hFk3l.png" group-title="Canales Locales Mex", 1418. CANAL 6 LAGUNA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7482.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1419.CANAL 6 GUADALAJARA " tvg-logo="https://i.imgur.com/97hFk3l.png" group-title= "Canales Locales Mex",1419.CANAL 6 GUADALAJARA
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1419.CANAL 6 GUADALAJARA " tvg-logo="https://i.imgur.com/97hFk3l.png" group-title="Canales Locales Mex",1419.CANAL 6 GUADALAJARA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7483.m3u8
-#EXTINF:-1 type="stream" tvg-id="22nacional.mx" tvg-name="1420.CANAL 6 JUAREZ" tvg-logo="https://i.imgur.com/97hFk3l.png" grupo -title="Canales Locales Mex",1420.CANAL 6 JUAREZ
+#EXTINF:-1 type="stream" tvg-id="22nacional.mx" tvg-name="1420.CANAL 6 JUAREZ" tvg-logo="https://i.imgur.com/97hFk3l.png" group-title="Canales Locales Mex",1420.CANAL 6 JUAREZ
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7173.m3u8
-#EXTINF:-1 type="stream" tvg-id="galatv9nacional.mx" tvg-name="1420.CANAL NUEVE" tvg-logo="https://i.imgur.com/51EKC9t.png" grupo- title="Canales Locales Mex",1420.CANAL NUEVE
+#EXTINF:-1 type="stream" tvg-id="galatv9nacional.mx" tvg-name="1420.CANAL NUEVE" tvg-logo="https://i.imgur.com/51EKC9t.png" group-title="Canales Locales Mex",1420.CANAL NUEVE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7120.m3u8
 #EXTINF:-1 type="stream" tvg-id="galatv9nacional.mx" tvg-name="1421.CANAL NUEVE Full HD (1080p)" tvg-logo="https://i.imgur.com/51EKC9t .png" group-title="Canales Locales Mex",1421.CANAL NUEVE Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7245.m3u8
-#EXTINF:-1 type="stream" tvg-id="5nacional.mx" tvg-name="1422.CANAL 5 SD " tvg-logo="https://i.imgur.com/sdVBnQ2.png" grupo -title="Canales Locales Mex",1422.CANAL 5 SD
+#EXTINF:-1 type="stream" tvg-id="5nacional.mx" tvg-name="1422.CANAL 5 SD " tvg-logo="https://i.imgur.com/sdVBnQ2.png" group-title="Canales Locales Mex",1422.CANAL 5 SD
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7334.m3u8
-#EXTINF:-1 type="stream" tvg-id="5nacional.mx" tvg-name="1423.CANAL 5" tvg-logo="https://i.imgur.com/sdVBnQ2.png" grupo- title="Canales Locales Méx",1423.CANAL 5
+#EXTINF:-1 type="stream" tvg-id="5nacional.mx" tvg-name="1423.CANAL 5" tvg-logo="https://i.imgur.com/sdVBnQ2.png" group-title="Canales Locales Mex",1423.CANAL 5
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7042.m3u8
 #EXTINF:-1 type="stream" tvg-id="5nacional.mx" tvg-name="1425.CANAL 5 Full HD (1080p)" tvg-logo="https://i.imgur.com/sdVBnQ2 .png" group-title="Canales Locales Mex",1425.CANAL 5 Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7241.m3u8
-#EXTINF:-1 type="stream" tvg-id="canal4guadalajara.mx" tvg-name="1426.CANAL 4" tvg-logo="https://i.imgur.com/A4pvXGQ.png" grupo- title="Canales Locales Méx",1426.CANAL 4
+#EXTINF:-1 type="stream" tvg-id="canal4guadalajara.mx" tvg-name="1426.CANAL 4" tvg-logo="https://i.imgur.com/A4pvXGQ.png" group-title="Canales Locales Mex",1426.CANAL 4
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7199.m3u8
 #EXTINF:-1 type="stream" tvg-id="imagentv.mx" tvg-name="1427.IMAGEN TV SD (4:3)" tvg-logo="https://i.imgur.com/ hcvdtrp.png" group-title="Canales Locales Mex",1427.IMAGEN TV SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7351.m3u8
-#EXTINF:-1 type="stream" tvg-id="imagentv.mx" tvg-name="1428.IMAGEN" tvg-logo="https://i.imgur.com/hcvdtrp.png" título-grupo ="Canales Locales Mex",1428.IMAGEN
+#EXTINF:-1 type="stream" tvg-id="imagentv.mx" tvg-name="1428.IMAGEN" tvg-logo="https://i.imgur.com/hcvdtrp.png" group-title="Canales Locales Mex",1428.IMAGEN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7186.m3u8
 #EXTINF:-1 type="stream" tvg-id="imagentv.mx" tvg-name="1429.IMAGEN TV Full hd (1080p)" tvg-logo="https://i.imgur.com/hcvdtrp .png" group-title="Canales Locales Mex",1429.IMAGEN TV Full hd (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7239.m3u8
@@ -4654,27 +4655,27 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7239.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7203.m3u8
 #EXTINF:-1 type="stream" tvg-id="lasestrellas.mx" tvg-name="1431.LAS ESTRELLAS SD (4:3)" tvg-logo="https://i.imgur.com/ BgW6LF6.png" group-title="Canales Locales Mex",1431.LAS ESTRELLAS SD (4:3)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7352.m3u8
-#EXTINF:-1 type="stream" tvg-id="lasestrellas.mx" tvg-name="1432.LAS ESTRELLAS" tvg-logo="https://i.imgur.com/BgW6LF6.png" group- title="Canales Locales Mex",1432.LAS ESTRELLAS
+#EXTINF:-1 type="stream" tvg-id="lasestrellas.mx" tvg-name="1432.LAS ESTRELLAS" tvg-logo="https://i.imgur.com/BgW6LF6.png" group-title="Canales Locales Mex",1432.LAS ESTRELLAS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7157.m3u8
 #EXTINF:-1 type="stream" tvg-id="lasestrellas.mx" tvg-name="1433.LAS ESTRELLAS HD (720p)" tvg-logo="https://i.imgur.com/BgW6LF6. png" group-title="Canales Locales Mex",1433.LAS ESTRELLAS HD (720p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7454.m3u8
 #EXTINF:-1 type="stream" tvg-id="lasestrellas.mx" tvg-name="1434.LAS ESTRELLAS Full HD (1080p)" tvg-logo="https://i.imgur.com/BgW6LF6 .png" group-title="Canales Locales Mex",1434.LAS ESTRELLAS Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7231.m3u8
-#EXTINF:-1 type="stream" tvg-id="canalmexiquense.mx" tvg-name="1436.MEXIQUENSE" tvg-logo="https://i.imgur.com/csS0EQX.png" group-title ="Canales Locales Mex",1436.MEXIQUENSE
+#EXTINF:-1 type="stream" tvg-id="canalmexiquense.mx" tvg-name="1436.MEXIQUENSE" tvg-logo="https://i.imgur.com/csS0EQX.png" group-title="Canales Locales Mex",1436.MEXIQUENSE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7188.m3u8
-#EXTINF:-1 type="stream" tvg-id="canalmexiquense.mx" tvg-name="1436.MEXIQUENSE TV" tvg-logo="https://i.imgur.com/csS0EQX.png" grupo- title="Canales Locales Mex",1436.MEXIQUENSE TV
+#EXTINF:-1 type="stream" tvg-id="canalmexiquense.mx" tvg-name="1436.MEXIQUENSE TV" tvg-logo="https://i.imgur.com/csS0EQX.png" group-title="Canales Locales Mex",1436.MEXIQUENSE TV
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/9291.m3u8
-#EXTINF:-1 type="stream" tvg-id="tvmasxhgv.es" tvg-name="1438.TV MAS" tvg-logo="https://i.imgur.com/tmhKuIF.png" grupo- title="Canales Locales Mex",1438.TV MAS
+#EXTINF:-1 type="stream" tvg-id="tvmasxhgv.es" tvg-name="1438.TV MAS" tvg-logo="https://i.imgur.com/tmhKuIF.png" group-title="Canales Locales Mex",1438.TV MAS
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7183.m3u8
-#EXTINF:-1 type="stream" tvg-id="xhpdt.mx" tvg-name="1440.TELEVISA PUEBLA" tvg-logo="https://i.imgur.com/uVSISoM.png" grupo- title="Canales Locales Mex",1440.TELEVISA PUEBLA
+#EXTINF:-1 type="stream" tvg-id="xhpdt.mx" tvg-name="1440.TELEVISA PUEBLA" tvg-logo="https://i.imgur.com/uVSISoM.png" group-title="Canales Locales Mex",1440.TELEVISA PUEBLA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7175.m3u8
-#EXTINF:-1 type="stream" tvg-id="canalmonterreyxefb.mx" tvg-name="1441.TELEVISA MONTERREY " tvg-logo="https://i.imgur.com/uVSISoM.png" grupo- title="Canales Locales Mex",1441.TELEVISA MONTERREY
+#EXTINF:-1 type="stream" tvg-id="canalmonterreyxefb.mx" tvg-name="1441.TELEVISA MONTERREY " tvg-logo="https://i.imgur.com/uVSISoM.png" group-title="Canales Locales Mex",1441.TELEVISA MONTERREY
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7182.m3u8
-#EXTINF:-1 type="stream" tvg-id="XEFBTDT.mx" tvg-name="1442.TELEVISA GUANAJUATO" tvg-logo="https://i.imgur.com/uVSISoM.png" grupo- title="Canales Locales Mex",1442.TELEVISA GUANAJUATO
+#EXTINF:-1 type="stream" tvg-id="XEFBTDT.mx" tvg-name="1442.TELEVISA GUANAJUATO" tvg-logo="https://i.imgur.com/uVSISoM.png" group-title="Canales Locales Mex",1442.TELEVISA GUANAJUATO
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7457.m3u8
-#EXTINF:-1 type="stream" tvg-id="XHGTDT.mx" tvg-name="1443.TELEVISA GUADALAJARA " tvg-logo="https://i.imgur.com/uVSISoM.png" grupo- title="Canales Locales Mex",1443.TELEVISA GUADALAJARA
+#EXTINF:-1 type="stream" tvg-id="XHGTDT.mx" tvg-name="1443.TELEVISA GUADALAJARA " tvg-logo="https://i.imgur.com/uVSISoM.png" group-title="Canales Locales Mex",1443.TELEVISA GUADALAJARA
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7458.m3u8
-#EXTINF:-1 type="stream" tvg-id="Unicable.mx" tvg-name="1444.UNICABLE" tvg-logo="https://i.imgur.com/e84FPTH.png" título-grupo ="Canales Locales Mex",1444.UNICABLE
+#EXTINF:-1 type="stream" tvg-id="Unicable.mx" tvg-name="1444.UNICABLE" tvg-logo="https://i.imgur.com/e84FPTH.png" group-title="Canales Locales Mex",1444.UNICABLE
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7163.m3u8
 #EXTINF:-1 type="stream" tvg-id="Unicable.mx" tvg-name="1445.UNICABLE Full HD (1080p)" tvg-logo="https://i.imgur.com/e84FPTH. png" group-title="Canales Locales Mex",1445.UNICABLE Full HD (1080p)
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7244.m3u8
@@ -4690,23 +4691,23 @@ http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7715.m3u8
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7716.m3u8
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="1703.LIGAMX: TUDN" tvg-logo="https://i.imgur.com/YdtqRIl.png" group-title="Fútbol (Eventos)",1703.LIGAMX: TUDN
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7717.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1704.PREMIER LEAGUE 1: " tvg-logo="https://i.imgur.com/n4xBKxi.png" título de grupo ="Fútbol (Eventos)",1704.LIGA PREMIER 1:  
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1704.PREMIER LEAGUE 1: " tvg-logo="https://i.imgur.com/n4xBKxi.png" group-title="Fútbol (Eventos)",1704.LIGA PREMIER 1:  
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7718.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1705.PREMIER LEAGUE 2: " tvg-logo="https://i.imgur.com/n4xBKxi.png" título de grupo ="Fútbol (Eventos)",1705.LIGA PREMIER 2:
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1705.PREMIER LEAGUE 2: " tvg-logo="https://i.imgur.com/n4xBKxi.png" group-title="Fútbol (Eventos)",1705.LIGA PREMIER 2:
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7719.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1706. PREMIER LEAGUE 3: " tvg-logo="https://i.imgur.com/n4xBKxi.png" título de grupo ="Fútbol (Eventos)",1706.LIGA PREMIER 3:
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1706. PREMIER LEAGUE 3: " tvg-logo="https://i.imgur.com/n4xBKxi.png" group-title="Fútbol (Eventos)",1706.LIGA PREMIER 3:
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7720.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1707.PREMIER LEAGUE 4: " tvg-logo="https://i.imgur.com/n4xBKxi.png" título de grupo ="Fútbol (Eventos)",1707.LIGA PREMIER 4:
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1707.PREMIER LEAGUE 4: " tvg-logo="https://i.imgur.com/n4xBKxi.png" group-title="Fútbol (Eventos)",1707.LIGA PREMIER 4:
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7721.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1708.PREMIER LEAGUE 5: " tvg-logo="https://i.imgur.com/n4xBKxi.png" título de grupo ="Fútbol (Eventos)",1708.LIGA PREMIER 5:
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1708.PREMIER LEAGUE 5: " tvg-logo="https://i.imgur.com/n4xBKxi.png" group-title="Fútbol (Eventos)",1708.LIGA PREMIER 5:
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7722.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1709.LA LIGA 1: " tvg-logo="https://i.imgur.com/LCr0xuF.png" group-title ="Fútbol (Eventos)",1709.LA LIGA 1:  
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1709.LA LIGA 1: " tvg-logo="https://i.imgur.com/LCr0xuF.png" group-title="Fútbol (Eventos)",1709.LA LIGA 1:  
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7723.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1710.LA LIGA 2: " tvg-logo="https://i.imgur.com/LCr0xuF.png" group-title ="Fútbol (Eventos)",1710.LA LIGA 2:
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1710.LA LIGA 2: " tvg-logo="https://i.imgur.com/LCr0xuF.png" group-title="Fútbol (Eventos)",1710.LA LIGA 2:
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7724.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1711.LA LIGA 3: " tvg-logo="https://i.imgur.com/LCr0xuF.png" group-title ="Fútbol (Eventos)",1711.LA LIGA 3:
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1711.LA LIGA 3: " tvg-logo="https://i.imgur.com/LCr0xuF.png" group-title="Fútbol (Eventos)",1711.LA LIGA 3:
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7725.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="1712.LA LIGA 4: " tvg-logo="https://i.imgur.com/LCr0xuF.png" group-title ="Fútbol (Eventos)",1712.LA LIGA 4:
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="1712.LA LIGA 4: " tvg-logo="https://i.imgur.com/LCr0xuF.png" group-title="Fútbol (Eventos)",1712.LA LIGA 4:
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7726.m3u8
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="1713.FUTBOL 1: Copa Oro | 16:50 CST | Canadá vs Guadalupe" tvg-logo="https://i .imgur.com/Btq1FOJ.png" group-title="Fútbol (Eventos)",1713.FUTBOL 1: Copa Oro | 16:50 CST | Canadá vs Guadalupe
 http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7727.m3u8
