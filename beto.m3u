@@ -6,8 +6,6 @@ https://cast235.indax.cl/8020/;
 https://cast235.indax.cl/9016/;
 #EXTINF:-1 group-title="Radios", Máxima FM | CL
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", Música Zapping | CL
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Top New Radio | CL
 https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Zona Play Radio | CL
@@ -20,16 +18,10 @@ https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Zeta | CL
 https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", Radio Touch | CL
-https://mediacpstreamchile.com:1936/8118/8118/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", Sabor TV | CL
-https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Rancagua | CL
 https://tv.streaming-chile.com:19360/rancagua/rancagua.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Presidente Ibañez | CL
 https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", Radio Polar | CL
-https://mediacpstreamchile.com:1936/radiopolar2/radiopolar2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Las Nieves | CL
 https://v2.tustreaming.cl/rln/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Hoy | CL
@@ -42,8 +34,6 @@ https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/corporaciontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Preludio TV | CL
 https://tv.streaming-chile.com:19360/preludio/preludio.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", El Sembrador | CL
-https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", ChocolateFM | CL
 https://5eaccbab48461.streamlock.net:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Ancoa TV | CL
@@ -60,10 +50,6 @@ http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Cooperativa | CL
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", Bio Bio TV | CL
-https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", ADN | CL
-https://unlimited2-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Amatista | CL
 https://paneltv.online:1936/8096/8096/playlist.m3u8
 #EXTINF:-1 group-title="Radios", Radio zeta | CL
@@ -95,10 +81,6 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile",Mega Noticias
 https://ythls.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
-#EXTINF:-1 group-title="Chile",CHV Noticias
-https://ythls.onrender.com/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
-#EXTINF:-1 group-title="Chile",T13
-https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
 #EXTINF:-1 group-title="Chile",Alternativa TV
 https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Antofagasta TV
@@ -111,8 +93,6 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 https://6362ca6f1fc28.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Autonoma TV
 https://stream.wifispeed.cl:3033/hybrid/play.m3u8
-#EXTINF:-1 group-title="Chile",Aysén TV
-https://v1.tustreaming.cl/aysentv/index.m3u8
 #EXTINF:-1 group-title="Chile",Buen Somos Todos
 https://bst.buin.cl/0.m3u8
 #EXTINF:-1 group-title="Chile",CampusTV
@@ -157,8 +137,6 @@ https://v2.tustreaming.cl/clicktv/playlist.m3u8
 http://live.mundogo.cl/mundo/concepciontv/index.m3u8
 #EXTINF:-1 group-title="Chile",Contivisión
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chile",Cosmos TV
-https://v1.tustreaming.cl/cosmostv/index.m3u8
 #EXTINF:-1 group-title="Chile",CRTV
 https://vdo.panelstreaming.live:3058/stream/play.m3u8
 #EXTINF:-1 group-title="Chile",Cultura Online
@@ -173,8 +151,6 @@ http://live.mundogo.cl/mundo/EquizTV/index.m3u8
 http://live.mundogo.cl/mundo/Tipografo/index.m3u8
 #EXTINF:-1 group-title="Chile",EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 group-title="Chile",EnerGeek Radio
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1 group-title="Chile",EnerGeek Retro
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 group-title="Chile",Enfoque TV Digital
@@ -185,8 +161,6 @@ https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
 https://stmv1.zcasthn.com.br/evevision/evevision/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Girovisual
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chile",Gracia TV
-http://v3.tustreaming.cl/graciatv/index.m3u8
 #EXTINF:-1 group-title="Chile",HiperTV
 https://inliveserver.com:1936/11010/11010/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Hito Cero Televisión
@@ -239,8 +213,6 @@ https://scl.edge.grupoz.cl/music/live/music.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Puranoticia TV
 https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:-1 group-title="Chile",Radio El Sembrador
-https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8
 #EXTINF:-1 group-title="Chile",Radio Hoy TV
 https://panel.dattalive.com/8146/8146/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Radio Máxima 94.9 FM SB
@@ -253,8 +225,6 @@ https://video.streamingchilenos.cl:1936/8040/8040/playlist.m3u8
 https://vdochile.com:3385/hybrid/play.m3u8
 #EXTINF:-1 group-title="Chile",RDO Televisión
 http://live.mundogo.cl/mundo/RDO/index.m3u8
-#EXTINF:-1 group-title="Chile",Restaurante Vidas Internacional
-https://v4.tustreaming.cl/restaurandovida/index.m3u8
 #EXTINF:-1 group-title="Chile",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Retro Plus 2
@@ -283,18 +253,10 @@ https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Televida
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:-1 group-title="Chile",Telezion
-https://paneltv.net:3751/hybrid/play.m3u8
 #EXTINF:-1 group-title="Chile",Temuco Televisión
 https://tv.streaming-chile.com:19360/temucotelevision/temucotelevision.m3u8
 #EXTINF:-1 group-title="Chile",Tendencias Prime
 https://v2.tustreaming.cl/tendenciastv/index.m3u8
-#EXTINF:-1 group-title="Chile",Tevex
-https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 group-title="Chile",Tema Televisión
-https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chile",TMN TV
-https://v1.tustreaming.cl/tmntv/index.m3u8
 #EXTINF:-1 group-title="Chile",TNE
 https://v2.tustreaming.cl/tnetv/index.m3u8
 #EXTINF:-1 group-title="Chile",TV5 Linares
@@ -307,8 +269,6 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",TVM
 https://tls-cl.cdnz.cl/tvm/live/playlist.m3u8
-#EXTINF:-1 group-title="Chile",TV Pop
-https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 group-title="Chile",TVR Canal 11
 https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",TVU
@@ -343,8 +303,6 @@ https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 https://paneltv.online:1936/8100/8100/playlist.m3u8
 #EXTINF:-1 group-title="Chile", U Chile TV | CL
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", Telered | RC
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
 #EXTINF:-1 group-title="Chile", UCV | CL
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",5TV LINARES
@@ -379,34 +337,20 @@ https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8
 http://unlimited6-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", VTV | CL
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chile", Canal VTV Los Andes - San Felipe | CL
-https://unlimited10-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", Canal 2 de San Antonio | CL
 http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", Buin Somos Todos | CL
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", TVR Canal 11 | CL
 https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="Chile", Zapping Música | CL
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", TV Éxitos | HACER
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
-#EXTINF:-1 group-title="Chile", Canal BSI | CL
-http://unlimited10-cl.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chile", NCTV | CL
-http://unlimited10-cl.dps.live/nctv/nctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chile", Restaurante Vidas TV | CL
-http://v2.tustreaming.cl/restaurandovidastv/index.m3u8
-#EXTINF:-1 group-title="Chile", Valparaiso Sporting | CL
-https://unlimited10-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", Teletrak | CL
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", Teletrak | CL
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
-#EXTINF:-1, + Listas en M3U.CL * | CL
-https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", La Chilena TV* | CL
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Canal Espectro * | CL
@@ -445,28 +389,20 @@ https://panel.miplay.cl:8081/radioq/index.m3u8?PlaylistM3UCL
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Solobailalo TV* | CL
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", CRTV* | CL
-https://vdo.panelstreaming.live:3540/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Solo Stand Up * | CL
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", PlanetaTV Kids* | CL
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", Macarena FM | CL
-https://5ff3d9babae13.streamlock.net:443/8042/8042/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Caracola TV | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Retro Plus TV Señal 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Pintana TV | CL
 http://live.mundogo.cl/mundo/Pintanatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", Retro Play TV | CL
-https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", NTV | CL
 https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Pichilemu TV | CL
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", UCV 2 | CL
-https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", STGO.TV | CL
 https://stv.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", TVU | CL
@@ -493,8 +429,6 @@ https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8?Play
 https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Ziza TV | CL
 https://v2.tustreaming.cl/zizatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", TV Pop | CL
-https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Canal Chile | CL
 https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Campo Abierto TV | CL
@@ -589,14 +523,10 @@ https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?Playlist
 http://181.224.64.2:89/vidatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Televida HD | CL
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", Restaurando Vidas TV | CL
-http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Radio Vida Curicó | CL
 https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", NCTV | CL
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", Gracia TV | CL
-https://v4.tustreaming.cl/graciatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Canal ISB | CL
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Canal 33 | CL
