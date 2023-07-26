@@ -6,6 +6,8 @@ https://cast235.indax.cl/8020/;
 https://cast235.indax.cl/9016/;
 #EXTINF:-1 group-title="Radios", Máxima FM | CL
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Radios", Música Zapping | CL
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Top New Radio | CL
 https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Zona Play Radio | CL
@@ -18,10 +20,16 @@ https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Zeta | CL
 https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Radios", Radio Touch | CL
+https://mediacpstreamchile.com:1936/8118/8118/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Radios", Sabor TV | CL
+https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Rancagua | CL
 https://tv.streaming-chile.com:19360/rancagua/rancagua.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Presidente Ibañez | CL
 https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Radios", Radio Polar | CL
+https://mediacpstreamchile.com:1936/radiopolar2/radiopolar2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Las Nieves | CL
 https://v2.tustreaming.cl/rln/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Hoy | CL
@@ -34,6 +42,8 @@ https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/corporaciontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Preludio TV | CL
 https://tv.streaming-chile.com:19360/preludio/preludio.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Radios", El Sembrador | CL
+https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", ChocolateFM | CL
 https://5eaccbab48461.streamlock.net:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Ancoa TV | CL
@@ -50,6 +60,10 @@ http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Cooperativa | CL
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Radios", Bio Bio TV | CL
+https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Radios", ADN | CL
+https://unlimited2-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Amatista | CL
 https://paneltv.online:1936/8096/8096/playlist.m3u8
 #EXTINF:-1 group-title="Radios", Radio zeta | CL
@@ -81,6 +95,10 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile",Mega Noticias
 https://ythls.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+#EXTINF:-1 group-title="Chile",CHV Noticias
+https://ythls.onrender.com/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
+#EXTINF:-1 group-title="Chile",T13
+https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
 #EXTINF:-1 group-title="Chile",Alternativa TV
 https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Antofagasta TV
@@ -93,6 +111,8 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 https://6362ca6f1fc28.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Autonoma TV
 https://stream.wifispeed.cl:3033/hybrid/play.m3u8
+#EXTINF:-1 group-title="Chile",Aysén TV
+https://v1.tustreaming.cl/aysentv/index.m3u8
 #EXTINF:-1 group-title="Chile",Buen Somos Todos
 https://bst.buin.cl/0.m3u8
 #EXTINF:-1 group-title="Chile",CampusTV
@@ -137,6 +157,8 @@ https://v2.tustreaming.cl/clicktv/playlist.m3u8
 http://live.mundogo.cl/mundo/concepciontv/index.m3u8
 #EXTINF:-1 group-title="Chile",Contivisión
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Chile",Cosmos TV
+https://v1.tustreaming.cl/cosmostv/index.m3u8
 #EXTINF:-1 group-title="Chile",CRTV
 https://vdo.panelstreaming.live:3058/stream/play.m3u8
 #EXTINF:-1 group-title="Chile",Cultura Online
@@ -151,6 +173,8 @@ http://live.mundogo.cl/mundo/EquizTV/index.m3u8
 http://live.mundogo.cl/mundo/Tipografo/index.m3u8
 #EXTINF:-1 group-title="Chile",EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 group-title="Chile",EnerGeek Radio
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1 group-title="Chile",EnerGeek Retro
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 group-title="Chile",Enfoque TV Digital
@@ -161,6 +185,8 @@ https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
 https://stmv1.zcasthn.com.br/evevision/evevision/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Girovisual
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Chile",Gracia TV
+http://v3.tustreaming.cl/graciatv/index.m3u8
 #EXTINF:-1 group-title="Chile",HiperTV
 https://inliveserver.com:1936/11010/11010/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Hito Cero Televisión
@@ -213,6 +239,8 @@ https://scl.edge.grupoz.cl/music/live/music.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Puranoticia TV
 https://pnt.janusmedia.tv/hls/pnt.m3u8
+#EXTINF:-1 group-title="Chile",Radio El Sembrador
+https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8
 #EXTINF:-1 group-title="Chile",Radio Hoy TV
 https://panel.dattalive.com/8146/8146/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Radio Máxima 94.9 FM SB
@@ -225,6 +253,8 @@ https://video.streamingchilenos.cl:1936/8040/8040/playlist.m3u8
 https://vdochile.com:3385/hybrid/play.m3u8
 #EXTINF:-1 group-title="Chile",RDO Televisión
 http://live.mundogo.cl/mundo/RDO/index.m3u8
+#EXTINF:-1 group-title="Chile",Restaurante Vidas Internacional
+https://v4.tustreaming.cl/restaurandovida/index.m3u8
 #EXTINF:-1 group-title="Chile",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Retro Plus 2
@@ -253,10 +283,18 @@ https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Televida
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+#EXTINF:-1 group-title="Chile",Telezion
+https://paneltv.net:3751/hybrid/play.m3u8
 #EXTINF:-1 group-title="Chile",Temuco Televisión
 https://tv.streaming-chile.com:19360/temucotelevision/temucotelevision.m3u8
 #EXTINF:-1 group-title="Chile",Tendencias Prime
 https://v2.tustreaming.cl/tendenciastv/index.m3u8
+#EXTINF:-1 group-title="Chile",Tevex
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 group-title="Chile",Tema Televisión
+https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1 group-title="Chile",TMN TV
+https://v1.tustreaming.cl/tmntv/index.m3u8
 #EXTINF:-1 group-title="Chile",TNE
 https://v2.tustreaming.cl/tnetv/index.m3u8
 #EXTINF:-1 group-title="Chile",TV5 Linares
@@ -269,6 +307,8 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",TVM
 https://tls-cl.cdnz.cl/tvm/live/playlist.m3u8
+#EXTINF:-1 group-title="Chile",TV Pop
+https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 group-title="Chile",TVR Canal 11
 https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",TVU
@@ -303,6 +343,8 @@ https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 https://paneltv.online:1936/8100/8100/playlist.m3u8
 #EXTINF:-1 group-title="Chile", U Chile TV | CL
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Chile", Telered | RC
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
 #EXTINF:-1 group-title="Chile", UCV | CL
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",5TV LINARES
@@ -337,20 +379,34 @@ https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8
 http://unlimited6-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", VTV | CL
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Chile", Canal VTV Los Andes - San Felipe | CL
+https://unlimited10-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", Canal 2 de San Antonio | CL
 http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", Buin Somos Todos | CL
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", TVR Canal 11 | CL
 https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="Chile", Zapping Música | CL
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", TV Éxitos | HACER
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+#EXTINF:-1 group-title="Chile", Canal BSI | CL
+http://unlimited10-cl.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1 group-title="Chile", NCTV | CL
+http://unlimited10-cl.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Chile", Restaurante Vidas TV | CL
+http://v2.tustreaming.cl/restaurandovidastv/index.m3u8
+#EXTINF:-1 group-title="Chile", Valparaiso Sporting | CL
+https://unlimited10-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", Teletrak | CL
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", Teletrak | CL
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
+#EXTINF:-1, + Listas en M3U.CL * | CL
+https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", La Chilena TV* | CL
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Canal Espectro * | CL
@@ -389,20 +445,28 @@ https://panel.miplay.cl:8081/radioq/index.m3u8?PlaylistM3UCL
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Solobailalo TV* | CL
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Chile", CRTV* | CL
+https://vdo.panelstreaming.live:3540/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Solo Stand Up * | CL
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", PlanetaTV Kids* | CL
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Chile", Macarena FM | CL
+https://5ff3d9babae13.streamlock.net:443/8042/8042/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Caracola TV | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Retro Plus TV Señal 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Pintana TV | CL
 http://live.mundogo.cl/mundo/Pintanatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Chile", Retro Play TV | CL
+https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", NTV | CL
 https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Pichilemu TV | CL
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Chile", UCV 2 | CL
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", STGO.TV | CL
 https://stv.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", TVU | CL
@@ -429,6 +493,8 @@ https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8?Play
 https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Ziza TV | CL
 https://v2.tustreaming.cl/zizatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Chile", TV Pop | CL
+https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Canal Chile | CL
 https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Campo Abierto TV | CL
@@ -523,10 +589,14 @@ https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?Playlist
 http://181.224.64.2:89/vidatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Televida HD | CL
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Chile", Restaurando Vidas TV | CL
+http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Radio Vida Curicó | CL
 https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", NCTV | CL
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Chile", Gracia TV | CL
+https://v4.tustreaming.cl/graciatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Canal ISB | CL
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Canal 33 | CL
@@ -1198,6 +1268,92 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="deporte", Valparaiso Sporting | CL
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 group-title="deporte",TUDN MX
+https://v3.playerlatino.live/stream/m3u8/698.m3u8
+#EXTINF:-1 group-title="deporte", Tigo Deportes HD
+http://138.59.177.34:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="deporte",ESPN +
+http://45.169.99.154:58001/play/a02g/index.m3u8
+#EXTINF:-1 group-title="deporte",ESPN HD
+http://45.169.99.154:58001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="deporte",ESPN 2 HD
+http://45.169.99.154:58001/play/a00k/index.m3u8
+#EXTINF:-1 group-title="deporte",ESPN 3 HD
+http://45.169.99.154:58001/play/a00l/index.m3u8
+#EXTINF:-1 group-title="deporte",ESPN 4 HD
+http://45.169.99.154:58001/play/a02o/index.m3u8
+#EXTINF:-1 group-title="deporte",FOX SPORTS 2 HD
+http://45.169.99.154:58001/play/a006/index.m3u8
+#EXTINF:-1 group-title="deporte",FOX SPORTS 3 HD
+http://45.169.99.154:58001/play/a00n/index.m3u8
+#EXTINF:-1 group-title="deporte",Golf Channel HD
+http://45.169.99.154:58001/play/a01d/index.m3u8
+#EXTINF:-1 group-title="deporte", Claro Deportes 1 HD
+http://138.59.177.34:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="deporte",Claro Sports 1SD
+http://138.59.177.34:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="deporte",Claro Sports 2 HD
+http://138.59.177.34:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="deporte",Claro Sports 2 SD
+http://138.59.177.34:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="deporte", ESPN
+http://138.59.177.34:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="deporte", ESPN +
+http://138.59.177.34:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="deporte", ESPN 2
+http://138.59.177.34:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="deporte", ESPN 2 HD
+http://138.59.177.34:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="deporte", ESPN 3
+http://138.59.177.34:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="deporte", ESPN 3 HD
+http://138.59.177.34:8000/play/a071/index.m3u8
+#EXTINF:-1 group-title="deporte", ESPN 4
+http://138.59.177.34:8000/play/a06j/index.m3u8
+#EXTINF:-1 group-title="deporte", ESPN 4 HD
+http://138.59.177.34:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="deporte", ESPN HD
+http://138.59.177.34:8000/play/a070/index.m3u8
+#EXTINF:-1 group-title="deporte",FOX DEPORTES 2 HD
+http://138.59.177.34:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="deporte",FOX DEPORTES 3 HD
+http://138.59.177.34:8000/play/a073/index.m3u8
+#EXTINF:-1 group-title="deporte",FOX Deportes 2
+http://138.59.177.34:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="deporte",FUTV CR
+http://138.59.177.34:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="deporte",FUTV HD CR
+http://138.59.177.34:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="deporte",Fox Sport 3
+http://138.59.177.34:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="deporte",Deporte latinoamericano
+http://138.59.177.34:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="deporte",PXTV
+http://138.59.177.34:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="deporte",Win
+http://181.119.67.75:16123/play/a041
+#EXTINF:-1 group-title="deporte",ESPN
+http://181.119.67.75:16123/play/ch16
+#EXTINF:-1 group-title="deporte",ESPN2
+http://181.119.67.75:16123/play/ch17
+#EXTINF:-1 group-title="deporte",ESPN3
+http://181.119.67.75:16123/play/ch18
+#EXTINF:-1 group-title="deporte",ESPN4
+http://181.119.67.75:16123/play/ch19
+#EXTINF:-1 group-title="deporte",FOX SPORTS 2
+http://181.119.67.75:16123/play/ch20
+#EXTINF:-1 group-title="deporte",FOX SPORTS 3
+http://181.119.67.75:16123/play/ch21
+#EXTINF:-1 group-title="deporte",10018 ESPN 4 HD
+http://45.189.117.202:48000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="deporte",10019 ESPN3 HD
+http://45.189.117.202:48000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="deporte",10020 Gol Peru
+http://45.189.117.202:48000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="deporte",10029 ESPN 2 HD
+http://45.189.117.202:48000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="deporte",10030 ESPN 1 HD
+http://45.189.117.202:48000/play/a00r/index.m3u8
 
 
 
@@ -3405,6 +3561,8 @@ https://ia802501.us.archive.org/2/items/30-segundos-para-morir-1981-1080p/30%20S
 #EXTINF:-1 group-title="PELÍCULAS MEXICANAS", La banda del carro rojo (1978)
 https://ia904605.us.archive.org/7/items/la-banda-del-carro-rojo-1978-fullscreen/la%20banda%20del%20carro%20rojo%201978%20fullscreen.mp4
 
+#EXTINF: -1 group-title="Cocinando",El Gourmet
+http://181.119.67.75:16123/play/ch27
 #EXTINF:-1 group-title="Cocinando",La cocina de prueba de Estados Unidos (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Cocinando",buen provecho (1080p)
@@ -3438,6 +3596,251 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 #EXTINF:-1 group-title="Cocinando",Tastemade Travel (720p)
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
+#EXTINF: -1 group-title="LATINOS 2023",La Tele
+http://45.189.117.202:48000/play/a002/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",TLnovelas
+http://45.189.117.202:48000/play/a00f/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",telemundo hd
+http://160.20.165.245:8000/play/a002/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",cine premiun
+http://181.119.67.75:16123/play/ch49
+#EXTINF: -1 group-title="LATINOS 2023",Canal De Las Estrella
+http://190.92.7.19:8000/play/a03j/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",canal TSI
+http://190.92.7.19:8000/play/a02s/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Multi Premier hd
+http://160.20.165.245:8000/play/a00b/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",A&E hd
+http://160.20.165.245:8000/play/a00k/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Studio Universal
+http://160.20.165.245:8000/play/a01c/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Universalhd
+http://160.20.165.245:8000/play/a01d/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",AZ Clikc hd
+http://45.169.99.154:58001/play/a01b/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",DHE hd
+http://45.169.99.154:58001/play/a01a/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",E! Entertanine
+http://45.169.99.154:58001/play/a012/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Paramout hd
+http://45.169.99.154:58001/play/a00p/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Sony Chanel HD
+http://45.169.99.154:58001/play/a02l/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",WARNER HD
+http://45.169.99.154:58001/play/a02k/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",CDO PREMIUN
+https://v3.playerlatino.live/stream/m3u8/401|user-agent=Lavf/57.71.001
+#EXTINF: -1 group-title="LATINOS 2023",GOL PERu
+http://187.102.210.164:8000/play/a00g/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",GOL TV
+https://v3.playerlatino.live/stream/m3u8/514|user-agent=Lavf/57.71.001
+#EXTINF: -1 group-title="LATINOS 2023",Directv 
+https://v3.playerlatino.live/stream/m3u8/259|user-agent=Lavf/57.71.001
+#EXTINF: -1 group-title="LATINOS 2023",TNT Sports 3 ChileHD
+http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF: -1 group-title="LATINOS 2023",TNT Sports
+https://v3.playerlatino.live/stream/m3u8/509|user-agent=Lavf/57.71.001
+#EXTINF: -1 group-title="LATINOS 2023",Espn Extra Mexico
+https://d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Espn Extra Mexico
+https://v3.playerlatino.live/stream/m3u8/37|user-agent=Lavf/57.71.001
+#EXTINF: -1 group-title="LATINOS 2023",Espn Extra argentina
+http://181.78.24.67:8010/play/a05n/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Espn 4 argentina
+http://181.78.24.67:8010/play/a04j/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Espn 3
+http://191.102.90.97:8000/play/a079/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",ESPN MX
+http://190.92.7.19:8000/play/a02k/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",ESPN PLUS
+http://190.92.7.19:8000/play/a01l/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",ESPN 2
+http://190.92.7.19:8000/play/a02l/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",ESPN 3
+http://190.92.7.19:8000/play/a01u/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",ESPN 4HD
+http://190.92.7.19:8000/play/a03f/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",FOX Sport 2
+http://190.92.7.19:8000/play/a01v/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",FOX Sport 3
+http://190.92.7.19:8000/play/a01c/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",SKY Sport
+http://190.92.7.19:8000/play/a03p/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Fox Sport 3
+http://138.59.177.34:8000/play/a073/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Tigo Sport
+http://138.59.177.34:8000/play/a05i/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",TyC Sport
+http://187.102.210.164:8000/play/a00f/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",HBO
+http://45.189.117.202:48000/play/a01g/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",HBO 2
+http://45.189.117.202:48000/play/a01h/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",HBO Family
+http://138.59.177.34:8000/play/a01p/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",HBO +plus
+http://138.59.177.34:8000/play/a01o/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",HBO Xtreme
+http://138.59.177.34:8000/play/a01q/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",DPelicula
+http://45.189.117.202:48000/play/a02b/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Cinemax
+http://45.189.117.202:48000/play/a02a/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Golden
+http://45.189.117.202:48000/play/a025/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",DW Esp
+http://45.189.117.202:48000/play/a00m/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Pucalpa tv
+http://45.189.117.202:48000/play/a02f/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Disney chanel
+http://45.189.117.202:48000/play/a00t/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Tele Lima
+http://45.189.117.202:48000/play/a02e/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Cine Familiar
+http://45.189.117.202:48000/play/a02m/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Cine Hispano
+http://45.189.117.202:48000/play/a02n/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Cine premium
+http://45.189.117.202:48000/play/a02o/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Karibeña
+http://45.189.117.202:48000/play/a024/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Mi musica reggaeton
+http://45.189.117.202:48000/play/a02p/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Love nature
+http://45.189.117.202:48000/play/a00x/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",west
+http://45.189.117.202:48000/play/a02d/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",caracol cl
+http://160.20.165.245:8000/play/a00h/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",antena 3
+http://160.20.165.245:8000/play/a00e/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Funbox
+http://160.20.165.245:8000/play/a005/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Pasiones
+http://160.20.165.245:8000/play/a00g/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",pasajetv
+http://160.20.165.245:8000/play/a001/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",telemundo op 2
+http://160.20.165.245:8000/play/a002/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Clover chanel
+http://160.20.165.245:8000/play/a006/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",animal planet
+http://160.20.165.245:8000/play/a010/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",axn
+http://160.20.165.245:8000/play/a00n/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Classic+
+http://160.20.165.245:8000/play/a01h/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Discovery h&h
+http://160.20.165.245:8000/play/a013/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Discovery Chanel
+http://160.20.165.245:8000/play/a011/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Discovery ID
+http://160.20.165.245:8000/play/a012/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Discovery KID
+http://160.20.165.245:8000/play/a016/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Enlace
+http://160.20.165.245:8000/play/a00u/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Ecuador TV
+http://160.20.165.245:8000/play/a00q/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",FanPop
+http://160.20.165.245:8000/play/a01g/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",FMH Famili
+http://160.20.165.245:8000/play/a01j/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",FMH KID
+http://160.20.165.245:8000/play/a01f/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Gama tv
+http://160.20.165.245:8000/play/a00r/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",History
+http://160.20.165.245:8000/play/a00m/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Mi Musica regional mx
+http://160.20.165.245:8000/play/a019/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Mi musica popular cl
+http://160.20.165.245:8000/play/a01b/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",mi musica salsa
+http://160.20.165.245:8000/play/a01a/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",NTN 24
+http://160.20.165.245:8000/play/a00y/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Nuestra tele
+http://160.20.165.245:8000/play/a015/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Oromartv
+http://160.20.165.245:8000/play/a00t/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",RT Esp
+http://160.20.165.245:8000/play/a00w/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",RTU
+http://160.20.165.245:8000/play/a00s/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",SONY Chanel
+http://160.20.165.245:8000/play/a00o/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Studio universal
+http://160.20.165.245:8000/play/a01c/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",TITAN
+http://160.20.165.245:8000/play/a01i/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",TeleAmazona
+http://160.20.165.245:8000/play/a00p/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Zoom
+http://160.20.165.245:8000/play/a017/index.m3u8
+#EXTINF: -1 group-title="LATINOS 2023",Win
+http://181.119.67.75:16123/play/a041
+#EXTINF: -1 group-title="LATINOS 2023",Disney Junior
+http://181.119.67.75:16123/play/ch05
+#EXTINF: -1 group-title="LATINOS 2023",TNT
+http://181.119.67.75:16123/play/a08i
+#EXTINF: -1 group-title="LATINOS 2023",Chanel Imfantil
+http://181.119.67.75:16123/play/ch06
+#EXTINF: -1 group-title="LATINOS 2023",Star Chanel
+http://181.119.67.75:16123/play/ch07
+#EXTINF: -1 group-title="LATINOS 2023",FX
+http://181.119.67.75:16123/play/ch08
+#EXTINF: -1 group-title="LATINOS 2023",Discovery Theater
+http://181.119.67.75:16123/play/ch09
+#EXTINF: -1 group-title="LATINOS 2023",Cine canal
+http://181.119.67.75:16123/play/ch10
+#EXTINF: -1 group-title="LATINOS 2023",Cinema +
+http://181.119.67.75:16123/play/ch12
+#EXTINF: -1 group-title="LATINOS 2023",AMC
+http://181.119.67.75:16123/play/ch13
+#EXTINF: -1 group-title="LATINOS 2023",Conexion
+http://181.119.67.75:16123/play/ch15
+#EXTINF: -1 group-title="LATINOS 2023",Fox Sport 2
+http://181.119.67.75:16123/play/ch20
+#EXTINF: -1 group-title="LATINOS 2023",Discovery Turbo
+http://181.119.67.75:16123/play/ch24
+#EXTINF: -1 group-title="LATINOS 2023",Discovery TLT
+http://181.119.67.75:16123/play/ch26
+#EXTINF: -1 group-title="LATINOS 2023",El Gourmet
+http://181.119.67.75:16123/play/ch27
+#EXTINF: -1 group-title="LATINOS 2023",Food Newort
+http://181.119.67.75:16123/play/ch28
+#EXTINF: -1 group-title="LATINOS 2023",NATGEO
+http://181.119.67.75:16123/play/ch30
+#EXTINF: -1 group-title="LATINOS 2023",Agrotendecia TV
+http://181.119.67.75:16123/play/ch31
+#EXTINF: -1 group-title="LATINOS 2023",CGTN Esp
+http://181.119.67.75:16123/play/ch32
+#EXTINF: -1 group-title="LATINOS 2023",Maschic
+http://181.119.67.75:16123/play/ch33
+#EXTINF: -1 group-title="LATINOS 2023",Ve Plus
+http://181.119.67.75:16123/play/ch36
+#EXTINF: -1 group-title="LATINOS 2023",Glitz
+http://181.119.67.75:16123/play/ch34
+#EXTINF: -1 group-title="LATINOS 2023",Golden EGE
+http://181.119.67.75:16123/play/ch47
+#EXTINF: -1 group-title="LATINOS 2023",Extra
+http://181.119.67.75:16123/play/ch90
+#EXTINF: -1 group-title="LATINOS 2023",Cartoon newort
+http://181.119.67.75:16123/play/a068
+#EXTINF: -1 group-title="LATINOS 2023",HTV
+http://181.119.67.75:16123/play/a06b
+#EXTINF: -1 group-title="LATINOS 2023",Isat
+http://181.119.67.75:16123/play/a067
+#EXTINF: -1 group-title="LATINOS 2023",Space
+http://181.119.67.75:16123/play/a066
+#EXTINF: -1 group-title="LATINOS 2023",TNT Series
+http://181.119.67.75:16123/play/a065
+#EXTINF: -1 group-title="LATINOS 2023",TRUTV
+http://181.119.67.75:16123/play/a06a
+#EXTINF: -1 group-title="LATINOS 2023",Tooncast
+http://181.119.67.75:16123/play/a069
+
 #EXTINF:-1 group-title="PELICULAS 2023", RAPIDO Y FURIOSO 
 https://ia902603.us.archive.org/1/items/ryf-23/Ryf23.mp4
 #EXTINF:-1 group-title="PELICULAS 2023", LA SIRENITA
@@ -3450,3 +3853,6 @@ https://ia902704.us.archive.org/30/items/smb-23kkujnnpnllku/Smb23.mp4
 https://ia902706.us.archive.org/27/items/sz-23kuiiunzzzzf/Sz23.mp4
 #EXTINF:-1 group-title="PELICULAS 2023" , EL GATO CON BOTAS
 https://ia902704.us.archive.org/6/items/gbt-2023tggffdwqsazxxdddgrq/Gbt2023.mp4
+#EXTINF:-1 group-title="PELICULAS 2023" ,FLASH 
+https://ia802703.us.archive.org/30/items/fzh-23gfefdccxxzzsddwqkp098il/Fzh23.mp4
+
