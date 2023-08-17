@@ -87,8 +87,38 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", TVN - 24h | CL
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="BadenTV.de" tvg-name="ADN TV (CL)" tvg-logo="" group-title="Chile",ADN TV (CL)
+#EXTINF:-1 group-title="Chile",TVN SD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35294
+#EXTINF:-1 group-title="Chile",TVN HD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35295
+#EXTINF:-1 group-title="Chile",Mega SD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35297
+#EXTINF:-1 group-title="Chile",Mega HD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35298
+#EXTINF:-1 group-title="Chile",Chilevision SD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35300
+#EXTINF:-1 group-title="Chile",Chilevision HD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35301
+#EXTINF:-1 group-title="Chile",Canal 13 SD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35303
+#EXTINF:-1 group-title="Chile",Canal 13 HD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35304
+#EXTINF:-1 group-title="Chile",TV+ SD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35306
+#EXTINF:-1 group-title="Chile",La Red HD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35310
+#EXTINF:-1 group-title="Chile",La Red SD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35311
+#EXTINF:-1 group-title="Chile",13C SD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35312
+#EXTINF:-1 group-title="Chile",ADN TV (CL)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35316
+#EXTINF:-1 group-title="Chile",Rec TV SD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35320
+#EXTINF:-1 group-title="Chile",TV Chile FHD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35321
+#EXTINF:-1 group-title="Chile",UCV 2 HD (CL)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35322
 #EXTINF:-1 group-title="Chile",Alternativa TV
 https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Antofagasta TV
