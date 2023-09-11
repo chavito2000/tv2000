@@ -87,44 +87,86 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", TVN - 24h | CL
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile",TVN SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35294
-#EXTINF:-1 group-title="Chile",TVN HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35295
-#EXTINF:-1 group-title="Chile",Mega SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35297
-#EXTINF:-1 group-title="Chile",Mega HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35298
-#EXTINF:-1 group-title="Chile",Chilevision SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35300
-#EXTINF:-1 group-title="Chile",Chilevision HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35301
-#EXTINF:-1 group-title="Chile",Canal 13 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35303
-#EXTINF:-1 group-title="Chile",Canal 13 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35304
-#EXTINF:-1 group-title="Chile",TV+ SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35306
-#EXTINF:-1 group-title="Chile",La Red HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35310
-#EXTINF:-1 group-title="Chile",La Red SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35311
-#EXTINF:-1 group-title="Chile",13C SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35312
-#EXTINF:-1 group-title="Chile",Via X HD (CL)
-http://quebuscasaqui.xyz:8080/MoisesUlta/Nj7zFmj7wY/5851
-#EXTINF:-1 group-title="Chile",Zona Latina HD (CL)
-http://quebuscasaqui.xyz:8080/MoisesUlta/Nj7zFmj7wY/5787
-#EXTINF:-1 group-title="Chile",Tv + HD (CL)
-http://quebuscasaqui.xyz:8080/MoisesUlta/Nj7zFmj7wY/5827
-#EXTINF:-1 group-title="Chile",ADN TV (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35316
-#EXTINF:-1 group-title="Chile",Rec TV SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35320
-#EXTINF:-1 group-title="Chile",TV Chile FHD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35321
-#EXTINF:-1 group-title="Chile",UCV 2 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35322
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• GRAN HERMANO (HD) »1«" tvg-logo="" group-title="chile",CL• GRAN HERMANO (HD) »1«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/11528
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• GRAN HERMANO (HD) »2«" tvg-logo="" group-title="chile",CL• GRAN HERMANO (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/11529
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• GRAN HERMANO (HD) »4«" tvg-logo="" group-title="chile",CL• GRAN HERMANO (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/39
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• UCV (HD) »1«" tvg-logo="" group-title="chile",CL• UCV (HD) »1«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/72
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• UCV (HD) »2«" tvg-logo="" group-title="chile",CL• UCV (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/73
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• LA RED (HD) »2«" tvg-logo="" group-title="chile",CL• LA RED (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• LA RED (HD) »3«" tvg-logo="" group-title="chile",CL• LA RED (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/53
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• TV CHILE (HD) »1«" tvg-logo="" group-title="chile",CL• TV CHILE (HD) »1«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/56870
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• TV CHILE (HD) »2«" tvg-logo="" group-title="chile",CL• TV CHILE (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/56871
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• TVN (HD) »1«" tvg-logo="" group-title="chile",CL• TVN (HD) »1«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/38
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• TVN (HD) »2«" tvg-logo="" group-title="chile",CL• TVN (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/37
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• TVN (HD) »3«" tvg-logo="" group-title="chile",CL• TVN (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/36
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• TVN (HD) »4«" tvg-logo="" group-title="chile",CL• TVN (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/35
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• MEGA (HD) »1«" tvg-logo="" group-title="chile",CL• MEGA (HD) »1«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/43
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• MEGA (HD) »2«" tvg-logo="" group-title="chile",CL• MEGA (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/42
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• MEGA (HD) »3«" tvg-logo="" group-title="chile",CL• MEGA (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/41
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• MEGA (HD) »4«" tvg-logo="" group-title="chile",CL• MEGA (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/40
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• MEGA+ (HD) »3«" tvg-logo="" group-title="chile",CL• MEGA+ (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/57398
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• MEGA+ (HD) »4«" tvg-logo="" group-title="chile",CL• MEGA+ (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/57399
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• CANAL 13 (HD) »1«" tvg-logo="" group-title="chile",CL• CANAL 13 (HD) »1«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/51
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• CANAL 13 (HD) »2«" tvg-logo="" group-title="chile",CL• CANAL 13 (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/50
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• CANAL 13 (HD) »3«" tvg-logo="" group-title="chile",CL• CANAL 13 (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/49
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• CANAL 13 (HD) »4«" tvg-logo="" group-title="chile",CL• CANAL 13 (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/48
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• 13C (HD) »1«" tvg-logo="" group-title="chile",CL• 13C (HD) »1«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/57
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• 13C (HD) »2«" tvg-logo="" group-title="chile",CL• 13C (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/56
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• 13C (HD) »3«" tvg-logo="" group-title="chile",CL• 13C (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/57273
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• TV+ (HD) »1«" tvg-logo="" group-title="chile",CL• TV+ (HD) »1«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/62
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• TV+ (HD) »4«" tvg-logo="" group-title="chile",CL• TV+ (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/57262
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• 24 HORAS (HD) »3«" tvg-logo="" group-title="chile",CL• 24 HORAS (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/32
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• 24 HORAS (HD) »4«" tvg-logo="" group-title="chile",CL• 24 HORAS (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/31
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• CHV NOTICIAS (HD) »1«" tvg-logo="" group-title="chile",CL• CHV NOTICIAS (HD) »1«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/76
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• CHV NOTICIAS (HD) »2«" tvg-logo="" group-title="chile",CL• CHV NOTICIAS (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/57265
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• CHV NOTICIAS (HD) »3«" tvg-logo="" group-title="chile",CL• CHV NOTICIAS (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/57266
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• TELETRAK (HD) »2«" tvg-logo="" group-title="chile",CL• TELETRAK (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/67
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• TELETRAK (HD) »3«" tvg-logo="" group-title="chile",CL• TELETRAK (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/69
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• 13 CULTURA (HD)" tvg-logo="" group-title="chile",CL• 13 CULTURA (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/79
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• 13 ENTRETENCIÓN (HD)" tvg-logo="" group-title="chile",CL• 13 ENTRETENCIÓN (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/80
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• 13 TELESERIES (HD)" tvg-logo="" group-title="chile",CL• 13 TELESERIES (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/82
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• T13 (HD)" tvg-logo="" group-title="chile",CL• T13 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/83
+#EXTINF:-1 tvg-id="ext" tvg-name="CL• T13 RADIO (HD)" tvg-logo="" group-title="chile",CL• T13 RADIO (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/85
 #EXTINF:-1 group-title="Chile",Alternativa TV
 https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Antofagasta TV
@@ -796,6 +838,28 @@ http://190.83.60.34:1414/play/a02u?fbclid=IwAR1y9N3QOAPO4EWTJlEqmLoxqWGEUdNOoQ4j
 http://190.83.60.34:1414/play/a01e?fbclid=IwAR1y9N3QOAPO4EWTJlEqmLoxqWGEUdNOoQ4jjqftWeCqxgpQbMpkoDtSVpk
 #EXTINF:-1 group-title="CANALES LATINO",Win Deportes HD
 http://190.83.60.34:1414/play/a01k?fbclid=IwAR1y9N3QOAPO4EWTJlEqmLoxqWGEUdNOoQ4jjqftWeCqxgpQbMpkoDtSVpk
+
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• ESTADIO TNT SPORTS 1 (HD) »2«" tvg-logo="" group-title="FUTBOL CHILE",FCL• ESTADIO TNT SPORTS 1 (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/87
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• ESTADIO TNT SPORTS 1 (HD) »3«" tvg-logo="" group-title="FUTBOL CHILE",FCL• ESTADIO TNT SPORTS 1 (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/88
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• ESTADIO TNT SPORTS 1 (HD) »4«" tvg-logo="" group-title="FUTBOL CHILE",FCL• ESTADIO TNT SPORTS 1 (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/89
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• ESTADIO TNT SPORTS 2 (HD) »4«" tvg-logo="" group-title="FUTBOL CHILE",FCL• ESTADIO TNT SPORTS 2 (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/61277
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• TNT SPORTS (HD) »1«" tvg-logo="" group-title="FUTBOL CHILE",FCL• TNT SPORTS (HD) »1«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/90
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• TNT SPORTS (HD) »2«" tvg-logo="" group-title="FUTBOL CHILE",FCL• TNT SPORTS (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/91
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• TNT SPORTS 2 (HD) »3«" tvg-logo="" group-title="FUTBOL CHILE",FCL• TNT SPORTS 2 (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/96
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• DIRECTV SPORTS (HD) »2«" tvg-logo="" group-title="FUTBOL CHILE",FCL• DIRECTV SPORTS (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/58289
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• DIRECTV SPORTS (HD) »3«" tvg-logo="" group-title="FUTBOL CHILE",FCL• DIRECTV SPORTS (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/58290
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• DIRECTV SPORTS (HD) »4«" tvg-logo="" group-title="FUTBOL CHILE",FCL• DIRECTV SPORTS (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/58291
+
 
 #EXTINF:-1 group-title="ARGENTINA", CANAL DE NOTICIAS 24/7
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
@@ -3995,888 +4059,6 @@ http://50.7.66.234:8080/movie/AR10465/10465R/1169080.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lo desconocido: La máquina del tiempo cósmica - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRCgIaA4C2c0cd9pffDdjTyiGiO.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Lo desconocido: La máquina del tiempo cósmica - 2023
 http://50.7.66.234:8080/movie/AR10465/10465R/1169250.mkv
 
-#EXTINF:-1 group-title="Culturales",National Geographic SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313140
-#EXTINF:-1 group-title="Culturales",National Geographic FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313135
-#EXTINF:-1 group-title="Culturales",National Geographic SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34846
-#EXTINF:-1 group-title="Culturales",National Geographic HD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34847
-#EXTINF:-1 group-title="Culturales",National Geographic FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34848
-#EXTINF:-1 group-title="Culturales",Discovery Channel SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313129
-#EXTINF:-1 group-title="Culturales",Discovery Channel FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313142
-#EXTINF:-1 group-title="Culturales",Discovery Channel SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34808
-#EXTINF:-1 group-title="Culturales",Discovery Channel FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34810
-#EXTINF:-1 group-title="Culturales",Discovery H&H SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313141
-#EXTINF:-1 group-title="Culturales",Discovery H&H FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313128
-#EXTINF:-1 group-title="Culturales",Discovery H&H SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34814
-#EXTINF:-1 group-title="Culturales",Discovery H&H FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34816
-#EXTINF:-1 group-title="Culturales",Discovery Theater SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313130
-#EXTINF:-1 group-title="Culturales",Discovery Theater SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34818
-#EXTINF:-1 group-title="Culturales",Discovery TLC FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313146
-#EXTINF:-1 group-title="Culturales",Discovery TLC SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34822
-#EXTINF:-1 group-title="Culturales",Discovery TLC FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34824
-#EXTINF:-1 group-title="Culturales",Discovery Turbo SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313138
-#EXTINF:-1 group-title="Culturales",Discovery Turbo SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34825
-#EXTINF:-1 group-title="Culturales",Discovery Turbo FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34826
-#EXTINF:-1 group-title="Culturales",Discovery World FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313131
-#EXTINF:-1 group-title="Culturales",Discovery World FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34828
-#EXTINF:-1 group-title="Culturales",Discovery Science FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313147
-#EXTINF:-1 group-title="Culturales",Investigation Discovery SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313143
-#EXTINF:-1 group-title="Culturales",Investigation Discovery FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313134
-#EXTINF:-1 group-title="Culturales",Investigation Discovery SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34838
-#EXTINF:-1 group-title="Culturales",Investigation Discovery FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34840
-#EXTINF:-1 group-title="Culturales",Animal Planet SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313127
-#EXTINF:-1 group-title="Culturales",Animal Planet FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313144
-#EXTINF:-1 group-title="Culturales",Animal Planet SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34801
-#EXTINF:-1 group-title="Culturales",Animal Planet FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34803
-#EXTINF:-1 group-title="Culturales",History Channel SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313145
-#EXTINF:-1 group-title="Culturales",History Channel FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313133
-#EXTINF:-1 group-title="Culturales",History Channel SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34831
-#EXTINF:-1 group-title="Culturales",History Channel FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34833
-#EXTINF:-1 group-title="Culturales",H2 SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313148
-#EXTINF:-1 group-title="Culturales",H2 FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313132
-#EXTINF:-1 group-title="Culturales",HGTV FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313149
-#EXTINF:-1 group-title="Culturales",Love Nature SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313139
-#EXTINF:-1 group-title="Culturales",Love Nature FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313137
-
-#EXTINF:-1 group-title="Películas y Series",A&E SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313107
-#EXTINF:-1 group-title="Películas y Series",A&E  FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313032
-#EXTINF:-1 group-title="Películas y Series",TNT  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313063
-#EXTINF:-1 group-title="Películas y Series",TNT  FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313047
-#EXTINF:-1 group-title="Películas y Series",TNT Series SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313077
-#EXTINF:-1 group-title="Películas y Series",TNT Series  FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313048
-#EXTINF:-1 group-title="Películas y Series",Warner Channel SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313067
-#EXTINF:-1 group-title="Películas y Series",Warner Channel FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313050
-#EXTINF:-1 group-title="Películas y Series",Universal Channel SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313068
-#EXTINF:-1 group-title="Películas y Series",Universal Channel FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313049
-#EXTINF:-1 group-title="Películas y Series",Studio Universal  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313106
-#EXTINF:-1 group-title="Películas y Series",Studio Universal FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313045
-#EXTINF:-1 group-title="Películas y Series",A3 Series FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313057
-#EXTINF:-1 group-title="Películas y Series",AMC  FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313033
-#EXTINF:-1 group-title="Películas y Series",AXN  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313073
-#EXTINF:-1 group-title="Películas y Series",AXN  FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313034
-#EXTINF:-1 group-title="Películas y Series",Cinecanal  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313081
-#EXTINF:-1 group-title="Películas y Series",Cinecanal  FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313035
-#EXTINF:-1 group-title="Películas y Series",Cinemax  FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313036
-#EXTINF:-1 group-title="Películas y Series",Cinemax  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313082
-#EXTINF:-1 group-title="Películas y Series",Clover Channel FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313054
-#EXTINF:-1 group-title="Películas y Series",Comedy Central FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313170
-#EXTINF:-1 group-title="Películas y Series",DHE FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313037
-#EXTINF:-1 group-title="Películas y Series",Eurochannel SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313181
-#EXTINF:-1 group-title="Películas y Series",FX SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313079
-#EXTINF:-1 group-title="Películas y Series",FX  FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313038
-#EXTINF:-1 group-title="Películas y Series",Golden Plus FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313039
-#EXTINF:-1 group-title="Películas y Series",I-Sat SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313072
-#EXTINF:-1 group-title="Películas y Series",Paramount  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313104
-#EXTINF:-1 group-title="Películas y Series",Paramount  FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313041
-#EXTINF:-1 group-title="Películas y Series",Sony Channel SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313069
-#EXTINF:-1 group-title="Películas y Series",Sony Channel FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313043
-#EXTINF:-1 group-title="Películas y Series",Space  FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313044
-#EXTINF:-1 group-title="Películas y Series",Space  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313070
-#EXTINF:-1 group-title="Películas y Series",Star Channel  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313066
-#EXTINF:-1 group-title="Películas y Series",Star Channel FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313042
-#EXTINF:-1 group-title="Películas y Series",SyFy SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313076
-#EXTINF:-1 group-title="Películas y Series",TCM  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313088
-
-#EXTINF:-1 group-title="Cine Premium",Golden Premier SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34910
-#EXTINF:-1 group-title="Cine Premium",Golden Premier FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34912
-#EXTINF:-1 group-title="Cine Premium",HBO  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313095
-#EXTINF:-1 group-title="Cine Premium",HBO 2  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313098
-#EXTINF:-1 group-title="Cine Premium",HBO 2 FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313052
-#EXTINF:-1 group-title="Cine Premium",HBO 2 SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34890
-#EXTINF:-1 group-title="Cine Premium",HBO 2 FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34888
-#EXTINF:-1 group-title="Cine Premium",HBO Family SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313108
-#EXTINF:-1 group-title="Cine Premium",HBO Family  FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313051
-#EXTINF:-1 group-title="Cine Premium",HBO FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313040
-#EXTINF:-1 group-title="Cine Premium",HBO FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34883
-#EXTINF:-1 group-title="Cine Premium",HBO Mundi SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313096
-#EXTINF:-1 group-title="Cine Premium",HBO Plus SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313109
-#EXTINF:-1 group-title="Cine Premium",HBO Plus SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34892
-#EXTINF:-1 group-title="Cine Premium",HBO Plus FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34894
-#EXTINF:-1 group-title="Cine Premium",HBO SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34881
-#EXTINF:-1 group-title="Cine Premium",HBO Signature  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313097
-#EXTINF:-1 group-title="Cine Premium",HBO Signature FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34901
-#EXTINF:-1 group-title="Cine Premium",HBO Signature SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34899
-#EXTINF:-1 group-title="Cine Premium",HBO Xtreme FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313053
-#EXTINF:-1 group-title="Cine Premium",Universal Cinema SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313124
-#EXTINF:-1 group-title="Cine Premium",Universal Cinema SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34869
-#EXTINF:-1 group-title="Cine Premium",Universal Cinema FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34871
-#EXTINF:-1 group-title="Cine Premium",Universal Comedy SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313118
-#EXTINF:-1 group-title="Cine Premium",Universal Comedy SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34854
-#EXTINF:-1 group-title="Cine Premium",Universal Comedy FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34856
-#EXTINF:-1 group-title="Cine Premium",Universal Crime FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34853
-#EXTINF:-1 group-title="Cine Premium",Universal Crime SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34851
-#EXTINF:-1 group-title="Cine Premium",Universal Premiere  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313119
-#EXTINF:-1 group-title="Cine Premium",Universal Premiere FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34875
-#EXTINF:-1 group-title="Cine Premium",Universal Premiere SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34873
-#EXTINF:-1 group-title="Cine Premium",Universal Reality SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34862
-#EXTINF:-1 group-title="Cine Premium",Universal Reality FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34864
-
-#EXTINF:-1 group-title="PPV Cine",PPV: Cinema 24
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34500
-#EXTINF:-1 group-title="PPV Cine",PPV: Cinema 26
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34502
-#EXTINF:-1 group-title="PPV Cine",PPV: Cinema 30
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34506
-#EXTINF:-1 group-title="PPV Cine",PPV: Starz Comedy FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34519
-#EXTINF:-1 group-title="PPV Cine",PPV: Showtime West FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34531
-#EXTINF:-1 group-title="PPV Cine",PPV USA: Cinema 27
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34574
-#EXTINF:-1 group-title="PPV Cine",PPV USA: Starz Kids & Family FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34591
-
-#EXTINF:-1 group-title="Entretención",Univision TLNovelas SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313105
-#EXTINF:-1 group-title="Entretención",TNT Novelas SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313074
-#EXTINF:-1 group-title="Entretención",A3 Series SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313175
-#EXTINF:-1 group-title="Entretención",Las Estrellas FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313173
-#EXTINF:-1 group-title="Entretención",Lifetime  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313102
-#EXTINF:-1 group-title="Entretención",Mas Chic  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313120
-#EXTINF:-1 group-title="Entretención",E! Entertainment SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313171
-#EXTINF:-1 group-title="Entretención",E! Entertainment FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313174
-#EXTINF:-1 group-title="Entretención",El Gourmet SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313180
-#EXTINF:-1 group-title="Entretención",Hola TV SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313099
-#EXTINF:-1 group-title="Entretención",Hola TV FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313172
-#EXTINF:-1 group-title="Entretención",Glitz SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313186
-#EXTINF:-1 group-title="Entretención",Sun Channel  SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313121
-#EXTINF:-1 group-title="Entretención",Sun Channel FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313046
-#EXTINF:-1 group-title="Entretención",Tru TV SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313192
-#EXTINF:-1 group-title="Entretención",Tru TV FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313136
-#EXTINF:-1 group-title="Entretención",Kanal D Drama SD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313117
-#EXTINF:-1 group-title="Entretención",Kanal D Drama  FHD (CL*)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313055
-
-
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Playboy Latino FHD" tvg-logo="https://img.tvcl.xyz/adultos/playboy.png" group-title="Adultos",Playboy Latino FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35326
-#EXTINF:-1 tvg-id="" tvg-name="Playboy TV Europe HD" tvg-logo="https://img.tvcl.xyz/adultos/playboy.png" group-title="Adultos",Playboy TV Europe HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35328
-#EXTINF:-1 tvg-id="BrazzersTVEurope.nl" tvg-name="Brazzers TV Europe" tvg-logo="https://img.tvcl.xyz/adultos/brazzers.png" group-title="Adultos",Brazzers TV Europe
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35329
-#EXTINF:-1 tvg-id="" tvg-name="Balkan Erotic HD" tvg-logo="https://img.tvcl.xyz/adultos/balkanerotic.png" group-title="Adultos",Balkan Erotic HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35344
-#EXTINF:-1 tvg-id="" tvg-name="Barely" tvg-logo="https://img.tvcl.xyz/adultos/barely.png" group-title="Adultos",Barely
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35345
-#EXTINF:-1 tvg-id="BlueHustler.gr" tvg-name="Blue Hustler" tvg-logo="https://img.tvcl.xyz/adultos/bluehustler.png" group-title="Adultos",Blue Hustler
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35346
-#EXTINF:-1 tvg-id="PinkErotic6.rs" tvg-name="Erotic1 6 SD" tvg-logo="https://img.tvcl.xyz/adultos/erotic.png" group-title="Adultos",Erotic1 6 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35349
-#EXTINF:-1 tvg-id="" tvg-name="Erotic4 6 SD" tvg-logo="https://img.tvcl.xyz/adultos/erotic.png" group-title="Adultos",Erotic4 6 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35350
-#EXTINF:-1 tvg-id="HustlerTV.fr" tvg-name="Hustler TV SD" tvg-logo="https://img.tvcl.xyz/adultos/hustlertv.png" group-title="Adultos",Hustler TV SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35353
-#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pinko 1 FHD" tvg-logo="https://img.tvcl.xyz/adultos/pinko.png" group-title="Adultos",Pinko 1 FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35365
-#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pinko 10 SD" tvg-logo="https://img.tvcl.xyz/adultos/pinko.png" group-title="Adultos",Pinko 10 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35366
-#EXTINF:-1 tvg-id="Pink3.rs" tvg-name=" Pinko 3 SD" tvg-logo="https://img.tvcl.xyz/adultos/pinko.png" group-title="Adultos", Pinko 3 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35367
-#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pinko 4 SD" tvg-logo="https://img.tvcl.xyz/adultos/pinko.png" group-title="Adultos",Pinko 4 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35368
-#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pinko 6 SD" tvg-logo="https://img.tvcl.xyz/adultos/pinko.png" group-title="Adultos",Pinko 6 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35370
-#EXTINF:-1 tvg-id="Pink1.rs" tvg-name=" Pinko 8 SD" tvg-logo="https://img.tvcl.xyz/adultos/pinko.png" group-title="Adultos", Pinko 8 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35371
-#EXTINF:-1 tvg-id="PrivateTV.fr" tvg-name="Private SD" tvg-logo="https://img.tvcl.xyz/adultos/private.png" group-title="Adultos",Private SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35378
-#EXTINF:-1 tvg-id="" tvg-name="Reality Kings SD" tvg-logo="https://img.tvcl.xyz/adultos/realitykings.png" group-title="Adultos",Reality Kings SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35390
-#EXTINF:-1 tvg-id="Sextreme.pt" tvg-name="Sextreme" tvg-logo="https://img.tvcl.xyz/adultos/sextreme.png" group-title="Adultos",Sextreme
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35398
-#EXTINF:-1 tvg-id="" tvg-name="Starz FHD" tvg-logo="https://img.tvcl.xyz/adultos/starz.png" group-title="Adultos",Starz FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35402
-#EXTINF:-1 tvg-id="" tvg-name="Venus TV SD" tvg-logo="https://img.tvcl.xyz/adultos/venus.png" group-title="Adultos",Venus TV SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35404
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse HD (MX)" tvg-logo="https://img.tvcl.xyz/adultos/penthousetv.png" group-title="Adultos",Penthouse HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302717
-#EXTINF:-1 tvg-id="" tvg-name="Venus TV Latino SD" tvg-logo="https://img.tvcl.xyz/adultos/venus.png" group-title="Adultos",Venus TV Latino SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304511
-
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Accion Classics FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50572
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Horror Classics HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50574
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Comedia FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50575
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema DC Comics FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50576
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema DC Universe HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50577
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Disney Family FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50578
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Disney Pixar FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50579
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Dreamworks FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50580
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Familia FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50581
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Happy Madison FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50582
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Horror FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50583
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Lego Movies FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50584
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Marvel Animated FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50585
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Marvel Studios FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50586
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cocina Abierta FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50588
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cuentos de la Cripta SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50589
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Death Note HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50592
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Detective Conan SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50593
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Disney Live Action FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50595
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Disney Princess FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50596
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Dragon Ball Z Movies FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50597
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP El Laboratorio de Dexter SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50598
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Happy tree friends FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50601
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Jimmy Neutron SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50604
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Kung Fu Panda HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50606
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP La Casa de Mickey Mouse HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50607
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP La Tropa Goofy HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50610
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Lilo & Stitch SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50611
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Lo Mejor de Donald SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50612
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Los Locos Adams
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50615
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Los Simpsons FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50616
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Los Simpsons Horror HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50617
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Los Simpsons Retro SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50618
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Masha y el Oso HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50620
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Moviecenter Kids FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50622
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Moviecenter Premium FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50623
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Moviecenter Premium Este FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50624
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Moviecenter Premium Oeste FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50625
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Paw Patrol FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50626
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Peppa Pig FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50627
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Pinguinos de Madagascar HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50628
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Pocoyo FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50630
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Rick y Morty FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50631
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP South Park FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50632
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Talking Tom FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50633
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP 31 Minutos HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50635
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Sailor Moon SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50636
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Tiny Toons SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50642
-#EXTINF:-1 group-title="24/7 VIP",24/7 Dragon Ball Z
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35448
-#EXTINF:-1 group-title="24/7 VIP",24/7 Caso Cerrado Inmigracion SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49159
-#EXTINF:-1 group-title="24/7 VIP",24/7 Caso Cerrado La Familia 1 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49160
-#EXTINF:-1 group-title="24/7 VIP",24/7 Caso Cerrado La Familia 3 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49162
-#EXTINF:-1 group-title="24/7 VIP",24/7 Laura Bozzo SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49163
-#EXTINF:-1 group-title="24/7 VIP",24/7 Miguelito SD (Chile)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49164
-#EXTINF:-1 group-title="24/7 VIP",24/7 Mayday Catastrofes Aereas SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49166
-#EXTINF:-1 group-title="24/7 VIP",24/7 El Mundo De Beakman Temp 1 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49168
-#EXTINF:-1 group-title="24/7 VIP",24/7 NCIS Los Angeles SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49181
-#EXTINF:-1 group-title="24/7 VIP",24/7 Los Magnificos Temp 1 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49182
-#EXTINF:-1 group-title="24/7 VIP",24/7 MacGiver (2016) Temp 1 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49186
-#EXTINF:-1 group-title="24/7 VIP",24/7 ER Sala de Urgencias SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49188
-#EXTINF:-1 group-title="24/7 VIP",24/7 Los 3 Chiflados SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49190
-#EXTINF:-1 group-title="24/7 VIP",24/7 Hechizada Temp 1 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49192
-#EXTINF:-1 group-title="24/7 VIP",24/7 La Niñera Temp 1 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49198
-#EXTINF:-1 group-title="24/7 VIP",24/7 Friends Temp 1 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49199
-#EXTINF:-1 group-title="24/7 VIP",24/7 Paso A Paso SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49203
-#EXTINF:-1 group-title="24/7 VIP",24/7 Vecinos Temp 2 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49208
-#EXTINF:-1 group-title="24/7 VIP",24/7 Vecinos Temp 3 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49209
-#EXTINF:-1 group-title="24/7 VIP",24/7 Vecinos Temp 4 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49210
-#EXTINF:-1 group-title="24/7 VIP",24/7 Paradise PD SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49214
-#EXTINF:-1 group-title="24/7 VIP",24/7 Brickleberry SD (+15)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49217
-#EXTINF:-1 group-title="24/7 VIP",24/7 La Casa de Mickey Mouse SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49233
-#EXTINF:-1 group-title="24/7 VIP",24/7 La Doctora Juguete SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49234
-#EXTINF:-1 group-title="24/7 VIP",24/7 She-Ra La Princesa del Poder SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49239
-#EXTINF:-1 group-title="24/7 VIP",24/7 Sailor Moon SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49241
-#EXTINF:-1 group-title="24/7 VIP",24/7 Birdman SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49246
-#EXTINF:-1 group-title="24/7 VIP",24/7 Capitan Cabernicola SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49256
-#EXTINF:-1 group-title="24/7 VIP",24/7 Jhonny Bravo SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49257
-#EXTINF:-1 group-title="24/7 VIP",24/7 La Vaca y el Pollito SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49258
-#EXTINF:-1 group-title="24/7 VIP",24/7 Los Años Maravillosos SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49259
-#EXTINF:-1 group-title="24/7 VIP",24/7 El Oso Yogui SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49262
-#EXTINF:-1 group-title="24/7 VIP",24/7 Candy Candy SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49264
-#EXTINF:-1 group-title="24/7 VIP",24/7 La Casa de los Dibujos SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49274
-#EXTINF:-1 group-title="24/7 VIP",24/7 El Gallo Claudio SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49275
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Marvel Studios Este FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58067
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Marvel Studios Oeste FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58068
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cinema Anime [test] FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58069
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Retro Simpsons SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58071
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP 31 Minutos SD 
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58073
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Bob Esponja SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58076
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Dragon Ball HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58082
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Dragon Ball 2 HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58083
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Dragon Ball GT SD 
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58084
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP El Pajaro Loco SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58086
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Gallo claudio SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58088
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Amazon Kids (Test) FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58090
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Lo Mejor de Pluto SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58101
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58105
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Dragon Ball Super 2 Saga Universo 6 y Goku Black HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58106
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Dragon Ball Super 3 Saga de la Supervivencia Universal HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58107
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Supercampeones SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58109
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP El Chavo HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58120
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Chespirito TV
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58121
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Mr.Bean SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58123
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Cocina Real TV FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58127
-#EXTINF:-1 group-title="24/7 VIP",24/7 VIP Hagalo Usted Mismo TV
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58131
-#EXTINF:-1 group-title="24/7 VIP",24/7 Cantinflas HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58264
-#EXTINF:-1 group-title="24/7 VIP",24/7 Caso Cerrado HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58265
-#EXTINF:-1 group-title="24/7 VIP",24/7 Coraje SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58267
-#EXTINF:-1 group-title="24/7 VIP",24/7 Dragon Ball GT HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58271
-#EXTINF:-1 group-title="24/7 VIP",24/7 Dragon Ball Super HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58273
-#EXTINF:-1 group-title="24/7 VIP",24/7 El Chavo Del 8 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58278
-#EXTINF:-1 group-title="24/7 VIP",24/7 El Principe De Rap SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58284
-#EXTINF:-1 group-title="24/7 VIP",24/7 El Principe Del Rap 2 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58285
-#EXTINF:-1 group-title="24/7 VIP",24/7 Friends HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58291
-#EXTINF:-1 group-title="24/7 VIP",24/7 Las aventuras de Tom Sawyer SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58298
-#EXTINF:-1 group-title="24/7 VIP",24/7 Los Caballeros del Zodiaco SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58301
-#EXTINF:-1 group-title="24/7 VIP",24/7 Los pequeños Tom y Jerry SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58310
-#EXTINF:-1 group-title="24/7 VIP",24/7 11 Los Simpsons HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58314
-#EXTINF:-1 group-title="24/7 VIP",24/7 MALCOLM SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58317
-#EXTINF:-1 group-title="24/7 VIP",24/7 Pajaro Loco HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58322
-#EXTINF:-1 group-title="24/7 VIP",24/7 Timon y Pumba HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58230
-#EXTINF:-1 group-title="24/7 VIP",24/7 The Big Bang Theory FHD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58228
-#EXTINF:-1 group-title="24/7 VIP",24/7 Supercampeones SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58223
-#EXTINF:-1 group-title="24/7 VIP",24/7 Looney Tunes  1 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58207
-#EXTINF:-1 group-title="24/7 VIP",24/7 Guerra De Bestias Transformers SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58188
-#EXTINF:-1 group-title="24/7 VIP",24/7 Espíritu de lucha SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58182
-#EXTINF:-1 group-title="24/7 VIP",24/7 El show de Scooby Doo y ScrappyDoo SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58179
-#EXTINF:-1 group-title="24/7 VIP",24/7 Dr House HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58177
-#EXTINF:-1 group-title="24/7 VIP",24/7 Capitan Futuro SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58167
-#EXTINF:-1 group-title="24/7 VIP",24/7 Capitán Centella SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58168
-#EXTINF:-1 group-title="24/7 VIP",24/7 Transformers Prime HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58233
-#EXTINF:-1 group-title="24/7 VIP",24/7 11 SuperGirl HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58224
-
-#EXTINF:-1 group-title="Deportes Premium",TNT Sports HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34675
-#EXTINF:-1 group-title="Deportes Premium",TNT Sports FHD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34676
-#EXTINF:-1 group-title="Deportes Premium",TNT Sports 2 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34674
-#EXTINF:-1 group-title="Deportes Premium",TNT Sports 2 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/124014
-#EXTINF:-1 group-title="Deportes Premium",TNT Sports 3 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123886
-#EXTINF:-1 group-title="Deportes Premium",TNT Sports 3 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123887
-#EXTINF:-1 group-title="Deportes Premium",TNT Sports HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34683
-#EXTINF:-1 group-title="Deportes Premium",TNT Sports FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34684
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/121857
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports + HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/121856
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports 2 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/187724
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123872
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports 2 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34612
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports + HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123871
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports HD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43430
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports 2 HD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43431
-#EXTINF:-1 group-title="Deportes Premium",ESPN SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/157048
-#EXTINF:-1 group-title="Deportes Premium",ESPN 2 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312850
-#EXTINF:-1 group-title="Deportes Premium",ESPN 2 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123653
-#EXTINF:-1 group-title="Deportes Premium",ESPN 3 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123654
-#EXTINF:-1 group-title="Deportes Premium",ESPN 4 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312851
-#EXTINF:-1 group-title="Deportes Premium",ESPN SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34659
-#EXTINF:-1 group-title="Deportes Premium",ESPN HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34660
-#EXTINF:-1 group-title="Deportes Premium",ESPN FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34661
-#EXTINF:-1 group-title="Deportes Premium",ESPN 2 SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34662
-#EXTINF:-1 group-title="Deportes Premium",ESPN 2 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34663
-#EXTINF:-1 group-title="Deportes Premium",ESPN 2 FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34664
-#EXTINF:-1 group-title="Deportes Premium",ESPN 3 SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34665
-#EXTINF:-1 group-title="Deportes Premium",ESPN 3 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34666
-#EXTINF:-1 group-title="Deportes Premium",ESPN 3 FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34667
-#EXTINF:-1 group-title="Deportes Premium",ESPN Extra SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312846
-#EXTINF:-1 group-title="Deportes Premium",ESPN Extra FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312844
-#EXTINF:-1 group-title="Deportes Premium",ESPN Premium SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312847
-#EXTINF:-1 group-title="Deportes Premium",ESPN Premium HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123874
-#EXTINF:-1 group-title="Deportes Premium",ESPN Premium FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34648
-#EXTINF:-1 group-title="Deportes Premium",ESPN SD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312831
-#EXTINF:-1 group-title="Deportes Premium",ESPN HD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312830
-#EXTINF:-1 group-title="Deportes Premium",ESPN FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312829
-#EXTINF:-1 group-title="Deportes Premium",ESPN 2 SD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312834
-#EXTINF:-1 group-title="Deportes Premium",ESPN 2 FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312832
-#EXTINF:-1 group-title="Deportes Premium",ESPN 3 FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312835
-#EXTINF:-1 group-title="Deportes Premium",ESPN 4 FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312838
-#EXTINF:-1 group-title="Deportes Premium",ESPN Extra SD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312843
-#EXTINF:-1 group-title="Deportes Premium",ESPN Extra FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312841
-#EXTINF:-1 group-title="Deportes Premium",ESPN SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34652
-#EXTINF:-1 group-title="Deportes Premium",ESPN HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302638
-#EXTINF:-1 group-title="Deportes Premium",ESPN FHD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34653
-#EXTINF:-1 group-title="Deportes Premium",ESPN 2 HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302639
-#EXTINF:-1 group-title="Deportes Premium",ESPN 3 SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34657
-#EXTINF:-1 group-title="Deportes Premium",ESPN 3 HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302640
-#EXTINF:-1 group-title="Deportes Premium",ESPN 3 FHD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34658
-#EXTINF:-1 group-title="Deportes Premium",ESPN Extra SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312828
-#EXTINF:-1 group-title="Deportes Premium",ESPN Extra HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302637
-#EXTINF:-1 group-title="Deportes Premium",ESPN Deportes HD (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312852
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 1 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34630
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 1 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34631
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 2 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34633
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 2 FHD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34635
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 3 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34636
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 3 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34637
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 3 FHD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34638
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34639
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34640
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34641
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 2 SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34642
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 2 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34643
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 2 FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34644
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 3 SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34645
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 3 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34646
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 3 FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34647
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302652
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 2 SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34623
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 2 HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302653
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 2 FHD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34624
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 3 SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34625
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 3 HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302698
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 3 FHD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34626
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports Premium (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304554
-#EXTINF:-1 group-title="Deportes Premium",Fox Sports 2 HD (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34650
-#EXTINF:-1 group-title="Deportes Premium",Claro Sports HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302690
-#EXTINF:-1 group-title="Deportes Premium",Claro Sports SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34617
-#EXTINF:-1 group-title="Deportes Premium",Claro Sports FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34618
-#EXTINF:-1 group-title="Deportes Premium",CDO Basico SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34678
-#EXTINF:-1 group-title="Deportes Premium",CDO Premium SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34679
-#EXTINF:-1 group-title="Deportes Premium",CDO Premium HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/121890
-#EXTINF:-1 group-title="Deportes Premium",Teletrak HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34680
-#EXTINF:-1 group-title="Deportes Premium",Sporting HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34681
-#EXTINF:-1 group-title="Deportes Premium",TyC Sports  SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34685
-#EXTINF:-1 group-title="Deportes Premium",TyC Sports HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34686
-#EXTINF:-1 group-title="Deportes Premium",TyC Sports Internacional HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34688
-#EXTINF:-1 group-title="Deportes Premium",DeporTV HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34740
-#EXTINF:-1 group-title="Deportes Premium",DeporTV FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123873
-#EXTINF:-1 group-title="Deportes Premium",Win Sports SD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34689
-#EXTINF:-1 group-title="Deportes Premium",Win Sports FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34690
-#EXTINF:-1 group-title="Deportes Premium",Win Sports + FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34691
-#EXTINF:-1 group-title="Deportes Premium",Movistar Deportes (PE)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34743
-#EXTINF:-1 group-title="Deportes Premium",GolPeru SD (PE)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34744
-#EXTINF:-1 group-title="Deportes Premium",GolPeru FHD (PE)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34745
-#EXTINF:-1 group-title="Deportes Premium",Gol TV HD (ECU)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34693
-#EXTINF:-1 group-title="Deportes Premium",Golf Channel SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34695
-#EXTINF:-1 group-title="Deportes Premium",Golf Channel HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34696
-#EXTINF:-1 group-title="Deportes Premium",Adrenalina Sport Network HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302603
-#EXTINF:-1 group-title="Deportes Premium",Adrenalina Sport Network FHD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34699
-#EXTINF:-1 group-title="Deportes Premium",NFL Network (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313027
-#EXTINF:-1 group-title="Deportes Premium",TVC Deportes HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302737
-#EXTINF:-1 group-title="Deportes Premium",Aym Sports HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302613
-#EXTINF:-1 group-title="Deportes Premium",Hi Sports HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313025
-#EXTINF:-1 group-title="Deportes Premium",TUDN HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304510
-#EXTINF:-1 group-title="Deportes Premium",Afizzionados HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304505
-#EXTINF:-1 group-title="Deportes Premium",TVC Deportes SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34700
-#EXTINF:-1 group-title="Deportes Premium",NBA TV HD (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34712
-#EXTINF:-1 group-title="Deportes Premium",UFC Fight Pass FHD (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34714
-#EXTINF:-1 group-title="Deportes Premium",Univision Deportes Network HD (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34715
-#EXTINF:-1 group-title="Deportes Premium",WWE Network HD  (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34716
-#EXTINF:-1 group-title="Deportes Premium",Fight Network FHD (CA)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34711
-#EXTINF:-1 group-title="Deportes Premium",Canal F1 FHD (ES)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34701
-#EXTINF:-1 group-title="Deportes Premium",Barca TV SD (ES)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34702
-#EXTINF:-1 group-title="Deportes Premium",b31N LA Liga FHD (ES)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34703
-#EXTINF:-1 group-title="Deportes Premium",Movistar Deportes FHD (ES)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34704
-#EXTINF:-1 group-title="Deportes Premium",NFL Network HD (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34705
-#EXTINF:-1 group-title="Deportes Premium",Real Madrid TV FHD (ES)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34706
-#EXTINF:-1 group-title="Deportes Premium",EuroSport 1 HQ (ES)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34709
-#EXTINF:-1 group-title="Deportes Premium",EuroSport 2 HQ (ES)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34710
-#EXTINF:-1 group-title="Deportes Premium",b31N Sports Ñ HQ (ES)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34717
-#EXTINF:-1 group-title="Deportes Premium",b31N Sports 7 HQ (AR)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34724
-#EXTINF:-1 group-title="Deportes Premium",Sky Sports MotoGP HQ (IT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34730
-#EXTINF:-1 group-title="Deportes Premium",Sky Sports Arena HQ (IT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34731
-#EXTINF:-1 group-title="Deportes Premium",Sky Sports Tennis HQ (IT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34732
-#EXTINF:-1 group-title="Deportes Premium",Sky Sports F1 HQ (IT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34733
-#EXTINF:-1 group-title="Deportes Premium",Sky Sports UNO HQ (IT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34735
-#EXTINF:-1 group-title="Deportes Premium",Sky Sports AEW / WWE HQ (IT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34736
-#EXTINF:-1 group-title="Deportes Premium",Sky Sports NBA HQ (IT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34737
-#EXTINF:-1 group-title="Deportes Premium",Sky Sports Action HQ (IT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34738
-#EXTINF:-1 group-title="Deportes Premium",Sky Sports 24 Premier League HQ (IT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34739
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports HD (ECU)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318007
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports HD (PE)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318008
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports 2 (ec)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318010
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports Eventos 2  ™
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318011
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports Eventoso 6 ™
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318012
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports Fight (arg)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318013
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports Fight ™
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318014
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports Highligths ™
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318015
-#EXTINF:-1 group-title="Deportes Premium",Directv Sports Motors
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318016
-#EXTINF:-1 group-title="Deportes Premium",OnDIRECTV (dep) ™
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318017
-#EXTINF:-1 group-title="Deportes Premium",OnDIRECTV Andes (dep) ™
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318018
-#EXTINF:-1 group-title="Deportes Premium",Liga 1 HD (PE)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333106
 
 #EXTINF:-1 group-title="xxx", HUSTLER
 http://3dff4cc4.ucomist.net/iptv/HN7Y79UXUNDQV8/244/index.m3u8
