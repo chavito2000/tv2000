@@ -3367,8 +3367,6 @@ https://v3.playerlatino.live/stream/m3u8/514|user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/259|user-agent=Lavf/57.71.001
 #EXTINF: -1 group-title="LATINOS 2023",TNT Sports 3 ChileHD
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF: -1 group-title="LATINOS 2023",TNT Sports
-https://v3.playerlatino.live/stream/m3u8/509|user-agent=Lavf/57.71.001
 #EXTINF: -1 group-title="LATINOS 2023",Espn Extra Mexico
 https://v3.playerlatino.live/stream/m3u8/37|user-agent=Lavf/57.71.001
 #EXTINF: -1 group-title="LATINOS 2023",Espn Extra argentina
@@ -3395,8 +3393,6 @@ http://138.59.177.34:8000/play/a01q/index.m3u8
 http://160.20.165.245:8000/play/a00e/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",Pasiones
 http://160.20.165.245:8000/play/a00g/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",pasajetv
-http://160.20.165.245:8000/play/a001/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",telemundo op 2
 http://160.20.165.245:8000/play/a002/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",animal planet
@@ -3457,18 +3453,12 @@ http://160.20.165.245:8000/play/a017/index.m3u8
 http://181.119.67.75:16123/play/a041
 #EXTINF: -1 group-title="LATINOS 2023",Disney Junior
 http://181.119.67.75:16123/play/ch05
-#EXTINF: -1 group-title="LATINOS 2023",TNT
-http://181.119.67.75:16123/play/a08i
 #EXTINF: -1 group-title="LATINOS 2023",Chanel Imfantil
 http://181.119.67.75:16123/play/ch06
 #EXTINF: -1 group-title="LATINOS 2023",Star Chanel
 http://181.119.67.75:16123/play/ch07
 #EXTINF: -1 group-title="LATINOS 2023",FX
 http://181.119.67.75:16123/play/ch08
-#EXTINF: -1 group-title="LATINOS 2023",Discovery Theater
-http://181.119.67.75:16123/play/ch09
-#EXTINF: -1 group-title="LATINOS 2023",Cine canal
-http://181.119.67.75:16123/play/ch10
 #EXTINF: -1 group-title="LATINOS 2023",Cinema +
 http://181.119.67.75:16123/play/ch12
 #EXTINF: -1 group-title="LATINOS 2023",AMC
@@ -3795,3 +3785,223 @@ http://50.7.66.234:8080/movie/AR10465/10465R/1169074.mkv
 http://50.7.66.234:8080/movie/AR10465/10465R/1169080.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lo desconocido: La máquina del tiempo cósmica - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRCgIaA4C2c0cd9pffDdjTyiGiO.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Lo desconocido: La máquina del tiempo cósmica - 2023
 http://50.7.66.234:8080/movie/AR10465/10465R/1169250.mkv
+
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• ESTADIO TNT SPORTS 1 (HD) »2«" tvg-logo="" group-title="FUTBOL CHILE",FCL• ESTADIO TNT SPORTS 1 (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/87
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• ESTADIO TNT SPORTS 1 (HD) »3«" tvg-logo="" group-title="FUTBOL CHILE",FCL• ESTADIO TNT SPORTS 1 (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/88
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• ESTADIO TNT SPORTS 1 (HD) »4«" tvg-logo="" group-title="FUTBOL CHILE",FCL• ESTADIO TNT SPORTS 1 (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/89
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• ESTADIO TNT SPORTS 2 (HD) »4«" tvg-logo="" group-title="FUTBOL CHILE",FCL• ESTADIO TNT SPORTS 2 (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/61277
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• TNT SPORTS (HD) »1«" tvg-logo="" group-title="FUTBOL CHILE",FCL• TNT SPORTS (HD) »1«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/90
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• TNT SPORTS (HD) »2«" tvg-logo="" group-title="FUTBOL CHILE",FCL• TNT SPORTS (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/91
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• TNT SPORTS 2 (HD) »3«" tvg-logo="" group-title="FUTBOL CHILE",FCL• TNT SPORTS 2 (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/96
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• DIRECTV SPORTS (HD) »2«" tvg-logo="" group-title="FUTBOL CHILE",FCL• DIRECTV SPORTS (HD) »2«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/58289
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• DIRECTV SPORTS (HD) »3«" tvg-logo="" group-title="FUTBOL CHILE",FCL• DIRECTV SPORTS (HD) »3«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/58290
+#EXTINF:-1 tvg-id="ext" tvg-name="FCL• DIRECTV SPORTS (HD) »4«" tvg-logo="" group-title="FUTBOL CHILE",FCL• DIRECTV SPORTS (HD) »4«
+http://premiumultra.xyz:8080/56966476418face/311222iptv/58291
+
+#EXTINF:-1 tvg-id="309dtv.cl" tvg-name="ZCL• NICK JR (HD)" tvg-logo="http://puntoz.xyz/LOGOS/nick_jrp.png" group-title="ZAPPING CHILE",ZCL• NICK JR (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54428
+#EXTINF:-1 tvg-id="315dtv.cl" tvg-name="ZCL• DISNEY JR (HD)" tvg-logo="http://puntoz.net/LOGOS/disneyjr.png" group-title="ZAPPING CHILE",ZCL• DISNEY JR (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54423
+#EXTINF:-1 tvg-id="330dtv.cl" tvg-name="ZCL• DISCOVERY KIDS (HD)" tvg-logo="http://puntoz.xyz/LOGOS/discoverykidsp.png" group-title="ZAPPING CHILE",ZCL• DISCOVERY KIDS (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54429
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-name="ZCL• NICKELODEON (HD)" tvg-logo="https://i.postimg.cc/yxdZpxXD/nickelodeon.png" group-title="ZAPPING CHILE",ZCL• NICKELODEON (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54420
+#EXTINF:-1 tvg-id="304dtv.cl" tvg-name="ZCL• CARTOON NETWORK (HD)" tvg-logo="http://puntoz.net/LOGOS/cartoonnetworkp.png" group-title="ZAPPING CHILE",ZCL• CARTOON NETWORK (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54424
+#EXTINF:-1 tvg-id="334dtv.cl" tvg-name="ZCL• CARTOONITO (HD)" tvg-logo="http://puntoz.xyz/LOGOS/cartoonitob.png" group-title="ZAPPING CHILE",ZCL• CARTOONITO (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54426
+#EXTINF:-1 tvg-id="312dtv.cl" tvg-name="ZCL• DISNEY CHANNEL (HD)" tvg-logo="http://puntoz.net/LOGOS/disneychannelp.png" group-title="ZAPPING CHILE",ZCL• DISNEY CHANNEL (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54422
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• DREAMWORKS (HD)" tvg-logo="https://i.postimg.cc/8zBzWDM9/dreamworks.png" group-title="ZAPPING CHILE",ZCL• DREAMWORKS (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54436
+#EXTINF:-1 tvg-id="850mvstr.cl" tvg-name="ZCL• ETC TV (HD)" tvg-logo="http://puntoz.net/LOGOS/etcp.png" group-title="ZAPPING CHILE",ZCL• ETC TV (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54434
+#EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="ZCL• BABY TV (HD)" tvg-logo="http://puntoz.xyz/LOGOS/babytvp.png" group-title="ZAPPING CHILE",ZCL• BABY TV (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54430
+#EXTINF:-1 tvg-id="tooncast.ar" tvg-name="ZCL• TOONCAST (HD)" tvg-logo="http://puntoz.xyz/LOGOS/tooncastp.png" group-title="ZAPPING CHILE",ZCL• TOONCAST (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54425
+#EXTINF:-1 tvg-id="146dtv.cl" tvg-name="ZCL• NTV (HD)" tvg-logo="http://puntoz.xyz/LOGOS/ntv.png" group-title="ZAPPING CHILE",ZCL• NTV (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54433
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-name="ZCL• TV+ (HD)" tvg-logo="http://puntoz.xyz/LOGOS/tvmasp.png" group-title="ZAPPING CHILE",ZCL• TV+ (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54367
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="ZCL• LA RED (HD)" tvg-logo="http://puntoz.xyz/LOGOS/laredp.png" group-title="ZAPPING CHILE",ZCL• LA RED (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54364
+#EXTINF:-1 tvg-id="774dtv.co" tvg-name="ZCL• TV CHILE (HD)" tvg-logo="https://i.postimg.cc/jq9ytRQ4/tv-chile-blanco.png" group-title="ZAPPING CHILE",ZCL• TV CHILE (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/56872
+#EXTINF:-1 tvg-id="149dtv.cl" tvg-name="ZCL• TVN (HD)" tvg-logo="http://puntoz.xyz/LOGOS/tvnp.png" group-title="ZAPPING CHILE",ZCL• TVN (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54370
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="ZCL• MEGA (HD)" tvg-logo="http://puntoz.xyz/LOGOS/megap.png" group-title="ZAPPING CHILE",ZCL• MEGA (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54373
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• MEGA PLUS (HD)" tvg-logo="https://i.postimg.cc/jdRk7JfH/mega-blanco.png" group-title="ZAPPING CHILE",ZCL• MEGA PLUS (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54362
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="ZCL• CHV (HD)" tvg-logo="http://puntoz.xyz/LOGOS/chvp.png" group-title="ZAPPING CHILE",ZCL• CHV (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54378
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• CHV CONTIGO (HD)" tvg-logo="https://i.postimg.cc/W39WDR1G/chilevisioncontigoblanco.png" group-title="ZAPPING CHILE",ZCL• CHV CONTIGO (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/57721
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• GRAN HERMANO (HD)" tvg-logo="https://i.postimg.cc/0Ns8VHCK/granhermano.png" group-title="ZAPPING CHILE",ZCL• GRAN HERMANO (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54572
+#EXTINF:-1 tvg-id="152dtv.cl" tvg-name="ZCL• CANAL 13 (HD)" tvg-logo="http://puntoz.xyz/LOGOS/13p.png" group-title="ZAPPING CHILE",ZCL• CANAL 13 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54380
+#EXTINF:-1 tvg-id="1156dtv.cl" tvg-name="ZCL• 13C (HD)" tvg-logo="http://puntoz.xyz/LOGOS/13cp.png" group-title="ZAPPING CHILE",ZCL• 13C (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54384
+#EXTINF:-1 tvg-id="rec-tv.cl" tvg-name="ZCL• REC 13 (HD)" tvg-logo="http://puntoz.xyz/LOGOS/recp.png" group-title="ZAPPING CHILE",ZCL• REC 13 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54386
+#EXTINF:-1 tvg-id="ucv-tv.cl" tvg-name="ZCL• UCV (HD)" tvg-logo="http://puntoz.net/LOGOS/ucvp.png" group-title="ZAPPING CHILE",ZCL• UCV (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54365
+#EXTINF:-1 tvg-id="24horas.cl" tvg-name="ZCL• 24 HORAS (HD)" tvg-logo="http://puntoz.xyz/LOGOS/24horasp.png" group-title="ZAPPING CHILE",ZCL• 24 HORAS (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54371
+#EXTINF:-1 tvg-id="707dtv.cl" tvg-name="ZCL• CNN CHILE (HD)" tvg-logo="http://puntoz.xyz/LOGOS/cnnchilep.png" group-title="ZAPPING CHILE",ZCL• CNN CHILE (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54397
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• T13 (HD)" tvg-logo="http://puntoz.net/LOGOS/t13p.png" group-title="ZAPPING CHILE",ZCL• T13 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54396
+#EXTINF:-1 tvg-id="704dtv.cl" tvg-name="ZCL• CNN ESPANOL (HD)" tvg-logo="http://puntoz.xyz/LOGOS/cnnespanolp.png" group-title="ZAPPING CHILE",ZCL• CNN ESPANOL (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54399
+#EXTINF:-1 tvg-id="706dtv.cl" tvg-name="ZCL• CNN INTERNACIONAL (HD)" tvg-logo="https://i.postimg.cc/ZnHWrd99/cnni.png" group-title="ZAPPING CHILE",ZCL• CNN INTERNACIONAL (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54437
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• BCC WORLD NEW (HD)" tvg-logo="https://i.postimg.cc/j2LpXV2z/bbcnews.png" group-title="ZAPPING CHILE",ZCL• BCC WORLD NEW (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54438
+#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-name="ZCL• FRANCE 24 (HD)" tvg-logo="https://i.postimg.cc/WpZLhVRv/fr24es.png" group-title="ZAPPING CHILE",ZCL• FRANCE 24 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54439
+#EXTINF:-1 tvg-id="762dtv.cl" tvg-name="ZCL• ANTENA 3 (HD)" tvg-logo="http://puntoz.net/LOGOS/Antena_3b.png" group-title="ZAPPING CHILE",ZCL• ANTENA 3 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54525
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• A&E (HD)" tvg-logo="http://puntoz.net/LOGOS/ayep.png" group-title="ZAPPING CHILE",ZCL• A&E (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54447
+#EXTINF:-1 tvg-id="214dtv.cl" tvg-name="ZCL• A3 SERIES (HD)" tvg-logo="http://puntoz.net/LOGOS/a3seriesp.png" group-title="ZAPPING CHILE",ZCL• A3 SERIES (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54478
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="ZCL• WARNER (HD)" tvg-logo="http://puntoz.net/LOGOS/warnerp.png" group-title="ZAPPING CHILE",ZCL• WARNER (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54452
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="ZCL• SONY (HD)" tvg-logo="http://puntoz.net/LOGOS/sonyp.png" group-title="ZAPPING CHILE",ZCL• SONY (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54451
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="ZCL• FX (HD)" tvg-logo="http://puntoz.net/LOGOS/fxhdp.png" group-title="ZAPPING CHILE",ZCL• FX (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54444
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="ZCL• COMEDY CENTRAL (HD)" tvg-logo="https://i.postimg.cc/65RvjyDm/comedy.png" group-title="ZAPPING CHILE",ZCL• COMEDY CENTRAL (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54440
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• UNIVERSAL TV (HD)" tvg-logo="http://puntoz.net/LOGOS/universalp.png" group-title="ZAPPING CHILE",ZCL• UNIVERSAL TV (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54462
+#EXTINF:-1 tvg-id="219dtv.cl" tvg-name="ZCL• SYFY (HD)" tvg-logo="http://puntoz.xyz/LOGOS/syfyp.png" group-title="ZAPPING CHILE",ZCL• SYFY (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54446
+#EXTINF:-1 tvg-id="231dtv.cl" tvg-name="ZCL• TELEMUNDO INTERNACIONAL (HD)" tvg-logo="http://puntoz.net/LOGOS/telemundoinp.png" group-title="ZAPPING CHILE",ZCL• TELEMUNDO INTERNACIONAL (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54523
+#EXTINF:-1 tvg-id="209dtv.cl" tvg-name="ZCL• AXN (HD)" tvg-logo="http://puntoz.net/LOGOS/axnp.png" group-title="ZAPPING CHILE",ZCL• AXN (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54448
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="ZCL• CINEMAX (HD)" tvg-logo="https://i.postimg.cc/XJRwqFR9/cinemax.png" group-title="ZAPPING CHILE",ZCL• CINEMAX (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54366
+#EXTINF:-1 tvg-id="507dtv.ar" tvg-name="ZCL• CINECANAL (HD)" tvg-logo="http://puntoz.net/LOGOS/cinecanalp.png" group-title="ZAPPING CHILE",ZCL• CINECANAL (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54468
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="ZCL• TNT (HD)" tvg-logo="http://puntoz.net/LOGOS/tntp.png" group-title="ZAPPING CHILE",ZCL• TNT (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54449
+#EXTINF:-1 tvg-id="510dtv.cl" tvg-name="ZCL• PARAMOUNT CHANNEL (HD)" tvg-logo="http://puntoz.xyz/LOGOS/paramountp.png" group-title="ZAPPING CHILE",ZCL• PARAMOUNT CHANNEL (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54472
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="ZCL• AMC (HD)" tvg-logo="http://puntoz.net/LOGOS/amcp.png" group-title="ZAPPING CHILE",ZCL• AMC (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54469
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="ZCL• SPACE (HD)" tvg-logo="http://puntoz.xyz/LOGOS/spacep.png" group-title="ZAPPING CHILE",ZCL• SPACE (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54470
+#EXTINF:-1 tvg-id="1515dtv.cl" tvg-name="ZCL• EUROPA EUROPA (HD)" tvg-logo="https://i.postimg.cc/Vs7JKXGg/europaeuropa.png" group-title="ZAPPING CHILE",ZCL• EUROPA EUROPA (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54432
+#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="ZCL• TCM (HD)" tvg-logo="http://puntoz.net/LOGOS/tcmp.png" group-title="ZAPPING CHILE",ZCL• TCM (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54476
+#EXTINF:-1 tvg-id="742dtv.cl" tvg-name="ZCL• HISTORY (HD)" tvg-logo="http://puntoz.xyz/LOGOS/historyp.png" group-title="ZAPPING CHILE",ZCL• HISTORY (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54481
+#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="ZCL• HISTORY 2 (HD)" tvg-logo="http://puntoz.xyz/LOGOS/h2p.png" group-title="ZAPPING CHILE",ZCL• HISTORY 2 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54482
+#EXTINF:-1 tvg-id="732dtv.cl" tvg-name="ZCL• DISCOVERY CHANNEL (HD)" tvg-logo="http://puntoz.xyz/LOGOS/discoveryp.png" group-title="ZAPPING CHILE",ZCL• DISCOVERY CHANNEL (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54486
+#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="ZCL• NATGEO (HD)" tvg-logo="http://puntoz.xyz/LOGOS/natgeop.png" group-title="ZAPPING CHILE",ZCL• NATGEO (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54483
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-name="ZCL• DISCOVERY TURBO (HD)" tvg-logo="http://puntoz.net/LOGOS/discovery.turbop.png" group-title="ZAPPING CHILE",ZCL• DISCOVERY TURBO (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54494
+#EXTINF:-1 tvg-id="223dtv.cl" tvg-name="ZCL• DISCOVERY ID (HD)" tvg-logo="http://puntoz.net/LOGOS/discovery.investigationp.png" group-title="ZAPPING CHILE",ZCL• DISCOVERY ID (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54492
+#EXTINF:-1 tvg-id="740dtv.cl" tvg-name="ZCL• DISCOVERY TLC (HD)" tvg-logo="http://puntoz.net/LOGOS/discovery.tlc.png" group-title="ZAPPING CHILE",ZCL• DISCOVERY TLC (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54491
+#EXTINF:-1 tvg-id="746dtv.cl" tvg-name="ZCL• FILM & ARTS (HD)" tvg-logo="https://i.postimg.cc/LXQZgPGx/filmandarts.png" group-title="ZAPPING CHILE",ZCL• FILM & ARTS (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54516
+#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="ZCL• ANIMAL PLANET (HD)" tvg-logo="http://puntoz.xyz/LOGOS/animalplanetp.png" group-title="ZAPPING CHILE",ZCL• ANIMAL PLANET (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54485
+#EXTINF:-1 tvg-id="1738dtv.cl" tvg-name="ZCL• DISCOVERY WORLD (HD)" tvg-logo="http://puntoz.net/LOGOS/discovery.worldp.png" group-title="ZAPPING CHILE",ZCL• DISCOVERY WORLD (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54489
+#EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="ZCL• DISCOVERY SCIENCE (HD)" tvg-logo="http://puntoz.net/LOGOS/discovery.science.png" group-title="ZAPPING CHILE",ZCL• DISCOVERY SCIENCE (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54493
+#EXTINF:-1 tvg-id="1731dtv.cl" tvg-name="ZCL• DISCOVERY THEATER (HD)" tvg-logo="http://puntoz.net/LOGOS/discovery.theaterp.png" group-title="ZAPPING CHILE",ZCL• DISCOVERY THEATER (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54490
+#EXTINF:-1 tvg-id="222dtv.cl" tvg-name="ZCL• E! ENTERNAINMENT (HD)" tvg-logo="http://puntoz.net/LOGOS/eentertainmnentp.png" group-title="ZAPPING CHILE",ZCL• E! ENTERNAINMENT (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54508
+#EXTINF:-1 tvg-id="229dtv.cl" tvg-name="ZCL• DISCOVERY H&H (HD)" tvg-logo="http://puntoz.net/LOGOS/discovery.homeandhealthp.png" group-title="ZAPPING CHILE",ZCL• DISCOVERY H&H (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54487
+#EXTINF:-1 tvg-id="230dtv.cl" tvg-name="ZCL• MAS CHIC (HD)" tvg-logo="http://puntoz.xyz/LOGOS/maschicp.png" group-title="ZAPPING CHILE",ZCL• MAS CHIC (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54496
+#EXTINF:-1 tvg-id="232dtv.cl" tvg-name="ZCL• EL GOURMET (HD)" tvg-logo="http://puntoz.net/LOGOS/elgourmetp.png" group-title="ZAPPING CHILE",ZCL• EL GOURMET (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54498
+#EXTINF:-1 tvg-id="610dtv.cl" tvg-name="ZCL• DIRECTV SPORTS (HD)" tvg-logo="http://puntoz.xyz/LOGOS/directvsportschileb.png" group-title="ZAPPING CHILE",ZCL• DIRECTV SPORTS (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54409
+#EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ZCL• ESPN (HD)" tvg-logo="http://puntoz.xyz/LOGOS/espnp.png" group-title="ZAPPING CHILE",ZCL• ESPN (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54413
+#EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ZCL• ESPN 2 (HD)" tvg-logo="http://puntoz.xyz/LOGOS/espn2p.png" group-title="ZAPPING CHILE",ZCL• ESPN 2 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54414
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ZCL• ESPN 3 (HD)" tvg-logo="http://puntoz.xyz/LOGOS/espn3p.png" group-title="ZAPPING CHILE",ZCL• ESPN 3 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54415
+#EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ZCL• ESPN EXTRA (HD)" tvg-logo="http://puntoz.xyz/LOGOS/espn.extrap.png" group-title="ZAPPING CHILE",ZCL• ESPN EXTRA (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54417
+#EXTINF:-1 tvg-id="608dtv.cl" tvg-name="ZCL• ESPN 4 (HD)" tvg-logo="http://puntoz.xyz/LOGOS/ESPN4B.png" group-title="ZAPPING CHILE",ZCL• ESPN 4 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54416
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• ESTADIO TNT SPORTS 1 (HD)" tvg-logo="https://i.postimg.cc/qMNvks6T/estadiotntsports1blanco.png" group-title="ZAPPING CHILE",ZCL• ESTADIO TNT SPORTS 1 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54403
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• ESTADIO TNT SPORTS 2 (HD)" tvg-logo="https://i.postimg.cc/KzcmCBhC/estadiotntsports2blanco.png" group-title="ZAPPING CHILE",ZCL• ESTADIO TNT SPORTS 2 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/56661
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="ZCL• TNT SPORTS (HD)" tvg-logo="http://puntoz.xyz/LOGOS/tntsportshdb.png" group-title="ZAPPING CHILE",ZCL• TNT SPORTS (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54404
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-name="ZCL• TNT SPORTS 2 (HD)" tvg-logo="http://puntoz.net/LOGOS/tntsports2b.png" group-title="ZAPPING CHILE",ZCL• TNT SPORTS 2 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54405
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="ZCL• TNT SPORTS 3 (HD)" tvg-logo="http://puntoz.xyz/LOGOS/tntsports3b.png" group-title="ZAPPING CHILE",ZCL• TNT SPORTS 3 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54406
+#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="ZCL• FOX SPORTS 1 (HD)" tvg-logo="http://puntoz.xyz/LOGOS/foxsports1p.png" group-title="ZAPPING CHILE",ZCL• FOX SPORTS 1 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54410
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="ZCL• FOX SPORTS 2 (HD)" tvg-logo="http://puntoz.xyz/LOGOS/foxsports2p.png" group-title="ZAPPING CHILE",ZCL• FOX SPORTS 2 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54411
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="ZCL• FOX SPORTS 3 (HD)" tvg-logo="http://puntoz.net/LOGOS/foxsports3p.png" group-title="ZAPPING CHILE",ZCL• FOX SPORTS 3 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54412
+#EXTINF:-1 tvg-id="637dtv.cl" tvg-name="ZCL• CDO PREMIUM (HD)" tvg-logo="http://puntoz.net/LOGOS/cdopremiump.png" group-title="ZAPPING CHILE",ZCL• CDO PREMIUM (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54408
+#EXTINF:-1 tvg-id="272dtv.cl" tvg-name="ZCL• HTV (HD)" tvg-logo="http://puntoz.net/LOGOS/htvp.png" group-title="ZAPPING CHILE",ZCL• HTV (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54503
+#EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="ZCL• HBO (HD)" tvg-logo="http://puntoz.xyz/LOGOS/hbocosubB.png" group-title="ZAPPING CHILE",ZCL• HBO (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54453
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="ZCL• HBO 2 (HD)" tvg-logo="http://puntoz.net/LOGOS/hbo2b.png" group-title="ZAPPING CHILE",ZCL• HBO 2 (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54455
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="ZCL• HBO FAMILY (HD)" tvg-logo="http://puntoz.net/LOGOS/hbofamilyb.png" group-title="ZAPPING CHILE",ZCL• HBO FAMILY (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54458
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="ZCL• HBO+ (HD)" tvg-logo="http://puntoz.net/LOGOS/HBOMASB.png" group-title="ZAPPING CHILE",ZCL• HBO+ (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54454
+#EXTINF:-1 tvg-id="528dtv.cl" tvg-name="ZCL• HBO SIGNATURE (HD)" tvg-logo="http://puntoz.net/LOGOS/hbosignatureb.png" group-title="ZAPPING CHILE",ZCL• HBO SIGNATURE (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54457
+#EXTINF:-1 tvg-id="541dtv.cl" tvg-name="ZCL• HBO POP (HD)" tvg-logo="http://puntoz.net/LOGOS/hbopopb.png" group-title="ZAPPING CHILE",ZCL• HBO POP (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54460
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="ZCL• HBO XTREME (HD)" tvg-logo="http://puntoz.xyz/LOGOS/hboxtreamb.png" group-title="ZAPPING CHILE",ZCL• HBO XTREME (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54459
+#EXTINF:-1 tvg-id="571dtv.cl" tvg-name="ZCL• UNIVERSAL PREMIERE (HD)" tvg-logo="http://puntoz.xyz/LOGOS/universalpremierB.png" group-title="ZAPPING CHILE",ZCL• UNIVERSAL PREMIERE (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54463
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="ZCL• UNIVERSAL CINEMA (HD)" tvg-logo="http://puntoz.xyz/LOGOS/universalcinamaB.png" group-title="ZAPPING CHILE",ZCL• UNIVERSAL CINEMA (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54464
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="ZCL• UNIVERSAL COMEDY (HD)" tvg-logo="http://puntoz.xyz/LOGOS/universalcomedyB.png" group-title="ZAPPING CHILE",ZCL• UNIVERSAL COMEDY (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54465
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• UNIVERSAL CRIME (HD)" tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png" group-title="ZAPPING CHILE",ZCL• UNIVERSAL CRIME (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54466
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• UNIVERSAL REALITY (HD)" tvg-logo="http://puntoz.xyz/LOGOS/Universal_RealityB.png" group-title="ZAPPING CHILE",ZCL• UNIVERSAL REALITY (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54467
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• RT EN ESPANOL (HD)" tvg-logo="http://puntoz.xyz/LOGOS/rtenespanolp.png" group-title="ZAPPING CHILE",ZCL• RT EN ESPANOL (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54400
+#EXTINF:-1 tvg-id="1638dtv.cl" tvg-name="ZCL• TELETRAK (HD)" tvg-logo="http://puntoz.net/LOGOS/teletrakb.png" group-title="ZAPPING CHILE",ZCL• TELETRAK (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54419
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• CAMARA DE DIPUTADOS (HD)" tvg-logo="http://puntoz.net/LOGOS/camarap.png" group-title="ZAPPING CHILE",ZCL• CAMARA DE DIPUTADOS (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54401
+#EXTINF:-1 tvg-id="" tvg-name="ZCL• BIO BIO TV (HD)" tvg-logo="http://puntoz.xyz/LOGOS/biobiotvp.png" group-title="ZAPPING CHILE",ZCL• BIO BIO TV (HD)
+http://premiumultra.xyz:8080/56966476418face/311222iptv/54398
