@@ -4,14 +4,6 @@
 https://cast235.indax.cl/8020/;
 #EXTINF:-1 group-title="Radios", Radio Faraon Cl
 https://cast235.indax.cl/9016/;
-#EXTINF:-1 group-title="Radios", Máxima FM | CL
-https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", Música Zapping | CL
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", Top New Radio | CL
-https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", Zona Play Radio | CL
-https://paneltv.online:1936/8100/8100/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Tributo Valentina | CL
 https://vdochile.com:3385/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Patagonia Radio TV | CL
@@ -20,10 +12,6 @@ https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Zeta | CL
 https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", Radio Touch | CL
-https://mediacpstreamchile.com:1936/8118/8118/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", Radio Rancagua | CL
-https://tv.streaming-chile.com:19360/rancagua/rancagua.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Presidente Ibañez | CL
 https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Las Nieves | CL
@@ -36,8 +24,6 @@ https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Corporación | CL
 https://v2.tustreaming.cl/corporaciontv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", Preludio TV | CL
-https://tv.streaming-chile.com:19360/preludio/preludio.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", ChocolateFM | CL
 https://5eaccbab48461.streamlock.net:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Ancoa TV | CL
@@ -52,8 +38,6 @@ https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3
 http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Radios", Radio Duna | CL
 https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Radios", Radio Amatista | CL
-https://paneltv.online:1936/8096/8096/playlist.m3u8
 #EXTINF:-1 group-title="Radios", Radio zeta | CL
 https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Radios", Radio Roja Fueguina | CL
@@ -91,16 +75,12 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Mega | CL
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", TVN - 24h | CL
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile",Alternativa TV
 https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Antofagasta TV
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Atacama Noticias
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 group-title="Chile",Atacama TV
-https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 group-title="Chile",ATV Valdivia
 https://6362ca6f1fc28.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Autonoma TV
@@ -123,14 +103,10 @@ http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Canal ISB
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chile",Canal Latino
-https://live.chileservidores.com:8081/latina/index.m3u8
 #EXTINF:-1 group-title="Chile",Canal Local
 http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8
 #EXTINF:-1 group-title="Chile",Canal SCN
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
-#EXTINF:-1 group-title="Chile",Canal Sur Patagonia
-https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
 #EXTINF:-1 group-title="Chile",Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Cauquenesnet
@@ -237,12 +213,6 @@ https://video.streamingchilenos.cl:1936/8040/8040/playlist.m3u8
 https://vdochile.com:3385/hybrid/play.m3u8
 #EXTINF:-1 group-title="Chile",RDO Televisión
 http://live.mundogo.cl/mundo/RDO/index.m3u8
-#EXTINF:-1 group-title="Chile",Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 group-title="Chile",Retro Plus 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1 group-title="Chile",Retro Plus 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 group-title="Chile",RTV Nuble
 https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Santa María Televisión
@@ -337,8 +307,6 @@ http://tv.ulagos.cl/web/live.m3u8
 https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
 #EXTINF:-1 group-title="Chile", Holvoet televisión | CL
 https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chile", Atacama televisión | CL
-https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 group-title="Chile", Girovisual televisión | CL
 http://unlimited6-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", VTV | CL
@@ -449,8 +417,6 @@ https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Atacama Noticias TV | CL
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", Atacama TV | CL
-https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Huasco TV | CL
 https://paneltv.online:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Enfoque Digital TV | CL
@@ -515,8 +481,6 @@ https://paneltv.online:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", ITV Patagonia | CL
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", Canal Sur Patagonia | CL
-https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", PinguinoTV | CL
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", Valparaiso Sporting | CL
@@ -606,8 +570,6 @@ http://181.78.12.119:16123/play/ch69/index.m3u8
 http://181.78.12.119:16123/play/ch70/index.m3u8
 #EXTINF:-1 group-title="LMC",ZOOM
 http://181.78.12.119:16123/play/ch71/index.m3u8
-#EXTINF:-1 group-title="LMC",TELE MEDELLÍN
-http://181.78.12.119:16123/play/ch73/index.m3u8
 
 
 #EXTINF:-1 group-title="CANALES LATINO", televisión ABC
@@ -1154,20 +1116,6 @@ https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?Play
 https://v3.playerlatino.live/stream/m3u8/698.m3u8
 #EXTINF:-1 group-title="deporte", Tigo Deportes HD
 http://138.59.177.34:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="deporte",ESPN +
-http://45.169.99.154:58001/play/a02g/index.m3u8
-#EXTINF:-1 group-title="deporte",ESPN HD
-http://45.169.99.154:58001/play/a00m/index.m3u8
-#EXTINF:-1 group-title="deporte",ESPN 2 HD
-http://45.169.99.154:58001/play/a00k/index.m3u8
-#EXTINF:-1 group-title="deporte",ESPN 3 HD
-http://45.169.99.154:58001/play/a00l/index.m3u8
-#EXTINF:-1 group-title="deporte",ESPN 4 HD
-http://45.169.99.154:58001/play/a02o/index.m3u8
-#EXTINF:-1 group-title="deporte",FOX SPORTS 3 HD
-http://45.169.99.154:58001/play/a00n/index.m3u8
-#EXTINF:-1 group-title="deporte",Golf Channel HD
-http://45.169.99.154:58001/play/a01d/index.m3u8
 #EXTINF:-1 group-title="deporte", Claro Deportes 1 HD
 http://138.59.177.34:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="deporte",Claro Sports 1SD
@@ -1220,91 +1168,15 @@ http://181.119.67.75:16123/play/ch19
 http://181.119.67.75:16123/play/ch20
 #EXTINF:-1 group-title="deporte",FOX SPORTS 3
 http://181.119.67.75:16123/play/ch21
-#EXTINF:-1 group-title="deporte",10018 ESPN 4 HD
-http://45.189.117.202:48000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="deporte",10019 ESPN3 HD
-http://45.189.117.202:48000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="deporte",10020 Gol Peru
-http://45.189.117.202:48000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="deporte",10029 ESPN 2 HD
-http://45.189.117.202:48000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="deporte",10030 ESPN 1 HD
-http://45.189.117.202:48000/play/a00r/index.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="PELÍCULAS", TUS MASCOTAS (3)
-https://ia803400.us.archive.org/22/items/la-vida-secreta-de-las-mascotas-2/la%20vida%20secreta%20de%20las%20mascotas%202.MP4
-#EXTINF:-1 group-title="PELÍCULAS", CASTILLO DE ARENA (2017) (2)
-http://bit.ly/MRAQCASTI
-#EXTINF:-1 group-title="PELÍCULAS", Cuando nos Conocimos (2)
-https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", COLOSAL (2016) (2 )
-http://bit.ly/2w5zZIw
-#EXTINF:-1 group-title="PELÍCULAS", Deadpool (2)
-https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", JIGSAW VIII (2)
-https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", LA BELLA DURMIENTE (CLASICA) (2)
-http://bit.ly/LABELLAMOVIE
-#EXTINF:-1 group-title="PELÍCULAS", La Fuerza De La Ilusión ( 2)
-https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 #EXTINF:-1 group-title="PELÍCULAS", LA NOVIA DE CHUCKY (1998) ) (2)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
 #EXTINF:-1 group-title="PELÍCULAS", MI VIDA A LOS 17 ( 2)
 http://bit.ly/2v16m9z
-#EXTINF:-1 group-title="PELÍCULAS", Redada Asesina (2)
-https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", Sandy Wexler (2017) ( 2)
-http://bit.ly/MRAQCSAND
-#EXTINF:-1 group-title="PELÍCULAS", Terminal (2)
-https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:-1 group-title="PELÍCULAS", Kurt Cobain: Montaje de Heck
 https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
-#EXTINF:-1 group-title="PELÍCULAS", Nosotros Los Nobles
-https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:-1 group-title="PELÍCULAS", ESPECTRO
-https://goo.gl/3KGMLf
-#EXTINF:-1 group-title="PELÍCULAS", El Dilema de las Redes Sociales | REGIOFLIX
-http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
-#EXTINF:-1 group-title="PELÍCULAS", El Infierno | REGIOFLIX
-https://archive.org/download/ein-srregio/EInSRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", Volver al Futuro | REGIOFLIX
-https://archive.org/download/qwerty_202001/qwerty.mkv
-#EXTINF:-1 group-title="PELÍCULAS", Volver al Futuro 2 | REGIOFLIX
-https://archive.org/download/qwerty2/qwerty2.mkv
-#EXTINF:-1 group-title="PELÍCULAS", Volver al Futuro 3 | REGIOFLIX
-https://archive.org/download/qwerty3/qwerty3.mkv
-#EXTINF:-1 group-title="PELÍCULAS", Tu Nombre | REGIOFLIX
-https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
-#EXTINF:-1 group-title="PELÍCULAS", JhonIX
-https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", Volver al Futuro | REGIOFLIX
-https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", Next Gen | SRREGIO.NET
-https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
-#EXTINF:-1 group-title="PELÍCULAS", Chicas Tragedia | SRREGIO.NET
-https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
-#EXTINF:-1 group-title="PELÍCULAS", La Fuerza De La Ilusión | REGIOFLIX
-https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", Cuando nos Conocimos | REGIOFLIX
-https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", GRUPO PELIX.
-https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:-1 group-title="PELÍCULAS", La paradoja de Cloverfield | REGIOFLIX
-https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:-1 group-title="PELÍCULAS", Término | REGIOFLI X
-https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", Intensamente | REGIOFLIX
-https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", JIGSAW VII | REGIOFLIX
-https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", Redada Asesina | REGIOFLIX
-https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1 group-title="PELÍCULAS", SIERRA VIII SUBTITULADO | REGIOFLIX
-https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 #EXTINF:-1 group-title="PELÍCULAS", 12 HORAS PARA SOBREVIVIR
 http://archive.org/download/0_20200403/2.mp4
 #EXTINF:-1 group-title="PELÍCULAS", 12 HORAS PARA SOBREVIVIR EL AÑO DE LA ELECCIÓN
@@ -1789,8 +1661,6 @@ http://archive.org/download/img20200313191011hdr/dr4g0nb4ll036r4nm1571c4brr1pl47
 http://archive.org/download/smas4/smas4.mp4
 #EXTINF:-1 group-title="PELÍCULAS", Dragon Ball FighterZ SAGA
 http://archive.org/download/cosas_202009/Nueva%20carpeta%20%285%29/Dragon%20Ball%20FighterZ%20SAGA.m3u
-#EXTINF:-1 group-title="PELÍCULAS", DRAGON BALL FREEZER VS EL PADRE DE GOKU
-http://archive.org/download/img20200220205421_202002/8DR460NB4LL.mp4 _
 #EXTINF:-1 group-title="PELÍCULAS", DRAGON BALL GT 100 AÑOS DESPUES
 http://archive.org/download/img20200313191011hdr/db35p3c14l03dr460nb4llG71004nn05d35pu35.mp4
 #EXTINF:-1 group-title="PELÍCULAS", DRAGON BALL LA FUSION DE GOKU Y VEGETA
@@ -3472,10 +3342,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 #EXTINF:-1 group-title="Cocinando",Tastemade Travel (720p)
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF: -1 group-title="LATINOS 2023",La Tele
-http://45.189.117.202:48000/play/a002/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",TLnovelas
-http://45.189.117.202:48000/play/a00f/index.m3u8
+
 #EXTINF: -1 group-title="LATINOS 2023",telemundo hd
 http://160.20.165.245:8000/play/a002/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",cine premiun
@@ -3492,22 +3359,8 @@ http://160.20.165.245:8000/play/a00k/index.m3u8
 http://160.20.165.245:8000/play/a01c/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",Universalhd
 http://160.20.165.245:8000/play/a01d/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",AZ Clikc hd
-http://45.169.99.154:58001/play/a01b/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",DHE hd
-http://45.169.99.154:58001/play/a01a/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",E! Entertanine
-http://45.169.99.154:58001/play/a012/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Paramout hd
-http://45.169.99.154:58001/play/a00p/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Sony Chanel HD
-http://45.169.99.154:58001/play/a02l/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",WARNER HD
-http://45.169.99.154:58001/play/a02k/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",CDO PREMIUN
 https://v3.playerlatino.live/stream/m3u8/401|user-agent=Lavf/57.71.001
-#EXTINF: -1 group-title="LATINOS 2023",GOL PERu
-http://187.102.210.164:8000/play/a00g/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",GOL TV
 https://v3.playerlatino.live/stream/m3u8/514|user-agent=Lavf/57.71.001
 #EXTINF: -1 group-title="LATINOS 2023",Directv 
@@ -3524,74 +3377,28 @@ http://181.78.24.67:8010/play/a05n/index.m3u8
 http://181.78.24.67:8010/play/a04j/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",Espn 3
 http://191.102.90.97:8000/play/a079/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",ESPN MX
-http://190.92.7.19:8000/play/a02k/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",ESPN PLUS
 http://190.92.7.19:8000/play/a01l/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",ESPN 2
-http://190.92.7.19:8000/play/a02l/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",ESPN 3
 http://190.92.7.19:8000/play/a01u/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",ESPN 4HD
-http://190.92.7.19:8000/play/a03f/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",FOX Sport 2
-http://190.92.7.19:8000/play/a01v/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",FOX Sport 3
 http://190.92.7.19:8000/play/a01c/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",Tigo Sport
 http://138.59.177.34:8000/play/a05i/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",TyC Sport
-http://187.102.210.164:8000/play/a00f/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",HBO
-http://45.189.117.202:48000/play/a01g/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",HBO 2
-http://45.189.117.202:48000/play/a01h/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",HBO Family
 http://138.59.177.34:8000/play/a01p/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",HBO +plus
 http://138.59.177.34:8000/play/a01o/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",HBO Xtreme
 http://138.59.177.34:8000/play/a01q/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",DPelicula
-http://45.189.117.202:48000/play/a02b/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Cinemax
-http://45.189.117.202:48000/play/a02a/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Golden
-http://45.189.117.202:48000/play/a025/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",DW Esp
-http://45.189.117.202:48000/play/a00m/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Pucalpa tv
-http://45.189.117.202:48000/play/a02f/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Disney chanel
-http://45.189.117.202:48000/play/a00t/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Tele Lima
-http://45.189.117.202:48000/play/a02e/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Cine Familiar
-http://45.189.117.202:48000/play/a02m/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Cine Hispano
-http://45.189.117.202:48000/play/a02n/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Cine premium
-http://45.189.117.202:48000/play/a02o/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Karibeña
-http://45.189.117.202:48000/play/a024/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Mi musica reggaeton
-http://45.189.117.202:48000/play/a02p/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Love nature
-http://45.189.117.202:48000/play/a00x/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",west
-http://45.189.117.202:48000/play/a02d/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",antena 3
 http://160.20.165.245:8000/play/a00e/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Funbox
-http://160.20.165.245:8000/play/a005/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",Pasiones
 http://160.20.165.245:8000/play/a00g/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",pasajetv
 http://160.20.165.245:8000/play/a001/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",telemundo op 2
 http://160.20.165.245:8000/play/a002/index.m3u8
-#EXTINF: -1 group-title="LATINOS 2023",Clover chanel
-http://160.20.165.245:8000/play/a006/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",animal planet
 http://160.20.165.245:8000/play/a010/index.m3u8
 #EXTINF: -1 group-title="LATINOS 2023",axn
@@ -3694,35 +3501,7 @@ http://181.119.67.75:16123/play/ch34
 http://181.119.67.75:16123/play/ch47
 #EXTINF: -1 group-title="LATINOS 2023",Extra
 http://181.119.67.75:16123/play/ch90
-#EXTINF: -1 group-title="LATINOS 2023",Cartoon newort
-http://181.119.67.75:16123/play/a068
-#EXTINF: -1 group-title="LATINOS 2023",HTV
-http://181.119.67.75:16123/play/a06b
-#EXTINF: -1 group-title="LATINOS 2023",Isat
-http://181.119.67.75:16123/play/a067
-#EXTINF: -1 group-title="LATINOS 2023",Space
-http://181.119.67.75:16123/play/a066
-#EXTINF: -1 group-title="LATINOS 2023",TNT Series
-http://181.119.67.75:16123/play/a065
-#EXTINF: -1 group-title="LATINOS 2023",TRUTV
-http://181.119.67.75:16123/play/a06a
-#EXTINF: -1 group-title="LATINOS 2023",Tooncast
-http://181.119.67.75:16123/play/a069
 
-#EXTINF:-1 group-title="PELICULAS 2023", RAPIDO Y FURIOSO 
-https://ia902603.us.archive.org/1/items/ryf-23/Ryf23.mp4
-#EXTINF:-1 group-title="PELICULAS 2023", LA SIRENITA
-https://ia902603.us.archive.org/16/items/lsi-23aaaaaaBbbbbbccccczzzzxxscddf/Lsi23.mp4
-#EXTINF:-1 group-title="PELICULAS 2023" , AVATAR 2
-https://ia902604.us.archive.org/7/items/avt-23gfgfgggggfrrefcgghhfffcc/Avt23.mp4
-#EXTINF:-1 group-title="PELICULAS 2023" , SUPER MARIO BROSS
-https://ia902704.us.archive.org/30/items/smb-23kkujnnpnllku/Smb23.mp4
-#EXTINF:-1 group-title="PELICULAS 2023" , SHAZAM
-https://ia902706.us.archive.org/27/items/sz-23kuiiunzzzzf/Sz23.mp4
-#EXTINF:-1 group-title="PELICULAS 2023" , EL GATO CON BOTAS
-https://ia902704.us.archive.org/6/items/gbt-2023tggffdwqsazxxdddgrq/Gbt2023.mp4
-#EXTINF:-1 group-title="PELICULAS 2023" ,FLASH 
-https://ia802703.us.archive.org/30/items/fzh-23gfefdccxxzzsddwqkp098il/Fzh23.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Quasi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpiOgZL3rkKPHLvEZv1jm8aJm6l.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Quasi (2023)
 http://50.7.66.234:8080/movie/AR10465/10465R/1159079.mkv
@@ -3752,8 +3531,6 @@ http://50.7.66.234:8080/movie/AR10465/10465R/1160239.mkv
 http://50.7.66.234:8080/movie/AR10465/10465R/1160343.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gorzko, gorzko! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RaNad34VW30h7g6LgaqBCERaPU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Gorzko, gorzko! (2023)
 http://50.7.66.234:8080/movie/AR10465/10465R/1160344.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BZRP Live Tour 2023 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o690ugcCVwgYPHAEm5KcjZuHjtc.jpg" group-title="VOD - ESTRENOS Y RECIENTES",BZRP Live Tour 2023 (2023)
-http://50.7.66.234:8080/movie/AR10465/10465R/1160345.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Governance - Il prezzo del potere (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkFyyZtWjfS2F8V14wLoVS7zQui.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Governance - Il prezzo del potere (2021)
 http://50.7.66.234:8080/movie/AR10465/10465R/1160346.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Todo ha ido bien (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19Vrq7s4oEQxx5e17neZeH5aIe1.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Todo ha ido bien (2021)
@@ -3884,8 +3661,6 @@ http://50.7.66.234:8080/movie/AR10465/10465R/1169936.mkv
 http://50.7.66.234:8080/movie/AR10465/10465R/1169937.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Miracolous: Las aventuras de Ladybug: La película (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVlB5J2KYkbwBnWJSJEAbvPFaqm.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Miracolous: Las aventuras de Ladybug: La película (2023)
 http://50.7.66.234:8080/movie/AR10465/10465R/1169938.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Oppenheimer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Oppenheimer (2023)
-http://50.7.66.234:8080/movie/AR10465/10465R/1169939.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mansión encantada - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRGqt5qE1eojFGR7nboG6V7SPna.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Mansión encantada - 2023
 http://50.7.66.234:8080/movie/AR10465/10465R/1170021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cuando termines de salvar el mundo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6piyB7y6glrXSgd2o5nB7RdpIxZ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Cuando termines de salvar el mundo (2023)
@@ -3968,10 +3743,6 @@ http://50.7.66.234:8080/movie/AR10465/10465R/1167466.mkv
 http://50.7.66.234:8080/movie/AR10465/10465R/1167472.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Efecto nocebo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdjdZPgCRFqa0cgXLz8mDsUtiqP.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Efecto nocebo (2022)
 http://50.7.66.234:8080/movie/AR10465/10465R/1167473.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Contacto sangriento - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utkAPHidRG4j87vmcA9TfGsD7pz.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Contacto sangriento - 1988
-http://50.7.66.234:8080/movie/AR10465/10465R/1167518.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y el dial del destino - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Indiana Jones y el dial del destino - 2023
-http://50.7.66.234:8080/movie/AR10465/10465R/1167558.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Devil Conspiracy - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1czkLtquPkiQg3OqubHqNzr6jM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Devil Conspiracy - 2023
 http://50.7.66.234:8080/movie/AR10465/10465R/1167562.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El arma secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viMzLlu4UeKI8GS7c7UNLpNV6D.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El arma secreta
@@ -3986,8 +3757,6 @@ http://50.7.66.234:8080/movie/AR10465/10465R/1167789.mkv
 http://50.7.66.234:8080/movie/AR10465/10465R/1168120.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mari(dos) - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utC68GeR21AviTiosDBIVpqIp6N.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Mari(dos) - 2023
 http://50.7.66.234:8080/movie/AR10465/10465R/1168121.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Insidious: La puerta roja - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR2qo6fAsrIyhJ3cbeVdv8YqwWk.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Insidious: La puerta roja - 2023
-http://50.7.66.234:8080/movie/AR10465/10465R/1168180.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Transformers: El despertar de las bestias - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yu24fXpro7jx4XFlgEWwElW1kgW.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Transformers: El despertar de las bestias - 2023
 http://50.7.66.234:8080/movie/AR10465/10465R/1168181.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un lugar por el que luchar - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egdZEgMhqFsxezztDlDqch5TjVM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Un lugar por el que luchar - 2023
@@ -4026,4 +3795,3 @@ http://50.7.66.234:8080/movie/AR10465/10465R/1169074.mkv
 http://50.7.66.234:8080/movie/AR10465/10465R/1169080.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lo desconocido: La máquina del tiempo cósmica - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRCgIaA4C2c0cd9pffDdjTyiGiO.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Lo desconocido: La máquina del tiempo cósmica - 2023
 http://50.7.66.234:8080/movie/AR10465/10465R/1169250.mkv
-
