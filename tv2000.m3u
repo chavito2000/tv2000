@@ -63,10 +63,60 @@ https://ibanez.servercl.com/hls/live.m3u8
 #EXTINF:-1 group-title="Radios", MC Radio | CL
 https://live.tvcontrolcp.com:1936/manten/manten/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Chile", MEGA
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chile", La Red | CL
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - LA RED HD" tvg-logo="http://descargas.podzone.net/logos/-la-red-chile.png" group-title="CHILE",CHILE - LA RED HD
+http://50.7.66.234:8080/AR10465/10465R/51823
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - LA RED" tvg-logo="http://descargas.podzone.net/logos/-la-red-chile.png" group-title="CHILE",CHILE - LA RED
+http://50.7.66.234:8080/AR10465/10465R/51824
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CHILE - CANAL 13 FHD" tvg-logo="http://descargas.podzone.net/logos/-canal-13.png" group-title="CHILE",CHILE - CANAL 13 FHD
+http://50.7.66.234:8080/AR10465/10465R/1145137
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CHILE - CANAL 13 HD" tvg-logo="http://descargas.podzone.net/logos/-canal-13.png" group-title="CHILE",CHILE - CANAL 13 HD
+http://50.7.66.234:8080/AR10465/10465R/3853
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA FHD" tvg-logo="http://descargas.podzone.net/logos/-mega.png" group-title="CHILE",CHILE - MEGA FHD
+http://50.7.66.234:8080/AR10465/10465R/1155841
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA HD" tvg-logo="http://descargas.podzone.net/logos/-mega.png" group-title="CHILE",CHILE - MEGA HD
+http://50.7.66.234:8080/AR10465/10465R/1155842
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CHILE - TVN FHD" tvg-logo="http://descargas.podzone.net/logos/-TVN.png" group-title="CHILE",CHILE - TVN FHD
+http://50.7.66.234:8080/AR10465/10465R/1155826
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TVN HD" tvg-logo="http://descargas.podzone.net/logos/-TVN.png" group-title="CHILE",CHILE - TVN HD
+http://50.7.66.234:8080/AR10465/10465R/1155817
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CHILEVISION FHD " tvg-logo="http://descargas.podzone.net/logos/-chilevision.png" group-title="CHILE",CHILE - CHILEVISION FHD 
+http://50.7.66.234:8080/AR10465/10465R/1155835
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CHILEVISION HD" tvg-logo="http://descargas.podzone.net/logos/-chilevision.png" group-title="CHILE",CHILE - CHILEVISION HD
+http://50.7.66.234:8080/AR10465/10465R/1155836
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CHILE - 13C FHD" tvg-logo="http://descargas.podzone.net/logos/-13C.png" group-title="CHILE",CHILE - 13C FHD
+http://50.7.66.234:8080/AR10465/10465R/1091369
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CHILE - 13C HD" tvg-logo="http://descargas.podzone.net/logos/-13C.png" group-title="CHILE",CHILE - 13C HD
+http://50.7.66.234:8080/AR10465/10465R/1091370
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="CHILE - 24 HORAS" tvg-logo="http://descargas.podzone.net/logos/-24-horas.png" group-title="CHILE",CHILE - 24 HORAS
+http://50.7.66.234:8080/AR10465/10465R/23237
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - ZONA LATINA" tvg-logo="http://descargas.podzone.net/logos/-zona-latina.png" group-title="CHILE",CHILE - ZONA LATINA
+http://50.7.66.234:8080/AR10465/10465R/1141627
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - VIAX" tvg-logo="http://descargas.podzone.net/logos2/-VIAX-chile.png" group-title="CHILE",CHILE - VIAX
+http://50.7.66.234:8080/AR10465/10465R/1142322
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - REC TV" tvg-logo="http://descargas.podzone.net/logos/-REC-TV.png" group-title="CHILE",CHILE - REC TV
+http://50.7.66.234:8080/AR10465/10465R/1155840
+#EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="CHILE - TELETRAK HD" tvg-logo="http://descargas.podzone.net/logos/-teletrak.png" group-title="CHILE",CHILE - TELETRAK HD
+http://50.7.66.234:8080/AR10465/10465R/3854
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CNN CHILE" tvg-logo="http://descargas.podzone.net/logos/-CNN.png" group-title="CHILE",CHILE - CNN CHILE
+http://50.7.66.234:8080/AR10465/10465R/1155843
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - ESPN CHILE HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="CHILE",CHILE - ESPN CHILE HD
+http://50.7.66.234:8080/AR10465/10465R/1068348
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="CHILE - ESPN CHILE" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="CHILE",CHILE - ESPN CHILE
+http://50.7.66.234:8080/AR10465/10465R/1117657
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="CHILE - ESTADIO TNT" tvg-logo="http://descargas.podzone.net/logos/-estadio-TNT.png" group-title="CHILE",CHILE - ESTADIO TNT
+http://50.7.66.234:8080/AR10465/10465R/6979
+#EXTINF:-1 tvg-id="" tvg-name="CHILE-TNT SPORTS FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE-TNT SPORTS FHD
+http://50.7.66.234:8080/AR10465/10465R/1160041
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TNT SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS HD
+http://50.7.66.234:8080/AR10465/10465R/1156014
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="CHILE - TNT SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS
+http://50.7.66.234:8080/AR10465/10465R/16138
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TNT SPORTS 2 FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS 2 FHD
+http://50.7.66.234:8080/AR10465/10465R/1129864
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TNT SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS 3
+http://50.7.66.234:8080/AR10465/10465R/1068349
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CDO PREMIUM " tvg-logo="http://descargas.podzone.net/logos/-CDO-premium.png" group-title="CHILE",CHILE - CDO PREMIUM 
+http://50.7.66.234:8080/AR10465/10465R/1155837
 #EXTINF:-1 group-title="Chile", CHV | CL
 http://177.93.52.98:45001/play/a05t?fbclid=IwAR1BYyopDM8SijfyCyGqU2UGVQdJoNz3aJKcZz-UnpNhgOt1W3R8RFjfj2I
 #EXTINF:-1 group-title="Chile",CNN Chile HD
@@ -81,12 +131,6 @@ https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8?PlaylistM
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile", 13 Teleseries | CL
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", La Red | CL
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", Mega | CL
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Chile", TVN - 24h | CL
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="CL• GRAN HERMANO (HD) »1«" tvg-logo="" group-title="chile",CL• GRAN HERMANO (HD) »1«
 http://premiumultra.xyz:8080/56966476418face/311222iptv/11528
 #EXTINF:-1 tvg-id="ext" tvg-name="CL• GRAN HERMANO (HD) »2«" tvg-logo="" group-title="chile",CL• GRAN HERMANO (HD) »2«
@@ -173,8 +217,6 @@ https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Atacama Noticias
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 group-title="Chile",Atacama TV
-https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 group-title="Chile",ATV Valdivia
 https://6362ca6f1fc28.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Autonoma TV
@@ -197,14 +239,10 @@ http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Canal ISB
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chile",Canal Latino
-https://live.chileservidores.com:8081/latina/index.m3u8
 #EXTINF:-1 group-title="Chile",Canal Local
 http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8
 #EXTINF:-1 group-title="Chile",Canal SCN
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
-#EXTINF:-1 group-title="Chile",Canal Sur Patagonia
-https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
 #EXTINF:-1 group-title="Chile",Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Cauquenesnet
@@ -311,12 +349,6 @@ https://video.streamingchilenos.cl:1936/8040/8040/playlist.m3u8
 https://vdochile.com:3385/hybrid/play.m3u8
 #EXTINF:-1 group-title="Chile",RDO Televisión
 http://live.mundogo.cl/mundo/RDO/index.m3u8
-#EXTINF:-1 group-title="Chile",Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 group-title="Chile",Retro Plus 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1 group-title="Chile",Retro Plus 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 group-title="Chile",RTV Nuble
 https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Santa María Televisión
@@ -411,8 +443,6 @@ http://tv.ulagos.cl/web/live.m3u8
 https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
 #EXTINF:-1 group-title="Chile", Holvoet televisión | CL
 https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chile", Atacama televisión | CL
-https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 group-title="Chile", Girovisual televisión | CL
 http://unlimited6-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile", VTV | CL
@@ -429,7 +459,6 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 http://v2.tustreaming.cl/restaurandovidastv/index.m3u8
 #EXTINF:-1 group-title="Chile", Teletrak | CL
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-
 
 #EXTINF:-1, + Listas en M3U.CL * | CL
 https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8?PlaylistM3UCL
