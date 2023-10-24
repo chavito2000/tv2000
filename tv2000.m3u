@@ -485,6 +485,498 @@ https://webtvca.autoplayout.com/hls/0/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="Fortaleza Radio | CL" tvg-logo="" group-title="CHILE",Fortaleza Radio | CL
 https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="ext" tvg-name="TNT Sports 2" tvg-logo="" group-title="LATINOS VARIOS",TNT Sports 2
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/1
+#EXTINF:-1 tvg-id="ext" tvg-name="CDF HD" tvg-logo="" group-title="LATINOS VARIOS",CDF HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/2
+#EXTINF:-1 tvg-id="ext" tvg-name="CNN Chile" tvg-logo="" group-title="LATINOS VARIOS",CNN Chile
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3
+#EXTINF:-1 tvg-id="ext" tvg-name="24 horas" tvg-logo="" group-title="LATINOS VARIOS",24 horas
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4
+#EXTINF:-1 tvg-id="ext" tvg-name="La red" tvg-logo="" group-title="LATINOS VARIOS",La red
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/5
+#EXTINF:-1 tvg-id="ext" tvg-name="tvn" tvg-logo="" group-title="LATINOS VARIOS",tvn
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/6
+#EXTINF:-1 tvg-id="ext" tvg-name="Mega" tvg-logo="" group-title="LATINOS VARIOS",Mega
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/7
+#EXTINF:-1 tvg-id="ext" tvg-name="CHV" tvg-logo="" group-title="LATINOS VARIOS",CHV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/8
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal 13" tvg-logo="" group-title="LATINOS VARIOS",Canal 13
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/9
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoonito" tvg-logo="" group-title="LATINOS VARIOS",Cartoonito
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/10
+#EXTINF:-1 tvg-id="ext" tvg-name="NICK JR" tvg-logo="" group-title="LATINOS VARIOS",NICK JR
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/11
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="LATINOS VARIOS",DISCOVERY KIDS
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/12
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="LATINOS VARIOS",DISCOVERY TURBO
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/13
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Channel" tvg-logo="" group-title="LATINOS VARIOS",Disney Channel
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/14
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Jr" tvg-logo="" group-title="LATINOS VARIOS",Disney Jr
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/15
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network" tvg-logo="" group-title="LATINOS VARIOS",Cartoon Network
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/18
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN" tvg-logo="" group-title="LATINOS VARIOS",ESPN
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/19
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 2" tvg-logo="" group-title="LATINOS VARIOS",ESPN 2
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/20
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 2 CO" tvg-logo="" group-title="LATINOS VARIOS",ESPN 2 CO
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/21
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 3" tvg-logo="" group-title="LATINOS VARIOS",ESPN 3
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/22
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Sports 3" tvg-logo="" group-title="LATINOS VARIOS",Fox Sports 3
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/23
+#EXTINF:-1 tvg-id="ext" tvg-name="Win" tvg-logo="" group-title="LATINOS VARIOS",Win
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/24
+#EXTINF:-1 tvg-id="ext" tvg-name="FX" tvg-logo="" group-title="LATINOS VARIOS",FX
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/25
+#EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="" group-title="LATINOS VARIOS",TNT
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/26
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinecanal" tvg-logo="" group-title="LATINOS VARIOS",Cinecanal
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/27
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinemax" tvg-logo="" group-title="LATINOS VARIOS",Cinemax
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/28
+#EXTINF:-1 tvg-id="ext" tvg-name="Star Channel" tvg-logo="" group-title="LATINOS VARIOS",Star Channel
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/31
+#EXTINF:-1 tvg-id="ext" tvg-name="Warner" tvg-logo="" group-title="LATINOS VARIOS",Warner
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/32
+#EXTINF:-1 tvg-id="ext" tvg-name="Universal" tvg-logo="" group-title="LATINOS VARIOS",Universal
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/33
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony" tvg-logo="" group-title="LATINOS VARIOS",Sony
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/34
+#EXTINF:-1 tvg-id="ext" tvg-name="Space" tvg-logo="" group-title="LATINOS VARIOS",Space
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/35
+#EXTINF:-1 tvg-id="ext" tvg-name="TCM" tvg-logo="" group-title="LATINOS VARIOS",TCM
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/36
+#EXTINF:-1 tvg-id="ext" tvg-name="I-sat" tvg-logo="" group-title="LATINOS VARIOS",I-sat
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/37
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="" group-title="LATINOS VARIOS",AXN
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/38
+#EXTINF:-1 tvg-id="ext" tvg-name="Nat Geo" tvg-logo="" group-title="LATINOS VARIOS",Nat Geo
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/39
+#EXTINF:-1 tvg-id="ext" tvg-name="Home and Health" tvg-logo="" group-title="LATINOS VARIOS",Home and Health
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/40
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery ID" tvg-logo="" group-title="LATINOS VARIOS",Discovery ID
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/41
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Channel" tvg-logo="" group-title="LATINOS VARIOS",Discovery Channel
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/42
+#EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet" tvg-logo="" group-title="LATINOS VARIOS",Animal Planet
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/43
+#EXTINF:-1 tvg-id="ext" tvg-name="History Channel" tvg-logo="" group-title="LATINOS VARIOS",History Channel
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/44
+#EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="" group-title="LATINOS VARIOS",TLC
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/45
+#EXTINF:-1 tvg-id="ext" tvg-name="CNN espanol" tvg-logo="" group-title="LATINOS VARIOS",CNN espanol
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/46
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal de Las estrellas" tvg-logo="" group-title="LATINOS VARIOS",Canal de Las estrellas
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/47
+#EXTINF:-1 tvg-id="ext" tvg-name="E Entertainment" tvg-logo="" group-title="LATINOS VARIOS",E Entertainment
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/48
+#EXTINF:-1 tvg-id="ext" tvg-name="TVE" tvg-logo="" group-title="LATINOS VARIOS",TVE
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/49
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV" tvg-logo="" group-title="LATINOS VARIOS",MTV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/50
+#EXTINF:-1 tvg-id="ext" tvg-name="ViaX" tvg-logo="" group-title="LATINOS VARIOS",ViaX
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/51
+#EXTINF:-1 tvg-id="ext" tvg-name="Zona Latina" tvg-logo="" group-title="LATINOS VARIOS",Zona Latina
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/52
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Caracol" tvg-logo="" group-title="LATINOS VARIOS",Canal Caracol
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/53
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal RCN" tvg-logo="" group-title="LATINOS VARIOS",Canal RCN
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/54
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Del Congreso CO" tvg-logo="" group-title="LATINOS VARIOS",Canal Del Congreso CO
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/55
+#EXTINF:-1 tvg-id="ext" tvg-name="City TV" tvg-logo="" group-title="LATINOS VARIOS",City TV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/57
+#EXTINF:-1 tvg-id="ext" tvg-name="Senal Colombiana" tvg-logo="" group-title="LATINOS VARIOS",Senal Colombiana
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/59
+#EXTINF:-1 tvg-id="ext" tvg-name="TBS" tvg-logo="" group-title="LATINOS VARIOS",TBS
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/60
+#EXTINF:-1 tvg-id="ext" tvg-name="Telepacifico" tvg-logo="" group-title="LATINOS VARIOS",Telepacifico
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/61
+#EXTINF:-1 tvg-id="ext" tvg-name="Teleislas" tvg-logo="" group-title="LATINOS VARIOS",Teleislas
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/62
+#EXTINF:-1 tvg-id="ext" tvg-name="Teleantioquia" tvg-logo="" group-title="LATINOS VARIOS",Teleantioquia
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/63
+#EXTINF:-1 tvg-id="ext" tvg-name="Telecafe" tvg-logo="" group-title="LATINOS VARIOS",Telecafe
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/64
+#EXTINF:-1 tvg-id="ext" tvg-name="Golf Channel" tvg-logo="" group-title="LATINOS VARIOS",Golf Channel
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/66
+#EXTINF:-1 tvg-id="ext" tvg-name="teletrak" tvg-logo="" group-title="LATINOS VARIOS",teletrak
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/67
+#EXTINF:-1 tvg-id="ext" tvg-name="13 C" tvg-logo="" group-title="LATINOS VARIOS",13 C
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/148
+#EXTINF:-1 tvg-id="ext" tvg-name="Rec TV" tvg-logo="" group-title="LATINOS VARIOS",Rec TV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/149
+#EXTINF:-1 tvg-id="ext" tvg-name="TV+" tvg-logo="" group-title="LATINOS VARIOS",TV+
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/150
+#EXTINF:-1 tvg-id="ext" tvg-name="TNT Sports 3" tvg-logo="" group-title="LATINOS VARIOS",TNT Sports 3
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/151
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Sports 1" tvg-logo="" group-title="LATINOS VARIOS",Fox Sports 1
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/152
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Sports 2" tvg-logo="" group-title="LATINOS VARIOS",Fox Sports 2
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/153
+#EXTINF:-1 tvg-id="ext" tvg-name="CDO basico" tvg-logo="" group-title="LATINOS VARIOS",CDO basico
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/154
+#EXTINF:-1 tvg-id="ext" tvg-name="CDO premium" tvg-logo="" group-title="LATINOS VARIOS",CDO premium
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/155
+#EXTINF:-1 tvg-id="ext" tvg-name="ANTV" tvg-logo="" group-title="LATINOS VARIOS",ANTV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/156
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal N" tvg-logo="" group-title="LATINOS VARIOS",Canal N
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/160
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Science" tvg-logo="" group-title="LATINOS VARIOS",Discovery Science
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/161
+#EXTINF:-1 tvg-id="ext" tvg-name="Gol Peru" tvg-logo="" group-title="LATINOS VARIOS",Gol Peru
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/170
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="" group-title="LATINOS VARIOS",HBO
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/173
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Signature" tvg-logo="" group-title="LATINOS VARIOS",HBO Signature
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/175
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO 2" tvg-logo="" group-title="LATINOS VARIOS",HBO 2
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/176
+#EXTINF:-1 tvg-id="ext" tvg-name="History 2" tvg-logo="" group-title="LATINOS VARIOS",History 2
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/178
+#EXTINF:-1 tvg-id="ext" tvg-name="HOLA TV" tvg-logo="" group-title="LATINOS VARIOS",HOLA TV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/179
+#EXTINF:-1 tvg-id="ext" tvg-name="Las Estrellas" tvg-logo="" group-title="LATINOS VARIOS",Las Estrellas
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/180
+#EXTINF:-1 tvg-id="ext" tvg-name="Meridiano" tvg-logo="" group-title="LATINOS VARIOS",Meridiano
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/182
+#EXTINF:-1 tvg-id="ext" tvg-name="Panamericana" tvg-logo="" group-title="LATINOS VARIOS",Panamericana
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/184
+#EXTINF:-1 tvg-id="ext" tvg-name="Paramount" tvg-logo="" group-title="LATINOS VARIOS",Paramount
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/185
+#EXTINF:-1 tvg-id="ext" tvg-name="Peru Magico" tvg-logo="" group-title="LATINOS VARIOS",Peru Magico
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/186
+#EXTINF:-1 tvg-id="ext" tvg-name="Studio Universal" tvg-logo="" group-title="LATINOS VARIOS",Studio Universal
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/188
+#EXTINF:-1 tvg-id="ext" tvg-name="Telenovelas" tvg-logo="" group-title="LATINOS VARIOS",Telenovelas
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/194
+#EXTINF:-1 tvg-id="ext" tvg-name="TYC Sports" tvg-logo="" group-title="LATINOS VARIOS",TYC Sports
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/196
+#EXTINF:-1 tvg-id="ext" tvg-name="VenevisionPlus" tvg-logo="" group-title="LATINOS VARIOS",VenevisionPlus
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/198
+#EXTINF:-1 tvg-id="ext" tvg-name="Venezolana de TV" tvg-logo="" group-title="LATINOS VARIOS",Venezolana de TV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/199
+#EXTINF:-1 tvg-id="ext" tvg-name="Vive" tvg-logo="" group-title="LATINOS VARIOS",Vive
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/200
+#EXTINF:-1 tvg-id="ext" tvg-name="WOBI" tvg-logo="" group-title="LATINOS VARIOS",WOBI
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/201
+#EXTINF:-1 tvg-id="ext" tvg-name="ETC TV" tvg-logo="" group-title="LATINOS VARIOS",ETC TV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/202
+#EXTINF:-1 tvg-id="ext" tvg-name="America Television" tvg-logo="" group-title="LATINOS VARIOS",America Television
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/205
+#EXTINF:-1 tvg-id="ext" tvg-name="Latina" tvg-logo="" group-title="LATINOS VARIOS",Latina
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/206
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox sports" tvg-logo="" group-title="LATINOS VARIOS",Fox sports
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/207
+#EXTINF:-1 tvg-id="ext" tvg-name="CHV HD" tvg-logo="" group-title="LATINOS VARIOS",CHV HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/212
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinemax HD" tvg-logo="" group-title="LATINOS VARIOS",Cinemax HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/218
+#EXTINF:-1 tvg-id="ext" tvg-name="Comedy Central HD" tvg-logo="" group-title="LATINOS VARIOS",Comedy Central HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/219
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery H&H HD" tvg-logo="" group-title="LATINOS VARIOS",Discovery H&H HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/221
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery HD" tvg-logo="" group-title="LATINOS VARIOS",Discovery HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/222
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Kids HD" tvg-logo="" group-title="LATINOS VARIOS",Discovery Kids HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/223
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery World HD" tvg-logo="" group-title="LATINOS VARIOS",Discovery World HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/225
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney HD" tvg-logo="" group-title="LATINOS VARIOS",Disney HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/226
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 2 HD" tvg-logo="" group-title="LATINOS VARIOS",ESPN 2 HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/227
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN EXTRA HD" tvg-logo="" group-title="LATINOS VARIOS",ESPN EXTRA HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/229
+#EXTINF:-1 tvg-id="ext" tvg-name="El Gourmet HD" tvg-logo="" group-title="LATINOS VARIOS",El Gourmet HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/231
+#EXTINF:-1 tvg-id="ext" tvg-name="FX HD" tvg-logo="" group-title="LATINOS VARIOS",FX HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/233
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="LATINOS VARIOS",Fox Sports 1 HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/236
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Sports 3 HD" tvg-logo="" group-title="LATINOS VARIOS",Fox Sports 3 HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/237
+#EXTINF:-1 tvg-id="ext" tvg-name="Golden HD" tvg-logo="" group-title="LATINOS VARIOS",Golden HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/238
+#EXTINF:-1 tvg-id="ext" tvg-name="History 2 HD" tvg-logo="" group-title="LATINOS VARIOS",History 2 HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/240
+#EXTINF:-1 tvg-id="ext" tvg-name="History Channel HD" tvg-logo="" group-title="LATINOS VARIOS",History Channel HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/241
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery ID HD" tvg-logo="" group-title="LATINOS VARIOS",Discovery ID HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/242
+#EXTINF:-1 tvg-id="ext" tvg-name="La Red HD" tvg-logo="" group-title="LATINOS VARIOS",La Red HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/243
+#EXTINF:-1 tvg-id="ext" tvg-name="MEGA HD" tvg-logo="" group-title="LATINOS VARIOS",MEGA HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/244
+#EXTINF:-1 tvg-id="ext" tvg-name="Nat Geo HD" tvg-logo="" group-title="LATINOS VARIOS",Nat Geo HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/245
+#EXTINF:-1 tvg-id="ext" tvg-name="Paramount HD" tvg-logo="" group-title="LATINOS VARIOS",Paramount HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/248
+#EXTINF:-1 tvg-id="ext" tvg-name="Pasiones HD" tvg-logo="" group-title="LATINOS VARIOS",Pasiones HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/249
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR CHANNEL HD" tvg-logo="" group-title="LATINOS VARIOS",STAR CHANNEL HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/251
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony HD" tvg-logo="" group-title="LATINOS VARIOS",Sony HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/257
+#EXTINF:-1 tvg-id="ext" tvg-name="Space HD" tvg-logo="" group-title="LATINOS VARIOS",Space HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/258
+#EXTINF:-1 tvg-id="ext" tvg-name="Studio Universal HD" tvg-logo="" group-title="LATINOS VARIOS",Studio Universal HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/259
+#EXTINF:-1 tvg-id="ext" tvg-name="TNT HD" tvg-logo="" group-title="LATINOS VARIOS",TNT HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/261
+#EXTINF:-1 tvg-id="ext" tvg-name="TRUTV HD" tvg-logo="" group-title="LATINOS VARIOS",TRUTV HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/264
+#EXTINF:-1 tvg-id="ext" tvg-name="Warner Channel HD" tvg-logo="" group-title="LATINOS VARIOS",Warner Channel HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/267
+#EXTINF:-1 tvg-id="ext" tvg-name="A&E Mundo" tvg-logo="" group-title="LATINOS VARIOS",A&E Mundo
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/268
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Family" tvg-logo="" group-title="LATINOS VARIOS",HBO Family
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/269
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO plus" tvg-logo="" group-title="LATINOS VARIOS",HBO plus
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/270
+#EXTINF:-1 tvg-id="ext" tvg-name="Nickelodeon" tvg-logo="" group-title="LATINOS VARIOS",Nickelodeon
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/272
+#EXTINF:-1 tvg-id="ext" tvg-name="TV+ HD" tvg-logo="" group-title="LATINOS VARIOS",TV+ HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/273
+#EXTINF:-1 tvg-id="ext" tvg-name="NTV HD" tvg-logo="" group-title="LATINOS VARIOS",NTV HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/274
+#EXTINF:-1 tvg-id="ext" tvg-name="Rocky 1" tvg-logo="" group-title="LATINOS VARIOS",Rocky 1
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/349.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Rocky 2" tvg-logo="" group-title="LATINOS VARIOS",Rocky 2
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/350.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Rocky 3" tvg-logo="" group-title="LATINOS VARIOS",Rocky 3
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/351.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 02" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 02
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/401.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 04" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 04
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/403.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 06" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 06
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/405.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 07" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 07
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/406.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 08" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 08
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/407.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 09" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 09
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/408.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 10 - Tributo a Chile" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 10 - Tributo a Chile
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/409.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 11" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 11
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/410.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 12" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 12
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/411.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 14" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 14
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/413.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 16 - Fiesta Total" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 16 - Fiesta Total
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/415.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 18" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 18
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/417.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="RetroMix Vol. 19" tvg-logo="" group-title="LATINOS VARIOS",RetroMix Vol. 19
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/418.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball El Camino hacia el mas Fuerte" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball El Camino hacia el mas Fuerte
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/473.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball La Bella Durmiente en el Castillo del Mal" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball La Bella Durmiente en el Castillo del Mal
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/475.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball La leyenda de Shen Long" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball La leyenda de Shen Long
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/476.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Super Broly" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Super Broly
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/477.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Una Aventura Mística" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Una Aventura Mística
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/478.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Z El Regreso del Guerrero Legendario" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Z El Regreso del Guerrero Legendario
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/479.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Z El combate definitivo" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Z El combate definitivo
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/481.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Z El más fuerte del mundo" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Z El más fuerte del mundo
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/483.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Z El súper guerrero Son Goku" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Z El súper guerrero Son Goku
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/484.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Z Estalla el duelo" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Z Estalla el duelo
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/485.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Z Garlic Junior inmortal Devuélveme a mi Gohan" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Z Garlic Junior inmortal Devuélveme a mi Gohan
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/486.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Z Guerreros de fuerza ilimitada" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Z Guerreros de fuerza ilimitada
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/487.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Z La batalla de los dioses" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Z La batalla de los dioses
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/488.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Z La resurrección de Freezer" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Z La resurrección de Freezer
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/489.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Z La super batalla" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Z La super batalla
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/490.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Z Los Guerreros de Plata" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Z Los Guerreros de Plata
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/491.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Dragon Ball Z Los mejores rivales" tvg-logo="" group-title="LATINOS VARIOS",Dragon Ball Z Los mejores rivales
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/492.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Spider-Man- Sin camino a casa" tvg-logo="" group-title="LATINOS VARIOS",Spider-Man- Sin camino a casa
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/496.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Transformania" tvg-logo="" group-title="LATINOS VARIOS",Transformania
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/497.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Invicto 2" tvg-logo="" group-title="LATINOS VARIOS",Invicto 2
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/499.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Invicto 3" tvg-logo="" group-title="LATINOS VARIOS",Invicto 3
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/500.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Invicto 4" tvg-logo="" group-title="LATINOS VARIOS",Invicto 4
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/501.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="El justiciero 2" tvg-logo="" group-title="LATINOS VARIOS",El justiciero 2
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/503.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Gigantes De Acero" tvg-logo="" group-title="LATINOS VARIOS",Gigantes De Acero
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/505.avi
+#EXTINF:-1 tvg-id="ext" tvg-name="La era del hielo- las aventuras de buck" tvg-logo="" group-title="LATINOS VARIOS",La era del hielo- las aventuras de buck
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/506.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="ACDC live at River Plate" tvg-logo="" group-title="LATINOS VARIOS",ACDC live at River Plate
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/507.avi
+#EXTINF:-1 tvg-id="ext" tvg-name="Harry Potter- Regreso A Howart" tvg-logo="" group-title="LATINOS VARIOS",Harry Potter- Regreso A Howart
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/508.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Soda Stereo - Unplugged" tvg-logo="" group-title="LATINOS VARIOS",Soda Stereo - Unplugged
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/509.avi
+#EXTINF:-1 tvg-id="ext" tvg-name="The Requiem" tvg-logo="" group-title="LATINOS VARIOS",The Requiem
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/514.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="American Siege" tvg-logo="" group-title="LATINOS VARIOS",American Siege
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/516.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="El violin de mi padre" tvg-logo="" group-title="LATINOS VARIOS",El violin de mi padre
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/517.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Duro De Matar 2" tvg-logo="" group-title="LATINOS VARIOS",Duro De Matar 2
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/573.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Duro De Matar 4" tvg-logo="" group-title="LATINOS VARIOS",Duro De Matar 4
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/575.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Duro De Matar 5" tvg-logo="" group-title="LATINOS VARIOS",Duro De Matar 5
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/576.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Gran Batalla en Europa" tvg-logo="" group-title="LATINOS VARIOS",Gran Batalla en Europa
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/895.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="La Revancha" tvg-logo="" group-title="LATINOS VARIOS",La Revancha
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/896.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Corriendo Hacia El Mañana" tvg-logo="" group-title="LATINOS VARIOS",Corriendo Hacia El Mañana
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/897.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="La Copa Mundial Juvenil." tvg-logo="" group-title="LATINOS VARIOS",La Copa Mundial Juvenil.
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/898.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="la seleccion juvenil Holandesa" tvg-logo="" group-title="LATINOS VARIOS",la seleccion juvenil Holandesa
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/899.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Mi Mejor Amiga Ana Frank" tvg-logo="" group-title="LATINOS VARIOS",Mi Mejor Amiga Ana Frank
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/904.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Eiffel" tvg-logo="" group-title="LATINOS VARIOS",Eiffel
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/905.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Big Bug" tvg-logo="" group-title="LATINOS VARIOS",Big Bug
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/906.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Mision A Marte" tvg-logo="" group-title="LATINOS VARIOS",Mision A Marte
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/908.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="La Masacre En Texas" tvg-logo="" group-title="LATINOS VARIOS",La Masacre En Texas
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/909.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Resident Evil 1" tvg-logo="" group-title="LATINOS VARIOS",Resident Evil 1
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/2797.avi
+#EXTINF:-1 tvg-id="ext" tvg-name="Resident Evil 2" tvg-logo="" group-title="LATINOS VARIOS",Resident Evil 2
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/2798.avi
+#EXTINF:-1 tvg-id="ext" tvg-name="Resident Evil 3" tvg-logo="" group-title="LATINOS VARIOS",Resident Evil 3
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/2799.avi
+#EXTINF:-1 tvg-id="ext" tvg-name="Resident Evil 4" tvg-logo="" group-title="LATINOS VARIOS",Resident Evil 4
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/2800.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Resident Evil 5" tvg-logo="" group-title="LATINOS VARIOS",Resident Evil 5
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/2801.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Snoopy Y Charlie Brown" tvg-logo="" group-title="LATINOS VARIOS",Snoopy Y Charlie Brown
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/2803.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Guns and roses" tvg-logo="" group-title="LATINOS VARIOS",Guns and roses
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/3733.avi
+#EXTINF:-1 tvg-id="ext" tvg-name="Metallica - videos 89-04" tvg-logo="" group-title="LATINOS VARIOS",Metallica - videos 89-04
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/3734.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="Pink Floyd Delicated Sound Of Thunder 1988" tvg-logo="" group-title="LATINOS VARIOS",Pink Floyd Delicated Sound Of Thunder 1988
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/3736.mp4
+#EXTINF:-1 tvg-id="ext" tvg-name="TYC Sports HD" tvg-logo="" group-title="LATINOS VARIOS",TYC Sports HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3925
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR PLUS" tvg-logo="" group-title="LATINOS VARIOS",MOVISTAR PLUS
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3930
+#EXTINF:-1 tvg-id="ext" tvg-name="HGTV" tvg-logo="" group-title="LATINOS VARIOS",HGTV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3935
+#EXTINF:-1 tvg-id="ext" tvg-name="Gol TV" tvg-logo="" group-title="LATINOS VARIOS",Gol TV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3936
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO POP" tvg-logo="" group-title="LATINOS VARIOS",HBO POP
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3937
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV HD" tvg-logo="" group-title="LATINOS VARIOS",MTV HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4184
+#EXTINF:-1 tvg-id="ext" tvg-name="Kanal D Drama HD" tvg-logo="" group-title="LATINOS VARIOS",Kanal D Drama HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4188
+#EXTINF:-1 tvg-id="ext" tvg-name="EnerGeek Wowly" tvg-logo="" group-title="LATINOS VARIOS",EnerGeek Wowly
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4246
+#EXTINF:-1 tvg-id="ext" tvg-name="Universal Comedy SD" tvg-logo="" group-title="LATINOS VARIOS",Universal Comedy SD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4249
+#EXTINF:-1 tvg-id="ext" tvg-name="Via X Esports" tvg-logo="" group-title="LATINOS VARIOS",Via X Esports
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4251
+#EXTINF:-1 tvg-id="ext" tvg-name="ATRES SERIES" tvg-logo="" group-title="LATINOS VARIOS",ATRES SERIES
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4252
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Uno" tvg-logo="" group-title="LATINOS VARIOS",Canal Uno
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4258
+#EXTINF:-1 tvg-id="ext" tvg-name="Ecuador TV" tvg-logo="" group-title="LATINOS VARIOS",Ecuador TV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4267
+#EXTINF:-1 tvg-id="ext" tvg-name="Epoca" tvg-logo="" group-title="LATINOS VARIOS",Epoca
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4271
+#EXTINF:-1 tvg-id="ext" tvg-name="France 24" tvg-logo="" group-title="LATINOS VARIOS",France 24
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4275
+#EXTINF:-1 tvg-id="ext" tvg-name="Lolly Kids" tvg-logo="" group-title="LATINOS VARIOS",Lolly Kids
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4284
+#EXTINF:-1 tvg-id="ext" tvg-name="Love Nature" tvg-logo="" group-title="LATINOS VARIOS",Love Nature
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4285
+#EXTINF:-1 tvg-id="ext" tvg-name="NTN 24 Horas" tvg-logo="" group-title="LATINOS VARIOS",NTN 24 Horas
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4287
+#EXTINF:-1 tvg-id="ext" tvg-name="Nuestra Tele" tvg-logo="" group-title="LATINOS VARIOS",Nuestra Tele
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4288
+#EXTINF:-1 tvg-id="ext" tvg-name="Oromar TV" tvg-logo="" group-title="LATINOS VARIOS",Oromar TV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4289
+#EXTINF:-1 tvg-id="ext" tvg-name="RAI" tvg-logo="" group-title="LATINOS VARIOS",RAI
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4291
+#EXTINF:-1 tvg-id="ext" tvg-name="RTS" tvg-logo="" group-title="LATINOS VARIOS",RTS
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4292
+#EXTINF:-1 tvg-id="ext" tvg-name="RTU" tvg-logo="" group-title="LATINOS VARIOS",RTU
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4293
+#EXTINF:-1 tvg-id="ext" tvg-name="Sun Channel" tvg-logo="" group-title="LATINOS VARIOS",Sun Channel
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4294
+#EXTINF:-1 tvg-id="ext" tvg-name="TLT" tvg-logo="" group-title="LATINOS VARIOS",TLT
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4295
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Senado" tvg-logo="" group-title="LATINOS VARIOS",TV Senado
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4298
+#EXTINF:-1 tvg-id="ext" tvg-name="TVES" tvg-logo="" group-title="LATINOS VARIOS",TVES
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4299
+#EXTINF:-1 tvg-id="ext" tvg-name="UCL" tvg-logo="" group-title="LATINOS VARIOS",UCL
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4307
+#EXTINF:-1 tvg-id="ext" tvg-name="Caracol HD" tvg-logo="" group-title="LATINOS VARIOS",Caracol HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4313
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO POP HD" tvg-logo="" group-title="LATINOS VARIOS",HBO POP HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4317
+#EXTINF:-1 tvg-id="ext" tvg-name="Las Estrellas HD" tvg-logo="" group-title="LATINOS VARIOS",Las Estrellas HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4319
+#EXTINF:-1 tvg-id="ext" tvg-name="Latina HD" tvg-logo="" group-title="LATINOS VARIOS",Latina HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4320
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Deportes HD" tvg-logo="" group-title="LATINOS VARIOS",Movistar Deportes HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4322
+#EXTINF:-1 tvg-id="ext" tvg-name="RCN HD" tvg-logo="" group-title="LATINOS VARIOS",RCN HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4325
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Concerts HD" tvg-logo="" group-title="LATINOS VARIOS",Stingray Concerts HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4327
+#EXTINF:-1 tvg-id="ext" tvg-name="Win Sports+ HD" tvg-logo="" group-title="LATINOS VARIOS",Win Sports+ HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4330
+#EXTINF:-1 tvg-id="ext" tvg-name="Baby First" tvg-logo="" group-title="LATINOS VARIOS",Baby First
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4333
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Claro" tvg-logo="" group-title="LATINOS VARIOS",Canal Claro
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4335
+#EXTINF:-1 tvg-id="ext" tvg-name="Claro Cinema" tvg-logo="" group-title="LATINOS VARIOS",Claro Cinema
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4337
+#EXTINF:-1 tvg-id="ext" tvg-name="Claro Sports" tvg-logo="" group-title="LATINOS VARIOS",Claro Sports
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4338
+#EXTINF:-1 tvg-id="ext" tvg-name="SNT" tvg-logo="" group-title="LATINOS VARIOS",SNT
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4358
+#EXTINF:-1 tvg-id="ext" tvg-name="telecaribe" tvg-logo="" group-title="LATINOS VARIOS",telecaribe
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4364
+#EXTINF:-1 tvg-id="ext" tvg-name="telefuturo" tvg-logo="" group-title="LATINOS VARIOS",telefuturo
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4365
+#EXTINF:-1 tvg-id="ext" tvg-name="NTV" tvg-logo="" group-title="LATINOS VARIOS",NTV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4370
+#EXTINF:-1 tvg-id="ext" tvg-name="AZ Cinema HD" tvg-logo="" group-title="LATINOS VARIOS",AZ Cinema HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4375
+#EXTINF:-1 tvg-id="ext" tvg-name="Bethel TV" tvg-logo="" group-title="LATINOS VARIOS",Bethel TV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4466
+#EXTINF:-1 tvg-id="ext" tvg-name="Libertad" tvg-logo="" group-title="LATINOS VARIOS",Libertad
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4467
+
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Canal De Las Estrella" tvg-logo="" group-title="LATINOS 2023",Canal De Las Estrella
 http://190.92.7.19:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="canal TSI" tvg-logo="" group-title="LATINOS 2023",canal TSI
