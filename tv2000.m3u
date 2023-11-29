@@ -39,7 +39,7 @@ https://inliveserver.com:1936/11012/11012/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="13 HD" tvg-logo="https://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png?1" group-title="Chile", 13 HD | CL
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/129425c5-124f-45ff-a6ab-779777de8983:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="13 HD" tvg-logo="https://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png?1" group-title="Chile", 13 | CL
+#EXTINF:-1 tvg-id="48" tvg-name="13 HD" tvg-logo="https://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png?1" group-title="Chile", 13 | CL
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/129425c5-124f-45ff-a6ab-779777de8983:SCL/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="13 Cultura" tvg-logo="https://i.imgur.com/BvGsAkw.png" group-title="Chile", 13 Cultura | CL
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
