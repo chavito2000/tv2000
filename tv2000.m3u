@@ -131,6 +131,8 @@ https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="Cauquenesnet (720p)" tvg-logo="https://i.imgur.com/wU4VEGU.png" group-title="Chile", Cauquenesnet (720p) | CL
 https://vdo.miserver.pro:3102/stream/play.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="Cauquenesnet (720p)" tvg-logo="https://puranoticia.pnt.cl/cms/imag/v1/logos/logo_main.png" group-title="Chile", Pura Noticias | CL
+https://pnt.janusmedia.tv/hls/pnt.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT Sports 2" tvg-logo="" group-title="LATINOS VARIOS",TNT Sports 2
