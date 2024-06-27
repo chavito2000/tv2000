@@ -7676,12 +7676,11 @@ http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/61895.ts
 #EXTINF:-1 tvg-id="" tvg-name="Infantil: Novasur HD" tvg-logo="" group-title="INFANTIL LATINO",Infantil: Novasur HD
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/61896.ts
 
+
 #EXTINF:-1 tvg-id="" tvg-name="CL: PPV CHILE 1" tvg-logo="" group-title="CRISTIANOS",CL: PPV CHILE 1
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57403.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: PPV CHILE 2" tvg-logo="" group-title="CRISTIANOS",CL: PPV CHILE 2
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57404.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: Canal 13 (MOVIL)" tvg-logo="" group-title="CRISTIANOS",CL: Canal 13 (MOVIL)
-http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57405.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Canal 13 SD" tvg-logo="" group-title="CRISTIANOS",CL: Canal 13 SD
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57406.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Canal 13 HD" tvg-logo="" group-title="CRISTIANOS",CL: Canal 13 HD
@@ -7698,16 +7697,8 @@ http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57411.ts
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57412.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: 13C HD" tvg-logo="" group-title="CRISTIANOS",CL: 13C HD
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57413.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: Chilevision (MOVIL)" tvg-logo="" group-title="CRISTIANOS",CL: Chilevision (MOVIL)
-http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57414.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Chilevision SD" tvg-logo="" group-title="CRISTIANOS",CL: Chilevision SD
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57415.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: Chilevision HD" tvg-logo="" group-title="CRISTIANOS",CL: Chilevision HD
-http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57416.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: Chilevision FHD" tvg-logo="" group-title="CRISTIANOS",CL: Chilevision FHD
-http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57417.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: Mega (MOVIL)" tvg-logo="" group-title="CRISTIANOS",CL: Mega (MOVIL)
-http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57418.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Mega SD" tvg-logo="" group-title="CRISTIANOS",CL: Mega SD
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57419.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Mega HD" tvg-logo="" group-title="CRISTIANOS",CL: Mega HD
@@ -7740,22 +7731,14 @@ http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57432.ts
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57433.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Rec TV HD" tvg-logo="" group-title="CRISTIANOS",CL: Rec TV HD
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57434.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: Rec TV FHD" tvg-logo="" group-title="CRISTIANOS",CL: Rec TV FHD
-http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57435.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: La Red (MOVIL)" tvg-logo="" group-title="CRISTIANOS",CL: La Red (MOVIL)
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57436.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: La Red SD" tvg-logo="" group-title="CRISTIANOS",CL: La Red SD
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57437.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: La Red HD" tvg-logo="" group-title="CRISTIANOS",CL: La Red HD
-http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57438.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: La Red HD (H265)" tvg-logo="" group-title="CRISTIANOS",CL: La Red HD (H265)
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57439.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: La Red FHD" tvg-logo="" group-title="CRISTIANOS",CL: La Red FHD
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57440.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: La Red SD (VIP)" tvg-logo="" group-title="CRISTIANOS",CL: La Red SD (VIP)
-http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57441.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: La Red HD (VIP)" tvg-logo="" group-title="CRISTIANOS",CL: La Red HD (VIP)
-http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57442.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Canal 24 Horas SD" tvg-logo="" group-title="CRISTIANOS",CL: Canal 24 Horas SD
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57443.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Canal 24 Horas HD" tvg-logo="" group-title="CRISTIANOS",CL: Canal 24 Horas HD
@@ -7770,8 +7753,6 @@ http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57447.ts
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57448.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Etc TV (MOVIL)" tvg-logo="" group-title="CRISTIANOS",CL: Etc TV (MOVIL)
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57449.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: Etc TV SD" tvg-logo="" group-title="CRISTIANOS",CL: Etc TV SD
-http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57450.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Zona Latina SD" tvg-logo="" group-title="CRISTIANOS",CL: Zona Latina SD
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57451.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Zona Latina HD" tvg-logo="" group-title="CRISTIANOS",CL: Zona Latina HD
@@ -7784,8 +7765,6 @@ http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57454.ts
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57455.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: TV 8 Concepcion" tvg-logo="" group-title="CRISTIANOS",CL: TV 8 Concepcion
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57456.ts
-#EXTINF:-1 tvg-id="" tvg-name="CL: Cine Chile 1 HD" tvg-logo="" group-title="CRISTIANOS",CL: Cine Chile 1 HD
-http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57457.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Cine Chile 2 HD" tvg-logo="" group-title="CRISTIANOS",CL: Cine Chile 2 HD
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57458.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Cine Chile 3 HD" tvg-logo="" group-title="CRISTIANOS",CL: Cine Chile 3 HD
@@ -7808,8 +7787,5 @@ http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57466.ts
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57467.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: Mamá a los 15 HD 24H" tvg-logo="" group-title="CRISTIANOS",CL: Mamá a los 15 HD 24H
 http://103.161.34.54:80/AdrianMartinVisitacion/KIXsn0sOaw/57468.ts
-
-
-
 
 
