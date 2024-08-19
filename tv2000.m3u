@@ -4155,7 +4155,6 @@ http://premierchile.shop:8080/933530120tv/ndz152/81
 http://premierchile.shop:8080/933530120tv/ndz152/83
 #EXTINF:-1 tvg-id="" tvg-name="CL• T13 RADIO (HD)" tvg-logo="https://i.postimg.cc/7LJ8cFGZ/t13-radio.png" group-title="→ CHILE ←",CL• T13 RADIO (HD)
 http://premierchile.shop:8080/933530120tv/ndz152/85
-
 #EXTINF:-1 tvg-id="" tvg-name="CUL• LOVE NATURE (HD)" tvg-logo="https://i.postimg.cc/66LSskTW/Love-Nature-TV.png" group-title="→ CULTURA ←",CUL• LOVE NATURE (HD)
 http://premierchile.shop:8080/933530120tv/ndz152/451
 #EXTINF:-1 tvg-id="" tvg-name="CUL• TRU TV (HD)" tvg-logo="https://i.postimg.cc/7LFcDDg6/358bb76c4f07e3b71dcd83b200a56377.png" group-title="→ CULTURA ←",CUL• TRU TV (HD)
@@ -4234,8 +4233,7 @@ http://premierchile.shop:8080/933530120tv/ndz152/437
 http://premierchile.shop:8080/933530120tv/ndz152/438
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »3«" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png" group-title="→ CULTURA ←",CUL• DISCOVERY INVESTIGATION (HD) »3«
 http://premierchile.shop:8080/933530120tv/ndz152/439
-#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »1«" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CINE GOLDEN ←",CUL• DISCOVERY H&H (HD) »1«
-http://premierchile.shop:8080/933530120tv/ndz152/410
+
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »2«" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←",CUL• DISCOVERY H&H (HD) »2«
 http://premierchile.shop:8080/933530120tv/ndz152/411
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »3«" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←",CUL• DISCOVERY H&H (HD) »3«
@@ -4351,3 +4349,32 @@ http://premierchile.shop:8080/933530120tv/ndz152/810
 http://premierchile.shop:8080/933530120tv/ndz152/811
 #EXTINF:-1 tvg-id="" tvg-name="24/7: COMEDIA" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: COMEDIA
 http://premierchile.shop:8080/933530120tv/ndz152/812
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden (lat)" tvg-logo="http://209.126.82.213/logos/pe_golden_l.png" group-title="→ CINE GOLDEN ←",Golden (lat)
+http://premierchile.shop:8080/933530120tv/ndz152/65215
+#EXTINF:-1 tvg-id="" tvg-name="Golden FHD (lat)®" tvg-logo="http://209.126.82.213/logos/pe_golden_l.png" group-title="→ CINE GOLDEN ←",Golden FHD (lat)®
+http://premierchile.shop:8080/933530120tv/ndz152/65216
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge (lat)" tvg-logo="http://209.126.82.213/logos/pe_golden-edge_l.png" group-title="→ CINE GOLDEN ←",Golden Edge (lat)
+http://premierchile.shop:8080/933530120tv/ndz152/65217
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge HD (lat)" tvg-logo="http://209.126.82.213/logos/pe_golden-edge_l.png" group-title="→ CINE GOLDEN ←",Golden Edge HD (lat)
+http://premierchile.shop:8080/933530120tv/ndz152/65218
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="Golden Plus (lat)" tvg-logo="http://209.126.82.213/logos/golden_plus.png" group-title="→ CINE GOLDEN ←",Golden Plus (lat)
+http://premierchile.shop:8080/933530120tv/ndz152/65219
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus FHD (cl)" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_golden_plus.png" group-title="→ CINE GOLDEN ←",Golden Plus FHD (cl)
+http://premierchile.shop:8080/933530120tv/ndz152/65221
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier HD (lat)" tvg-logo="http://209.126.82.213/logos/co_golden-premier-hd_l.png" group-title="→ CINE GOLDEN ←",Golden Premier HD (lat)
+http://premierchile.shop:8080/933530120tv/ndz152/65223
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier FHD (lat)" tvg-logo="http://209.126.82.213/logos/co_golden-premier-hd_l.png" group-title="→ CINE GOLDEN ←",Golden Premier FHD (lat)
+http://premierchile.shop:8080/933530120tv/ndz152/65224
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge FHD (tp)®" tvg-logo="" group-title="→ CINE GOLDEN ←",Golden Edge FHD (tp)®
+http://premierchile.shop:8080/933530120tv/ndz152/65225
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier 2 HD (tp)" tvg-logo="" group-title="→ CINE GOLDEN ←",Golden Premier 2 HD (tp)
+http://premierchile.shop:8080/933530120tv/ndz152/65226
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premium HD (lat) ᶜˡᵃᵉˢᵛ" tvg-logo="" group-title="→ CINE GOLDEN ←",Golden Premium HD (lat) ᶜˡᵃᵉˢᵛ
+http://premierchile.shop:8080/933530120tv/ndz152/65227
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge (pe) ᶜᵍᵒ" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDRf/mx_golden_edge.png" group-title="→ CINE GOLDEN ←",Golden Edge (pe) ᶜᵍᵒ
+http://premierchile.shop:8080/933530120tv/ndz152/65228
+#EXTINF:-1 tvg-id="" tvg-name="Golden Latino (pe) ᶜᵍᵒ" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDNf/mx_golden.png" group-title="→ CINE GOLDEN ←",Golden Latino (pe) ᶜᵍᵒ
+http://premierchile.shop:8080/933530120tv/ndz152/65229
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »1«" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CINE GOLDEN ←",CUL• DISCOVERY H&H (HD) »1«
+http://premierchile.shop:8080/933530120tv/ndz152/410
