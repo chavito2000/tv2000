@@ -189,10 +189,6 @@ https://is.gd/c9KmRc
 https://is.gd/ddMdH9
 #EXTINF:-1 tvg-id="ext" tvg-name="100uto Moto (Bulgaria) (????)" tvg-logo="" group-title="PAISES",100uto Moto (Bulgaria) (????)
 https://is.gd/cNMvAz
-#EXTINF:-1 tvg-id="ext" tvg-name="101 Malaga (España) (????)" tvg-logo="" group-title="PAISES",101 Malaga (España) (????)
-https://is.gd/kQUJou
-#EXTINF:-1 tvg-id="ext" tvg-name="11 Curico (Chile) (????)" tvg-logo="" group-title="PAISES",11 Curico (Chile) (????)
-https://is.gd/DRoUSs
 #EXTINF:-1 tvg-id="ext" tvg-name="11 Mar De Ajo (Argentina) (????)" tvg-logo="" group-title="PAISES",11 Mar De Ajo (Argentina) (????)
 https://is.gd/y5dqS8
 #EXTINF:-1 tvg-id="ext" tvg-name="13 Cultura (Chile) (????)" tvg-logo="" group-title="PAISES",13 Cultura (Chile) (????)
@@ -217,34 +213,20 @@ https://is.gd/EweqY5
 https://is.gd/oCBJi0
 #EXTINF:-1 tvg-id="ext" tvg-name="14 TVN (Costa Rica) (????)" tvg-logo="" group-title="PAISES",14 TVN (Costa Rica) (????)
 https://is.gd/CyI8jP
-#EXTINF:-1 tvg-id="ext" tvg-name="15 Primavera (Peru) (????)" tvg-logo="" group-title="PAISES",15 Primavera (Peru) (????)
-https://is.gd/Hyk2eJ
-#EXTINF:-1 tvg-id="ext" tvg-name="15 Sabinas (Mexico) (????)" tvg-logo="" group-title="PAISES",15 Sabinas (Mexico) (????)
-https://is.gd/9vdhxf
 #EXTINF:-1 tvg-id="ext" tvg-name="19 (El Salvador) (????)" tvg-logo="" group-title="PAISES",19 (El Salvador) (????)
 https://is.gd/gYp711
-#EXTINF:-1 tvg-id="ext" tvg-name="2 Canal 2 (Colombia) (????)" tvg-logo="" group-title="PAISES",2 Canal 2 (Colombia) (????)
-https://is.gd/cVqynT
 #EXTINF:-1 tvg-id="ext" tvg-name="2 Canal San Antonio (Chile) (????)" tvg-logo="" group-title="PAISES",2 Canal San Antonio (Chile) (????)
 https://is.gd/1qA8TL
 #EXTINF:-1 tvg-id="ext" tvg-name="2 Quellon (Chile) (????)" tvg-logo="" group-title="PAISES",2 Quellon (Chile) (????)
 https://is.gd/4xqEiD
 #EXTINF:-1 tvg-id="ext" tvg-name="21 (El Salvador) (????)" tvg-logo="" group-title="PAISES",21 (El Salvador) (????)
 https://is.gd/tmV7bx
-#EXTINF:-1 tvg-id="ext" tvg-name="21 Posadas (Argentina) (????)" tvg-logo="" group-title="PAISES",21 Posadas (Argentina) (????)
-https://is.gd/JwqVNZ
 #EXTINF:-1 tvg-id="ext" tvg-name="25 (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",25 (Rep. Dominicana) (????)
 https://is.gd/2t2oB8
 #EXTINF:-1 tvg-id="ext" tvg-name="3 La Pampa (Argentina) (????)" tvg-logo="" group-title="PAISES",3 La Pampa (Argentina) (????)
 https://is.gd/7E7wBK
-#EXTINF:-1 tvg-id="ext" tvg-name="3 Tamil (India) (????)" tvg-logo="" group-title="PAISES",3 Tamil (India) (????)
-https://is.gd/citiNa
 #EXTINF:-1 tvg-id="ext" tvg-name="30A Music (USA) (????)" tvg-logo="" group-title="PAISES",30A Music (USA) (????)
 https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="4 Fun Dance (Polonia) (????)" tvg-logo="" group-title="PAISES",4 Fun Dance (Polonia) (????)
-http://46.10.218.219:8000/play/a07j
-#EXTINF:-1 tvg-id="ext" tvg-name="4 Saltillo (Mexico) (????)" tvg-logo="" group-title="PAISES",4 Saltillo (Mexico) (????)
-https://is.gd/k35Rgu
 #EXTINF:-1 tvg-id="ext" tvg-name="4.1 (Mexico) (????)" tvg-logo="" group-title="PAISES",4.1 (Mexico) (????)
 https://is.gd/YS3thv
 #EXTINF:-1 tvg-id="ext" tvg-name="44 Chihuahua (Mexico) (????)" tvg-logo="" group-title="PAISES",44 Chihuahua (Mexico) (????)
@@ -259,120 +241,48 @@ https://is.gd/vIgcQl
 https://is.gd/pvdaJW
 #EXTINF:-1 tvg-id="ext" tvg-name="57 (USA) (????)" tvg-logo="" group-title="PAISES",57 (USA) (????)
 https://is.gd/ebUSV7
-#EXTINF:-1 tvg-id="ext" tvg-name="57 RTV (El Salvador) (????)" tvg-logo="" group-title="PAISES",57 RTV (El Salvador) (????)
-https://is.gd/2qKzyn
-#EXTINF:-1 tvg-id="ext" tvg-name="6 Digital (Argentina) (????)" tvg-logo="" group-title="PAISES",6 Digital (Argentina) (????)
-https://is.gd/FXYz4z
-#EXTINF:-1 tvg-id="ext" tvg-name="6 El Seis (Argentina) (????)" tvg-logo="" group-title="PAISES",6 El Seis (Argentina) (????)
-https://is.gd/16dSxd
-#EXTINF:-1 tvg-id="ext" tvg-name="7 Azteca (Mexico) (????)" tvg-logo="" group-title="PAISES",7 Azteca (Mexico) (????)
-https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="7 Jujuy (Argentina) (????)" tvg-logo="" group-title="PAISES",7 Jujuy (Argentina) (????)
 https://is.gd/mx7LLq
 #EXTINF:-1 tvg-id="ext" tvg-name="7 Neuquen (Argentina) (????)" tvg-logo="" group-title="PAISES",7 Neuquen (Argentina) (????)
 https://is.gd/lVsNcR
 #EXTINF:-1 tvg-id="ext" tvg-name="7 Tele Valencia (España) (????)" tvg-logo="" group-title="PAISES",7 Tele Valencia (España) (????)
 https://is.gd/NPZWPp
-#EXTINF:-1 tvg-id="ext" tvg-name="70-80 (Italia) (????)" tvg-logo="" group-title="PAISES",70-80 (Italia) (????)
-https://is.gd/j5hnae
 #EXTINF:-1 tvg-id="ext" tvg-name="8 La Marina (España) (????)" tvg-logo="" group-title="PAISES",8 La Marina (España) (????)
 https://is.gd/NNoJsq
-#EXTINF:-1 tvg-id="ext" tvg-name="8 Los Sauces (Chile) (????)" tvg-logo="" group-title="PAISES",8 Los Sauces (Chile) (????)
-https://is.gd/PzvM2T
 #EXTINF:-1 tvg-id="ext" tvg-name="8 Mediterraneo (España) (????)" tvg-logo="" group-title="PAISES",8 Mediterraneo (España) (????)
 https://is.gd/9aayOo
 #EXTINF:-1 tvg-id="ext" tvg-name="8 NTV (Mexico) (????)" tvg-logo="" group-title="PAISES",8 NTV (Mexico) (????)
 https://is.gd/YhtvzS
 #EXTINF:-1 tvg-id="ext" tvg-name="88 Stereo (Costa Rica) (????)" tvg-logo="" group-title="PAISES",88 Stereo (Costa Rica) (????)
 https://is.gd/wgsZIt
-#EXTINF:-1 tvg-id="ext" tvg-name="9 Anove (España) (????)" tvg-logo="" group-title="PAISES",9 Anove (España) (????)
-https://is.gd/TW7IgH
-#EXTINF:-1 tvg-id="ext" tvg-name="9 Barbe (Guatemala) (????)" tvg-logo="" group-title="PAISES",9 Barbe (Guatemala) (????)
-https://is.gd/gRBVrN
 #EXTINF:-1 tvg-id="ext" tvg-name="9 Bio Bio (Chile) (????)" tvg-logo="" group-title="PAISES",9 Bio Bio (Chile) (????)
 https://is.gd/L4iEr0
-#EXTINF:-1 tvg-id="ext" tvg-name="9 Volna (Rusia) (????)" tvg-logo="" group-title="PAISES",9 Volna (Rusia) (????)
-https://is.gd/5BwPEH
 #EXTINF:-1 tvg-id="ext" tvg-name="91 NRG (Grecia) (????)" tvg-logo="" group-title="PAISES",91 NRG (Grecia) (????)
 http://tv.nrg91.gr:1935/onweb/live/.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="9x M (India) (????)" tvg-logo="" group-title="PAISES",9x M (India) (????)
-https://is.gd/MAN2ej
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC (Paraguay) (????)" tvg-logo="" group-title="PAISES",ABC (Paraguay) (????)
-https://tinyurl.com/2qnzpx5l
-#EXTINF:-1 tvg-id="ext" tvg-name="Abya Yala (Bolivia) (????)" tvg-logo="" group-title="PAISES",Abya Yala (Bolivia) (????)
-https://is.gd/6OoX73
-#EXTINF:-1 tvg-id="ext" tvg-name="Acapulco Shore (Mexico) (????)" tvg-logo="" group-title="PAISES",Acapulco Shore (Mexico) (????)
-https://is.gd/6dL7Jn
 #EXTINF:-1 tvg-id="ext" tvg-name="Accion Mexicana (Mexico) (????)" tvg-logo="" group-title="PAISES",Accion Mexicana (Mexico) (????)
 https://is.gd/xcAFeR
-#EXTINF:-1 tvg-id="ext" tvg-name="Action Sports (Alemania) (????)" tvg-logo="" group-title="PAISES",Action Sports (Alemania) (????)
-https://is.gd/tiLqNs
-#EXTINF:-1 tvg-id="ext" tvg-name="Action Sports (España) (????)" tvg-logo="" group-title="PAISES",Action Sports (España) (????)
-https://is.gd/MBV10T
-#EXTINF:-1 tvg-id="ext" tvg-name="Adrenalina Freezone (Argentina) (????)" tvg-logo="" group-title="PAISES",Adrenalina Freezone (Argentina) (????)
-https://is.gd/eoGfa3
-#EXTINF:-1 tvg-id="ext" tvg-name="Adventure Sports Network (Canada) (????)" tvg-logo="" group-title="PAISES",Adventure Sports Network (Canada) (????)
-https://is.gd/wFV663
 #EXTINF:-1 tvg-id="ext" tvg-name="Afrobeats (Nigeria) (????)" tvg-logo="" group-title="PAISES",Afrobeats (Nigeria) (????)
 https://is.gd/41RxG6
 #EXTINF:-1 tvg-id="ext" tvg-name="AFV (España) (????)" tvg-logo="" group-title="PAISES",AFV (España) (????)
 https://is.gd/CtlqKK
 #EXTINF:-1 tvg-id="ext" tvg-name="Agenda 56 (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Agenda 56 (Rep. Dominicana) (????)
 https://is.gd/10mvsi
-#EXTINF:-1 tvg-id="ext" tvg-name="Agro (Peru) (????)" tvg-logo="" group-title="PAISES",Agro (Peru) (????)
-https://is.gd/NUXzgV
-#EXTINF:-1 tvg-id="ext" tvg-name="Aguacate (Venezuela) (????)" tvg-logo="" group-title="PAISES",Aguacate (Venezuela) (????)
-https://is.gd/hd3jhr
-#EXTINF:-1 tvg-id="ext" tvg-name="Alacanti (España) (????)" tvg-logo="" group-title="PAISES",Alacanti (España) (????)
-https://is.gd/F8HcBW
 #EXTINF:-1 tvg-id="ext" tvg-name="Alcarria (España) (????)" tvg-logo="" group-title="PAISES",Alcarria (España) (????)
 https://is.gd/vwtdVc
-#EXTINF:-1 tvg-id="ext" tvg-name="Alegre (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Alegre (Rep. Dominicana) (????)
-https://is.gd/SuRLhi
 #EXTINF:-1 tvg-id="ext" tvg-name="Alerce (Chile) (????)" tvg-logo="" group-title="PAISES",Alerce (Chile) (????)
 https://is.gd/feWlIl
-#EXTINF:-1 tvg-id="ext" tvg-name="Alpe d’Huez (Francia) (????)" tvg-logo="" group-title="PAISES",Alpe d’Huez (Francia) (????)
-https://is.gd/MP3xHi
-#EXTINF:-1 tvg-id="ext" tvg-name="Alpen Welle (Suiza) (????)" tvg-logo="" group-title="PAISES",Alpen Welle (Suiza) (????)
-https://is.gd/DowuQw
 #EXTINF:-1 tvg-id="ext" tvg-name="Always Funny (USA) (????)" tvg-logo="" group-title="PAISES",Always Funny (USA) (????)
 https://is.gd/FNv6f0
-#EXTINF:-1 tvg-id="ext" tvg-name="Amantes Del Romance (España) (????)" tvg-logo="" group-title="PAISES",Amantes Del Romance (España) (????)
-https://is.gd/fc79Z6
-#EXTINF:-1 tvg-id="ext" tvg-name="Amigos (Guatemala) (????)" tvg-logo="" group-title="PAISES",Amigos (Guatemala) (????)
-https://is.gd/0U9KBY
 #EXTINF:-1 tvg-id="ext" tvg-name="Amor Para Todos (USA) (????)" tvg-logo="" group-title="PAISES",Amor Para Todos (USA) (????)
 https://is.gd/yEAePl
-#EXTINF:-1 tvg-id="ext" tvg-name="AMX Noticias (Mexico) (????)" tvg-logo="" group-title="PAISES",AMX Noticias (Mexico) (????)
-https://is.gd/Y944HZ
-#EXTINF:-1 tvg-id="ext" tvg-name="Ana Y Los 7 (España) (????)" tvg-logo="" group-title="PAISES",Ana Y Los 7 (España) (????)
-https://is.gd/AL5Qtq
-#EXTINF:-1 tvg-id="ext" tvg-name="Andromeda (España) (????)" tvg-logo="" group-title="PAISES",Andromeda (España) (????)
-https://is.gd/pXwTac
-#EXTINF:-1 tvg-id="ext" tvg-name="Animales (España) (????)" tvg-logo="" group-title="PAISES",Animales (España) (????)
-https://is.gd/2mJ9ft
-#EXTINF:-1 tvg-id="ext" tvg-name="Animales (Venezuela) (????)" tvg-logo="" group-title="PAISES",Animales (Venezuela) (????)
-https://is.gd/N8YVSb
-#EXTINF:-1 tvg-id="ext" tvg-name="Anime (España) (????)" tvg-logo="" group-title="PAISES",Anime (España) (????)
-https://is.gd/RtJk2v
-#EXTINF:-1 tvg-id="ext" tvg-name="Anime (Venezuela) (????)" tvg-logo="" group-title="PAISES",Anime (Venezuela) (????)
-https://is.gd/3DnWNL
 #EXTINF:-1 tvg-id="ext" tvg-name="Anime Accion (España) (????)" tvg-logo="" group-title="PAISES",Anime Accion (España) (????)
 https://is.gd/LvmUPV
-#EXTINF:-1 tvg-id="ext" tvg-name="Anjan (India) (????)" tvg-logo="" group-title="PAISES",Anjan (India) (????)
-https://is.gd/SL4GnZ
-#EXTINF:-1 tvg-id="ext" tvg-name="ANT Antares (Peru) (????)" tvg-logo="" group-title="PAISES",ANT Antares (Peru) (????)
-https://is.gd/yhtmSU
 #EXTINF:-1 tvg-id="ext" tvg-name="Antofagasta (Chile) (????)" tvg-logo="" group-title="PAISES",Antofagasta (Chile) (????)
 https://is.gd/5Ab2cO
 #EXTINF:-1 tvg-id="ext" tvg-name="Aqua Stream (Ucrania) (????)" tvg-logo="" group-title="PAISES",Aqua Stream (Ucrania) (????)
 http://iptv.prosto.tv:7000/ch310/video.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Arabi (España) (????)" tvg-logo="" group-title="PAISES",Arabi (España) (????)
-https://is.gd/KhDtMN
 #EXTINF:-1 tvg-id="ext" tvg-name="Arabica (Libano) (????)" tvg-logo="" group-title="PAISES",Arabica (Libano) (????)
 https://is.gd/fBB7dp
-#EXTINF:-1 tvg-id="ext" tvg-name="Archivos Forenses (España) (????)" tvg-logo="" group-title="PAISES",Archivos Forenses (España) (????)
-https://is.gd/oCy3Pq
 #EXTINF:-1 tvg-id="ext" tvg-name="Arena Sport 1 (Serbia) (????)" tvg-logo="" group-title="PAISES",Arena Sport 1 (Serbia) (????)
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1 tvg-id="ext" tvg-name="Arena Sport 2 (Serbia) (????)" tvg-logo="" group-title="PAISES",Arena Sport 2 (Serbia) (????)
@@ -393,74 +303,38 @@ https://is.gd/ShGdCR
 https://is.gd/IdiJWj
 #EXTINF:-1 tvg-id="ext" tvg-name="AS Az Star (Azerbaiyan) (????)" tvg-logo="" group-title="PAISES",AS Az Star (Azerbaiyan) (????)
 https://is.gd/IimZhJ
-#EXTINF:-1 tvg-id="ext" tvg-name="Asesinatos De Midsomer (España) (????)" tvg-logo="" group-title="PAISES",Asesinatos De Midsomer (España) (????)
-https://is.gd/UK6GRf
 #EXTINF:-1 tvg-id="ext" tvg-name="Asi Es Mi Gente (USA) (????)" tvg-logo="" group-title="PAISES",Asi Es Mi Gente (USA) (????)
 https://is.gd/lTl5J4
 #EXTINF:-1 tvg-id="ext" tvg-name="Astrakhan Live (Rusia) (????)" tvg-logo="" group-title="PAISES",Astrakhan Live (Rusia) (????)
 https://is.gd/z8uwUR
 #EXTINF:-1 tvg-id="ext" tvg-name="Astrakhan Sport (Rusia) (????)" tvg-logo="" group-title="PAISES",Astrakhan Sport (Rusia) (????)
 https://is.gd/ibW13X
-#EXTINF:-1 tvg-id="ext" tvg-name="ATN (Colombia) (????)" tvg-logo="" group-title="PAISES",ATN (Colombia) (????)
-https://is.gd/mXH7so
 #EXTINF:-1 tvg-id="ext" tvg-name="Austral (Ecuador) (????)" tvg-logo="" group-title="PAISES",Austral (Ecuador) (????)
 https://is.gd/cGGUt3
 #EXTINF:-1 tvg-id="ext" tvg-name="Autentica (Peru) (????)" tvg-logo="" group-title="PAISES",Autentica (Peru) (????)
 https://is.gd/mrGnIl
-#EXTINF:-1 tvg-id="ext" tvg-name="Auto Motor Sport (Alemania) (????)" tvg-logo="" group-title="PAISES",Auto Motor Sport (Alemania) (????)
-https://is.gd/5k0zwz
 #EXTINF:-1 tvg-id="ext" tvg-name="Auto Motor Sport (Suiza) (????)" tvg-logo="" group-title="PAISES",Auto Motor Sport (Suiza) (????)
 https://is.gd/jJkXaV
-#EXTINF:-1 tvg-id="ext" tvg-name="Aventura (Venezuela) (????)" tvg-logo="" group-title="PAISES",Aventura (Venezuela) (????)
-https://is.gd/J6fGVJ
 #EXTINF:-1 tvg-id="ext" tvg-name="Awapa Sports (El Salvador) (????)" tvg-logo="" group-title="PAISES",Awapa Sports (El Salvador) (????)
 https://is.gd/TzXuyU
-#EXTINF:-1 tvg-id="ext" tvg-name="AXS Now (USA) (????)" tvg-logo="" group-title="PAISES",AXS Now (USA) (????)
-https://is.gd/hhxcbL
 #EXTINF:-1 tvg-id="ext" tvg-name="Aysen (Chile) (????)" tvg-logo="" group-title="PAISES",Aysen (Chile) (????)
 http://v1.tustreaming.cl/aysentv/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Azteca Int (Mexico) (????)" tvg-logo="" group-title="PAISES",Azteca Int (Mexico) (????)
 https://is.gd/3SQOF9
 #EXTINF:-1 tvg-id="ext" tvg-name="Babestation (Alemania) (+18) (????)" tvg-logo="" group-title="PAISES",Babestation (Alemania) (+18) (????)
 https://is.gd/foUzH1
-#EXTINF:-1 tvg-id="ext" tvg-name="Bailen (España) (????)" tvg-logo="" group-title="PAISES",Bailen (España) (????)
-https://is.gd/AdmuQe
 #EXTINF:-1 tvg-id="ext" tvg-name="Balkan Radio (Austria) (????)" tvg-logo="" group-title="PAISES",Balkan Radio (Austria) (????)
 https://is.gd/MVcD41
-#EXTINF:-1 tvg-id="ext" tvg-name="Balkanika (Bulgaria) (????)" tvg-logo="" group-title="PAISES",Balkanika (Bulgaria) (????)
-http://46.10.218.219:8000/play/a05h
 #EXTINF:-1 tvg-id="ext" tvg-name="Balle Balle (India) (????)" tvg-logo="" group-title="PAISES",Balle Balle (India) (????)
 https://is.gd/89wohX
 #EXTINF:-1 tvg-id="ext" tvg-name="Baraza Deep House (Grecia) (????)" tvg-logo="" group-title="PAISES",Baraza Deep House (Grecia) (????)
 https://is.gd/EpZr1z
 #EXTINF:-1 tvg-id="ext" tvg-name="Baraza Relaxing (Grecia) (????)" tvg-logo="" group-title="PAISES",Baraza Relaxing (Grecia) (????)
 https://is.gd/NM3N7O
-#EXTINF:-1 tvg-id="ext" tvg-name="BBC Drama (España) (????)" tvg-logo="" group-title="PAISES",BBC Drama (España) (????)
-https://is.gd/jbBK7p
-#EXTINF:-1 tvg-id="ext" tvg-name="BBC Drama (España) (????)" tvg-logo="" group-title="PAISES",BBC Drama (España) (????)
-https://is.gd/yAwwm3
-#EXTINF:-1 tvg-id="ext" tvg-name="BBlack! Africa (Francia) (????)" tvg-logo="" group-title="PAISES",BBlack! Africa (Francia) (????)
-https://is.gd/feh3aB
-#EXTINF:-1 tvg-id="ext" tvg-name="BBlack! Caribbean (Francia) (????)" tvg-logo="" group-title="PAISES",BBlack! Caribbean (Francia) (????)
-https://is.gd/YfULvq
-#EXTINF:-1 tvg-id="ext" tvg-name="BBlack! Classik (Francia) (????)" tvg-logo="" group-title="PAISES",BBlack! Classik (Francia) (????)
-https://is.gd/ClOMyB
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Xtra (USA) (????)" tvg-logo="" group-title="PAISES",Bein Sports Xtra (USA) (????)
-https://is.gd/znQ5Rk
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Xtra Ñ (España) (????)" tvg-logo="" group-title="PAISES",Bein Sports Xtra Ñ (España) (????)
-https://is.gd/P6ZVHA
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Xtra Ñ (Mexico) (????)" tvg-logo="" group-title="PAISES",Bein Sports Xtra Ñ (Mexico) (????)
-https://is.gd/7zZdaH
-#EXTINF:-1 tvg-id="ext" tvg-name="Bellator MMA (USA) (????)" tvg-logo="" group-title="PAISES",Bellator MMA (USA) (????)
-https://is.gd/FF2xrV
 #EXTINF:-1 tvg-id="ext" tvg-name="Bellla & Monella (Italia) (????)" tvg-logo="" group-title="PAISES",Bellla & Monella (Italia) (????)
 https://is.gd/nCARxV
-#EXTINF:-1 tvg-id="ext" tvg-name="Ben 10 (España) (????)" tvg-logo="" group-title="PAISES",Ben 10 (España) (????)
-http://51.159.104.29:8080/ben10/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Bergblick Free (Suiza) (????)" tvg-logo="" group-title="PAISES",Bergblick Free (Suiza) (????)
 https://is.gd/fqHNHf
-#EXTINF:-1 tvg-id="ext" tvg-name="Beteve (España) (????)" tvg-logo="" group-title="PAISES",Beteve (España) (????)
-https://tinyurl.com/2goc75wm
 #EXTINF:-1 tvg-id="ext" tvg-name="Bio Bio (Chile) (????)" tvg-logo="" group-title="PAISES",Bio Bio (Chile) (????)
 https://is.gd/JGPeeY
 #EXTINF:-1 tvg-id="ext" tvg-name="Birikina (Italia) (????)" tvg-logo="" group-title="PAISES",Birikina (Italia) (????)
@@ -475,72 +349,36 @@ https://is.gd/FlFh3A
 https://is.gd/pemmxg
 #EXTINF:-1 tvg-id="ext" tvg-name="Bonce (Curazao) (????)" tvg-logo="" group-title="PAISES",Bonce (Curazao) (????)
 https://is.gd/YqG5pA
-#EXTINF:-1 tvg-id="ext" tvg-name="Boom (Mexico) (????)" tvg-logo="" group-title="PAISES",Boom (Mexico) (????)
-https://is.gd/Vy9YN2
 #EXTINF:-1 tvg-id="ext" tvg-name="Boreal (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Boreal (Rep. Dominicana) (????)
 https://is.gd/U7Ef5T
 #EXTINF:-1 tvg-id="ext" tvg-name="Brasa Music (Paises Bajos) (????)" tvg-logo="" group-title="PAISES",Brasa Music (Paises Bajos) (????)
 https://is.gd/q9UTcq
-#EXTINF:-1 tvg-id="ext" tvg-name="Bridge Rock (Rusia) (????)" tvg-logo="" group-title="PAISES",Bridge Rock (Rusia) (????)
-http://46.10.218.219:8000/play/a09e
-#EXTINF:-1 tvg-id="ext" tvg-name="Brindiamo! (Italia) (????)" tvg-logo="" group-title="PAISES",Brindiamo! (Italia) (????)
-https://is.gd/EdeUpK
-#EXTINF:-1 tvg-id="ext" tvg-name="BTV Panama (Panama) (????)" tvg-logo="" group-title="PAISES",BTV Panama (Panama) (????)
-https://is.gd/8JwhG7
-#EXTINF:-1 tvg-id="ext" tvg-name="Buap (Mexico) (????)" tvg-logo="" group-title="PAISES",Buap (Mexico) (????)
-https://is.gd/JKcmVz
 #EXTINF:-1 tvg-id="ext" tvg-name="Buena (Puerto Rico) (????)" tvg-logo="" group-title="PAISES",Buena (Puerto Rico) (????)
 https://is.gd/ffM4mv
 #EXTINF:-1 tvg-id="ext" tvg-name="Buin Somos Todos (Chile) (????)" tvg-logo="" group-title="PAISES",Buin Somos Todos (Chile) (????)
 https://bst.buin.cl/0.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BYU (USA) (????)" tvg-logo="" group-title="PAISES",BYU (USA) (????)
-https://is.gd/CwO6Xd
-#EXTINF:-1 tvg-id="ext" tvg-name="C20 Villa Maria (Argentina) (????)" tvg-logo="" group-title="PAISES",C20 Villa Maria (Argentina) (????)
-https://is.gd/xS00Vb
 #EXTINF:-1 tvg-id="ext" tvg-name="C21 Chillan (Chile) (????)" tvg-logo="" group-title="PAISES",C21 Chillan (Chile) (????)
 https://is.gd/lnkhfT
-#EXTINF:-1 tvg-id="ext" tvg-name="C25 Barbastro (España) (????)" tvg-logo="" group-title="PAISES",C25 Barbastro (España) (????)
-https://is.gd/AxzPxZ
-#EXTINF:-1 tvg-id="ext" tvg-name="C30 Loncomilla (Chile) (????)" tvg-logo="" group-title="PAISES",C30 Loncomilla (Chile) (????)
-https://is.gd/Ad95FE
 #EXTINF:-1 tvg-id="ext" tvg-name="C56 Castellon (España) (????)" tvg-logo="" group-title="PAISES",C56 Castellon (España) (????)
 https://is.gd/lFQvbv
-#EXTINF:-1 tvg-id="ext" tvg-name="C5N (Argentina) (????)" tvg-logo="" group-title="PAISES",C5N (Argentina) (????)
-https://is.gd/jAj8hz
 #EXTINF:-1 tvg-id="ext" tvg-name="C5SF Santa Fe (Argentina) (????)" tvg-logo="" group-title="PAISES",C5SF Santa Fe (Argentina) (????)
 https://is.gd/RWzfC0
-#EXTINF:-1 tvg-id="ext" tvg-name="C6 Viento Recio (Argentina) (????)" tvg-logo="" group-title="PAISES",C6 Viento Recio (Argentina) (????)
-https://is.gd/ft0A9e
 #EXTINF:-1 tvg-id="ext" tvg-name="Cadena Joven Digital (España) (????)" tvg-logo="" group-title="PAISES",Cadena Joven Digital (España) (????)
 https://is.gd/3auxOJ
 #EXTINF:-1 tvg-id="ext" tvg-name="Cadena Sur (Peru) (????)" tvg-logo="" group-title="PAISES",Cadena Sur (Peru) (????)
 https://is.gd/LeNWyN
-#EXTINF:-1 tvg-id="ext" tvg-name="Cafe 24 (Italia) (????)" tvg-logo="" group-title="PAISES",Cafe 24 (Italia) (????)
-https://is.gd/8HWA9Z
 #EXTINF:-1 tvg-id="ext" tvg-name="Cali (Colombia) (????)" tvg-logo="" group-title="PAISES",Cali (Colombia) (????)
 https://is.gd/OauKXF
-#EXTINF:-1 tvg-id="ext" tvg-name="Campo Abierto (Chile) (????)" tvg-logo="" group-title="PAISES",Campo Abierto (Chile) (????)
-https://is.gd/i1tdag
 #EXTINF:-1 tvg-id="ext" tvg-name="Canal 2000 La Solana (España) (????)" tvg-logo="" group-title="PAISES",Canal 2000 La Solana (España) (????)
 https://is.gd/bsFYB9
 #EXTINF:-1 tvg-id="ext" tvg-name="Canal 3 Las Heras (Argentina) (????)" tvg-logo="" group-title="PAISES",Canal 3 Las Heras (Argentina) (????)
 https://is.gd/bpxmHe
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal 4 Mallorca (España) (????)" tvg-logo="" group-title="PAISES",Canal 4 Mallorca (España) (????)
-https://is.gd/9PNUvm
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal 4 Tenerife (España) (????)" tvg-logo="" group-title="PAISES",Canal 4 Tenerife (España) (????)
-https://is.gd/sLSVX8
 #EXTINF:-1 tvg-id="ext" tvg-name="Canal 5 Tandil (Argentina) (????)" tvg-logo="" group-title="PAISES",Canal 5 Tandil (Argentina) (????)
 https://is.gd/4Un8Do
 #EXTINF:-1 tvg-id="ext" tvg-name="Canal 57 (Chile) (????)" tvg-logo="" group-title="PAISES",Canal 57 (Chile) (????)
 https://is.gd/rIuAhl
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal Costa (España) (????)" tvg-logo="" group-title="PAISES",Canal Costa (España) (????)
-https://is.gd/TKJgCG
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal Local (Chile) (????)" tvg-logo="" group-title="PAISES",Canal Local (Chile) (????)
-https://is.gd/BvIEQf
 #EXTINF:-1 tvg-id="ext" tvg-name="Canal Motor (Noruega) (????)" tvg-logo="" group-title="PAISES",Canal Motor (Noruega) (????)
 https://is.gd/uRRzer
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal VIP (Colombia) (????)" tvg-logo="" group-title="PAISES",Canal VIP (Colombia) (????)
-https://is.gd/jPqf0W
 #EXTINF:-1 tvg-id="ext" tvg-name="Canale 88 MadeInBO (Italia) (????)" tvg-logo="" group-title="PAISES",Canale 88 MadeInBO (Italia) (????)
 https://is.gd/AqWEnq
 #EXTINF:-1 tvg-id="ext" tvg-name="Canela (Mexico) (????)" tvg-logo="" group-title="PAISES",Canela (Mexico) (????)
@@ -561,200 +399,64 @@ https://is.gd/i7tG7U
 https://is.gd/gHWuzy
 #EXTINF:-1 tvg-id="ext" tvg-name="Caracola (Chile) (????)" tvg-logo="" group-title="PAISES",Caracola (Chile) (????)
 https://is.gd/d3szGH
-#EXTINF:-1 tvg-id="ext" tvg-name="Carivision (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Carivision (Rep. Dominicana) (????)
-https://is.gd/OGBoYP
-#EXTINF:-1 tvg-id="ext" tvg-name="Cars (USA) (????)" tvg-logo="" group-title="PAISES",Cars (USA) (????)
-https://is.gd/evAPCK
-#EXTINF:-1 tvg-id="ext" tvg-name="Caso Cerrado (USA) (????)" tvg-logo="" group-title="PAISES",Caso Cerrado (USA) (????)
-https://is.gd/dBploA
-#EXTINF:-1 tvg-id="ext" tvg-name="Catve FM (Brasil) (????)" tvg-logo="" group-title="PAISES",Catve FM (Brasil) (????)
-https://is.gd/xeigeD
 #EXTINF:-1 tvg-id="ext" tvg-name="CB Coto Brus (Costa Rica) (????)" tvg-logo="" group-title="PAISES",CB Coto Brus (Costa Rica) (????)
 https://is.gd/7JIdXT
-#EXTINF:-1 tvg-id="ext" tvg-name="CBS Reality (España) (????)" tvg-logo="" group-title="PAISES",CBS Reality (España) (????)
-https://is.gd/O51olL
-#EXTINF:-1 tvg-id="ext" tvg-name="CDN (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",CDN (Rep. Dominicana) (????)
-https://is.gd/02Eicx
 #EXTINF:-1 tvg-id="ext" tvg-name="CE Cadena Elite (España) (????)" tvg-logo="" group-title="PAISES",CE Cadena Elite (España) (????)
 https://is.gd/owUD8s
-#EXTINF:-1 tvg-id="ext" tvg-name="CELT (Argentina) (????)" tvg-logo="" group-title="PAISES",CELT (Argentina) (????)
-https://tinyurl.com/245n56bk
 #EXTINF:-1 tvg-id="ext" tvg-name="Centro 27.2 (Honduras) (????)" tvg-logo="" group-title="PAISES",Centro 27.2 (Honduras) (????)
 https://is.gd/d0wf3p
-#EXTINF:-1 tvg-id="ext" tvg-name="CGTN Español (China) (????)" tvg-logo="" group-title="PAISES",CGTN Español (China) (????)
-https://is.gd/80fJl2
-#EXTINF:-1 tvg-id="ext" tvg-name="Chacra (Argentina) (????)" tvg-logo="" group-title="PAISES",Chacra (Argentina) (????)
-https://is.gd/ujbu78
 #EXTINF:-1 tvg-id="ext" tvg-name="Chefclub (Francia) (????)" tvg-logo="" group-title="PAISES",Chefclub (Francia) (????)
 https://is.gd/p1U2aV
-#EXTINF:-1 tvg-id="ext" tvg-name="Chive (USA) (????)" tvg-logo="" group-title="PAISES",Chive (USA) (????)
-https://is.gd/0M5UQH
-#EXTINF:-1 tvg-id="ext" tvg-name="Choppertown (UK) (????)" tvg-logo="" group-title="PAISES",Choppertown (UK) (????)
-https://is.gd/XdaT2k
-#EXTINF:-1 tvg-id="ext" tvg-name="Choppertown (USA) (????)" tvg-logo="" group-title="PAISES",Choppertown (USA) (????)
-https://tinyurl.com/2pda72dc
 #EXTINF:-1 tvg-id="ext" tvg-name="Choppertown (USA) (????)" tvg-logo="" group-title="PAISES",Choppertown (USA) (????)
 https://is.gd/3Ypvd4
 #EXTINF:-1 tvg-id="ext" tvg-name="CHTV Chaco (Argentina) (????)" tvg-logo="" group-title="PAISES",CHTV Chaco (Argentina) (????)
 https://is.gd/e3S483
-#EXTINF:-1 tvg-id="ext" tvg-name="Ciencia (Venezuela) (????)" tvg-logo="" group-title="PAISES",Ciencia (Venezuela) (????)
-https://is.gd/Umdtpg
-#EXTINF:-1 tvg-id="ext" tvg-name="Cilentano (Italia) (????)" tvg-logo="" group-title="PAISES",Cilentano (Italia) (????)
-https://is.gd/WJ1UYZ
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine (España) (????)" tvg-logo="" group-title="PAISES",Cine (España) (????)
-https://is.gd/e6iAmH
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine (Venezuela) (????)" tvg-logo="" group-title="PAISES",Cine (Venezuela) (????)
-https://is.gd/eVNQXl
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Accion (España) (????)" tvg-logo="" group-title="PAISES",Cine Accion (España) (????)
-https://is.gd/vD79wA
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Accion (España) (????)" tvg-logo="" group-title="PAISES",Cine Accion (España) (????)
-https://is.gd/wNvFEc
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Accion (Venezuela) (????)" tvg-logo="" group-title="PAISES",Cine Accion (Venezuela) (????)
-https://is.gd/PkRJPw
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Clasico (España) (????)" tvg-logo="" group-title="PAISES",Cine Clasico (España) (????)
-https://is.gd/Wq2nRn
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Comedia (España) (????)" tvg-logo="" group-title="PAISES",Cine Comedia (España) (????)
-https://is.gd/IGwZQ7
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Comedia (Venezuela) (????)" tvg-logo="" group-title="PAISES",Cine Comedia (Venezuela) (????)
-https://is.gd/pnOqOu
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Drama (España) (????)" tvg-logo="" group-title="PAISES",Cine Drama (España) (????)
-https://is.gd/DTmdAs
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Drama (Venezuela) (????)" tvg-logo="" group-title="PAISES",Cine Drama (Venezuela) (????)
-https://is.gd/DGiegG
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Español Rakuten (España) (????)" tvg-logo="" group-title="PAISES",Cine Español Rakuten (España) (????)
-https://is.gd/6dKbLq
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Estelar (España) (????)" tvg-logo="" group-title="PAISES",Cine Estelar (España) (????)
-https://is.gd/PeazFh
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Estelar (España) (????)" tvg-logo="" group-title="PAISES",Cine Estelar (España) (????)
-https://is.gd/HK5HeB
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Estelar (Venezuela) (????)" tvg-logo="" group-title="PAISES",Cine Estelar (Venezuela) (????)
-https://is.gd/L6Rda3
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Familia? (Venezuela) (????)" tvg-logo="" group-title="PAISES",Cine Familia? (Venezuela) (????)
-https://is.gd/XqnhSe
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine JaJa (Mexico) (????)" tvg-logo="" group-title="PAISES",Cine JaJa (Mexico) (????)
-https://is.gd/3Le1wq
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Romance? (Venezuela) (????)" tvg-logo="" group-title="PAISES",Cine Romance? (Venezuela) (????)
-https://is.gd/RJBOPR
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Romantico (España) (????)" tvg-logo="" group-title="PAISES",Cine Romantico (España) (????)
-https://is.gd/mAYMKK
 #EXTINF:-1 tvg-id="ext" tvg-name="Cine Romantico (Mexico) (????)" tvg-logo="" group-title="PAISES",Cine Romantico (Mexico) (????)
 https://is.gd/BSAj8P
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Sci-Fi (Francia) (????)" tvg-logo="" group-title="PAISES",Cine Sci-Fi (Francia) (????)
-https://is.gd/YYA920
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Suspense (Venezuela) (????)" tvg-logo="" group-title="PAISES",Cine Suspense (Venezuela) (????)
-https://is.gd/2nC2Ib
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Terror (España) (????)" tvg-logo="" group-title="PAISES",Cine Terror (España) (????)
-https://is.gd/ObqtMl
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine Terror (Venezuela) (????)" tvg-logo="" group-title="PAISES",Cine Terror (Venezuela) (????)
-https://is.gd/QeSOQf
-#EXTINF:-1 tvg-id="ext" tvg-name="Cine XOXO (Mexico) (????)" tvg-logo="" group-title="PAISES",Cine XOXO (Mexico) (????)
-https://is.gd/HJ56UV
 #EXTINF:-1 tvg-id="ext" tvg-name="City Stream (Ucrania) (????)" tvg-logo="" group-title="PAISES",City Stream (Ucrania) (????)
 http://iptv.prosto.tv:7000/ch321/video.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Ciudades Del Ocio (España) (????)" tvg-logo="" group-title="PAISES",Ciudades Del Ocio (España) (????)
 https://is.gd/AgLkvH
-#EXTINF:-1 tvg-id="ext" tvg-name="Clubbing (Alemania) (????)" tvg-logo="" group-title="PAISES",Clubbing (Alemania) (????)
-https://is.gd/bWpvez
-#EXTINF:-1 tvg-id="ext" tvg-name="Clubbing (UK) (????)" tvg-logo="" group-title="PAISES",Clubbing (UK) (????)
-https://is.gd/6IZNxk
 #EXTINF:-1 tvg-id="ext" tvg-name="CMC California Music Channel (USA) (????)" tvg-logo="" group-title="PAISES",CMC California Music Channel (USA) (????)
 https://cmc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CMM Castilla Mancha (España) (????)" tvg-logo="" group-title="PAISES",CMM Castilla Mancha (España) (????)
-https://is.gd/YCwJ3D
-#EXTINF:-1 tvg-id="ext" tvg-name="CMT Music (USA) (????)" tvg-logo="" group-title="PAISES",CMT Music (USA) (????)
-https://is.gd/9PkwlL
-#EXTINF:-1 tvg-id="ext" tvg-name="Cocina (España) (????)" tvg-logo="" group-title="PAISES",Cocina (España) (????)
-https://is.gd/butkg9
-#EXTINF:-1 tvg-id="ext" tvg-name="Cocina (Mexico) (????)" tvg-logo="" group-title="PAISES",Cocina (Mexico) (????)
-https://is.gd/QQEKMn
-#EXTINF:-1 tvg-id="ext" tvg-name="Cocina (Venezuela) (????)" tvg-logo="" group-title="PAISES",Cocina (Venezuela) (????)
-https://is.gd/IAExLJ
 #EXTINF:-1 tvg-id="ext" tvg-name="Coco (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Coco (Rep. Dominicana) (????)
 https://is.gd/lbzTWe
 #EXTINF:-1 tvg-id="ext" tvg-name="Colosal (Costa Rica) (????)" tvg-logo="" group-title="PAISES",Colosal (Costa Rica) (????)
 https://is.gd/V68BMX
 #EXTINF:-1 tvg-id="ext" tvg-name="Combate Global (España) (????)" tvg-logo="" group-title="PAISES",Combate Global (España) (????)
 https://is.gd/hkBn47
-#EXTINF:-1 tvg-id="ext" tvg-name="Comedia (España) (????)" tvg-logo="" group-title="PAISES",Comedia (España) (????)
-https://is.gd/DRoYBl
-#EXTINF:-1 tvg-id="ext" tvg-name="Comedia (España) (????)" tvg-logo="" group-title="PAISES",Comedia (España) (????)
-https://is.gd/5MxMUz
-#EXTINF:-1 tvg-id="ext" tvg-name="Comedie (Francia) (????)" tvg-logo="" group-title="PAISES",Comedie (Francia) (????)
-https://is.gd/hJqYLO
-#EXTINF:-1 tvg-id="ext" tvg-name="Comedy Central (Venezuela) (????)" tvg-logo="" group-title="PAISES",Comedy Central (Venezuela) (????)
-https://is.gd/Qa1dt6
 #EXTINF:-1 tvg-id="ext" tvg-name="Company (Italia) (????)" tvg-logo="" group-title="PAISES",Company (Italia) (????)
 https://is.gd/fZiIaS
-#EXTINF:-1 tvg-id="ext" tvg-name="Competencias (Venezuela) (????)" tvg-logo="" group-title="PAISES",Competencias (Venezuela) (????)
-https://is.gd/cJgi6V
-#EXTINF:-1 tvg-id="ext" tvg-name="Condavision (España) (????)" tvg-logo="" group-title="PAISES",Condavision (España) (????)
-https://is.gd/ysNwWh
 #EXTINF:-1 tvg-id="ext" tvg-name="Conecta2 (Peru) (????)" tvg-logo="" group-title="PAISES",Conecta2 (Peru) (????)
 https://is.gd/XHBkEM
 #EXTINF:-1 tvg-id="ext" tvg-name="Contact Feel Good (Belgica) (????)" tvg-logo="" group-title="PAISES",Contact Feel Good (Belgica) (????)
 https://is.gd/wL4m1k
-#EXTINF:-1 tvg-id="ext" tvg-name="Contivision (Chile) (????)" tvg-logo="" group-title="PAISES",Contivision (Chile) (????)
-https://is.gd/WRaJcb
 #EXTINF:-1 tvg-id="ext" tvg-name="Controversia (Peru) (????)" tvg-logo="" group-title="PAISES",Controversia (Peru) (????)
 https://is.gd/BNG5i3
 #EXTINF:-1 tvg-id="ext" tvg-name="Cosmos (Argentina) (????)" tvg-logo="" group-title="PAISES",Cosmos (Argentina) (????)
 https://is.gd/2laKyF
-#EXTINF:-1 tvg-id="ext" tvg-name="Costa Del Sol (España) (????)" tvg-logo="" group-title="PAISES",Costa Del Sol (España) (????)
-https://is.gd/1easbP
-#EXTINF:-1 tvg-id="ext" tvg-name="Costa Noroeste (España) (????)" tvg-logo="" group-title="PAISES",Costa Noroeste (España) (????)
-https://is.gd/tgGbPS
 #EXTINF:-1 tvg-id="ext" tvg-name="CR (Peru) (????)" tvg-logo="" group-title="PAISES",CR (Peru) (????)
 https://is.gd/ZfF6DY
 #EXTINF:-1 tvg-id="ext" tvg-name="CTV Barranquilla (Colombia) (????)" tvg-logo="" group-title="PAISES",CTV Barranquilla (Colombia) (????)
 https://is.gd/AhWLj9
 #EXTINF:-1 tvg-id="ext" tvg-name="CTV Internacional (Honduras) (????)" tvg-logo="" group-title="PAISES",CTV Internacional (Honduras) (????)
 https://mediacp.us:8081/ctvhn/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Cucina (Italia) (????)" tvg-logo="" group-title="PAISES",Cucina (Italia) (????)
-https://is.gd/cGWGLo
-#EXTINF:-1 tvg-id="ext" tvg-name="Curro Jimenez (España) (????)" tvg-logo="" group-title="PAISES",Curro Jimenez (España) (????)
-https://is.gd/TrEXLW
 #EXTINF:-1 tvg-id="ext" tvg-name="Dance FM (Chile) (????)" tvg-logo="" group-title="PAISES",Dance FM (Chile) (????)
 https://is.gd/OvDyXa
 #EXTINF:-1 tvg-id="ext" tvg-name="Darcizzle Offshore (USA) (????)" tvg-logo="" group-title="PAISES",Darcizzle Offshore (USA) (????)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Dark Flix (Brasil) (????)" tvg-logo="" group-title="PAISES",Dark Flix (Brasil) (????)
 https://is.gd/7SctXG
-#EXTINF:-1 tvg-id="ext" tvg-name="Dark Matter (España) (????)" tvg-logo="" group-title="PAISES",Dark Matter (España) (????)
-https://is.gd/KvClgk
-#EXTINF:-1 tvg-id="ext" tvg-name="Dark Matter (Italia) (????)" tvg-logo="" group-title="PAISES",Dark Matter (Italia) (????)
-https://is.gd/GWFA9Z
 #EXTINF:-1 tvg-id="ext" tvg-name="Dasding (Alemania) (????)" tvg-logo="" group-title="PAISES",Dasding (Alemania) (????)
 https://is.gd/zD4mIY
 #EXTINF:-1 tvg-id="ext" tvg-name="DBM Digital Black Music (Francia) (????)" tvg-logo="" group-title="PAISES",DBM Digital Black Music (Francia) (????)
 https://is.gd/t8qjKG
 #EXTINF:-1 tvg-id="ext" tvg-name="Decima (Chile) (????)" tvg-logo="" group-title="PAISES",Decima (Chile) (????)
 https://is.gd/4F8wMH
-#EXTINF:-1 tvg-id="ext" tvg-name="Deluxe Deutschpop (Alemania) (????)" tvg-logo="" group-title="PAISES",Deluxe Deutschpop (Alemania) (????)
-https://tinyurl.com/y2235yst
-#EXTINF:-1 tvg-id="ext" tvg-name="Deluxe Lounge (España) (????)" tvg-logo="" group-title="PAISES",Deluxe Lounge (España) (????)
-https://tinyurl.com/2ol89ccx
-#EXTINF:-1 tvg-id="ext" tvg-name="Deluxe Lounge (USA) (????)" tvg-logo="" group-title="PAISES",Deluxe Lounge (USA) (????)
-https://is.gd/SkjeNP
-#EXTINF:-1 tvg-id="ext" tvg-name="Deportes (Venezuela) (????)" tvg-logo="" group-title="PAISES",Deportes (Venezuela) (????)
-https://is.gd/prnpLi
-#EXTINF:-1 tvg-id="ext" tvg-name="Desi Channel (India) (????)" tvg-logo="" group-title="PAISES",Desi Channel (India) (????)
-https://is.gd/G385cl
 #EXTINF:-1 tvg-id="ext" tvg-name="Diez Ubeda (España) (????)" tvg-logo="" group-title="PAISES",Diez Ubeda (España) (????)
 https://is.gd/Rlohnz
-#EXTINF:-1 tvg-id="ext" tvg-name="Digital 809 (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Digital 809 (Rep. Dominicana) (????)
-https://tinyurl.com/2zhnntlf
 #EXTINF:-1 tvg-id="ext" tvg-name="Ditty (USA) (????)" tvg-logo="" group-title="PAISES",Ditty (USA) (????)
 https://is.gd/AcV2Hj
-#EXTINF:-1 tvg-id="ext" tvg-name="Djazz Stingray (USA) (????)" tvg-logo="" group-title="PAISES",Djazz Stingray (USA) (????)
-https://is.gd/PPbZkD
-#EXTINF:-1 tvg-id="ext" tvg-name="Doble C (Peru) (????)" tvg-logo="" group-title="PAISES",Doble C (Peru) (????)
-https://is.gd/RFSPYn
-#EXTINF:-1 tvg-id="ext" tvg-name="Doctor Who (España) (????)" tvg-logo="" group-title="PAISES",Doctor Who (España) (????)
-https://is.gd/P6uKNN
-#EXTINF:-1 tvg-id="ext" tvg-name="Documentales (España) (????)" tvg-logo="" group-title="PAISES",Documentales (España) (????)
-https://is.gd/4gmdNf
-#EXTINF:-1 tvg-id="ext" tvg-name="Documentari (Italia) (????)" tvg-logo="" group-title="PAISES",Documentari (Italia) (????)
-https://is.gd/29ncdk
 #EXTINF:-1 tvg-id="ext" tvg-name="Drone (USA) (????)" tvg-logo="" group-title="PAISES",Drone (USA) (????)
 https://is.gd/Yfq7xg
 #EXTINF:-1 tvg-id="ext" tvg-name="DSTV (Bulgaria) (????)" tvg-logo="" group-title="PAISES",DSTV (Bulgaria) (????)
@@ -765,158 +467,66 @@ https://is.gd/kONAEp
 https://is.gd/atAovM
 #EXTINF:-1 tvg-id="ext" tvg-name="Eco Sistema (Ucrania) (????)" tvg-logo="" group-title="PAISES",Eco Sistema (Ucrania) (????)
 http://iptv.prosto.tv:7000/ch316/video.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EDN (Honduras) (????)" tvg-logo="" group-title="PAISES",EDN (Honduras) (????)
-https://is.gd/BcxiYK
-#EXTINF:-1 tvg-id="ext" tvg-name="EIMC Euro Indie Music Chart (UK) (????)" tvg-logo="" group-title="PAISES",EIMC Euro Indie Music Chart (UK) (????)
-https://tinyurl.com/2zo3pnot
-#EXTINF:-1 tvg-id="ext" tvg-name="Ekiz (Chile) (????)" tvg-logo="" group-title="PAISES",Ekiz (Chile) (????)
-https://is.gd/OiGF9c
 #EXTINF:-1 tvg-id="ext" tvg-name="El Confidencial (España) (????)" tvg-logo="" group-title="PAISES",El Confidencial (España) (????)
 https://is.gd/YIlWsG
-#EXTINF:-1 tvg-id="ext" tvg-name="El Encantador De Perros (España) (????)" tvg-logo="" group-title="PAISES",El Encantador De Perros (España) (????)
-https://is.gd/kNy8mU
-#EXTINF:-1 tvg-id="ext" tvg-name="El Pais (España) (????)" tvg-logo="" group-title="PAISES",El Pais (España) (????)
-https://tinyurl.com/2e2wvuqb
 #EXTINF:-1 tvg-id="ext" tvg-name="El Puerto (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",El Puerto (Rep. Dominicana) (????)
 https://is.gd/Mx7kn4
 #EXTINF:-1 tvg-id="ext" tvg-name="El Sol (Ecuador) (????)" tvg-logo="" group-title="PAISES",El Sol (Ecuador) (????)
 https://is.gd/tubLGJ
-#EXTINF:-1 tvg-id="ext" tvg-name="El Tipografo (Chile) (????)" tvg-logo="" group-title="PAISES",El Tipografo (Chile) (????)
-https://is.gd/KPYsED
 #EXTINF:-1 tvg-id="ext" tvg-name="Elche (España) (????)" tvg-logo="" group-title="PAISES",Elche (España) (????)
 https://is.gd/LcWZ8o
-#EXTINF:-1 tvg-id="ext" tvg-name="En Directo En Vivo (España) (????)" tvg-logo="" group-title="PAISES",En Directo En Vivo (España) (????)
-https://is.gd/DGiegG
-#EXTINF:-1 tvg-id="ext" tvg-name="En El Punto De Mira (España) (????)" tvg-logo="" group-title="PAISES",En El Punto De Mira (España) (????)
-https://is.gd/yNedqn
-#EXTINF:-1 tvg-id="ext" tvg-name="En Vivo (España) (????)" tvg-logo="" group-title="PAISES",En Vivo (España) (????)
-https://is.gd/ObqtMl
-#EXTINF:-1 tvg-id="ext" tvg-name="Energeek Radio (Chile) (????)" tvg-logo="" group-title="PAISES",Energeek Radio (Chile) (????)
-https://is.gd/8rnImB
-#EXTINF:-1 tvg-id="ext" tvg-name="Entre Nosotras (Venezuela) (????)" tvg-logo="" group-title="PAISES",Entre Nosotras (Venezuela) (????)
-https://is.gd/9qsy9Y
-#EXTINF:-1 tvg-id="ext" tvg-name="EP El Pinguino (Chile) (????)" tvg-logo="" group-title="PAISES",EP El Pinguino (Chile) (????)
-https://tinyurl.com/2ghekl42
-#EXTINF:-1 tvg-id="ext" tvg-name="Escapes (Canada) (????)" tvg-logo="" group-title="PAISES",Escapes (Canada) (????)
-https://is.gd/BsfhMO
-#EXTINF:-1 tvg-id="ext" tvg-name="Esquipulas (Guatemala) (????)" tvg-logo="" group-title="PAISES",Esquipulas (Guatemala) (????)
-https://is.gd/O5aWi7
-#EXTINF:-1 tvg-id="ext" tvg-name="Estepona (España) (????)" tvg-logo="" group-title="PAISES",Estepona (España) (????)
-https://tinyurl.com/2gdx8355
 #EXTINF:-1 tvg-id="ext" tvg-name="Estrella (Mexico) (????)" tvg-logo="" group-title="PAISES",Estrella (Mexico) (????)
 https://is.gd/QyPteB
 #EXTINF:-1 tvg-id="ext" tvg-name="Estrella Games (Mexico) (????)" tvg-logo="" group-title="PAISES",Estrella Games (Mexico) (????)
 https://is.gd/kPd8KK
 #EXTINF:-1 tvg-id="ext" tvg-name="Estrella News (Mexico) (????)" tvg-logo="" group-title="PAISES",Estrella News (Mexico) (????)
 https://is.gd/U3kI9W
-#EXTINF:-1 tvg-id="ext" tvg-name="Estrellas De Accion (Venezuela) (????)" tvg-logo="" group-title="PAISES",Estrellas De Accion (Venezuela) (????)
-https://is.gd/hMzMHo
-#EXTINF:-1 tvg-id="ext" tvg-name="Eureka (Colombia) (????)" tvg-logo="" group-title="PAISES",Eureka (Colombia) (????)
-https://is.gd/eizZhs
 #EXTINF:-1 tvg-id="ext" tvg-name="Euro (Italia) (????)" tvg-logo="" group-title="PAISES",Euro (Italia) (????)
 https://is.gd/FzyDes
 #EXTINF:-1 tvg-id="ext" tvg-name="Explosion Regional (Mexico) (????)" tvg-logo="" group-title="PAISES",Explosion Regional (Mexico) (????)
 https://is.gd/etP87R
 #EXTINF:-1 tvg-id="ext" tvg-name="Extrema (Costa Rica) (????)" tvg-logo="" group-title="PAISES",Extrema (Costa Rica) (????)
 https://is.gd/wRDufN
-#EXTINF:-1 tvg-id="ext" tvg-name="Extreme (Francia) (????)" tvg-logo="" group-title="PAISES",Extreme (Francia) (????)
-https://is.gd/xCMDS3
 #EXTINF:-1 tvg-id="ext" tvg-name="Failarmy (España) (????)" tvg-logo="" group-title="PAISES",Failarmy (España) (????)
 https://is.gd/Hd3OE5
 #EXTINF:-1 tvg-id="ext" tvg-name="Festina (Kosovo) (????)" tvg-logo="" group-title="PAISES",Festina (Kosovo) (????)
 http://213.163.114.23:25461/ipko/M8TATzJPXe/1
-#EXTINF:-1 tvg-id="ext" tvg-name="Fifth Gear (USA) (????)" tvg-logo="" group-title="PAISES",Fifth Gear (USA) (????)
-https://is.gd/ZaI4iO
 #EXTINF:-1 tvg-id="ext" tvg-name="Fight Network (USA) (????)" tvg-logo="" group-title="PAISES",Fight Network (USA) (????)
 https://is.gd/P3b2jo
-#EXTINF:-1 tvg-id="ext" tvg-name="Filmes Açao (Brasil) (????)" tvg-logo="" group-title="PAISES",Filmes Açao (Brasil) (????)
-https://is.gd/T7Nscv
-#EXTINF:-1 tvg-id="ext" tvg-name="Filmes Suspense (Brasil) (????)" tvg-logo="" group-title="PAISES",Filmes Suspense (Brasil) (????)
-https://is.gd/XLdo33
 #EXTINF:-1 tvg-id="ext" tvg-name="Flow Caribe (USA) (????)" tvg-logo="" group-title="PAISES",Flow Caribe (USA) (????)
 https://is.gd/PmBrDr
-#EXTINF:-1 tvg-id="ext" tvg-name="Foodies (España) (????)" tvg-logo="" group-title="PAISES",Foodies (España) (????)
-https://is.gd/QQEKMn
-#EXTINF:-1 tvg-id="ext" tvg-name="Foro (Mexico) (????)" tvg-logo="" group-title="PAISES",Foro (Mexico) (????)
-https://is.gd/ox3ppQ
 #EXTINF:-1 tvg-id="ext" tvg-name="Fort (Uganda) (????)" tvg-logo="" group-title="PAISES",Fort (Uganda) (????)
 https://is.gd/2OBiKa
 #EXTINF:-1 tvg-id="ext" tvg-name="FTV Factoria (España) (????)" tvg-logo="" group-title="PAISES",FTV Factoria (España) (????)
 https://is.gd/pjSGmU
-#EXTINF:-1 tvg-id="ext" tvg-name="Full Custom Garage (USA) (????)" tvg-logo="" group-title="PAISES",Full Custom Garage (USA) (????)
-https://is.gd/T1oYou
 #EXTINF:-1 tvg-id="ext" tvg-name="Futuro FM (Chile) (????)" tvg-logo="" group-title="PAISES",Futuro FM (Chile) (????)
 https://is.gd/2OF1sO
 #EXTINF:-1 tvg-id="ext" tvg-name="Galxy (USA) (????)" tvg-logo="" group-title="PAISES",Galxy (USA) (????)
 https://is.gd/iUezBV
-#EXTINF:-1 tvg-id="ext" tvg-name="GDM (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",GDM (Rep. Dominicana) (????)
-https://is.gd/VuPvYA
 #EXTINF:-1 tvg-id="ext" tvg-name="Genios (Peru) (????)" tvg-logo="" group-title="PAISES",Genios (Peru) (????)
 https://is.gd/nTwlLY
 #EXTINF:-1 tvg-id="ext" tvg-name="GH Television (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",GH Television (Rep. Dominicana) (????)
 https://is.gd/IVK9dT
 #EXTINF:-1 tvg-id="ext" tvg-name="Global (Peru) (????)" tvg-logo="" group-title="PAISES",Global (Peru) (????)
 https://is.gd/HiYOGE
-#EXTINF:-1 tvg-id="ext" tvg-name="Glory Kickboxing (USA) (????)" tvg-logo="" group-title="PAISES",Glory Kickboxing (USA) (????)
-https://is.gd/qlnyj4
-#EXTINF:-1 tvg-id="ext" tvg-name="Goiena (España) (????)" tvg-logo="" group-title="PAISES",Goiena (España) (????)
-https://is.gd/h3AD99
-#EXTINF:-1 tvg-id="ext" tvg-name="GoldStar (Alemania) (????)" tvg-logo="" group-title="PAISES",GoldStar (Alemania) (????)
-https://is.gd/f9ctFG
-#EXTINF:-1 tvg-id="ext" tvg-name="Guanajuato (Mexico) (????)" tvg-logo="" group-title="PAISES",Guanajuato (Mexico) (????)
-https://is.gd/CJEWcD
 #EXTINF:-1 tvg-id="ext" tvg-name="Guinness World Records (USA) (????)" tvg-logo="" group-title="PAISES",Guinness World Records (USA) (????)
 https://is.gd/za3Xz7
 #EXTINF:-1 tvg-id="ext" tvg-name="Haina Vision (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Haina Vision (Rep. Dominicana) (????)
 https://is.gd/fnTXGF
-#EXTINF:-1 tvg-id="ext" tvg-name="Hard Knocks (USA) (????)" tvg-logo="" group-title="PAISES",Hard Knocks (USA) (????)
-https://is.gd/bahRbD
-#EXTINF:-1 tvg-id="ext" tvg-name="Hard Knocks (USA) (????)" tvg-logo="" group-title="PAISES",Hard Knocks (USA) (????)
-https://is.gd/UDjwAA
-#EXTINF:-1 tvg-id="ext" tvg-name="Hip Trips (Alemania) (????)" tvg-logo="" group-title="PAISES",Hip Trips (Alemania) (????)
-https://tinyurl.com/2h9ebjrh
-#EXTINF:-1 tvg-id="ext" tvg-name="Historia (Venezuela) (????)" tvg-logo="" group-title="PAISES",Historia (Venezuela) (????)
-https://is.gd/JDCtk6
-#EXTINF:-1 tvg-id="ext" tvg-name="Historias De Ultratumba (Venezuela) (????)" tvg-logo="" group-title="PAISES",Historias De Ultratumba (Venezuela) (????)
-https://is.gd/EH9OVX
 #EXTINF:-1 tvg-id="ext" tvg-name="HiT FM (Italia) (????)" tvg-logo="" group-title="PAISES",HiT FM (Italia) (????)
 https://is.gd/VxRpe1
-#EXTINF:-1 tvg-id="ext" tvg-name="Hogar (Venezuela) (????)" tvg-logo="" group-title="PAISES",Hogar (Venezuela) (????)
-https://is.gd/Vo0Ngh
 #EXTINF:-1 tvg-id="ext" tvg-name="Holvoet (Chile) (????)" tvg-logo="" group-title="PAISES",Holvoet (Chile) (????)
 https://is.gd/8X0Fc6
-#EXTINF:-1 tvg-id="ext" tvg-name="Horizon Sports (Italia) (????)" tvg-logo="" group-title="PAISES",Horizon Sports (Italia) (????)
-https://tinyurl.com/2emoplvd
-#EXTINF:-1 tvg-id="ext" tvg-name="Horizon Sports (USA) (????)" tvg-logo="" group-title="PAISES",Horizon Sports (USA) (????)
-https://tinyurl.com/2l2ezahx
 #EXTINF:-1 tvg-id="ext" tvg-name="Horror Machine (USA) (????)" tvg-logo="" group-title="PAISES",Horror Machine (USA) (????)
 https://is.gd/Vr2lD6
-#EXTINF:-1 tvg-id="ext" tvg-name="HTV Huelva (España) (????)" tvg-logo="" group-title="PAISES",HTV Huelva (España) (????)
-https://is.gd/rILbxl
-#EXTINF:-1 tvg-id="ext" tvg-name="Huila (Colombia) (????)" tvg-logo="" group-title="PAISES",Huila (Colombia) (????)
-https://is.gd/jJgPvI
-#EXTINF:-1 tvg-id="ext" tvg-name="Humor (Venezuela) (????)" tvg-logo="" group-title="PAISES",Humor (Venezuela) (????)
-https://is.gd/APGr55
-#EXTINF:-1 tvg-id="ext" tvg-name="I+ Imas (España) (????)" tvg-logo="" group-title="PAISES",I+ Imas (España) (????)
-https://is.gd/MRUZyb
 #EXTINF:-1 tvg-id="ext" tvg-name="Ibiza Radio (España) (????)" tvg-logo="" group-title="PAISES",Ibiza Radio (España) (????)
 https://is.gd/rFPdAO
-#EXTINF:-1 tvg-id="ext" tvg-name="Ice Pilots (España) (????)" tvg-logo="" group-title="PAISES",Ice Pilots (España) (????)
-https://is.gd/pJajyG
-#EXTINF:-1 tvg-id="ext" tvg-name="Indies (España) (????)" tvg-logo="" group-title="PAISES",Indies (España) (????)
-https://is.gd/hB7qdE
 #EXTINF:-1 tvg-id="ext" tvg-name="Inrating Social Network (Ucrania) (????)" tvg-logo="" group-title="PAISES",Inrating Social Network (Ucrania) (????)
 https://is.gd/W9yVkc
 #EXTINF:-1 tvg-id="ext" tvg-name="Inside (Francia) (????)" tvg-logo="" group-title="PAISES",Inside (Francia) (????)
 https://is.gd/HJ4NJs
-#EXTINF:-1 tvg-id="ext" tvg-name="Inti (Ecuador) (????)" tvg-logo="" group-title="PAISES",Inti (Ecuador) (????)
-https://is.gd/ZQD6LO
-#EXTINF:-1 tvg-id="ext" tvg-name="Investiga (Venezuela) (????)" tvg-logo="" group-title="PAISES",Investiga (Venezuela) (????)
-https://is.gd/TJsa6H
 #EXTINF:-1 tvg-id="ext" tvg-name="Iquique (Chile) (????)" tvg-logo="" group-title="PAISES",Iquique (Chile) (????)
 https://is.gd/x6FITW
-#EXTINF:-1 tvg-id="ext" tvg-name="Isai Aruvi (India) (????)" tvg-logo="" group-title="PAISES",Isai Aruvi (India) (????)
-https://tinyurl.com/ydn6xz6w
 #EXTINF:-1 tvg-id="ext" tvg-name="ITV Patagonia (Chile) (????)" tvg-logo="" group-title="PAISES",ITV Patagonia (Chile) (????)
 https://is.gd/xmBOek
 #EXTINF:-1 tvg-id="ext" tvg-name="IU Imagen Universal (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",IU Imagen Universal (Rep. Dominicana) (????)
@@ -927,10 +537,6 @@ https://is.gd/kOWSrk
 https://is.gd/j7jfst
 #EXTINF:-1 tvg-id="ext" tvg-name="Kaloopy (USA) (????)" tvg-logo="" group-title="PAISES",Kaloopy (USA) (????)
 https://is.gd/knTPaV
-#EXTINF:-1 tvg-id="ext" tvg-name="Kanal D Drama (España) (????)" tvg-logo="" group-title="PAISES",Kanal D Drama (España) (????)
-https://is.gd/ews6YI
-#EXTINF:-1 tvg-id="ext" tvg-name="Kids (España) (????)" tvg-logo="" group-title="PAISES",Kids (España) (????)
-https://is.gd/53i51W
 #EXTINF:-1 tvg-id="ext" tvg-name="Kids Radio FM (Rusia) (????)" tvg-logo="" group-title="PAISES",Kids Radio FM (Rusia) (????)
 https://is.gd/KmSQ4r
 #EXTINF:-1 tvg-id="ext" tvg-name="Kino 18+ (Rusia) (+18) (????)" tvg-logo="" group-title="PAISES",Kino 18+ (Rusia) (+18) (????)
@@ -943,48 +549,24 @@ https://is.gd/49H4Fo
 https://is.gd/kwduIE
 #EXTINF:-1 tvg-id="ext" tvg-name="Kronehit (Austria) (????)" tvg-logo="" group-title="PAISES",Kronehit (Austria) (????)
 https://is.gd/KSsHgD
-#EXTINF:-1 tvg-id="ext" tvg-name="Kuriakos Music (Portugal) (????)" tvg-logo="" group-title="PAISES",Kuriakos Music (Portugal) (????)
-https://tinyurl.com/2obaewym
-#EXTINF:-1 tvg-id="ext" tvg-name="La 7 d (Italia) (????)" tvg-logo="" group-title="PAISES",La 7 d (Italia) (????)
-https://is.gd/OZnp91
-#EXTINF:-1 tvg-id="ext" tvg-name="La Chilena (Chile) (????)" tvg-logo="" group-title="PAISES",La Chilena (Chile) (????)
-https://is.gd/3Gfoci
-#EXTINF:-1 tvg-id="ext" tvg-name="La Corriente (Mexico) (????)" tvg-logo="" group-title="PAISES",La Corriente (Mexico) (????)
-https://is.gd/1woWm4
 #EXTINF:-1 tvg-id="ext" tvg-name="La Red (Chile) (????)" tvg-logo="" group-title="PAISES",La Red (Chile) (????)
 https://is.gd/0ty5cP
 #EXTINF:-1 tvg-id="ext" tvg-name="La-X (Puerto Rico) (????)" tvg-logo="" group-title="PAISES",La-X (Puerto Rico) (????)
 https://is.gd/mEdgCu
-#EXTINF:-1 tvg-id="ext" tvg-name="Lancelot (España) (????)" tvg-logo="" group-title="PAISES",Lancelot (España) (????)
-https://is.gd/uaHytd
-#EXTINF:-1 tvg-id="ext" tvg-name="Las Reglas Del Juego (España) (????)" tvg-logo="" group-title="PAISES",Las Reglas Del Juego (España) (????)
-https://is.gd/iQ9EBb
 #EXTINF:-1 tvg-id="ext" tvg-name="Law Of The Jungle SBS (Corea) (????)" tvg-logo="" group-title="PAISES",Law Of The Jungle SBS (Corea) (????)
 https://is.gd/rzyrYD
-#EXTINF:-1 tvg-id="ext" tvg-name="LFM (Francia) (????)" tvg-logo="" group-title="PAISES",LFM (Francia) (????)
-https://is.gd/FCd1b6
-#EXTINF:-1 tvg-id="ext" tvg-name="Litus (Argentina) (????)" tvg-logo="" group-title="PAISES",Litus (Argentina) (????)
-https://tinyurl.com/2bmqg8e9
-#EXTINF:-1 tvg-id="ext" tvg-name="Live China (China) (????)" tvg-logo="" group-title="PAISES",Live China (China) (????)
-https://is.gd/Uoco5K
-#EXTINF:-1 tvg-id="ext" tvg-name="Live Music Replay (USA) (????)" tvg-logo="" group-title="PAISES",Live Music Replay (USA) (????)
-https://is.gd/D279R6
 #EXTINF:-1 tvg-id="ext" tvg-name="Lobo (Mexico) (????)" tvg-logo="" group-title="PAISES",Lobo (Mexico) (????)
 https://is.gd/11wlEa
 #EXTINF:-1 tvg-id="ext" tvg-name="Lobo (Mexico) (????)" tvg-logo="" group-title="PAISES",Lobo (Mexico) (????)
 https://is.gd/GVblYS
 #EXTINF:-1 tvg-id="ext" tvg-name="Logos (España) (????)" tvg-logo="" group-title="PAISES",Logos (España) (????)
 https://is.gd/oyIah2
-#EXTINF:-1 tvg-id="ext" tvg-name="Los Nuevos Detectives (Mexico) (????)" tvg-logo="" group-title="PAISES",Los Nuevos Detectives (Mexico) (????)
-https://is.gd/nrFyia
 #EXTINF:-1 tvg-id="ext" tvg-name="Loupe (USA) (????)" tvg-logo="" group-title="PAISES",Loupe (USA) (????)
 https://is.gd/DeiMoR
 #EXTINF:-1 tvg-id="ext" tvg-name="Love FM (Italia) (????)" tvg-logo="" group-title="PAISES",Love FM (Italia) (????)
 https://is.gd/MxnHZr
 #EXTINF:-1 tvg-id="ext" tvg-name="Love Nature 4K (USA) (????)" tvg-logo="" group-title="PAISES",Love Nature 4K (USA) (????)
 https://is.gd/mDUvLJ
-#EXTINF:-1 tvg-id="ext" tvg-name="LPTV La Popular (Chile) (????)" tvg-logo="" group-title="PAISES",LPTV La Popular (Chile) (????)
-https://is.gd/jskKe7
 #EXTINF:-1 tvg-id="ext" tvg-name="LSTV Los Santos (Costa Rica) (????)" tvg-logo="" group-title="PAISES",LSTV Los Santos (Costa Rica) (????)
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Lucky Dog (USA) (????)" tvg-logo="" group-title="PAISES",Lucky Dog (USA) (????)
@@ -995,10 +577,6 @@ https://is.gd/MkwAzs
 http://iptv.prosto.tv:7000/ch122/video.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="M2 (Ucrania) (????)" tvg-logo="" group-title="PAISES",M2 (Ucrania) (????)
 https://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="M95 Marbella (España) (????)" tvg-logo="" group-title="PAISES",M95 Marbella (España) (????)
-https://is.gd/RtVpBI
-#EXTINF:-1 tvg-id="ext" tvg-name="Magic (Grecia) (????)" tvg-logo="" group-title="PAISES",Magic (Grecia) (????)
-https://is.gd/si96T3
 #EXTINF:-1 tvg-id="ext" tvg-name="Maidan (Rusia) (????)" tvg-logo="" group-title="PAISES",Maidan (Rusia) (????)
 https://is.gd/3vgP7U
 #EXTINF:-1 tvg-id="ext" tvg-name="Makao (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Makao (Rep. Dominicana) (????)
@@ -1019,8 +597,6 @@ https://is.gd/zcxqHL
 https://is.gd/u4t7EF
 #EXTINF:-1 tvg-id="ext" tvg-name="Maya (Guatemala) (????)" tvg-logo="" group-title="PAISES",Maya (Guatemala) (????)
 https://is.gd/hwIJ9N
-#EXTINF:-1 tvg-id="ext" tvg-name="MDA (Colombia) (????)" tvg-logo="" group-title="PAISES",MDA (Colombia) (????)
-https://is.gd/LcUFto
 #EXTINF:-1 tvg-id="ext" tvg-name="MDL Monde Du Loisir (Francia) (????)" tvg-logo="" group-title="PAISES",MDL Monde Du Loisir (Francia) (????)
 https://is.gd/N1o6wd
 #EXTINF:-1 tvg-id="ext" tvg-name="Mega (Chile) (????)" tvg-logo="" group-title="PAISES",Mega (Chile) (????)
@@ -1035,70 +611,22 @@ https://is.gd/yryC1l
 https://is.gd/yXZ1Qi
 #EXTINF:-1 tvg-id="ext" tvg-name="Mi Musica (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Mi Musica (Rep. Dominicana) (????)
 https://is.gd/2GSOt2
-#EXTINF:-1 tvg-id="ext" tvg-name="Miami Jenny Live (USA) (????)" tvg-logo="" group-title="PAISES",Miami Jenny Live (USA) (????)
-https://is.gd/KJvz6l
-#EXTINF:-1 tvg-id="ext" tvg-name="Miami Mexico (USA) (????)" tvg-logo="" group-title="PAISES",Miami Mexico (USA) (????)
-https://is.gd/WBBjyv
 #EXTINF:-1 tvg-id="ext" tvg-name="Millenium FM (Peru) (????)" tvg-logo="" group-title="PAISES",Millenium FM (Peru) (????)
 https://is.gd/rDgkUk
-#EXTINF:-1 tvg-id="ext" tvg-name="Misterios (Venezuela) (????)" tvg-logo="" group-title="PAISES",Misterios (Venezuela) (????)
-https://is.gd/WZaFyU
 #EXTINF:-1 tvg-id="ext" tvg-name="Mnau (Rep. Checa) (????)" tvg-logo="" group-title="PAISES",Mnau (Rep. Checa) (????)
 https://is.gd/hzHRBb
 #EXTINF:-1 tvg-id="ext" tvg-name="Mogan (España) (????)" tvg-logo="" group-title="PAISES",Mogan (España) (????)
 https://is.gd/kZX3AO
-#EXTINF:-1 tvg-id="ext" tvg-name="Molina (Chile) (????)" tvg-logo="" group-title="PAISES",Molina (Chile) (????)
-https://is.gd/sa3Ir9
 #EXTINF:-1 tvg-id="ext" tvg-name="Montaña (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Montaña (Rep. Dominicana) (????)
 https://is.gd/ZljzED
 #EXTINF:-1 tvg-id="ext" tvg-name="Moto America (USA) (????)" tvg-logo="" group-title="PAISES",Moto America (USA) (????)
 https://is.gd/YAzrkY
-#EXTINF:-1 tvg-id="ext" tvg-name="Motor (España) (????)" tvg-logo="" group-title="PAISES",Motor (España) (????)
-https://is.gd/eY7gWP
-#EXTINF:-1 tvg-id="ext" tvg-name="Motor (Francia) (????)" tvg-logo="" group-title="PAISES",Motor (Francia) (????)
-https://is.gd/T7UENF
-#EXTINF:-1 tvg-id="ext" tvg-name="Motor (USA) (????)" tvg-logo="" group-title="PAISES",Motor (USA) (????)
-https://is.gd/NCvU6g
-#EXTINF:-1 tvg-id="ext" tvg-name="Motor Racing (UK) (????)" tvg-logo="" group-title="PAISES",Motor Racing (UK) (????)
-https://tinyurl.com/2mo4k9jg
-#EXTINF:-1 tvg-id="ext" tvg-name="Motor Racing (USA) (????)" tvg-logo="" group-title="PAISES",Motor Racing (USA) (????)
-https://tinyurl.com/2lvv2cd4
-#EXTINF:-1 tvg-id="ext" tvg-name="Motorvision (Alemania) (????)" tvg-logo="" group-title="PAISES",Motorvision (Alemania) (????)
-https://is.gd/hHqlZj
 #EXTINF:-1 tvg-id="ext" tvg-name="Motorvision (Brasil) (????)" tvg-logo="" group-title="PAISES",Motorvision (Brasil) (????)
 https://is.gd/SvaUU4
-#EXTINF:-1 tvg-id="ext" tvg-name="Motorvision (España) (????)" tvg-logo="" group-title="PAISES",Motorvision (España) (????)
-https://is.gd/eAgXfU
-#EXTINF:-1 tvg-id="ext" tvg-name="Motorvision (España) (????)" tvg-logo="" group-title="PAISES",Motorvision (España) (????)
-https://is.gd/Vs2sue
-#EXTINF:-1 tvg-id="ext" tvg-name="Motorvision (USA) (????)" tvg-logo="" group-title="PAISES",Motorvision (USA) (????)
-https://is.gd/X10OJf
-#EXTINF:-1 tvg-id="ext" tvg-name="MS Motor (Italia) (????)" tvg-logo="" group-title="PAISES",MS Motor (Italia) (????)
-https://is.gd/AZkcFT
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Block Party (USA) (????)" tvg-logo="" group-title="PAISES",MTV Block Party (USA) (????)
-https://is.gd/BIjHuV
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Love Music (Alemania) (????)" tvg-logo="" group-title="PAISES",MTV Love Music (Alemania) (????)
-https://is.gd/wus0Wx
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Music Made In Spain (España) (????)" tvg-logo="" group-title="PAISES",MTV Music Made In Spain (España) (????)
-https://is.gd/0o0IDX
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Originals (España) (????)" tvg-logo="" group-title="PAISES",MTV Originals (España) (????)
-https://is.gd/dDj27w
 #EXTINF:-1 tvg-id="ext" tvg-name="Mubeat (Corea) (????)" tvg-logo="" group-title="PAISES",Mubeat (Corea) (????)
 https://is.gd/Hb0Vti
-#EXTINF:-1 tvg-id="ext" tvg-name="Mundo (España) (????)" tvg-logo="" group-title="PAISES",Mundo (España) (????)
-https://is.gd/CMfmx3
-#EXTINF:-1 tvg-id="ext" tvg-name="Mundo Geek (España) (????)" tvg-logo="" group-title="PAISES",Mundo Geek (España) (????)
-https://is.gd/JpxWYZ
-#EXTINF:-1 tvg-id="ext" tvg-name="Mundo Paranormal (España) (????)" tvg-logo="" group-title="PAISES",Mundo Paranormal (España) (????)
-https://is.gd/CrtaTL
-#EXTINF:-1 tvg-id="ext" tvg-name="Mundo Viajero (España) (????)" tvg-logo="" group-title="PAISES",Mundo Viajero (España) (????)
-https://is.gd/0SBYLT
-#EXTINF:-1 tvg-id="ext" tvg-name="Music Box Russian (Rusia) (????)" tvg-logo="" group-title="PAISES",Music Box Russian (Rusia) (????)
-https://is.gd/I5w0Yb
 #EXTINF:-1 tvg-id="ext" tvg-name="Music United States Network (USA) (????)" tvg-logo="" group-title="PAISES",Music United States Network (USA) (????)
 https://is.gd/9gMnEQ
-#EXTINF:-1 tvg-id="ext" tvg-name="Mutante X (España) (????)" tvg-logo="" group-title="PAISES",Mutante X (España) (????)
-https://is.gd/Yer0nW
 #EXTINF:-1 tvg-id="ext" tvg-name="Muzzik (Serbia) (????)" tvg-logo="" group-title="PAISES",Muzzik (Serbia) (????)
 https://is.gd/0AkDY5
 #EXTINF:-1 tvg-id="ext" tvg-name="Muzzik Electro (Serbia) (????)" tvg-logo="" group-title="PAISES",Muzzik Electro (Serbia) (????)
@@ -1121,34 +649,18 @@ https://is.gd/WtHplh
 https://is.gd/9BAMz6
 #EXTINF:-1 tvg-id="ext" tvg-name="Muzzik ZZ (Serbia) (????)" tvg-logo="" group-title="PAISES",Muzzik ZZ (Serbia) (????)
 https://is.gd/fDH7oq
-#EXTINF:-1 tvg-id="ext" tvg-name="My Time Movie Network (España) (????)" tvg-logo="" group-title="PAISES",My Time Movie Network (España) (????)
-https://is.gd/mDrRKe
 #EXTINF:-1 tvg-id="ext" tvg-name="My Time Movie Network (Mexico) (????)" tvg-logo="" group-title="PAISES",My Time Movie Network (Mexico) (????)
 https://is.gd/hJCLNx
-#EXTINF:-1 tvg-id="ext" tvg-name="My Zen Fit (UK) (????)" tvg-logo="" group-title="PAISES",My Zen Fit (UK) (????)
-https://tinyurl.com/2qgp7cn9
 #EXTINF:-1 tvg-id="ext" tvg-name="N+ Media (Mexico) (????)" tvg-logo="" group-title="PAISES",N+ Media (Mexico) (????)
 https://is.gd/fGdBHv
 #EXTINF:-1 tvg-id="ext" tvg-name="Nasa (USA) (????)" tvg-logo="" group-title="PAISES",Nasa (USA) (????)
 https://is.gd/A6PZPu
 #EXTINF:-1 tvg-id="ext" tvg-name="Nasa Media (USA) (????)" tvg-logo="" group-title="PAISES",Nasa Media (USA) (????)
 https://is.gd/pwNIjB
-#EXTINF:-1 tvg-id="ext" tvg-name="Nasha Sibir (Rusia) (????)" tvg-logo="" group-title="PAISES",Nasha Sibir (Rusia) (????)
-https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Nativa (Peru) (????)" tvg-logo="" group-title="PAISES",Nativa (Peru) (????)
 https://is.gd/IWEsm3
-#EXTINF:-1 tvg-id="ext" tvg-name="Natura (Italia) (????)" tvg-logo="" group-title="PAISES",Natura (Italia) (????)
-https://is.gd/m7nh42
-#EXTINF:-1 tvg-id="ext" tvg-name="Naturaleza (España) (????)" tvg-logo="" group-title="PAISES",Naturaleza (España) (????)
-https://is.gd/8gZZWA
-#EXTINF:-1 tvg-id="ext" tvg-name="Naturaleza (Venezuela) (????)" tvg-logo="" group-title="PAISES",Naturaleza (Venezuela) (????)
-https://is.gd/unRGK5
-#EXTINF:-1 tvg-id="ext" tvg-name="Nature Time (España) (????)" tvg-logo="" group-title="PAISES",Nature Time (España) (????)
-https://is.gd/5vv4zS
 #EXTINF:-1 tvg-id="ext" tvg-name="Nature Time (Francia) (????)" tvg-logo="" group-title="PAISES",Nature Time (Francia) (????)
 https://is.gd/8zAhWk
-#EXTINF:-1 tvg-id="ext" tvg-name="Natureza (Brasil) (????)" tvg-logo="" group-title="PAISES",Natureza (Brasil) (????)
-https://is.gd/b76Bn5
 #EXTINF:-1 tvg-id="ext" tvg-name="Negocios (España) (????)" tvg-logo="" group-title="PAISES",Negocios (España) (????)
 https://is.gd/PTo4Dj
 #EXTINF:-1 tvg-id="ext" tvg-name="Net (Chile) (????)" tvg-logo="" group-title="PAISES",Net (Chile) (????)
@@ -1159,12 +671,8 @@ https://is.gd/iJe15y
 https://is.gd/6E4ENS
 #EXTINF:-1 tvg-id="ext" tvg-name="NHRA Championship Drag Racing (USA) (????)" tvg-logo="" group-title="PAISES",NHRA Championship Drag Racing (USA) (????)
 https://is.gd/g2zpe5
-#EXTINF:-1 tvg-id="ext" tvg-name="Nickelodeon (España) (????)" tvg-logo="" group-title="PAISES",Nickelodeon (España) (????)
-https://is.gd/VgF54t
 #EXTINF:-1 tvg-id="ext" tvg-name="Nicoya (Costa Rica) (????)" tvg-logo="" group-title="PAISES",Nicoya (Costa Rica) (????)
 https://is.gd/zi5TAj
-#EXTINF:-1 tvg-id="ext" tvg-name="Nitro Circus (USA) (????)" tvg-logo="" group-title="PAISES",Nitro Circus (USA) (????)
-https://is.gd/HRPpa6
 #EXTINF:-1 tvg-id="ext" tvg-name="NM (Rusia) (????)" tvg-logo="" group-title="PAISES",NM (Rusia) (????)
 https://is.gd/jlXiIx
 #EXTINF:-1 tvg-id="ext" tvg-name="Nocturnal (USA) (????)" tvg-logo="" group-title="PAISES",Nocturnal (USA) (????)
@@ -1181,10 +689,6 @@ https://is.gd/GR2vuS
 https://is.gd/dToV0n
 #EXTINF:-1 tvg-id="ext" tvg-name="Notioi (Grecia) (????)" tvg-logo="" group-title="PAISES",Notioi (Grecia) (????)
 https://is.gd/rHyZlB
-#EXTINF:-1 tvg-id="ext" tvg-name="Novelas Drama (Mexico) (????)" tvg-logo="" group-title="PAISES",Novelas Drama (Mexico) (????)
-https://is.gd/uiSO47
-#EXTINF:-1 tvg-id="ext" tvg-name="Novelas Romance (Mexico) (????)" tvg-logo="" group-title="PAISES",Novelas Romance (Mexico) (????)
-https://is.gd/fc79Z6
 #EXTINF:-1 tvg-id="ext" tvg-name="Novoe (Rusia) (????)" tvg-logo="" group-title="PAISES",Novoe (Rusia) (????)
 https://is.gd/OgZn0y
 #EXTINF:-1 tvg-id="ext" tvg-name="Novoe Radio (Rusia) (????)" tvg-logo="" group-title="PAISES",Novoe Radio (Rusia) (????)
@@ -1201,10 +705,6 @@ https://is.gd/bOmaNp
 https://is.gd/Dy62pw
 #EXTINF:-1 tvg-id="ext" tvg-name="NTV (Chile) (????)" tvg-logo="" group-title="PAISES",NTV (Chile) (????)
 https://marine2.miplay.cl/ntv/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Nubeh (Venezuela) (????)" tvg-logo="" group-title="PAISES",Nubeh (Venezuela) (????)
-https://is.gd/fJwzIE
-#EXTINF:-1 tvg-id="ext" tvg-name="Obedira (Paraguay) (????)" tvg-logo="" group-title="PAISES",Obedira (Paraguay) (????)
-https://is.gd/M7h343
 #EXTINF:-1 tvg-id="ext" tvg-name="Ocko (Rep. Checa) (????)" tvg-logo="" group-title="PAISES",Ocko (Rep. Checa) (????)
 https://is.gd/72wqmN
 #EXTINF:-1 tvg-id="ext" tvg-name="Ocko Expres (Rep. Checa) (????)" tvg-logo="" group-title="PAISES",Ocko Expres (Rep. Checa) (????)
@@ -1217,38 +717,20 @@ https://is.gd/KsEgoR
 https://is.gd/9KEaMX
 #EXTINF:-1 tvg-id="ext" tvg-name="Onda Valencia (España) (????)" tvg-logo="" group-title="PAISES",Onda Valencia (España) (????)
 https://is.gd/YVixhz
-#EXTINF:-1 tvg-id="ext" tvg-name="One (Libano) (????)" tvg-logo="" group-title="PAISES",One (Libano) (????)
-https://is.gd/P0o6mg
 #EXTINF:-1 tvg-id="ext" tvg-name="Opoja (Kosovo) (????)" tvg-logo="" group-title="PAISES",Opoja (Kosovo) (????)
 https://is.gd/upyzWU
 #EXTINF:-1 tvg-id="ext" tvg-name="Orbit (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Orbit (Rep. Dominicana) (????)
 https://is.gd/h9Jd4L
 #EXTINF:-1 tvg-id="ext" tvg-name="Origin Sports (UK) (????)" tvg-logo="" group-title="PAISES",Origin Sports (UK) (????)
 https://is.gd/I5u9cB
-#EXTINF:-1 tvg-id="ext" tvg-name="Outdoor (Nueva Zelanda) (????)" tvg-logo="" group-title="PAISES",Outdoor (Nueva Zelanda) (????)
-https://tinyurl.com/2femaa47
 #EXTINF:-1 tvg-id="ext" tvg-name="Pac 12 Insider (USA) (????)" tvg-logo="" group-title="PAISES",Pac 12 Insider (USA) (????)
 https://is.gd/gWb8wm
-#EXTINF:-1 tvg-id="ext" tvg-name="Pamir (Afganistan) (????)" tvg-logo="" group-title="PAISES",Pamir (Afganistan) (????)
-https://is.gd/TvNBIh
-#EXTINF:-1 tvg-id="ext" tvg-name="Paranormal (España) (????)" tvg-logo="" group-title="PAISES",Paranormal (España) (????)
-https://is.gd/8lQsiA
 #EXTINF:-1 tvg-id="ext" tvg-name="Party Tyme Karaoke (UK) (????)" tvg-logo="" group-title="PAISES",Party Tyme Karaoke (UK) (????)
 https://is.gd/5vYLL3
 #EXTINF:-1 tvg-id="ext" tvg-name="Patagonia Radio (Chile) (????)" tvg-logo="" group-title="PAISES",Patagonia Radio (Chile) (????)
 https://is.gd/L1dCGN
-#EXTINF:-1 tvg-id="ext" tvg-name="PBR Ride Pass (USA) (????)" tvg-logo="" group-title="PAISES",PBR Ride Pass (USA) (????)
-https://is.gd/d5Rysj
-#EXTINF:-1 tvg-id="ext" tvg-name="Peleas (Venezuela) (????)" tvg-logo="" group-title="PAISES",Peleas (Venezuela) (????)
-https://is.gd/0xY2Sl
 #EXTINF:-1 tvg-id="ext" tvg-name="Pelis (España) (????)" tvg-logo="" group-title="PAISES",Pelis (España) (????)
 https://is.gd/WFswga
-#EXTINF:-1 tvg-id="ext" tvg-name="People Are Awesome (USA) (????)" tvg-logo="" group-title="PAISES",People Are Awesome (USA) (????)
-https://is.gd/atwf2G
-#EXTINF:-1 tvg-id="ext" tvg-name="Pescara (Italia) (????)" tvg-logo="" group-title="PAISES",Pescara (Italia) (????)
-https://is.gd/0rnod2
-#EXTINF:-1 tvg-id="ext" tvg-name="Pet Club (Nueva Zelanda) (????)" tvg-logo="" group-title="PAISES",Pet Club (Nueva Zelanda) (????)
-https://tinyurl.com/2mmm92ne
 #EXTINF:-1 tvg-id="ext" tvg-name="Peñol (Colombia) (????)" tvg-logo="" group-title="PAISES",Peñol (Colombia) (????)
 https://is.gd/d4vu3g
 #EXTINF:-1 tvg-id="ext" tvg-name="Pichilemu (Chile) (????)" tvg-logo="" group-title="PAISES",Pichilemu (Chile) (????)
@@ -1265,34 +747,14 @@ https://is.gd/tWArrM
 https://is.gd/I1gqMu
 #EXTINF:-1 tvg-id="ext" tvg-name="Promar (Venezuela) (????)" tvg-logo="" group-title="PAISES",Promar (Venezuela) (????)
 https://is.gd/p4vPD8
-#EXTINF:-1 tvg-id="ext" tvg-name="PTV Cantabria (España) (????)" tvg-logo="" group-title="PAISES",PTV Cantabria (España) (????)
-https://is.gd/7iejt9
-#EXTINF:-1 tvg-id="ext" tvg-name="PTV Cordoba (España) (????)" tvg-logo="" group-title="PAISES",PTV Cordoba (España) (????)
-https://is.gd/A8rKl2
-#EXTINF:-1 tvg-id="ext" tvg-name="PTV Granada (España) (????)" tvg-logo="" group-title="PAISES",PTV Granada (España) (????)
-https://is.gd/NmmSNB
-#EXTINF:-1 tvg-id="ext" tvg-name="PTV Linares (España) (????)" tvg-logo="" group-title="PAISES",PTV Linares (España) (????)
-https://is.gd/b2lNtQ
-#EXTINF:-1 tvg-id="ext" tvg-name="PTV Malaga (España) (????)" tvg-logo="" group-title="PAISES",PTV Malaga (España) (????)
-https://is.gd/vRHs0l
-#EXTINF:-1 tvg-id="ext" tvg-name="PTV Sevilla (España) (????)" tvg-logo="" group-title="PAISES",PTV Sevilla (España) (????)
-https://is.gd/H8JtXK
 #EXTINF:-1 tvg-id="ext" tvg-name="Pucon (Chile) (????)" tvg-logo="" group-title="PAISES",Pucon (Chile) (????)
 https://is.gd/TXW4fX
 #EXTINF:-1 tvg-id="ext" tvg-name="Pura Noticia (Chile) (????)" tvg-logo="" group-title="PAISES",Pura Noticia (Chile) (????)
 https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Qello Stingray (UK) (????)" tvg-logo="" group-title="PAISES",Qello Stingray (UK) (????)
-https://tinyurl.com/y723qffa
-#EXTINF:-1 tvg-id="ext" tvg-name="Quarto Canale Flegreo (Italia) (????)" tvg-logo="" group-title="PAISES",Quarto Canale Flegreo (Italia) (????)
-https://is.gd/qUYNWx
-#EXTINF:-1 tvg-id="ext" tvg-name="Quietude (USA) (????)" tvg-logo="" group-title="PAISES",Quietude (USA) (????)
-https://is.gd/s4xB3W
 #EXTINF:-1 tvg-id="ext" tvg-name="Qwest Jazz & Beyond (UK) (????)" tvg-logo="" group-title="PAISES",Qwest Jazz & Beyond (UK) (????)
 https://is.gd/xwErnY
 #EXTINF:-1 tvg-id="ext" tvg-name="Racing America (USA) (????)" tvg-logo="" group-title="PAISES",Racing America (USA) (????)
 https://is.gd/BTBTFU
-#EXTINF:-1 tvg-id="ext" tvg-name="Radio Maya (Guatemala) (????)" tvg-logo="" group-title="PAISES",Radio Maya (Guatemala) (????)
-https://is.gd/0whiUb
 #EXTINF:-1 tvg-id="ext" tvg-name="Radio Studio Delta (Italia) (????)" tvg-logo="" group-title="PAISES",Radio Studio Delta (Italia) (????)
 https://is.gd/lCygHj
 #EXTINF:-1 tvg-id="ext" tvg-name="Radio Yguazu (Argentina) (????)" tvg-logo="" group-title="PAISES",Radio Yguazu (Argentina) (????)
@@ -1301,14 +763,6 @@ https://is.gd/ywnhYs
 https://is.gd/cPwvsw
 #EXTINF:-1 tvg-id="ext" tvg-name="RCG (Mexico) (????)" tvg-logo="" group-title="PAISES",RCG (Mexico) (????)
 https://is.gd/XnNjSz
-#EXTINF:-1 tvg-id="ext" tvg-name="Real Wild (USA) (????)" tvg-logo="" group-title="PAISES",Real Wild (USA) (????)
-https://is.gd/51Jm4F
-#EXTINF:-1 tvg-id="ext" tvg-name="Realities (España) (????)" tvg-logo="" group-title="PAISES",Realities (España) (????)
-https://is.gd/HQ8ybQ
-#EXTINF:-1 tvg-id="ext" tvg-name="Reality (Venezuela) (????)" tvg-logo="" group-title="PAISES",Reality (Venezuela) (????)
-https://is.gd/O51olL
-#EXTINF:-1 tvg-id="ext" tvg-name="Recetas (España) (????)" tvg-logo="" group-title="PAISES",Recetas (España) (????)
-https://is.gd/DCx4gp
 #EXTINF:-1 tvg-id="ext" tvg-name="Recreation (Ucrania) (????)" tvg-logo="" group-title="PAISES",Recreation (Ucrania) (????)
 http://iptv.prosto.tv:7000/ch324/video.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Red 24 (Bolivia) (????)" tvg-logo="" group-title="PAISES",Red 24 (Bolivia) (????)
@@ -1321,16 +775,12 @@ https://is.gd/1gC3bU
 http://185.57.68.33:8091/232/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Relaxon (Ucrania) (????)" tvg-logo="" group-title="PAISES",Relaxon (Ucrania) (????)
 http://iptv.prosto.tv:7000/ch317/video.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Reload (Grecia) (????)" tvg-logo="" group-title="PAISES",Reload (Grecia) (????)
-https://is.gd/T6Wqjm
 #EXTINF:-1 tvg-id="ext" tvg-name="Retro (Rep. Checa) (????)" tvg-logo="" group-title="PAISES",Retro (Rep. Checa) (????)
 https://is.gd/JePniq
 #EXTINF:-1 tvg-id="ext" tvg-name="Retro Wave Radio (Rusia) (????)" tvg-logo="" group-title="PAISES",Retro Wave Radio (Rusia) (????)
 http://hls.goodgame.ru:80/hls/33245.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Revry LatinX (USA) (????)" tvg-logo="" group-title="PAISES",Revry LatinX (USA) (????)
 https://is.gd/hBqJoR
-#EXTINF:-1 tvg-id="ext" tvg-name="Ribera (España) (????)" tvg-logo="" group-title="PAISES",Ribera (España) (????)
-https://is.gd/nF1RdY
 #EXTINF:-1 tvg-id="ext" tvg-name="Ritmos Inolvidables (USA) (????)" tvg-logo="" group-title="PAISES",Ritmos Inolvidables (USA) (????)
 https://is.gd/rUWuk8
 #EXTINF:-1 tvg-id="ext" tvg-name="RJTV Radio Javan (Iran) (????)" tvg-logo="" group-title="PAISES",RJTV Radio Javan (Iran) (????)
@@ -1347,62 +797,22 @@ https://is.gd/qo1OIC
 https://is.gd/R7MHyX
 #EXTINF:-1 tvg-id="ext" tvg-name="RTA Radio Tivu Azzurra (Italia) (????)" tvg-logo="" group-title="PAISES",RTA Radio Tivu Azzurra (Italia) (????)
 https://is.gd/v2sIQh
-#EXTINF:-1 tvg-id="ext" tvg-name="RTV Total (Peru) (????)" tvg-logo="" group-title="PAISES",RTV Total (Peru) (????)
-https://is.gd/Ezx3CN
 #EXTINF:-1 tvg-id="ext" tvg-name="RTVD 4 (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",RTVD 4 (Rep. Dominicana) (????)
 https://is.gd/Z9Gi4A
-#EXTINF:-1 tvg-id="ext" tvg-name="RTVE (Peru) (????)" tvg-logo="" group-title="PAISES",RTVE (Peru) (????)
-https://is.gd/A1r1qS
 #EXTINF:-1 tvg-id="ext" tvg-name="RU Music (Rusia) (????)" tvg-logo="" group-title="PAISES",RU Music (Rusia) (????)
 https://is.gd/XfHXhj
 #EXTINF:-1 tvg-id="ext" tvg-name="Russian (USA) (+18) (????)" tvg-logo="" group-title="PAISES",Russian (USA) (+18) (????)
 http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="San Francisco (Argentina) (????)" tvg-logo="" group-title="PAISES",San Francisco (Argentina) (????)
 http://204.199.3.2/.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sanjuanera (Peru) (????)" tvg-logo="" group-title="PAISES",Sanjuanera (Peru) (????)
-https://is.gd/GUAl9B
-#EXTINF:-1 tvg-id="ext" tvg-name="Santa Cruz (Costa Rica) (????)" tvg-logo="" group-title="PAISES",Santa Cruz (Costa Rica) (????)
-https://is.gd/mWwzSB
 #EXTINF:-1 tvg-id="ext" tvg-name="Santa Maria (Chile) (????)" tvg-logo="" group-title="PAISES",Santa Maria (Chile) (????)
 https://is.gd/hjcXLe
-#EXTINF:-1 tvg-id="ext" tvg-name="Sci-Fi (España) (????)" tvg-logo="" group-title="PAISES",Sci-Fi (España) (????)
-https://is.gd/5rr9wg
-#EXTINF:-1 tvg-id="ext" tvg-name="Sci-Fi (Italia) (????)" tvg-logo="" group-title="PAISES",Sci-Fi (Italia) (????)
-https://is.gd/2Rmv1t
-#EXTINF:-1 tvg-id="ext" tvg-name="Sci-Fi (Venezuela) (????)" tvg-logo="" group-title="PAISES",Sci-Fi (Venezuela) (????)
-https://is.gd/iMFQyY
-#EXTINF:-1 tvg-id="ext" tvg-name="Scream IN (Francia) (????)" tvg-logo="" group-title="PAISES",Scream IN (Francia) (????)
-https://is.gd/mVpCBt
-#EXTINF:-1 tvg-id="ext" tvg-name="Sello (Argentina) (????)" tvg-logo="" group-title="PAISES",Sello (Argentina) (????)
-https://is.gd/M12gMg
-#EXTINF:-1 tvg-id="ext" tvg-name="Septimo Arte (Mexico) (????)" tvg-logo="" group-title="PAISES",Septimo Arte (Mexico) (????)
-https://is.gd/e6iAmH
-#EXTINF:-1 tvg-id="ext" tvg-name="Series (Brasil) (????)" tvg-logo="" group-title="PAISES",Series (Brasil) (????)
-https://is.gd/rzDbFS
-#EXTINF:-1 tvg-id="ext" tvg-name="Series (España) (????)" tvg-logo="" group-title="PAISES",Series (España) (????)
-https://is.gd/BRVOiZ
-#EXTINF:-1 tvg-id="ext" tvg-name="Series (España) (????)" tvg-logo="" group-title="PAISES",Series (España) (????)
-https://is.gd/ZSBZPX
-#EXTINF:-1 tvg-id="ext" tvg-name="Series (Venezuela) (????)" tvg-logo="" group-title="PAISES",Series (Venezuela) (????)
-https://is.gd/Y3HqJo
-#EXTINF:-1 tvg-id="ext" tvg-name="Series Comedia (España) (????)" tvg-logo="" group-title="PAISES",Series Comedia (España) (????)
-https://is.gd/tit1cW
-#EXTINF:-1 tvg-id="ext" tvg-name="Series Con Ñ (España) (????)" tvg-logo="" group-title="PAISES",Series Con Ñ (España) (????)
-https://is.gd/d5rzud
-#EXTINF:-1 tvg-id="ext" tvg-name="Series Retro (Venezuela) (????)" tvg-logo="" group-title="PAISES",Series Retro (Venezuela) (????)
-https://is.gd/IyWDEJ
-#EXTINF:-1 tvg-id="ext" tvg-name="SET Canal 16.1 (Mexico) (????)" tvg-logo="" group-title="PAISES",SET Canal 16.1 (Mexico) (????)
-https://tinyurl.com/yoju4qd7
 #EXTINF:-1 tvg-id="ext" tvg-name="SET Canal 16.2 (Mexico) (????)" tvg-logo="" group-title="PAISES",SET Canal 16.2 (Mexico) (????)
 http://189.240.210.28:1935/live/setpuebla/.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Señal España (Mexico) (????)" tvg-logo="" group-title="PAISES",Señal España (Mexico) (????)
 https://is.gd/N3gw2a
-#EXTINF:-1 tvg-id="ext" tvg-name="Showtime At The Apollo (USA) (????)" tvg-logo="" group-title="PAISES",Showtime At The Apollo (USA) (????)
-https://is.gd/gnWyib
 #EXTINF:-1 tvg-id="ext" tvg-name="Sicardi (Argentina) (????)" tvg-logo="" group-title="PAISES",Sicardi (Argentina) (????)
 https://is.gd/ebto2E
-#EXTINF:-1 tvg-id="ext" tvg-name="Ski (USA) (????)" tvg-logo="" group-title="PAISES",Ski (USA) (????)
-https://is.gd/GLmc7Z
 #EXTINF:-1 tvg-id="ext" tvg-name="Slopes (USA) (????)" tvg-logo="" group-title="PAISES",Slopes (USA) (????)
 https://is.gd/iUezBV
 #EXTINF:-1 tvg-id="ext" tvg-name="SM Su Mundo (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",SM Su Mundo (Rep. Dominicana) (????)
@@ -1411,48 +821,22 @@ https://is.gd/j1a2e6
 https://is.gd/uZu0gn
 #EXTINF:-1 tvg-id="ext" tvg-name="Sochi Live (Rusia) (????)" tvg-logo="" group-title="PAISES",Sochi Live (Rusia) (????)
 https://is.gd/LNgStF
-#EXTINF:-1 tvg-id="ext" tvg-name="Sol Canal 10 (España) (????)" tvg-logo="" group-title="PAISES",Sol Canal 10 (España) (????)
-https://tinyurl.com/2xtwfpen
-#EXTINF:-1 tvg-id="ext" tvg-name="Solidaria (España) (????)" tvg-logo="" group-title="PAISES",Solidaria (España) (????)
-https://is.gd/QEAZJ2
 #EXTINF:-1 tvg-id="ext" tvg-name="Solo Bailalo (Chile) (????)" tvg-logo="" group-title="PAISES",Solo Bailalo (Chile) (????)
 https://is.gd/Qlpe2I
-#EXTINF:-1 tvg-id="ext" tvg-name="Sonus FM (Alemania) (????)" tvg-logo="" group-title="PAISES",Sonus FM (Alemania) (????)
-https://is.gd/FnGGts
-#EXTINF:-1 tvg-id="ext" tvg-name="Sony Comedias (España) (????)" tvg-logo="" group-title="PAISES",Sony Comedias (España) (????)
-https://is.gd/RMYfFN
 #EXTINF:-1 tvg-id="ext" tvg-name="Space Stream (Ucrania) (????)" tvg-logo="" group-title="PAISES",Space Stream (Ucrania) (????)
 http://iptv.prosto.tv:7000/ch314/video.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Spektra (España) (????)" tvg-logo="" group-title="PAISES",Spektra (España) (????)
-https://is.gd/weZW9N
-#EXTINF:-1 tvg-id="ext" tvg-name="Spike Aventura (España) (????)" tvg-logo="" group-title="PAISES",Spike Aventura (España) (????)
-https://is.gd/hzX1iQ
-#EXTINF:-1 tvg-id="ext" tvg-name="Spike Outdoors (USA) (????)" tvg-logo="" group-title="PAISES",Spike Outdoors (USA) (????)
-https://is.gd/NUaF05
-#EXTINF:-1 tvg-id="ext" tvg-name="Sport (Italia) (????)" tvg-logo="" group-title="PAISES",Sport (Italia) (????)
-https://is.gd/6f1ShU
 #EXTINF:-1 tvg-id="ext" tvg-name="Sport Digital (Suiza) (????)" tvg-logo="" group-title="PAISES",Sport Digital (Suiza) (????)
 https://is.gd/jM8uUZ
-#EXTINF:-1 tvg-id="ext" tvg-name="Sports (Francia) (????)" tvg-logo="" group-title="PAISES",Sports (Francia) (????)
-https://is.gd/r88pdo
-#EXTINF:-1 tvg-id="ext" tvg-name="Sports (USA) (????)" tvg-logo="" group-title="PAISES",Sports (USA) (????)
-https://is.gd/DuFsa9
 #EXTINF:-1 tvg-id="ext" tvg-name="Stormcast Novelas (España) (????)" tvg-logo="" group-title="PAISES",Stormcast Novelas (España) (????)
 https://is.gd/bOdvKR
 #EXTINF:-1 tvg-id="ext" tvg-name="Strana FM (Rusia) (????)" tvg-logo="" group-title="PAISES",Strana FM (Rusia) (????)
 https://is.gd/54Hst6
-#EXTINF:-1 tvg-id="ext" tvg-name="Strongman (Alemania) (????)" tvg-logo="" group-title="PAISES",Strongman (Alemania) (????)
-https://is.gd/PebRiv
 #EXTINF:-1 tvg-id="ext" tvg-name="STV Santiago (Chile) (????)" tvg-logo="" group-title="PAISES",STV Santiago (Chile) (????)
 https://is.gd/TOp0GN
 #EXTINF:-1 tvg-id="ext" tvg-name="STV Sarapiqui (Costa Rica) (????)" tvg-logo="" group-title="PAISES",STV Sarapiqui (Costa Rica) (????)
 https://is.gd/CEhvNW
 #EXTINF:-1 tvg-id="ext" tvg-name="STZ Telebista (España) (????)" tvg-logo="" group-title="PAISES",STZ Telebista (España) (????)
 https://is.gd/jQiO87
-#EXTINF:-1 tvg-id="ext" tvg-name="Super! (Italia) (????)" tvg-logo="" group-title="PAISES",Super! (Italia) (????)
-https://is.gd/mVWicO
-#EXTINF:-1 tvg-id="ext" tvg-name="Sur (Costa Rica) (????)" tvg-logo="" group-title="PAISES",Sur (Costa Rica) (????)
-https://is.gd/YPL1hd
 #EXTINF:-1 tvg-id="ext" tvg-name="Sur Canal 9 (Costa Rica) (????)" tvg-logo="" group-title="PAISES",Sur Canal 9 (Costa Rica) (????)
 https://is.gd/C7AHBS
 #EXTINF:-1 tvg-id="ext" tvg-name="Suram (Colombia) (????)" tvg-logo="" group-title="PAISES",Suram (Colombia) (????)
@@ -1469,36 +853,18 @@ https://is.gd/CdwaFZ
 https://is.gd/lsg8iR
 #EXTINF:-1 tvg-id="ext" tvg-name="Tarapoto (Peru) (????)" tvg-logo="" group-title="PAISES",Tarapoto (Peru) (????)
 https://is.gd/bPkob8
-#EXTINF:-1 tvg-id="ext" tvg-name="Tastemade (Brasil) (????)" tvg-logo="" group-title="PAISES",Tastemade (Brasil) (????)
-https://is.gd/o6yQQ6
-#EXTINF:-1 tvg-id="ext" tvg-name="Tastemade Travel (USA) (????)" tvg-logo="" group-title="PAISES",Tastemade Travel (USA) (????)
-https://is.gd/41XNwo
-#EXTINF:-1 tvg-id="ext" tvg-name="TBD (USA) (????)" tvg-logo="" group-title="PAISES",TBD (USA) (????)
-https://is.gd/kf0Q5z
-#EXTINF:-1 tvg-id="ext" tvg-name="Teen (Venezuela) (????)" tvg-logo="" group-title="PAISES",Teen (Venezuela) (????)
-https://is.gd/NsTpIQ
-#EXTINF:-1 tvg-id="ext" tvg-name="Tele Max (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Tele Max (Rep. Dominicana) (????)
-https://is.gd/rWeh1E
 #EXTINF:-1 tvg-id="ext" tvg-name="Tele Nord (Argentina) (????)" tvg-logo="" group-title="PAISES",Tele Nord (Argentina) (????)
 https://is.gd/9voBK7
 #EXTINF:-1 tvg-id="ext" tvg-name="Tele Ritmo (Mexico) (????)" tvg-logo="" group-title="PAISES",Tele Ritmo (Mexico) (????)
 https://is.gd/sNOC7u
 #EXTINF:-1 tvg-id="ext" tvg-name="Tele Uno (Costa Rica) (????)" tvg-logo="" group-title="PAISES",Tele Uno (Costa Rica) (????)
 https://is.gd/pBpALJ
-#EXTINF:-1 tvg-id="ext" tvg-name="Tele Venezia (Italia) (????)" tvg-logo="" group-title="PAISES",Tele Venezia (Italia) (????)
-https://is.gd/w9zgGL
 #EXTINF:-1 tvg-id="ext" tvg-name="Telecolor (Peru) (????)" tvg-logo="" group-title="PAISES",Telecolor (Peru) (????)
 https://is.gd/ig2230
 #EXTINF:-1 tvg-id="ext" tvg-name="Telemantova (Italia) (????)" tvg-logo="" group-title="PAISES",Telemantova (Italia) (????)
 https://is.gd/Td3bDZ
 #EXTINF:-1 tvg-id="ext" tvg-name="Telemundo (Puerto Rico) (????)" tvg-logo="" group-title="PAISES",Telemundo (Puerto Rico) (????)
 https://is.gd/9uJiTH
-#EXTINF:-1 tvg-id="ext" tvg-name="Telemundo Telenovelas (USA) (????)" tvg-logo="" group-title="PAISES",Telemundo Telenovelas (USA) (????)
-https://is.gd/kQzsX5
-#EXTINF:-1 tvg-id="ext" tvg-name="Telenovelas (España) (????)" tvg-logo="" group-title="PAISES",Telenovelas (España) (????)
-https://is.gd/7nSl2i
-#EXTINF:-1 tvg-id="ext" tvg-name="Teleonuba (España) (????)" tvg-logo="" group-title="PAISES",Teleonuba (España) (????)
-https://is.gd/fJRuDE
 #EXTINF:-1 tvg-id="ext" tvg-name="Telepacifico (Colombia) (????)" tvg-logo="" group-title="PAISES",Telepacifico (Colombia) (????)
 https://is.gd/4vzOao
 #EXTINF:-1 tvg-id="ext" tvg-name="Teleuniverso (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Teleuniverso (Rep. Dominicana) (????)
@@ -1507,10 +873,6 @@ https://is.gd/DGzqlk
 https://is.gd/CrplRs
 #EXTINF:-1 tvg-id="ext" tvg-name="Tenerife 2030 (España) (????)" tvg-logo="" group-title="PAISES",Tenerife 2030 (España) (????)
 http://livestream.iter.es:9876/tdt/tdt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Terror (USA) (????)" tvg-logo="" group-title="PAISES",Terror (USA) (????)
-https://is.gd/161u4D
-#EXTINF:-1 tvg-id="ext" tvg-name="Tevecat (España) (????)" tvg-logo="" group-title="PAISES",Tevecat (España) (????)
-https://is.gd/9PNUvm
 #EXTINF:-1 tvg-id="ext" tvg-name="TF Tele Familia (Colombia) (????)" tvg-logo="" group-title="PAISES",TF Tele Familia (Colombia) (????)
 https://is.gd/TfCCUn
 #EXTINF:-1 tvg-id="ext" tvg-name="The Boat Show (UK) (????)" tvg-logo="" group-title="PAISES",The Boat Show (UK) (????)
@@ -1521,16 +883,8 @@ https://is.gd/gDeT0P
 https://is.gd/d1EDAO
 #EXTINF:-1 tvg-id="ext" tvg-name="The Rockstar Channel (Argentina) (????)" tvg-logo="" group-title="PAISES",The Rockstar Channel (Argentina) (????)
 https://is.gd/bvyczE
-#EXTINF:-1 tvg-id="ext" tvg-name="The Walking Dead (Mexico) (????)" tvg-logo="" group-title="PAISES",The Walking Dead (Mexico) (????)
-https://is.gd/mOUOLt
-#EXTINF:-1 tvg-id="ext" tvg-name="The Wicked Tuna (Paises Bajos) (????)" tvg-logo="" group-title="PAISES",The Wicked Tuna (Paises Bajos) (????)
-https://tinyurl.com/2l77xghe
 #EXTINF:-1 tvg-id="ext" tvg-name="Thema (Chile) (????)" tvg-logo="" group-title="PAISES",Thema (Chile) (????)
 https://is.gd/E0Bbwg
-#EXTINF:-1 tvg-id="ext" tvg-name="Thrillers (España) (????)" tvg-logo="" group-title="PAISES",Thrillers (España) (????)
-https://is.gd/odJnUv
-#EXTINF:-1 tvg-id="ext" tvg-name="Tierra De Amor Y Venganza (USA) (????)" tvg-logo="" group-title="PAISES",Tierra De Amor Y Venganza (USA) (????)
-https://is.gd/5nnGxn
 #EXTINF:-1 tvg-id="ext" tvg-name="Tiguerito (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Tiguerito (Rep. Dominicana) (????)
 https://is.gd/CU5vfs
 #EXTINF:-1 tvg-id="ext" tvg-name="TMA Caraibes (Francia) (????)" tvg-logo="" group-title="PAISES",TMA Caraibes (Francia) (????)
@@ -1539,48 +893,24 @@ http://hls.tmacaraibes.com/live/index.m3u8
 https://is.gd/gtTP27
 #EXTINF:-1 tvg-id="ext" tvg-name="TNO Radio (Venezuela) (????)" tvg-logo="" group-title="PAISES",TNO Radio (Venezuela) (????)
 https://is.gd/gA79ay
-#EXTINF:-1 tvg-id="ext" tvg-name="Toons Clasico (España) (????)" tvg-logo="" group-title="PAISES",Toons Clasico (España) (????)
-https://is.gd/Y01en3
-#EXTINF:-1 tvg-id="ext" tvg-name="Top Gear (España) (????)" tvg-logo="" group-title="PAISES",Top Gear (España) (????)
-https://is.gd/dM7L5w
 #EXTINF:-1 tvg-id="ext" tvg-name="Top Speed (Noruega) (????)" tvg-logo="" group-title="PAISES",Top Speed (Noruega) (????)
 https://is.gd/XBYc1B
 #EXTINF:-1 tvg-id="ext" tvg-name="Topestrada (Macedonia) (????)" tvg-logo="" group-title="PAISES",Topestrada (Macedonia) (????)
 https://is.gd/Tl7SpO
-#EXTINF:-1 tvg-id="ext" tvg-name="Totovision (Guatemala) (????)" tvg-logo="" group-title="PAISES",Totovision (Guatemala) (????)
-https://is.gd/50WD4K
-#EXTINF:-1 tvg-id="ext" tvg-name="Trace Latina (España) (????)" tvg-logo="" group-title="PAISES",Trace Latina (España) (????)
-https://tinyurl.com/2mps3vkh
-#EXTINF:-1 tvg-id="ext" tvg-name="Trace Urban (España) (????)" tvg-logo="" group-title="PAISES",Trace Urban (España) (????)
-https://tinyurl.com/2g6sw3p4
-#EXTINF:-1 tvg-id="ext" tvg-name="Trailers (España) (????)" tvg-logo="" group-title="PAISES",Trailers (España) (????)
-https://is.gd/HHTDme
 #EXTINF:-1 tvg-id="ext" tvg-name="Transmision (Ucrania) (????)" tvg-logo="" group-title="PAISES",Transmision (Ucrania) (????)
 http://iptv.prosto.tv:7000/ch311/video.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRC (Mexico) (????)" tvg-logo="" group-title="PAISES",TRC (Mexico) (????)
-https://is.gd/hKapaW
 #EXTINF:-1 tvg-id="ext" tvg-name="Trece+ (Colombia) (????)" tvg-logo="" group-title="PAISES",Trece+ (Colombia) (????)
 https://is.gd/sqDi9d
-#EXTINF:-1 tvg-id="ext" tvg-name="Tropical (Peru) (????)" tvg-logo="" group-title="PAISES",Tropical (Peru) (????)
-https://is.gd/10sQqs
-#EXTINF:-1 tvg-id="ext" tvg-name="Tropical Music (Colombia) (????)" tvg-logo="" group-title="PAISES",Tropical Music (Colombia) (????)
-https://tinyurl.com/2yjo69a5
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT Muzik (Turquia) (????)" tvg-logo="" group-title="PAISES",TRT Muzik (Turquia) (????)
 https://is.gd/tFISPH
-#EXTINF:-1 tvg-id="ext" tvg-name="TRV (Venezuela) (????)" tvg-logo="" group-title="PAISES",TRV (Venezuela) (????)
-https://vcp3.myplaytv.com/trv/trv/.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TS 2000 Tuscia Sabina (Italia) (????)" tvg-logo="" group-title="PAISES",TS 2000 Tuscia Sabina (Italia) (????)
 https://is.gd/DwN8UW
-#EXTINF:-1 tvg-id="ext" tvg-name="Turbo (Brasil) (????)" tvg-logo="" group-title="PAISES",Turbo (Brasil) (????)
-https://is.gd/wKFGGo
 #EXTINF:-1 tvg-id="ext" tvg-name="Tuya La Janda (España) (????)" tvg-logo="" group-title="PAISES",Tuya La Janda (España) (????)
 http://185.210.20.13:8080/0.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV+ (Chile) (????)" tvg-logo="" group-title="PAISES",TV+ (Chile) (????)
 https://is.gd/rpvfkP
 #EXTINF:-1 tvg-id="ext" tvg-name="TV7 Colmar (Francia) (????)" tvg-logo="" group-title="PAISES",TV7 Colmar (Francia) (????)
 https://is.gd/yiPyMh
-#EXTINF:-1 tvg-id="ext" tvg-name="TVA Aire (Paraguay) (????)" tvg-logo="" group-title="PAISES",TVA Aire (Paraguay) (????)
-https://is.gd/S4ygpO
 #EXTINF:-1 tvg-id="ext" tvg-name="TVi Ficção (Portugal) (????)" tvg-logo="" group-title="PAISES",TVi Ficção (Portugal) (????)
 https://is.gd/8zi8AD
 #EXTINF:-1 tvg-id="ext" tvg-name="TVI Reality (Portugal) (????)" tvg-logo="" group-title="PAISES",TVI Reality (Portugal) (????)
@@ -1601,18 +931,12 @@ https://is.gd/U5tfx7
 https://is.gd/d64NSH
 #EXTINF:-1 tvg-id="ext" tvg-name="TVR (Chile) (????)" tvg-logo="" group-title="PAISES",TVR (Chile) (????)
 https://is.gd/QffKJB
-#EXTINF:-1 tvg-id="ext" tvg-name="TVRI Sport (Indonesia) (????)" tvg-logo="" group-title="PAISES",TVRI Sport (Indonesia) (????)
-https://is.gd/nNVplx
-#EXTINF:-1 tvg-id="ext" tvg-name="TVS Retro (Guatemala) (????)" tvg-logo="" group-title="PAISES",TVS Retro (Guatemala) (????)
-https://is.gd/1vUHce
 #EXTINF:-1 tvg-id="ext" tvg-name="TVU (Chile) (????)" tvg-logo="" group-title="PAISES",TVU (Chile) (????)
 https://is.gd/zQke1J
 #EXTINF:-1 tvg-id="ext" tvg-name="U Chile (Chile) (????)" tvg-logo="" group-title="PAISES",U Chile (Chile) (????)
 https://is.gd/mLU6N6
 #EXTINF:-1 tvg-id="ext" tvg-name="UA Universidad Autonoma (Chile) (????)" tvg-logo="" group-title="PAISES",UA Universidad Autonoma (Chile) (????)
 https://is.gd/Ld9OQQ
-#EXTINF:-1 tvg-id="ext" tvg-name="UCT (Chile) (????)" tvg-logo="" group-title="PAISES",UCT (Chile) (????)
-https://is.gd/kZoAqn
 #EXTINF:-1 tvg-id="ext" tvg-name="UCV (Chile) (????)" tvg-logo="" group-title="PAISES",UCV (Chile) (????)
 https://is.gd/sGNX5s
 #EXTINF:-1 tvg-id="ext" tvg-name="UES (Chile) (????)" tvg-logo="" group-title="PAISES",UES (Chile) (????)
@@ -1629,72 +953,26 @@ https://is.gd/jnYkoY
 https://is.gd/ljwXEG
 #EXTINF:-1 tvg-id="ext" tvg-name="Uni Teve (Argentina) (????)" tvg-logo="" group-title="PAISES",Uni Teve (Argentina) (????)
 https://is.gd/iRcqRc
-#EXTINF:-1 tvg-id="ext" tvg-name="UR Uni Radio (Paraguay) (????)" tvg-logo="" group-title="PAISES",UR Uni Radio (Paraguay) (????)
-https://is.gd/Nbyq88
 #EXTINF:-1 tvg-id="ext" tvg-name="Uranio (Peru) (????)" tvg-logo="" group-title="PAISES",Uranio (Peru) (????)
 https://is.gd/wUo2sQ
 #EXTINF:-1 tvg-id="ext" tvg-name="UTB Urola Telebista (España) (????)" tvg-logo="" group-title="PAISES",UTB Urola Telebista (España) (????)
 https://is.gd/jIQmFo
-#EXTINF:-1 tvg-id="ext" tvg-name="Uvagut (Canada) (????)" tvg-logo="" group-title="PAISES",Uvagut (Canada) (????)
-https://is.gd/mpuyNI
-#EXTINF:-1 tvg-id="ext" tvg-name="V2 Beat (Italia) (????)" tvg-logo="" group-title="PAISES",V2 Beat (Italia) (????)
-https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="VA+ (Mexico) (????)" tvg-logo="" group-title="PAISES",VA+ (Mexico) (????)
 https://is.gd/Z0Hgik
 #EXTINF:-1 tvg-id="ext" tvg-name="Vale (Venezuela) (????)" tvg-logo="" group-title="PAISES",Vale (Venezuela) (????)
 https://is.gd/sWkikH
 #EXTINF:-1 tvg-id="ext" tvg-name="Vallevision (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Vallevision (Rep. Dominicana) (????)
 https://is.gd/pVOGi7
-#EXTINF:-1 tvg-id="ext" tvg-name="Vaya Semanita (España) (????)" tvg-logo="" group-title="PAISES",Vaya Semanita (España) (????)
-https://is.gd/IsqqFo
 #EXTINF:-1 tvg-id="ext" tvg-name="VB Media (Mexico) (????)" tvg-logo="" group-title="PAISES",VB Media (Mexico) (????)
 https://is.gd/w15QSR
 #EXTINF:-1 tvg-id="ext" tvg-name="VC Medios (Chile) (????)" tvg-logo="" group-title="PAISES",VC Medios (Chile) (????)
 https://is.gd/Ymfb0E
 #EXTINF:-1 tvg-id="ext" tvg-name="Vclassic (Chile) (????)" tvg-logo="" group-title="PAISES",Vclassic (Chile) (????)
 https://is.gd/IzdhJq
-#EXTINF:-1 tvg-id="ext" tvg-name="Vclassic Tropical (Chile) (????)" tvg-logo="" group-title="PAISES",Vclassic Tropical (Chile) (????)
-https://is.gd/0ulWoX
-#EXTINF:-1 tvg-id="ext" tvg-name="Vega Baja (España) (????)" tvg-logo="" group-title="PAISES",Vega Baja (España) (????)
-https://is.gd/hLfmga
-#EXTINF:-1 tvg-id="ext" tvg-name="Velocidad? (Venezuela) (????)" tvg-logo="" group-title="PAISES",Velocidad? (Venezuela) (????)
-https://is.gd/MzPeur
 #EXTINF:-1 tvg-id="ext" tvg-name="Venus (España) (+18) (????)" tvg-logo="" group-title="PAISES",Venus (España) (+18) (????)
 http://181.78.4.186:8000/play/a0f2/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Venus Media (Paraguay) (????)" tvg-logo="" group-title="PAISES",Venus Media (Paraguay) (????)
-https://is.gd/2neaXJ
-#EXTINF:-1 tvg-id="ext" tvg-name="Vevo 2K (USA) (????)" tvg-logo="" group-title="PAISES",Vevo 2K (USA) (????)
-https://is.gd/L4axUi
-#EXTINF:-1 tvg-id="ext" tvg-name="Vevo 70*s (USA) (????)" tvg-logo="" group-title="PAISES",Vevo 70*s (USA) (????)
-https://is.gd/8LoHl3
-#EXTINF:-1 tvg-id="ext" tvg-name="Vevo 80*s (USA) (????)" tvg-logo="" group-title="PAISES",Vevo 80*s (USA) (????)
-https://is.gd/yQJ7mO
-#EXTINF:-1 tvg-id="ext" tvg-name="Vevo 90*s (USA) (????)" tvg-logo="" group-title="PAISES",Vevo 90*s (USA) (????)
-https://is.gd/qONOfE
-#EXTINF:-1 tvg-id="ext" tvg-name="Vevo Country (USA) (????)" tvg-logo="" group-title="PAISES",Vevo Country (USA) (????)
-https://is.gd/azwIZi
-#EXTINF:-1 tvg-id="ext" tvg-name="Vevo Pop (USA) (????)" tvg-logo="" group-title="PAISES",Vevo Pop (USA) (????)
-https://is.gd/eFg8JB
-#EXTINF:-1 tvg-id="ext" tvg-name="Vevo R&B (USA) (????)" tvg-logo="" group-title="PAISES",Vevo R&B (USA) (????)
-https://is.gd/FLLYMV
-#EXTINF:-1 tvg-id="ext" tvg-name="Vevo Reggeaton & Trap (USA) (????)" tvg-logo="" group-title="PAISES",Vevo Reggeaton & Trap (USA) (????)
-https://is.gd/fwJiMo
-#EXTINF:-1 tvg-id="ext" tvg-name="Vevo Retro Rock (USA) (????)" tvg-logo="" group-title="PAISES",Vevo Retro Rock (USA) (????)
-https://is.gd/5HrbGd
-#EXTINF:-1 tvg-id="ext" tvg-name="Vevo True School Hip Hop (USA) (????)" tvg-logo="" group-title="PAISES",Vevo True School Hip Hop (USA) (????)
-https://is.gd/r1No33
-#EXTINF:-1 tvg-id="ext" tvg-name="VH1 Classics (USA) (????)" tvg-logo="" group-title="PAISES",VH1 Classics (USA) (????)
-https://is.gd/7CaWXu
-#EXTINF:-1 tvg-id="ext" tvg-name="VH1+ Music Legends (Italia) (????)" tvg-logo="" group-title="PAISES",VH1+ Music Legends (Italia) (????)
-https://is.gd/bgAH9K
 #EXTINF:-1 tvg-id="ext" tvg-name="Viajando Pelo Brasil (Brasil) (????)" tvg-logo="" group-title="PAISES",Viajando Pelo Brasil (Brasil) (????)
 https://is.gd/iOfhC8
-#EXTINF:-1 tvg-id="ext" tvg-name="Viajes (España) (????)" tvg-logo="" group-title="PAISES",Viajes (España) (????)
-https://is.gd/615qif
-#EXTINF:-1 tvg-id="ext" tvg-name="Viajes (Venezuela) (????)" tvg-logo="" group-title="PAISES",Viajes (Venezuela) (????)
-https://is.gd/IM5N2W
-#EXTINF:-1 tvg-id="ext" tvg-name="Vida Real (Venezuela) (????)" tvg-logo="" group-title="PAISES",Vida Real (Venezuela) (????)
-https://is.gd/y2UMAc
 #EXTINF:-1 tvg-id="ext" tvg-name="Vision (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Vision (Rep. Dominicana) (????)
 https://is.gd/ryE6rn
 #EXTINF:-1 tvg-id="ext" tvg-name="Vision Sur (Peru) (????)" tvg-logo="" group-title="PAISES",Vision Sur (Peru) (????)
@@ -1703,14 +981,6 @@ https://is.gd/tHyi2W
 https://stream.visit-x.tv/vxtv/live/.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Visual Radio (Italia) (????)" tvg-logo="" group-title="PAISES",Visual Radio (Italia) (????)
 https://is.gd/l8qIme
-#EXTINF:-1 tvg-id="ext" tvg-name="Viva (Peru) (????)" tvg-logo="" group-title="PAISES",Viva (Peru) (????)
-https://is.gd/WlLQ48
-#EXTINF:-1 tvg-id="ext" tvg-name="Vivamovil (España) (????)" tvg-logo="" group-title="PAISES",Vivamovil (España) (????)
-https://is.gd/ZSxLgE
-#EXTINF:-1 tvg-id="ext" tvg-name="ViX JaJaJa (Mexico) (????)" tvg-logo="" group-title="PAISES",ViX JaJaJa (Mexico) (????)
-https://is.gd/Fs2dzS
-#EXTINF:-1 tvg-id="ext" tvg-name="ViX Parejas (Mexico) (????)" tvg-logo="" group-title="PAISES",ViX Parejas (Mexico) (????)
-https://is.gd/Wa2UeC
 #EXTINF:-1 tvg-id="ext" tvg-name="Voice Over Radio (Costa Rica) (????)" tvg-logo="" group-title="PAISES",Voice Over Radio (Costa Rica) (????)
 https://is.gd/6iBrBn
 #EXTINF:-1 tvg-id="ext" tvg-name="VP (Chile) (????)" tvg-logo="" group-title="PAISES",VP (Chile) (????)
@@ -1719,20 +989,12 @@ https://is.gd/scpOAL
 https://is.gd/Hlpx7q
 #EXTINF:-1 tvg-id="ext" tvg-name="W (Nicaragua) (????)" tvg-logo="" group-title="PAISES",W (Nicaragua) (????)
 https://is.gd/FNZg8D
-#EXTINF:-1 tvg-id="ext" tvg-name="Wapp (Chile) (????)" tvg-logo="" group-title="PAISES",Wapp (Chile) (????)
-https://tinyurl.com/2nlzk8wo
 #EXTINF:-1 tvg-id="ext" tvg-name="We Love Cars (USA) (????)" tvg-logo="" group-title="PAISES",We Love Cars (USA) (????)
 https://30a-tv.com/feeds/vidaa/cars.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Weather Spy (USA) (????)" tvg-logo="" group-title="PAISES",Weather Spy (USA) (????)
-https://is.gd/jiOzga
-#EXTINF:-1 tvg-id="ext" tvg-name="Wild Earth (USA) (????)" tvg-logo="" group-title="PAISES",Wild Earth (USA) (????)
-https://is.gd/Y4y0jq
 #EXTINF:-1 tvg-id="ext" tvg-name="Wild Life (USA) (????)" tvg-logo="" group-title="PAISES",Wild Life (USA) (????)
 https://is.gd/KztVGZ
 #EXTINF:-1 tvg-id="ext" tvg-name="Wild Planet (UK) (????)" tvg-logo="" group-title="PAISES",Wild Planet (UK) (????)
 https://is.gd/uaQ4sd
-#EXTINF:-1 tvg-id="ext" tvg-name="Wipeout (Venezuela) (????)" tvg-logo="" group-title="PAISES",Wipeout (Venezuela) (????)
-https://is.gd/J1RxBI
 #EXTINF:-1 tvg-id="ext" tvg-name="Wired 2 Fish (USA) (????)" tvg-logo="" group-title="PAISES",Wired 2 Fish (USA) (????)
 https://is.gd/bgI1uA
 #EXTINF:-1 tvg-id="ext" tvg-name="WOW (El Salvador) (????)" tvg-logo="" group-title="PAISES",WOW (El Salvador) (????)
@@ -1741,12 +1003,8 @@ https://is.gd/KMBlWD
 http://iptv.prosto.tv:7000/ch117/video.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="X-Stream (Ucrania) (????)" tvg-logo="" group-title="PAISES",X-Stream (Ucrania) (????)
 http://iptv.prosto.tv:7000/ch313/video.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Xalastra (Grecia) (????)" tvg-logo="" group-title="PAISES",Xalastra (Grecia) (????)
-https://is.gd/v7GKV6
 #EXTINF:-1 tvg-id="ext" tvg-name="XFC (USA) (????)" tvg-logo="" group-title="PAISES",XFC (USA) (????)
 https://is.gd/WBlo9R
-#EXTINF:-1 tvg-id="ext" tvg-name="XHKG (Mexico) (????)" tvg-logo="" group-title="PAISES",XHKG (Mexico) (????)
-https://is.gd/DnzpIP
 #EXTINF:-1 tvg-id="ext" tvg-name="XITE (Alemania) (????)" tvg-logo="" group-title="PAISES",XITE (Alemania) (????)
 https://is.gd/qKGg1g
 #EXTINF:-1 tvg-id="ext" tvg-name="XITE (Paises Bajos) (????)" tvg-logo="" group-title="PAISES",XITE (Paises Bajos) (????)
@@ -1759,14 +1017,8 @@ https://is.gd/2DzLz0
 https://is.gd/snMcMj
 #EXTINF:-1 tvg-id="ext" tvg-name="XITE Just Chill (USA) (????)" tvg-logo="" group-title="PAISES",XITE Just Chill (USA) (????)
 https://is.gd/3pvnnN
-#EXTINF:-1 tvg-id="ext" tvg-name="XITE Rock On (Alemania) (????)" tvg-logo="" group-title="PAISES",XITE Rock On (Alemania) (????)
-https://tinyurl.com/2nfr4pe6
 #EXTINF:-1 tvg-id="ext" tvg-name="XITE Rock On (USA) (????)" tvg-logo="" group-title="PAISES",XITE Rock On (USA) (????)
 https://is.gd/iKmRDD
-#EXTINF:-1 tvg-id="ext" tvg-name="Xplore (Paises Bajos) (????)" tvg-logo="" group-title="PAISES",Xplore (Paises Bajos) (????)
-https://tinyurl.com/2psrk6mz
-#EXTINF:-1 tvg-id="ext" tvg-name="Xplore (USA) (????)" tvg-logo="" group-title="PAISES",Xplore (USA) (????)
-https://is.gd/SgQ7fv
 #EXTINF:-1 tvg-id="ext" tvg-name="XR Health (Brasil) (????)" tvg-logo="" group-title="PAISES",XR Health (Brasil) (????)
 https://is.gd/TojTJ3
 #EXTINF:-1 tvg-id="ext" tvg-name="Yunavision (Rep. Dominicana) (????)" tvg-logo="" group-title="PAISES",Yunavision (Rep. Dominicana) (????)
